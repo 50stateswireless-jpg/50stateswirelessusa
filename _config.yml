@@ -1,0 +1,9 @@
+title: 50StatesWirelessUSA | Shop Smartphones,Tablets,Smart watches online
+url: "https://drutech6.github.io"
+baseurl: "50stateswirelessusa"
+
+defaults:
+  - scope:
+      path: "_layouts/default.html"
+    values:
+      layout: "default"

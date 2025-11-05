@@ -1,0 +1,808 @@
+#- id: 5       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+#  name: "PRODUCT NAME HERE"
+#  category: "CATAGORY HERE"
+#  price: 45.00
+#  description: "DESCRIPTION HERE"
+#  image: "URL OR PATH TO PRODUCT IMAGE HERE"
+
+#- id: 13    # This entry is just a template for varients below (color picker)
+  #- name: "RockPhone 15 Pro Max"
+  #- category: "Phone"
+  #- description: "Flagship smartphone with triple-lens camera system and A18 Bionic chip."
+  #- variants:
+  #-   - id: 301
+  #-     color: "Blue"
+  #-     price: 999.00
+  #-     inStock: true/false
+  #-    image: "images/bluephone.jpeg"
+  #-   - id: 302
+  #-     color: "Black"
+  #-     price: 999.00
+  #-     inStock: true/false
+  #-     image: "images/blackphone.webp"
+  #-   - id: 303
+  #-     color: "Silver"
+  #-    price: 1049.00  # maybe premium color costs more
+  #-     inStock: true/false
+  #-     image: "images/silverphone.webp"
+
+- id: 1
+  name: "Verizon Home Internet 300 Mbps"
+  category: "Internet Service"
+  price: 34.95
+  description: "Up to 300 Mbps speeds Download and upload speeds of up to 300 Mbps Availability varies. Wired speeds advertised. Wireless speeds may vary due to device limits, multiple users, network & other factors. See Verizon.com/yourspeed for more info. Router included at no additional cost State-of-the art router featuring the latest Wi-Fi generation, Wi-Fi 6E, that provides more spectrum for increased speeds, better coverage, lower latency, built-in security, parental controls and more. Verizon owns the router included with your plan. If you choose to disconnect service, you must return equipment within 30 days, or you'll incur charges. 3-year price lock guarantee** So you don’t need to worry about unexpected price hikes. **For new and existing myHome customers. Applies only to the then-current base monthly rate exclusive of any other setup and additional equipment charges, discounts or promotions, plan perk and any other third-party services. ."
+  image: "images/71M1Kxq7HHL.jpg"
+
+- id: 2
+  name: "Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB Cellular, New, Sealed"
+  category: "Tablet"
+  price: 249.95
+  description: "Dark Blue , Silver ,Gray .New Sealed 4GB of Ram Cellular Unlocked 8.7 inches Android 13 with One UI 5.1 Rear camera is 8MP Front Camera is 2MP 5100 mAh Battery."
+  image: "images/Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB Cellular, New, Sealed.jpg"
+
+- id: 3
+  name: "Samsung Galaxy S25 Plus, 256GB 5G . Unlocked, Dual Sim , New , Sealed"
+  category: "Phone"
+  price: 949.95
+  description: "specifications: Colors Mint , Navy , Silver Shadow 
+
+    Display: 6.7-inch Dynamic LTPO AMOLED 2X, with 3120x1440 resolution, 120Hz refresh rate, and 2600 nits peak brightness.
+    Processor: Qualcomm Snapdragon 8 Elite for Galaxy.
+    RAM: 12GB.
+    Storage: 256GB or 512GB, non-expandable via card slot.
+    Cameras:
+        Rear: 50MP wide-angle lens, 10MP telephoto lens with 3x optical zoom, and 12MP ultra-wide-angle lens. It is capable of 8K video recording at 30fps.
+        Front: 12MP wide-angle lens, capable of 4K video at 60fps.
+    Battery: 4,995mAh, with 45W wired charging and 15W wireless charging.
+    Software: Android 15 with One UI 7, and is promised 7 years of software and security updates.
+    Durability: IP68 dust/water resistant with an aluminum frame. ."
+  image: "images/Samsung-Galaxy-S25-128GB-5G-Unlocked-by-Samsung-Dual-Sim-New-Sealed.jpg"
+
+- id: 4
+  name: "XNET WIFI Data Plans 25GB"
+  category: "WiFi"
+  price: 65.95
+  description: "ata Plans Get reliable high-speed data wherever you need it — at home, on the road, or off the grid. 4G Data Plans 25 GB Great for travel or backup internet As Low As: $65 $52/mo for prepayment of 12 months Pricing shown is based on advance annual payment. “As low as” price reflects a 20% discount for prepayment of 12 months. Standard monthly price is $65 when billed month-to-month. 25 GB of high-speed LTE data Cancel anytime - no contracts Pay monthly, or save with upfront payments Save 5% when you pay for 3 months in advance Save 10% when you pay for 6 months in advance Save 20% when you pay for 12 months in advance "
+  image: "images/Xnet-Wifi.jpeg"
+
+- id: 5
+  name: "XNET WIFI Xplorer Hotspot 50 GB X Data Plan"
+  category: "WiFi"
+  price: 75.95
+  description: "Xplorer Hotspot The Xplorer Hotspot is your pocket-sized powerhouse for fast, reliable internet anywhere. With LTE Cat 6 speeds, dual-band Wi-Fi, and support for up to 16 devices, it’s perfect for travel, work, or staying connected off the grid. Want to receive your device pre-activated? Click here to purchase a Device + Data Plan bundle $199.00 Original price was: $199.00.$149.00 Current price is: $149.00. 50 GB X Data Plan Data Plan * Clear 50 GB of High-Speed Data $75.00 / month Activation Activation Fee To activate your vSIM and facilitate this service, a one-time Activation Fee is required. This fee is necessary to cover the costs involved in initiating the activation process with the carriers, generating usage reports, and maintaining the necessary infrastructure for continued connectivity. $30.00 $229.00 $179.00 one time, and $75.00 / month."
+  image: "images/Xnet-Wifi-.jpeg"
+
+- id: 6
+  name: "Verizon Home Internet 1GIG"
+  category: "Internet Service"
+  price: 99.95
+  description: "$99.99/Mo* 1Gig includes: Verizon Fios 1 Gig Fixed Broadband Consumer Disclosure Monthly Price $99.99 This Monthly Price is not an introductory rate. This Monthly Price does not require a monthly contract. Additional Charges & Terms Provider Monthly Fees NY Municipal Construction Surcharge $2.49 One-time Fees at the Time of Purchase Professional Installation $95 Deposit based on credit check $0 to $250 Late Fee $9 or 1.5% of past due balance (whichever is greater), as permitted by law Early Termination Fee None Government Taxes Included Discounts & Bundles Click here for available discounts and pricing options for broadband service bundled with other services like video, phone and wireless service, and use of your own equipment like modem and routers. Auto Pay and Paper-free Billing: $10 Speeds provided with Plan Typical Download Speed 938.62 Mbps Typical Upload Speed 865.01 Mbps Typical Latency 4.19 ms Data Included with Monthly Price Unlimited Charges for Additional Data Usage None Network Management Read our Policy Privacy Read our Policy Customer Support www.verizon.com/support/contact-us 800-837-4966 Learn more about the terms used on this label by visiting the Federal Communications Commission's Consumer Resource Center. fcc.gov/consumer F0030488753CR3583000000001 . . ."
+  image: "images/71M1Kxq7HHL.jpg"
+
+- id: 7
+  name: "Tecno Spark Go 1S , 64GB , Dual Sim , 6.67-inch , Unlocked , New , Sealed"
+  category: "Phone"
+  price: 219.95
+  description: "Colors Black ,White  Processor: MediaTek Helio G50 octa-core chipset RAM and storage: 3GB RAM and 64GB of internal storage. The storage is expandable via a microSDXC card. Display: A 6.67-inch IPS LCD with a 90Hz refresh rate and a resolution of 720 x 1600 pixels. Cameras: 13MP main rear camera with phase detection autofocus (PDAF) and a dual LED flash. The front-facing camera is 8MP and also has a flash. Battery: A 5,000mAh battery that supports 15W fast charging via a USB Type-C port. Operating system: Android 14 (Go edition) with Tecno's HiOS 14. Other features: Dual SIM support, IPX4 water resistance, rear-mounted fingerprint sensor, and facial recognition for security"
+  image: "images/tecno_spark_go_1s_black__76702.jpg"
+
+- id: 8
+  name: "XNET WIFI Xplorer Hotspot 100GB X Data Plan"
+  category: "WiFi"
+  price: 85.95
+  description: "Xplorer Hotspot The Xplorer Hotspot is your pocket-sized powerhouse for fast, reliable internet anywhere. With LTE Cat 6 speeds, dual-band Wi-Fi, and support for up to 16 devices, it’s perfect for travel, work, or staying connected off the grid. 💵 Flexible payment options available at checkout with PayPal Buy Now, Pay Later Want to receive your device pre-activated? Click here to purchase a Device + Data Plan bundle $199.95 Original price was: $199.00.$149.00Current price is: $149.00. 100 GB Pay-As-You-Go Plan 💸 One-time payment. No auto-renewal. Data * Duration * Clear Get 100 GB of high-speed data for 1 Month. One-time payment, no auto-renewal. PayPal & Buy Now, Pay Later available. $85.00 $284.00 $234.00 ."
+  image: "images/Xnet-Wifi--.jpeg"
+
+- id: 9
+  name: "Friggs Mobile Plan"
+  category: "Plan"
+  price: 30.95
+  description: "High speed data: A new generation of wireless carrier $30.00/mo 3 GB of 5G/4G high speed data Unlimited nationwide talk & text Bitcoin rewards every month Plan Details > 3 GB InternetDrop 3GB of 5G/4G high speed data Data speed reduces after 3GB 3GB Mobile HotSpot included Calling & TextingDrop Unlimited nationwide talk & text WiFi calling included eSIMDrop Bring your own device, unlocked and compatible ConditionsDrop No contract duration CashbackDrop Get 5% Bitcoin cashback on your monthly service fee. Get 10% cashback by adding plans for family or friends. Rewards are deposited into your fliggs wallet, you can choose to receive them in Bitcoin, Digital USD or another currencies. Wallet access made simple and secure. Broadband factsDrop The smarter choice. Stop overpaying, start saving. Choose an affordable mobile plan with low, guaranteed prices. Change or cancel your plan anytime, every month. You are in full control. Enjoy the fastest 5G network. Enjoy premium wireless on the fastest and largest 5G network in the US. All plans include 5G Ultra at no extra cost, which means you will get even faster 5G speeds. Get monthly Bitcoin cashback. Get back 5% to 10% of your service fee every month. The cashback is deposited in your fliggs wallet in Bitcoin or digital USD. Mobile plans that pay you back Earn a share of your service fee in Bitcoin, every month. Bitcoin Bitcoin Surf the fastest 5G network 0 0 0 Easy to use. 1 Install the fliggs mobile app from Google Play Store or Apple App Store. 2 Bring your own phone, compatible and unlocked. 3 Pick your plan, transfer your number or request a new one. Stay connected anytime, everywhere. bgImage Play Enjoy serious data privacy. 1 We do not exploit your information. We do not sell your data. 2 We apply the most robust data standards, across the entire nation. 3 We guard your personal data, and our commitment to privacy remains absolute. You'll love fliggs Our partnerships 5g network r17 aws icon logo Want to stay up to date? Sign up for the fliggs newsletter. Email Address Get the fliggs app. appStoreIcon appStoreIcon Features 5G Coverage Bring your own phone Bitcoin rewards Wallet Roaming packages Data boosters eSIM WiFi calling Mobile Hotspot Support FAQ Web3 Glossary About fliggs News Why fliggs Contact us TWITTER icon LINKEDIN icon INSTAGRAM icon FACEBOOK icon © 2025 fliggsmobile.com Privacy Policy Terms & Conditions Wallet Terms & Conditions Accessibility Acceptable Use Policy 911 and E911 disclosure Do not sell or share my Information .."
+  image: "images/galaxy-a36-black-11321.jpg"
+
+- id: 10
+  name: "Consumer Cellular Plan"
+  category: "Plan"
+  price: 45.95
+  description: "Unlimited Talk/Txt/20GB Data 1 Line Included Unlimited Data Unlimited Talk & Text $45/Month $45 due monthly . ."
+  image: "images/tecno_spark_30c_black__28400.jpg"
+
+- id: 11
+  name: "AT&T Unlimited Plan Apple iPhone 17 Pro Max - 1TB"
+  category: "Plan"
+  price: 133.93
+  description: "Due monthly* $133.93 Due today $142.00 *Plus taxes and fees.See disclosures Your services will auto-renew monthly at then-current rates (less any discounts or promotions) unless you cancel by visiting att.com/cancel-info. Price details Due monthly $133.93 Apple iPhone 17 Pro Max - 1TB $44.45 Price for 36 mos. at 0% APR ONLINE ONLY: You will get an additional $200 in monthly bill credits ($5.56/mo. for 36 months) with new voice on elig. unlimited plan (speed restr's apply). Credits start within 3 bills. AT&T Unlimited Premium® PL plan See discounts $85.95 AT&T Administrative/Regulatory Cost Recovery Fee $3.49 Government taxes and additional AT&T fees extra. See details Due only on first bill $0.00 Activation fee $0.00 Due today $142.00 Next-day shipping fee FREE Apple iPhone 17 Pro Max - Deep Blue - 1TB Estimated device sales tax $142.00 Savings & promotions AutoPay and paperless billing discount . Billed monthly."
+  image: "images/iphone_17_pro_max_orange___13601.jpg"
+
+- id: 12
+  name: "TECNO Spark 30C , 256GB , 4G , 6.67 inches , Unlocked ,New , Sealed "
+  category: "Phone"
+  price: 249.95
+  description: " Colors Black  Key features
+
+Display: A 6.67-inch IPS LCD with a 720p HD+ resolution and a smooth 120Hz refresh rate. Some variants may have a 6.6-inch screen with a 90Hz refresh rate and a 720p resolution.
+    Performance: Powered by a MediaTek Helio G81 chipset (or G70 for some variants) and comes with up to 8GB of RAM, depending on the model. Virtual RAM expansion is also a feature.
+    Camera: It has a dual-camera system on the back with a 50MP main sensor and an auxiliary lens. The front camera is 8MP and can shoot video at 1080p@30fps.
+    Battery and charging: The device is powered by a large 5,000mAh non-removable battery and supports 18W wired charging. A full charge may take around 2 hours.
+    Storage: The Spark 30C is available with different storage options, including 128GB and 256GB of internal storage, which is expandable via a microSDXC card.
+    Audio: Includes a 3.5mm headphone jack and stereo speakers.
+    Operating system: It runs on Android 14 with Tecno's HiOS skin. Some variants are specified with Android 12 and HiOS 8.6.
+    Other features: The phone has a side-mounted fingerprint sensor, an IR blaster for controlling appliances, and an IP54 rating for dust and splash resistance"
+  image: "images/tecno_spark_30c_white__64972.jpg"
+
+- id: 13
+  name: "Samsung Galaxy A03S ,32GB , 4G LTE , 6.5in , unlocked ,New , Sealed "
+  category: "Phone"
+  price: 209.95
+  description: " Colors Black According to Samsung's official website and other sources, the Samsung Galaxy A03s
+has the following specifications: 
+
+    Display: 6.5-inch HD+ PLS LCD (1600 x 720 resolution) with a standard 60Hz refresh rate.
+    Processor: MediaTek Helio P35 Octa-Core clocked at 2.3 GHz.
+    Memory and storage: 3GB or 4GB of RAM and 32GB or 64GB of internal storage, expandable up to 1TB via a microSD card.
+    Battery: 5,000mAh with 15W wired charging support.
+    Rear cameras: Triple camera system with a 13MP main lens, a 2MP macro lens, and a 2MP depth sensor.
+    Front camera: 5MP front-facing camera.
+    Connectivity: 4G LTE, Wi-Fi 802.11 b/g/n, and Bluetooth 5.0. It also includes a 3.5mm headphone jack.
+    Operating system: Launched with Android 11 and was upgradable to Android 13, but is no longer receiving major OS updates.
+    Security: Side-mounted fingerprint sensor and facial recognition..."
+  image: "images/51m45B3Yy+L.jpg"
+
+- id: 14       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "ZTE Nubia Focus 6.5inch , 5G LTE 4GB+256GB ,Dual Sim , New , Sealed"
+  category: "Phone"
+  price: 289.95
+  description: "Colors Black   According to ZTE and GSMArena, the Nubia Focus 5G, released in early 2024, has the following specifications: 
+
+    Dimensions: 163.6 x 74.9 x 8.6 mm.
+    Weight: 205.5 g.
+    Display: 6.6-inch IPS LCD with a 120Hz refresh rate and 1612 x 720 HD+ resolution.
+    Processor: Unisoc T760 (6nm).
+    RAM: Up to 16GB dynamic RAM (6GB + 10GB extended).
+    Storage: 256GB UFS 3.1.
+    Rear Camera: Dual 108MP (wide) + 2MP (depth).
+    Front Camera: 5MP (software-enhanced to 8MP).
+    Battery: 5,000mAh with 22.5W fast charging.
+    Operating System: Android 13 or 14, depending on the region.
+    Connectivity: 5G, Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0, NFC.
+    Ports: USB Type-C, 3.5mm audio jack.
+    Other features: Side fingerprint sensor, Live Island interactive notification display.  . ."
+  image:  "images/nabia_focus__55629.jpg"
+
+- id: 15       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "ZTE Nubia Focus Pro, 6.7inch , 5G LTE ,256GB , Unlocked , New , Sealed"
+  category: "Phone"
+  price: 339.95
+  description: " Colors Black,Cream  Here is a detailed breakdown of the specifications for the nubia Focus Pro 5G, according to ZTE's official website and sources like GSMArena. 
+
+    Dimensions: 166 x 76.1 x 8.5 mm.
+    Weight: 206 g.
+    Display: 6.72-inch IPS LCD with a 120Hz refresh rate and 1080 x 2400 FHD+ resolution.
+    Processor: Unisoc T760 (6nm).
+    Memory and storage: 8GB of LPDDR4X RAM with up to 12GB of additional dynamic RAM, and 256GB of UFS 3.1 storage.
+    Rear cameras:
+        Main: 108MP with f/1.7 aperture, Phase Detection Autofocus (PDAF), and Optical Image Stabilization (OIS).
+        Ultrawide: 5MP.
+        Depth: 2MP.
+    Front camera: 32MP.
+    Battery: 5,000mAh non-removable.
+    Charging: 33W wired fast charging.
+    Operating system: Launched with Android 13 and MyOS 13.
+    Connectivity: 5G, Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.2, and NFC.
+    Ports: USB Type-C, but no 3.5mm headphone jack.
+    Additional features:
+        Camera controls: A physical sliding shortcut key for quick access to camera functions and a capacitive capture button.
+        Live Island: Interactive notification area for important alerts.
+        Biometrics: Side-mounted fingerprint sensor"
+  image: "images/612Q5004-IL.jpg"  
+
+- id: 16       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "JBL Tune Flex Active Noise Cancelling Wireless Earbuds"
+  category: "Headsets & Earbud"
+  price: 149.95
+  description: " White or Blue. JBL Pure Bass Sound: Smartly designed 12mm drivers enhanced by the stick form factor deliver JBL's Pure Bass Sound so you'll feel every pulsing beat.
+Active Noise Cancelling with Smart Ambient: Hear more of what you want, less of what you don't. Active Noise Cancelling technology with 2 microphones lets you minimize audio distractions. With Ambient Aware, you can tune into your surroundings at any time so that you feel safer when you're out in the world, while TalkThru lets you stop for a quick chat without having to remove your headphones. "
+  image: "images/0-1.jpeg"
+
+- id: 17
+  name: "Apple iPad A16 !1th Generation 128GB, WiFi Only"
+  category: "Tablet"
+  description: "11-INCH LIQUID RETINA DISPLAY—The gorgeous Liquid Retina display is an amazing way to watch movies or draw your next masterpiece.¹ True Tone adjusts the display to the color temperature of the room to make viewing comfortable in any light.
+    PERFORMANCE AND STORAGE—The superfast A16 chip delivers a boost in performance for your favorite activities. And with all-day battery life, iPad is perfect for playing immersive games and editing photos and videos.² Storage starts at 128GB and goes up to 512GB.³
+    IPADOS + APPS—iPadOS makes iPad more productive, intuitive, and versatile. With iPadOS, run multiple apps at once, use Apple Pencil to write in any text field with Scribble, and edit and share photos."
+  variants:
+    - id: 301
+      color: "Blue"
+      price: 477.95
+    # minStock: true/false
+      image: "images/Apple-iPad-A16-11th-Gen-Blue.jpg"
+    - id: 302
+      color: "Silver"
+      price: 469.95
+    # minStock: true/false
+      image: "images/Apple-iPad-A16-11th-Gen-Silver.jpg"
+    - id: 303
+      color: "Pink"
+      price: 473.95  # maybe premium color costs more
+    # minStock: true/false
+      image: "images/Apple-iPad-A16-11th-Gen-Pink.jpeg"
+
+- id: 18       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Soundcore P30i, By Anker Earbuds , New ,Sealed"
+  category: "Headsets & Earbud"
+  price: 99.95
+  description: " White or Powder Blue. JBL Pure Bass Sound: Smartly designed 12mm drivers enhanced by the stick form factor deliver JBL's Pure Bass Sound so you'll feel every pulsing beat.
+Active Noise Cancelling with Smart Ambient: Hear more of what you want, less of what you don't. Active Noise Cancelling technology with 2 microphones lets you minimize audio distractions. With Ambient Aware, you can tune into your surroundings at any time so that you feel safer when you're out in the world, while TalkThru lets you stop for a quick chat without having to remove your headphones. "
+  image: "images/0-2.jpeg"
+
+- id: 19       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Apple Watch Ultra 3, 49mm, New , Sealed"
+  category: "Smart Watche"
+  price: 899.95
+  description: "Black. The Apple Watch Ultra 3 
+builds on its predecessor with a few notable improvements, including enhanced connectivity and a better display. Key features include: 
+
+    Satellite communications: A major new feature for the Ultra 3
+    is built-in satellite connectivity. This allows you to send an Emergency SOS, send messages, and share your location via the Find My app even when you are off the grid without cellular or WiFi.
+    Upgraded display: The Always-On Retina display is now wide-angle LTPO3 OLED technology, which is more power-efficient and offers better viewing angles. It features a slightly larger screen area due to smaller bezels, a higher refresh rate for the always-on mode, and reaches a peak brightness of 3,000 nits.
+    Longer battery life: The Ultra 3
+    offers up to 42 hours of battery life with normal use, an improvement over the Ultra 2's 36 hours. In Low Power Mode, it can last for up to 72 hours. It also supports faster charging.
+    5G connectivity: It supports 5G cellular for improved network performance in areas with coverage.
+    Advanced health features: New health features arriving with watchOS 26 include hypertension notifications an"
+  image: "images/Apple-Watch-Ultra-3-49mm.jpg"
+
+- id: 20      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Maxwest Vice 4G Flip Phone , Unlocked , New , Sealed"
+  category: "Phone"
+  price: 119.95
+  description: " Black, Blue, silver
+
+    Design: Flip-style phone with a durable plastic body.
+    Displays:
+        Main Display: 2.8-inch TFT screen.
+        External Display: 1.8-inch screen for viewing notifications, incoming calls, and messages without opening the phone.
+    Camera: 2MP rear camera with flash.
+    Memory: 64MB RAM and 128MB internal memory, expandable via a microSD card.
+    Connectivity:
+        Network: 4G LTE and VoLTE technology for clear calls.
+        Wireless: Bluetooth.
+        Ports: USB-C for charging.
+    Special features:
+        SOS button: A dedicated button for emergencies.
+        Dual SIM: Supports two nano-SIM cards.
+        Other features: FM radio.
+    Compatibility: Works with GSM networks like T-Mobile and AT&T but is not compatible with the Verizon network."
+  image: "images/maxwest_vice_black__53943.jpg"
+
+- id: 21       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: " Maxwest Ranger , 4G ,32GB , Unlocked , New , Sealed"
+  category: "Phone"
+  price: 119.95
+  description: " Black. This feature phone is built for durability and includes a number of basic communication  features. 
+
+    Design and display: It features a 2.4-inch color display and a physical keypad.
+    Durability: The phone is rugged, with a build that is resistant to water, dust, and shocks. It is designed for outdoor use or demanding job site conditions.
+    Connectivity: This is a 4G LTE-enabled unlocked phone compatible with GSM carriers like T-Mobile and AT&T.
+    Storage: The phone has only 128MB of internal storage, but can hold a microSD card of up to 32GB to store files.
+    Special features: A standout feature is its 4000mAh battery that can be used as a power bank to charge other devices. It also includes a flashlight"
+  image: "images/maxwest_ranger_black__72703.jpg"
+
+- id: 22       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Maxwest NEO M1 Candy Bar Phone ,Unlocked ,New , Sealed"
+  category: "Phone"
+  price: 109.95
+  description: "Blue, Black and Gray Candy bar smartphone
+ 3x flash
+ 1.77” screen
+ Dual sim
+ Camera
+ Fm radio
+ GSM quad band
+ Unlocked
+ Overseas
+ Here works with H2O and Ultra"
+  image: "images/maxwest-NEO-M1-Mobile-aPhone-User-Manual_1-185x300.jpg"
+
+- id: 23       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Maxwest Uno Clam X1, 1.8'inch ,Unlocked , New, Sealed"
+  category: "Phone"
+  price: 109.95
+  description: "Colors Black, Blue , Red , Gold.   Form Factor: The classic clamshell (flip) design protects the    screen and keypad.
+  Screen: 1.8-inch display.
+  Carrier: Sold as an unlocked device, compatible with most GSM carriers.
+  Network: Supports quad-band GSM (850/900/1800/1900), and some versions may support WCDMA for 3G networks.
+  SIM: Available with either a single or dual SIM card slot.
+  Storage: Includes a microSD card slot for expandable storage (often up to 8GB).
+  Multimedia: Features a basic VGA camera, Bluetooth connectivity, and GPRS/WAP support"
+  image: "images/71mNOZ4dT5L-_AC_SL1500___30335.jpg"
+
+- id: 24      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Orbic Myra , 5G , 64GB ,Unlocked , New , Sealed"
+  category: "Phone"
+  price: 199.95
+  description: "Black. 5G smartphone: Features a larger 6.78” screen and fast speeds.
+Triple rear camera: Includes a 48MP main camera, 8MP, and 2MP cameras.
+16MP front camera: Ideal for selfies and video calls.
+All-day battery: 5000mAh with Quick Charge 3.0 for extended use and fast charging.
+Durable design: Metallic finish and scratch-resistant 2D glass screen.
+
+Specifications:
+
+Display: 6.78” HD+ TFT LCD, 20:9 aspect ratio, scratch-resistant glass.
+Network: 4G and 5G support.
+Battery: 5000mAh, non-removable, Quick Charge 3.0.
+Connectivity: Wi-Fi (2.4GHz and 5GHz), Bluetooth 5.0.
+Camera:
+Main: 48MP + 8MP + 2MP with flash.
+Front: 16MP.
+Speed & Power: Qualcomm Snapdragon® 750G.
+Memory: 6GB RAM, 64GB internal storage, Micro SD support up to 512GB."
+  image: "images/orbic_myra_5g__43224.jpg"
+
+- id: 25      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Orbic Tabet 10R , 5G , 128GB , WIFI , New , Sealed"
+  category: "Tablet"
+  price: 219.95
+  description: "Black. The Orbic TAB10R 5G UW is a 10-inch ruggedized tablet designed for both everyday use and demanding environments
+
+    . It features 5G Ultra Wideband connectivity, primarily through Verizon. 
+    Here are some of its key features:
+        Durability: The TAB10R 5G UW is built to MIL-810 and IP65 standards, making it resistant to drops, bumps, water, and other environmental factors.
+        Connectivity: It supports Verizon’s 5G Ultra Wideband (including C-band and mmWave), and also has 4G and 3G capabilities.
+        Performance: The tablet is powered by a Qualcomm® Snapdragon™ 480 5G Octa-core 2.4GHz processor, coupled with 6GB of RAM and 128GB of internal storage (expandable up to 1TB with a Micro SD card).
+        Battery: It includes a 6000 mAh battery with Quick Charge 3.0 technology for faster recharging.
+        Display: The 10-inch HD TFT display is scratch-resistant and supports stylus input.
+        Operating System: It runs on Android 12, with ongoing security and OS updates.
+        Cameras: The tablet has an 8MP front-facing camera and a 13MP rear camera with flash. 
+
+    User Experience
+    Reviews of the Orbic TAB10R 5G UW (and the related Orbic Speed 5G hotspot) suggest a mixed user experience:
+        Positive: Some users praise the fast 5G speeds, portability, and ease of setup. It’s seen as a reliable solution for those who need constant high-speed internet on the go.
+        Negative: Other users report issues with battery life, random shutdowns, and connectivity problems, particularly in areas with competing Wi-Fi 6 devices. There have also been complaints about faulty batteries and difficulty obtaining replacements"
+  image: "images/Tab10_new_2520x.jpg"
+
+- id: 26       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Logic Z1L Flip Phone , 4G , Dual Sim , Unlocked , New , Sealed"
+  category: "Phone"
+  price: 139.95
+  description: "Gray or White.  
+The Z1L Flip is a sporty looking LTE foldable phone that offers users 4G communication.
+
+VoLTE Suppor , BANDS
+
+4G: 2/4/5/8/12/13/17/28AB/66
+3G: 2/4/5
+2G: 850/900/1800/1900 MHz , SCREEN
+
+Size: 2.4” & 1.77” TFT
+240×320 & 128×160
+4:3 Aspect ratio , CONNECTIONS
+
+USB Type-C
+3.5mm Audio Jack
+SIM Card: Dual Nano SIM (4FF) , MEMORY
+
+ROM: 256MB
+RAM: 48MB>
+Micro SD: Up to: , CONNECTIVITY
+
+BT: 5.0 , BATTERY
+
+Capacity: 1,000mAh
+Li-ion , CAMERA
+
+VGA + Flash , MULTIMEDIA
+
+Music and Video Player
+FM Radio . EXTRAS
+
+Video Recorder
+Loudspeaker
+Browser , PROCESSOR
+
+Chipset: T107
+UNISOC"
+  image: "images/LOGIC-Z1L-Flip_8060_1.png"
+
+- id: 27       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Sky Elite Octax Tablet , 8.0 in ,WiFi Only, 32GB , New , Sealed"
+  category: "Tablet"
+  price: 179.95
+  description: "Black. Display: 8-inch HD IPS screen with a resolution of 1280 x 800.
+Processor: 2.0 GHz Octa-Core CPU. Some models may have a 1.6 GHz processor.
+Memory and storage: 32GB of internal storage, paired with either 1GB or 3GB of RAM, depending on the specific model.
+Operating system: Typically runs on Android 11.
+Connectivity: Supports Wi-Fi and 4G connectivity, making it suitable for both home and on-the-go use. Some variants may offer dual SIM support.
+Battery: 4000mAh battery.
+Cameras: 5MP rear camera and a 2MP front camera.
+Accessories: Often bundled with a protective silicone case and screen protector"
+  image: "images/sky_elite_oxtax_tab_wtihout_case__97220.jpg"
+
+- id: 28      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB , WiFi, New, Sealed"
+  category: "Tablet"
+  price: 249.95
+  description: "Silver. 4GB of Ram Unlocked 8.7 inches Android 13 with One UI 5.1 Rear camera is 8MP Front Camera is 2MP 5100 mAh Battery
+
+The Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB , WiFi, New, Sealed, like our other offerings comes with the consistant quality our customers have come to expect, another great product from NewRock Wireless."
+  image: "images/Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB Cellular, New, Sealed.jpg"
+
+- id: 29       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Motorola Moto Buds 085 , New , Sealed"
+  category: "Headsets & Earbud"
+  price: 109.95
+  description: "Black. Speaker Driver: 6mm Frequency Response Range: 20Hz - 20KHz Sensitivity: 91dB ± 3dB Impedance: 16 ohm Power: 16 W Playtime: 5 hours on earbuds, 10 hours on charging case Connectivity: Bluetooth BT Transmitted Frequency and Power: 2.402 - 2.480GHZ BT Transmitted Modulation: GFSK Operation Distance: >10m Charging: USB Type-C connector Net Weight: 35g, Gross Weight: 50g"
+  image: "images/moto_buds_085__69255.jpg"
+
+- id: 30       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "soundcore P25i , By Anker Earbuds , New , Sealed"
+  category: "Headsets & Earbud"
+  price: 89.95
+  description: "Black or White.Anker soundcore P25i Earbuds Key Specifications: Wireless Connectivity: Bluetooth True Wireless:Yes Headphone Fit: In-Ear Battery Life: 30 hours General Product Name: Anker P25i True Wireless In-Ear Headphones Brand: Soundcore Model Number: A3949Z11 Color: Black Sound Isolating: Yes Wireless Connectivity: Bluetooth True Wireless: Yes Bluetooth Version: 5.3 Design: Anker soundcore P25i Earbuds Key Specifications: Wireless Connectivity: Bluetooth True Wireless:Yes Headphone Fit: In-Ear Battery Life: 30 hours General Product Name: Anker P25i True Wireless In-Ear Headphones Brand: Soundcore Model Number: A3949Z11 Color: Black Sound Isolating: Yes Wireless Connectivity: Bluetooth True Wireless: Yes Bluetooth Version: 5.3 Design: Headphone Fit: In-Ear Rechargeable: Yes Battery Life: 30 hours Battery Life Provided by Charging Case: 20 hours Fast Charging: Yes Rechargeable: Yes Battery Life: 30 hours Battery Life Provided by Charging Case: 20 hours Fast Charging: Yes"
+  image: "images/Anker-Soundcore-P25i-Earbuds.jpg"
+
+- id: 31      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "JBL Tune 710BT Over Ear Bluetooth Headphones, New ,Sealed"
+  category: "Headsets & Earbud"
+  price: 149.95
+  description: "Black. JBL's official product page, here are the technical specifications for the Tune 710BT headphones: 
+
+    Driver size: 40mm Dynamic Driver
+    Weight: 220g
+    Frequency response: 20Hz – 20kHz
+    Impedance: 32 ohm
+    Battery: Up to 50 hours of music playtime; a 2-hour recharge fully charges the battery, and a 5-minute charge provides 3 extra hours of listening.
+    Connectivity: Bluetooth 5.0 and a detachable 3.5mm audio cable.
+    Multi-point connection: Yes.
+    Microphone: Integrated, for hands-free calls and voice assistants.
+    Noise cancellation: Passive only (no Active Noise Cancellation).
+    Controls: Buttons on the earcup to manage sound, calls, and voice assistants"
+  image: "images/1597d1ab-957a-4836-a45e-6cc8c55cbc64.60109ef08c2323b4865ecda774e0fbd3.webp"
+  
+- id: 32       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "JBL Tune 500 Wired On-Ear Headphones, New , Sealed"
+  category: "Headsets & Earbud"
+  price: 99.95
+  description: "Black or Blue
+General Specifications
+
+Driver size (mm)
+    32.0 
+Number of Microphones
+    1 
+
+Audio Specifications
+
+Driver sensitivity at 1kHz/1mW (dB)
+    1kHz - 24dBV/Pa 
+Dynamic frequency response range (Hz)
+    20 Hz - 20 kHz 
+Impedance (ohms)
+    32.0 
+Number of drivers per ear
+    1.0 
+
+Dimensions
+
+Headphone cable length (cm)
+    118.7 
+Headphone cable length (ft)
+    3.89 
+Weight (g)
+    148 
+Weight (oz)
+    5.44 
+
+Features
+
+Foldable
+    Yes 
+Voice Assistant integration
+    Yes 
+Built-in Microphone
+    Yes 
+Flat-fold design
+    Yes 
+Hands Free Call
+    Yes 
+JBL Pure Bass Sound
+    Yes 
+On-ear
+    Ye"
+  image: "images/1_82729c23-93f2-489f-b450-ce3a35399185.webp"
+
+- id: 33       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "JBL Tune 520BT Bluetooth Wireless On-Ear Headphones ,New ,Sealed"
+  category: "Headsets & Earbud"
+  price: 109.95
+  description: "Black , White , Blue , Purple.  NOTE: If headset is too tight we suggest placing them over a ball or something of similar size/shape. Leave undisturbed for at least 24 hours. Repeat if necessary. Please also try length adjustments of either earpiece until both sides best fit you.
+JBL Pure Bass Sound: The JBL Tune 520BT features the renowned JBL Pure Bass sound, the same technolgy that powers the most famous venues all around the world.
+Wireless Bluetooth 5.3 technology: Wirelessly stream high-quality sound from your smartphone without messy cords with the help of the latest Bluetooth technology.
+Customize your listening experience: Download the free JBL Headphones App to tailor the sound to your taste with the EQ. Voice prompts in your desired language guide you through the Tune 520BT features.  DESCRIPTION HERE"
+  image: "images/jbl_tune_520_headphones__00469.jpg"
+      
+- id: 34       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "JBL Tune 670NC Headphones , New , Sealed"
+  category: "Headsets & Earbud"
+  price: 159.95
+  description: "Purple. 
+    Adaptive Noise Cancelling with Smart Ambient
+    Adaptive Noise Cancelling means zero distractions when it's time to focus on your studies—or get your groove on. And if you want to hear the world around you without removing your headphones, Ambient Aware and TalkThru sharpen the sounds of your surroundings or voices. Easily activate these Ambient Sound Control modes through the JBL Headphones app.
+    Bluetooth 5.3 with LE Audio*
+    Wirelessly stream high-quality JBL Pure Bass Sound from your smartphone with the help of the latest Bluetooth technology. Optimize the Bluetooth performance with the Smart Audio & Video feature in the JBL Headphones app by selecting the Audio (for the best sound quality) or the Video (for an optimal gaming and video output) modes. *Available via OTA update at a later stage.
+    JBL Pure Bass Sound
+    JBL Tune 670NC headphones feature renowned JBL Pure Bass sound—the same that powers the most famous music venues all around the world.
+    Customize your listening experience"
+  image: "images/jbl_tune_670_nc_purple__42620.jpg"
+
+- id: 35       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Motorola XT220 over-ear Headphones , New , Sealed"
+  category: "Headsets & Earbud"
+  price: 109.95
+  description: "Black or White. Features and specifications
+According to Motorola Sound and product manuals: 
+
+    Audio drivers: 40mm drivers deliver dynamic bass.
+    Noise isolation: Features passive noise isolation.
+    Connectivity: Bluetooth and a detachable 3.5mm audio cable for wired use.
+    Playtime: Up to 24 hours of wireless playtime.
+    Charging: Recharges via a micro-USB cable in about 2 hours.
+    Microphone: Built-in for hands-free calls.
+    Design: Ergonomic, comfortable, and foldable for easy transport.
+    Colors: Available in Black, White, and Red.
+    Controls: 3-button control for managing music and calls."
+  image: "images/71WhD2O-7lL.jpg"
+
+- id: 36      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: Motorola XT500+ over-ear Headphones , New , Sealed"
+  category: "Headsets & Earbud"
+  price: 139.95
+  description: "Black. Key specifications
+According to the Motorola Sound website, the MOTO XT500+
+offers the following features: 
+
+    Audio drivers: Powerful 40mm drivers deliver dynamic sound with powerful bass.
+    Wireless playtime: A rechargeable battery provides up to 25 hours of listening time.
+    Connectivity: Bluetooth 5.0 with a maximum range of up to 10m.
+    Microphone: Integrated microphone for hands-free calls.
+    Design: Foldable and lightweight for easy storage and portability. It is also designed for comfort with soft over-ear cushions and an adjustable headband.
+    Noise isolation: The over-ear cushions provide passive noise isolation.
+    Charging time: Charges fully in approximately 2 hours.
+    Colors: Jet Black and Titanium White."
+  image: "images/motorola_xt500_headphone_1__69767.jpg"
+
+- id: 37       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Motorola XT120 Over Ear Headphone , New , Sealed"
+  category: "Headsets & Earbud"
+  price: 109.95
+  description: "White or Black.Key specifications
+Based on product listings from Motorola and retailers: 
+
+    Audio drivers: 40mm high-definition drivers deliver impressive sound quality with powerful bass.
+    Connectivity: Features a 3.5mm cord with a built-in microphone and in-line controls for calls and music playback.
+    Passive noise isolation: The cushioned, over-ear design helps block out ambient sounds.
+    Design: A foldable, lightweight build makes the headphones compact and easy to carry while traveling.
+    Colors: Available in Jet Black and Titanium White.
+    Compatibility: Works with any device that has a 3.5mm audio jack"
+  image: "images/moto_xt120_headphone__90668.jpg"
+
+- id: 38       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Beats Studio 3 Wireless Headphones, New, Sealed"
+  category: "Headsets & Earbud"
+  price: 239.95
+  description: "Black or Sage Gray. Connectivity:
+  Jack: 3.5 mm jack
+  Bluetooth: Yes
+  Noise Reduction:
+  Passive Noise-Isolating: Yes
+  Active Noise-Cancelling: Yes
+  Manufacturer’s Guarantee: 1 year
+  Box Contents:
+  Beats Studio 3 Wireless Bluetooth Noise-Cancelling Headphones
+  Carrying case
+  3.5 mm RemoteTalk cable
+  Universal USB charging cable (USB-A to USB Micro-B)
+  Quick start guide
+  Weight: 260 g
+  Overview:
+  Type: Over-ear
+  Color: Matte black
+  Design Features:
+  Acoustic System: Closed
+  Detachable cable: Yes
+  Single-sided cable: Yes
+  Foldable: Yes
+  Other Features:
+  LED fuel gauge
+  Controls
+  Microphone: Yes
+  Playback / Functions Control: Yes
+  Control Positioning: Earcup
+  Volume Control: Yes
+  Control Compatibility: All smartphones
+  Power:
+  Battery Life
+  With ANC on: Up to 22 hours
+  With ANC off: Up to 40 hours
+  Battery: Yes, internal rechargeable battery
+  Quick Charge: 3 hours of battery life from 10 minutes charging"
+  image: "images/beats_studio_3__32267.jpg"
+
+- id: 39       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Beats Solo 3 Wireless Headphone , New ,Sealed"
+  category: "Headsets & Earbud"
+  price: 209.95
+  description: "Black .Key features
+  Based on information from retailer websites and reviews, here are some of the Solo3's key features:
+
+  Connectivity: Class 1 Bluetooth provides a strong, reliable wireless connection. The Apple W1 chip   allows for quick, one-touch pairing with iOS devices and integration with Siri. As of 2025, Android users can also use a fast-pair feature. A 3.5mm RemoteTalk cable is also included for wired listening.
+    Battery life: A single charge provides up to 40 hours of playback time. The Fast Fuel feature provides 3 hours of playback from just a 5-minute charge.
+    Audio: The headphones offer award-winning Beats sound, with fine-tuned acoustics emphasizing strong bass. They do not feature active noise cancellation (ANC), but their on-ear cushions provide passive noise isolation.
+    Design: The adjustable, cushioned earcups are designed for all-day comfort, and the headphones foldable design makes them highly portable.
+    Controls: Integrated on-ear controls allow you to take calls, control music, and activate Siri."
+  image: "images/beats_solo_3_headphones__95779.jpg"
+
+- id: 40       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Adata Power Bank Charger ,20000 Mah , New , Sealed"
+  category: "Charger"
+  price: 119.95
+  description: "Features 
+Blue , Red , Green
+    Charging technology: Supports Qualcomm Quick Charge 3.0 and USB Power Delivery 3.0.
+    Ports: One USB-C port and two USB-A ports.
+    Simultaneous charging: Can charge three devices at the same time.
+    Power output: Delivers up to 18W output via USB-A and USB-C ports. The maximum total output when all three ports are in use is 15W.
+    Digital display: Shows the remaining battery percentage.
+    Safety features: Includes protection against over-charging, over-discharging, over-temperature, short-circuiting, over-voltage, and over-current.
+    Bidirectional charging: The USB-C port can be used to charge both the power bank and other USB-C devices.
+    Recharge input: The power bank can be recharged via the USB-C port or a micro-USB port."
+  image: "images/P20000QCD_Power_Bank_b__39361.jpg"
+
+- id: 41       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Zone One Power Bank , 5000MAH , New , Sealed"
+  category: "Charger"
+  price: 79.95
+  description: "colors black , blue                    
+Zone One 5000MAH Power Bank is limited, but a similar product called the Trend Zone Portable Charger Power Bank is available from sellers on eBay. Its basic features include dual-port output, an LED indicator for battery life, and a compact size for portability. For a more comprehensive option, the Anker Nano Power Bank offers 5,000mAh capacity along with enhanced features like a built-in USB-C connector for convenience"
+  image: "images/m_wp_6903d13c9f19e231f9911ba8.webp"
+
+- id: 42       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Chargeworx Power Bank charger Slim 10000 Mah , new , Sealed"
+  category: "Charger"
+  price: 109.95
+  description: "coloprs , black , blue                                                  
+Chargeworx Power Bank
+Slim
+10000 mAh
+Dual USB
+Charge 2 devices at once
+Up to 75 extra hours
+Battery life indicator"
+  image: "images/Chargeworx-Power-Bank-charger-Slim-10000-Mah.jpeg"
+
+- id: 43       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Power Bank Solar charger Roc16"
+  category: "Charger"
+  price: 119.95
+  description: "Tough Tested
+16000mAh
+Wireless Charger
+Waterproof
+3 charging ports
+High output multi-mode flashlight
+New , Sealed"
+  image: "images/power_bank_solar_roc16__42691.jpg"
+
+- id: 44       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Verizon Wireless charger combo pack , 6,000mAh , New ,Sealed"
+  category: "Charger"
+  price: 109.95
+  description: "black, Verizon Wireless Charger USB-C Combo Pack
+This modern bundle is compatible with newer smartphones, including Apple iPhone 15/16 and Samsung Galaxy models.
+What's included: 
+VERIZON Wireless charger combo pack 6,000mAh
+    Car charger: Features a fixed coiled 6-ft cable and a USB-C connector.
+    Qi wireless charger: Comes with a fast-charge wall adapter and a 5-ft charge/sync cable.
+    Portable power bank: Includes a 1.6-ft USB-A to USB-C charging cable.
+    USB-C cable: An 8-in charge/sync cable with a USB-C to USB-C connector.
+This modern bundle is compatible with newer smartphones, including Apple iPhone 15/16 and Samsung Galaxy models. 
+
+What's included: 
+
+    Car charger: Features a fixed coiled 6-ft cable and a USB-C connector.
+    Qi wireless charger: Comes with a fast-charge wall adapter and a 5-ft charge/sync cable.
+    Portable power bank: Includes a 1.6-ft USB-A to USB-C charging cable.
+    USB-C cable: An 8-in charge/sync cable with a USB-C to USB-C connector"
+  image: "images/verizon-ACCS-722828-Portable-Charger-PRODUCT.webp"
+
+- id: 45      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "iPhone 15 ,128GB , E-Sim ,Unlocked , New , Sealed"
+  category: "Phone"
+  price: 799.95
+  description: " Black, Blue, Green, Yellow, and Pink . Display: 6.1-inch Super Retina XDR (OLED) display with a 2556‑by‑1179-pixel resolution. It features the Dynamic Island, which dynamically expands to show important alerts.
+Camera system: It has an advanced dual-camera system with a 48-megapixel main camera and a 12-megapixel ultra-wide camera. The main camera supports 2x optical zoom and captures super-high-resolution photos.
+Processor: The phone is powered by the A16 Bionic chip with a 5-core GPU, which was previously used in the iPhone 14 Pro.
+Port: The iPhone 15 includes a USB-C port for charging and data transfer, replacing the proprietary Lightning port.
+Colors: The standard iPhone 15 is available in a variety of colors, including Black, Blue, Green, Yellow, and Pink."
+  image: "images/Apple-iPhone-15-lineup-hero-230912-scaled.jpg"
+
+- id: 46       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "iPhone 16 Plus ,128GB , E-Sim ,Unlocked , New , Sealed"
+  category: "Phone"
+  price: 899.95
+  description: "Black. Key specs of the iPhone 16 Plus
+
+    Display: 6.7-inch OLED Super Retina XDR with Dynamic Island.
+    Processor: A18 chip.
+    Camera System: Dual-camera system with a 48MP main camera and an improved Ultra Wide camera with autofocus.
+    Connectivity: 5G support, Wi-Fi 7, and USB-C port.
+    SIM Compatibility: Exclusively uses eSIM (no physical SIM card tray in US models).
+    Operating System: iOS 18.
+    Features: Includes the new Action button and is built for Apple Intelligence.
+    Storage: 128GB.
+    Colors: Available in black, ultramarine blue, pink, teal, and white."
+  image: "images/iPhone-16-Plus-Ultramarine-1.webp"
+
+- id: 47       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "iPhone 16 Pro , 256GB , E-Sim ,Unlocked , New , Sealed"
+  category: "Phone"
+  price: 1169.95
+  description: "Black Titanium ,Natural Titanium , Desert Titanium. Key features
+
+   Built for Apple Intelligence: The iPhone 16 Pro
+    runs on the A18 Pro chip, which is optimized to handle Apple's new suite of personal AI features in iOS 18.
+    Enhanced Camera System: The pro-level camera array includes an upgraded 48-megapixel Ultra Wide lens and a 5x Telephoto zoom lens, bringing more creative possibilities to both the smaller Pro model and the Pro Max. A new hardware Camera Control button on the side allows for quick access to camera settings and shooting options.
+    ProMotion Display: A 6.3-inch OLED Super Retina XDR display offers adaptive refresh rates up to 120Hz for smoother scrolling and a minimum brightness of 1 nit for an always-on feature.
+    Titanium Design: The phone has a Grade 5 titanium frame, making it lightweight and durable. It comes in four matte titanium finishes: Black, White, Natural, and the new Desert Titanium.
+    Superior Video Recording: The iPhone 16 Pro
+    can capture 4K video at 120 fps with Dolby Vision, offering high-resolution and high-frame-rate options for filmmakers and content creators."
+  image: "images/iphone_16_pro__40881.jpg"
+
+- id: 48      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "iPhone 16 Pro Max , 512GB , E-Sim ,Unlocked , New , Sealed"
+  category: "Phone"
+  price: 1449.95
+  description: "Desert Titanium ,White Titanium , Black Titanium. Key features
+
+    Built for Apple Intelligence: Runs on the A18 Pro chip, a powerful processor that enables Apple's personal AI features in iOS 18.
+    Largest-ever iPhone display: A 6.9-inch Super Retina XDR display with ProMotion and Always-On technology, featuring the thinnest borders of any Apple product.
+    Upgraded Pro Camera System: Includes a 48MP main camera, an upgraded 48MP Ultra Wide lens, and a 5x optical zoom Telephoto lens that was previously exclusive to the iPhone 15 Pro Max.
+    New Camera Control button: A physical button on the side allows for quick access to camera settings and functions.
+    Best-in-class battery life: Offers up to 33 hours of video playback and 105 hours of audio playback, thanks to a larger internal battery and a more efficient chip.
+    Durable Titanium Design: Made with a lightweight yet strong titanium frame and features the latest-generation Ceramic Shield front, which is twice as tough as standard smartphone glass.
+    Superior video recording: Can record 4K video at 120 fps with Dolby Vision, and includes new Spatial Audio capture for more immersive sound "   
+  image: "images/iphone_16_pro__40881.jpg"
+
+- id: 49       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Apple Watch Series 10 , 42mm , New , Sealed "
+  category: "Smart Watche"
+  price: 499.95
+  description: "Black. Key features
+
+    Larger, brighter display: The Series 10
+    has a bigger and more advanced wide-angle OLED display that provides more screen area and is up to 40% brighter when viewed from an angle compared to the Series 9.
+    Thinner design: The Series 10
+    is almost 10% thinner than the Series 9, and the aluminum and titanium cases are lighter. The antenna is also integrated into the housing for a more seamless look.
+    Faster charging: The redesigned charging system can charge the battery to 80% in about 30 minutes. An 8-minute charge can provide enough power for up to 8 hours of sleep tracking.
+    New health features: The S10 SiP, with its 4-core Neural Engine, enables a new sleep apnea notification feature that monitors breathing disturbances. It also has a Vitals app to track key overnight health metrics and alert you to changes.
+    New materials: In addition to aluminum, the Series 10
+    offers a polished titanium case option in new colors.
+    Enhanced aquatic features: New depth and water temperature sensors make the watch an even better tool for swimmers and snorkelers. There's also a new Tides app to track water conditions.
+    Improved audio: The Series 10
+    allows audio playback through its speakers and features voice isolation during calls to reduce background noise."
+  image: "images/series_10_watch_46mm__08956.jpg"
+
+- id: 50      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Apple Watch Series 9, 41mm , New , Sealed "
+  category: "Smart Watche"
+  price: 459.95
+  description: "Midnight , Silver. Key features and specs
+
+    Performance: Powered by the S9 SiP chip with a 64-bit dual-core processor and a 4-core Neural Engine, which enables faster performance and on-device Siri processing.
+    Display: Features an Always-On Retina LTPO OLED display with a peak brightness of 2000 nits, which is double that of the Series 8.
+    Unique gesture: The Double Tap gesture allows users to answer calls, stop timers, and perform other actions by tapping their thumb and index finger together.
+    Health and wellness: Includes an electrical heart sensor, third-generation optical heart sensor, Blood Oxygen app, ECG app, Cycle Tracking with retrospective ovulation estimates, and temperature sensing.
+    Safety features: Comes with Emergency SOS, International Emergency Calling, Crash Detection, and Fall Detection.
+    Connectivity: Supports GPS, cellular (optional), Wi-Fi, Bluetooth 5.3, and features a second-generation Ultra Wideband chip for Precision Finding of the iPhone 15 family.
+    Battery life: Offers up to 18 hours of typical use or 36 hours in Low Power Mode on a single charge."
+  image: "images/series_9_midnight__52347.jpg"

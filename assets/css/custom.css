@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+:root {
+    --nrw-blue: #1E40AF;
+    --nrw-red: #DC2626;
+    --nrw-accent: #3B82F6;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f7f9fb;
+}
+
+.nrw-bg-blue { background-color: var(--nrw-blue); }
+.nrw-text-red { color: var(--nrw-red); }
+.nrw-btn-blue {
+    background-color: var(--nrw-blue);
+    transition: all 0.2s;
+}
+.nrw-btn-blue:hover {
+    background-color: var(--nrw-accent);
+    box-shadow: 0 4px 15px rgba(30, 64, 175, 0.4);
+}
+
+body::-webkit-scrollbar { display: none; }
+body { -ms-overflow-style: none; scrollbar-width: none; }
