@@ -822,3 +822,24 @@ The triple-camera system on the rear includes:
     12MP ultrawide camera
     10MP telephoto lens with 3x optical zoom"
   image: "images/s25_plus_silver__97385.jpg"
+
+
+- id: 52       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Samsung Galaxy S25 Ultra, 256GB, 5G,Dual Sim,Unlocked, New, Sealed"
+  category: "Phone"
+  price: 1049.95
+  description: "Titanium Silverblue,Titanium Gray, Titanium Whitesilver.Display: It features a large 6.9-inch Dynamic AMOLED 2X display with a sharp 3120 x 1440 pixel resolution and a 120Hz refresh rate. An anti-reflective layer on the display improves visibility in bright sunlight.
+Build quality: The device has a titanium frame and Corning Gorilla Glass Victus 2 on the back for a premium feel and enhanced durability. It is also IP68 rated for water and dust resistance.
+Security: For security, the phone features an in-display ultrasonic fingerprint reader and facial recognition.
+Audio: It is equipped with stereo speakers and Dolby Atmos support for a high-quality audio experience.
+S Pen: The S Pen stylus is included and can be used for taking notes, sketching, and other tasks. 
+Camera
+The Galaxy S25 Ultra
+includes a powerful quad-camera system on the rear, which includes: 
+ 200MP main camera with optical image stabilization (OIS)
+    50MP ultrawide camera
+    50MP and 10MP telephoto lenses, offering different optical zoom capabilities
+    It supports 100x Space Zoom, which is an AI-powered digital zoom feature.
+    The front camera is a 12MP lens.
+    The camera system is praised for its versatility and includes features like Nightography for low-light photography and Expert RAW for advanced controls."
+  image: "URL OR PATH TO PRODUCT IMAGE HERE"
