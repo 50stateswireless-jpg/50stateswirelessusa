@@ -74,7 +74,7 @@ toggleDescription: () => {
     // Hide full → show truncated
     full.classList.add('hidden');
     truncated.classList.remove('hidden');
-    button.textContent = 'More';
+    button.textContent = 'More Details';
   }
 },
 getProductDisplayName(productId) {
@@ -316,7 +316,7 @@ container.innerHTML = `
             <br><br>The ${baseProduct.name}, like our other offerings comes with the consistent quality our customers have come to expect, another great product from NewRock Wireless.
           </p>
 
-          <!-- "More" Button -->
+          <!-- "More Details" Button -->
           <button 
             id="toggle-description" 
             onclick="app.toggleDescription()"
