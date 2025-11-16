@@ -77,7 +77,23 @@
         <div class="flex-shrink-0">
           <a href="/50stateswirelessusa/" class="text-3xl font-extrabold text-red-600 tracking-tight" style="line-height: 1;">
                    <div id="policy-content"></div>
-            50States<span class="text-white ml-0.5">WirelessUSA</span><button id="close-policy" class="text-blue-600 mb-4 font-medium">&larr; Back to</button>
+            50States<span class="text-white ml-0.5">WirelessUSA</span><button id="close-policy" class="text-blue-600 mb-4 font-medium">&larr; Back to</button><script>
+    // 1. Get reference to the close button
+    const closeButton = document.getElementById('close-policy');
+
+    // 2. Attach an event listener to the button
+    closeButton.addEventListener('click', function() {
+        
+        // This command instructs the browser to close the current window/tab.
+        window.close();
+
+        // Note: For security reasons, this function only works if the 
+        // window/tab was opened via JavaScript (using window.open()). 
+        // If the user opened the tab manually, this command will likely be ignored
+        // or prompt a confirmation box.
+
+    });
+</script>
           </a>
         </div>
 <!-- LibreOffice Content -->
