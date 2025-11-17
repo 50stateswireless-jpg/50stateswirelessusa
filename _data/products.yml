@@ -872,3 +872,149 @@ includes a powerful quad-camera system on the rear, which includes:
   description: "Galaxy Watch8 is thinner, lighter and brighter than ever. Reimagined with a new cushion shape and Dynamic Lug bands, the sleek case hugs your wrist for health readings.1 Longer battery life keeps new fitness tracking features locked in.2 Plus, enhanced performance powers a refreshed
 One UI 8 Watch experience."
   image: "images/galaxy_watch_8_black__63061.jpg"
+
+- id: 55
+  name: "Apple Watch Series 11"
+  category: "Smart Watches"
+  price: 75.95
+  description: "
+Size and Weight
+
+    Height: 46mm
+    Width: 39mm
+    Depth: 9.7mm
+    416 by 496 pixels
+    1220 sq mm display area
+    Weight (aluminum, GPS): 37.8 grams
+    Weight (aluminum, GPS + Cellular): 36.9 grams
+    Weight (titanium): 43.1 grams
+    Fits 140–245mm wrists
+
+    Height: 42mm
+    Width: 36mm
+    Depth: 9.7mm
+    374 by 446 pixels
+    989 sq mm display area
+    Weight (aluminum, GPS): 30.3 grams
+    Weight (aluminum, GPS + Cellular): 29.7 grams
+    Weight (titanium): 34.6 grams
+    Fits 130–200mm wrists
+
+Hardware and Buttons
+
+Display
+
+Digital Crown
+
+Microphone with Voice Isolation
+
+Side button
+
+Band release button
+
+Electrical heart sensor
+
+Speaker/air vent
+
+Blood oxygen sensor and optical heart sensor
+
+Band release button
+Controls
+
+    Digital Crown with haptic feedback
+    Side button
+    Double tap and wrist flick gestures
+    Siri with on‑device processing
+
+Chip
+S10 chip
+
+    S10 chip with 64‑bit dual-core processor
+    4‑core Neural Engine
+    64GB capacity
+
+Sensors
+
+    Electrical heart sensor
+    Third‑generation optical heart sensor
+    Blood oxygen sensor1
+    Temperature sensor2
+    Compass
+    Always‑on altimeter
+    High‑g accelerometer
+    High dynamic range gyroscope
+    Ambient light sensor
+    Depth gauge to 6 meters
+    Water temperature sensor
+
+Health and Wellness
+
+    Blood Oxygen app1
+    ECG app3
+    Cycle Tracking app with retrospective ovulation estimates4
+    Heart Rate app
+    High and low heart rate notifications
+    Irregular rhythm notifications5
+    Medications app
+    Mindfulness app with state of mind tracking
+    Noise app
+    Sleep app including sleep stages
+    Sleep score
+    Sleep apnea notifications6
+    Hypertension notifications7
+
+Display
+
+    Always‑On Retina display with wide‑angle OLEDs and LTPO3
+    Ion‑X front glass with 2x scratch resistance (aluminum cases)8
+    Sapphire front crystal (titanium cases)
+    Up to 2000 nits peak brightness
+    1 nit minimum brightness
+    326 pixels per inch
+
+Audio
+
+    Speaker
+    Microphone
+    Media playback
+
+Power and Battery Life
+
+    All‑day battery life, up to 24 hours of normal use9
+    Up to 38 hours in Low Power Mode9
+    Built‑in rechargeable lithium‑ion battery
+    Fast‑charge capable10
+    Up to 80% charge in about 30 minutes10
+    15 minutes for up to 8 hours of normal use11
+    5 minutes for up to 8 hours of sleep tracking11
+
+Learn more
+Operating System
+
+    watchOS
+    watchOS is the world’s most advanced wearable operating system, with apps and features designed to keep you active, healthy, safe, and connected."
+  image: "materials_and_finish_titanium__cvinf33wm7wy_large_2x.jpg"
+
+- id: 56       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Samsung Watch 6 Classic"
+  category: "Smart Watches"
+  price: 79.95
+  description: "
+
+Samsung Watch 6 Classic
+
+43MM & 47MM
+
+Wifi plus GPS
+
+New Sealed
+Bluetooth
+Sapphire Crystal Display
+Includes health features
+A dual-core 1.4GHz processor
+2GB Ram
+16GB Internal Storage
+Water and dust resistant
+UPC: 8806095054292
+Silver color"
+  image: "images/samsung_watch_6__98809.jpg"  
