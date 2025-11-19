@@ -888,14 +888,14 @@ Graphite, silver
   image: "images/shopping-1.webp"
 
 - id: 56       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
-  name: "Samsung Watch 6 Classic, New, Sealed"
+  name: "Samsung Galaxy Watch 6 classic, 43MM , WiFi+ GPS , New, sealed"
   category: "Smart Watches"
-  price: 329.95
+  price: 309.95
   description: "
 
 Samsung Watch 6 Classic
 
-43MM & 47MM
+43MM
 
 Wifi plus GPS
 
@@ -909,7 +909,7 @@ A dual-core 1.4GHz processor
 Water and dust resistant
 UPC: 8806095054292
 Silver color"
-  image: "images/samsung_watch_6__98809.jpg"  
+  image: "images/samsung_watch_6_43mm_siilver_78313.jpg"  
 
 - id: 57      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "Apple Watch Series 4, New ,Sealed"
