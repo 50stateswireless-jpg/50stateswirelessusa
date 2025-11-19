@@ -1381,9 +1381,9 @@ Features are subject to change. Some features, applications, and services may no
       color: "Ocean White"
       price: 799.95
     # minStock: true/false
-      image: "images/apple-watch-ultra_49mm_WiFi_GPS.png"
+      image: "images/apple-watch-ultra_49mm_WiFi_GPS_Ocean_White.jpg"
     - id: 302
       color: "Yellow Beige"
       price: 799.95
     # minStock: true/false
-      image: "images/apple-watch-ultra_49mm_WiFi_GPS.png"
+      image: "images/apple-watch-ultra_49mm_WiFi_GPS_Yellow_Beige .jpg"
