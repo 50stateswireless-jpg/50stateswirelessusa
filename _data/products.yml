@@ -1136,3 +1136,20 @@ A2DP, AVRCP, HFP, HSP"
       price: 379.95
     # minStock: true/false
       image: "images/Galaxy_Watch8_graphite.webp"
+
+- id: 60
+  name: "Samsung Galaxy Watch 7 , New ,Sealed"
+  category: "Smart Watches"
+  price: 299.95
+  description: "Samsung Galaxy Watch 7
+Display: 1.5” super amoled
+Storage: 32GB
+Ram: 2GB
+Battery: 425mAh
+Operating System: Android Wear OS 5 with One UI Watch 6
+Connectivity: Bluetooth 5.3, Wi-Fi, LTE (optional), NFC
+Water resistant
+UPC: 8806095662251
+New Sealed
+Green color"
+  image: "images/galaxy_watch_7_green__98766.jpg"
