@@ -1182,3 +1182,208 @@ Body Composition Analysis: Can measure body fat and body composition
 Vascular Health: Includes an antioxidant index and vascular load measurement
 Sleep Monitoring: Features a built-in Sleep Coach"
   image: "images/galaxy_watch_series_8_classic__52061.jpg"
+
+- id: 63
+  name: "Apple Watch Ultra 49mm, WiFi+GPS , New, Sealed"
+  category: "Smart Watches"
+  description: "Finishes
+
+    Titanium
+
+        Natural
+
+Made with aerospace-grade titanium for the perfect balance between weight, ruggedness, and corrosion resistance. Case designed with raised edges to protect the flat sapphire front crystal from edge impacts. Super rugged to withstand the elements.
+Features
+
+    L1 and L5 GPS, GLONASS, Galileo, QZSS, and BeiDou
+
+    Compass
+
+    Always-on altimeter
+
+    Water resistant
+
+        100 meters4
+
+    Certified IP6X dust resistant2
+
+    Tested to MIL-STD 810H15
+
+    Blood oxygen sensor
+
+        (Blood Oxygen app)3
+
+    Electrical heart sensor
+
+        (ECG app)5
+
+    Third-generation optical heart sensor
+
+    International emergency calling6
+
+    Emergency SOS1
+
+    International roaming7
+
+    High-g accelerometer
+
+        Up to 256 g-forces with Fall Detection and Crash Detection
+
+    High dynamic range gyroscope
+
+    Ambient light sensor
+
+    Water temperature sensor
+
+    Depth gauge
+
+    Dive ready to 40m / 130 ft.
+
+    Dual speakers
+
+        40% louder than Series 8
+
+    Three-microphone array with beamforming and wind noise mitigation
+
+    Apple Pay
+
+    GymKit
+
+    Capacity 32GB
+
+    Ceramic and sapphire crystal back
+
+Display
+
+    49mm
+
+        410 by 502 pixels
+
+        1185 sq mm display area
+
+    LTPO2 OLED Always-on Retina display
+
+        Up to 3000 nits
+
+Chip
+
+    S8 SiP with 64-bit dual-core processor
+
+    W3
+
+        Apple wireless chip
+
+    U1 chip
+
+        (Ultra Wideband)10
+
+Connectivity
+
+    LTE and UMTS8
+
+        GPS + Cellular models
+
+        Learn more about available carriers
+
+    Wi-Fi
+
+        802.11b/g/n 2.4GHz and 5GHz
+
+    Bluetooth 5.3
+
+Power
+
+    Built-in rechargeable lithium-ion battery
+
+        Up to 36 hours9
+
+        Up to 18 hours LTE
+
+    USB-C magnetic fast charging cable
+
+Environmental Features11
+
+    100% recycled tungsten in the Taptic Engine
+
+    100% recycled rare earth elements in all magnets
+
+    100% recycled tin in the SiP
+
+    Energy efficient12
+
+    Responsible packaging13
+
+    Arsenic-free display glass14
+
+    Mercury-, BFR-, PVC-, and beryllium-free14
+
+Dimensions
+
+49mm
+
+    Height: 49mm
+
+    Width: 44mm
+
+    Depth: 12mm
+
+Weight
+
+49mm
+
+    Titanium: 61.3g
+
+In the Box
+
+    Apple Watch Ultra
+
+    Band/Loop
+
+    Apple Watch Magnetic Fast Charger to USB-C Cable (1m)
+
+The case materials and the band types would be based on your selection
+
+    Emergency SOS requires a cellular connection or Wi-Fi Calling with an internet connection from your Apple Watch or nearby iPhone.
+
+    Apple Watch Ultra is rated IP6X dust resistant.
+
+    Blood Oxygen app measurements are not intended for medical use, including self-diagnosis or consultation with a doctor, and are only designed for general fitness and wellness purposes.
+
+    Apple Watch Ultra has a water resistance rating of 100 meters under ISO standard 22810. It may be used for recreational scuba diving (with compatible third-party app from the App Store) to 40 meters and high-speed water sports. Apple Watch Ultra should not be used for diving below 40 meters. Water resistance is not a permanent condition and can diminish over time. For additional information see support.apple.com/HT205000.
+
+    The ECG app and irregular rhythm notification require the latest version of watchOS and iOS, and are not intended for use by people under 22 years old. The ECG app is available on Apple Watch Series 4 or later (not including Apple Watch SE). The irregular rhythm notification is not designed for people who have been previously diagnosed with AFib.
+
+    The international emergency calling feature requires an Apple Watch Ultra (Cellular), Apple Watch Series 8 (GPS + Cellular), Apple Watch Series 7 (GPS + Cellular), or Apple Watch SE (GPS + Cellular) model. For a list of supported countries and regions, see apple.com/watchos/feature-availability.
+
+    International roaming coverage is determined by your carrier. Please check with your carrier for details. For a list of supported carriers, see apple.com/watch/cellular.
+
+    Wireless service plan required for cellular service. Contact your service provider for more details. Connection may vary based on network availability. Check apple.com/watch/cellular for participating wireless carriers and eligibility. See support.apple.com/en-us/HT207578 for additional setup instructions.
+
+    All-day battery life is based on the following use: 180 time checks, 180 notifications, 90 minutes of app use, and a 60-minute workout with music playback from Apple Watch via Bluetooth, over the course of 36 hours; Apple Watch Ultra (GPS + Cellular) usage includes a total of 8 hours of LTE connection and 28 hours of connection to iPhone via Bluetooth over the course of 36 hours. Testing conducted by Apple in August 2022 using preproduction Apple Watch Ultra (GPS + Cellular) paired with an iPhone; all devices tested with prerelease software. Battery life varies by use, configuration, cellular network, signal strength, and many other factors; actual results will vary.
+
+    Ultra Wideband availability varies by region.
+
+    Data accurate as of product launch.
+
+    Meets California Energy Commission’s Energy Efficiency Standards for Small Battery Charger Systems as outlined in the California Code of Regulations.
+
+    100% of virgin wood fiber comes from responsibly managed forests and 90% or more of the packaging is fiber-based.
+
+    Apple defines its restrictions on harmful substances, including definitions for what Apple considers to be “free of,” in the Apple Regulated Substances Specification. Every Apple product is free of PVC and phthalates with the exception of AC power cords in India, Thailand (for 2-prong AC power cords), and South Korea where we continue to seek government approval for our PVC and phthalates replacement.
+
+    Tested against subsections for Altitude, High Temperature, Low Temperature, Temperature Shock, Immersion, Freeze/Thaw, Shock, and Vibration.
+
+Apple Watch Ultra, Apple Watch Series 8, and Apple Watch SE require an iPhone 8 or later with iOS 16 or later.
+
+Features are subject to change. Some features, applications, and services may not be available in all regions or all languages."
+  variants:
+    - id: 301
+      color: "Ocean White"
+      price: 799.95
+    # minStock: true/false
+      image: "images/111852_apple-watch-ultra_49mm_WiFi_GPS.png"
+    - id: 302
+      color: "Yellow Beige"
+      price: 799.95
+    # minStock: true/false
+      image: "images/111852_apple-watch-ultra_49mm_WiFi_GPS.png"
