@@ -1160,3 +1160,25 @@ Green color"
   price: 199.95
   description: "Available in Black"
   image: "images/Samsung_Galaxy_Watch4_Classic-42mm__27429.jpg"
+
+- id: 62
+  name: "Samsung Galaxy Watch 8 Classic New , Sealed"
+  category: "Smart Watches"
+  price: 499.95
+  description: "New Sealed
+White color - Samsung Galaxy Watch 8 Classic
+Display: 1.34-inch Sapphire Crystal Super AMOLED with 3,000 nits peak brightness
+Processor: Exynos W1000 (3nm, 5-core)
+RAM: 2GB
+Storage: 64GB
+Build: Stainless steel case and frame with Sapphire crystal front
+Dimensions: 46.4 x 46 x 10.6 mm
+Weight: 63.5 g (2.26 oz)
+Connectivity: Bluetooth, supports eSIM
+Battery: 445mAh
+Advanced Health Tracking: Blood oxygen saturation, heart rate, sleep cycles, and snoring detection
+New Running Coach: Offers personalized plans and real-time feedback
+Body Composition Analysis: Can measure body fat and body composition
+Vascular Health: Includes an antioxidant index and vascular load measurement
+Sleep Monitoring: Features a built-in Sleep Coach"
+  image: "images/galaxy_watch_series_8_classic__52061.jpg"
