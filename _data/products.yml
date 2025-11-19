@@ -1134,21 +1134,7 @@ Super AMOLED
 Size (Main Display)
 1.5" (37.3mm)
 Resolution (Main Display)
-480 x 480
-Color Depth (Main Display)
-16M
-Processor
-CPU Speed
-1.6GHz, 1.5GHz
-CPU Type
-Penta-Core
-Storage/Memory
-Memory (GB)
-2
-Storage (GB)
-32
-Available Storage (GB)
-20.2"
+480 x 480"
   variants:
     - id: 311
       color: "Silver"
