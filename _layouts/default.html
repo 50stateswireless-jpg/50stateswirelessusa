@@ -265,6 +265,7 @@ html += `{% include affiliate-banner.html %}`;
                 class="variant-swatch w-8 h-8 rounded-full border-2 ${variant.id === app.selectedVariantId ? 'border-gray-800' : 'border-transparent'}"
                 style="background-color: ${
                   variant.color === 'Blue' ? '#3B82F6' :
+                  variant.color === 'Black' ? '#000000' :
                   variant.color === 'Silver' ? '#D9D2D9' :
                   variant.color === 'Pink' ? '#D1A1CB' :
                   '#cccccc'
