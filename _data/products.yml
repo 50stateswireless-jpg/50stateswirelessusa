@@ -1124,17 +1124,7 @@ Yes
 Bluetooth Version
 Bluetooth v5.3
 Bluetooth Profiles
-A2DP, AVRCP, HFP, HSP
-OS
-OS
-Wear OS Powered by Samsung
-Display
-Technology (Main Display)
-Super AMOLED
-Size (Main Display)
-1.5" (37.3mm)
-Resolution (Main Display)
-480 x 480"
+A2DP, AVRCP, HFP, HSP"
   variants:
     - id: 311
       color: "Silver"
