@@ -1403,3 +1403,21 @@ Features are subject to change. Some features, applications, and services may no
       price: 499.95
     # minStock: true/false
       image: "images/galaxy_ultra_watch_black__83656.jpg"
+
+- id: 65
+  name: "T900 PRO MAX 1.71 inch LCD Screen Smart Watch, Support Bluetooth Call / Multiple Sports Modes (Blue) - T900 PRO MAX, Blue [AEDA003262101DPB]"
+  category: "Smart Watches"
+  price: 133.93
+  description: "CPU: HS6620+BK3266
+FLASH memory: 512KB+16M
+Display: 1.71 inch COB capacitive multi-touch screen, 240x280 resolution
+Battery: 200mAh, 2Pin thimble charging
+Bluetooth 4.2+5.0 dual mode
+Support motor, heart rate sensor, gravity sensor
+Support APP: heyfine
+System requirements: Android5.0 or above, iOS9.0 or above
+APP language: Support English, Simplified Chinese, Traditional Chinese, Dutch, Russian, French, German, Portuguese, Spanish, Turkish, Japanese, Polish, Arabic, Malaysian, Thai, Czech, Slovak
+Watch menu language: English, Arabic, French, Spanish, Portuguese, Russian, German, Dutch, Turkish, Malay, Polish, Czech, Slovak
+Main functions: step counting, distance, calorie, heart rate/blood pressure/blood oxygen monitoring, Bluetooth calling, Bluetooth music, temperature measurement, sleep monitoring, call reminder, SMS reminder, social APP message reminder (WeChat, QQ, Facebook, Twitter, Line, Whatsapp, Instagram), alarm clock reminder, sedentary reminder, more exercise, turning wrist to bright screen, looking for wristband, looking for mobile phone, remote photo, reject call, do not disturb mode, custom dial, etc.
+13. Appearance material: metal body + IML bottom case, silicone band"
+  image: "images/t900_pro_max_black__29212.jpg"
