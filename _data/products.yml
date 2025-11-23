@@ -1505,7 +1505,7 @@ According to GSMArena and other product specification sites, here are the key te
         Package contents include the Redmi A2, adapter, USB cable, SIM eject tool, warranty card, and user guide."
   variants:
     - id: 320
-      color: "Black"
+      color: ""
       price: 180.45
     # minStock: true/false
       image: "images/Xiaomi_Redmi_A2_32GB_Unlocked_New_Sealed.jpg"
