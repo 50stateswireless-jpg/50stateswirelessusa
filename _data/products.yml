@@ -1422,30 +1422,6 @@ Main functions: step counting, distance, calorie, heart rate/blood pressure/bloo
 13. Appearance material: metal body + IML bottom case, silicone band"
   image: "images/t900-pro-max-171-inch-lcd-screen-smart-watch-support-bluetooth-call-multiple-sports-modes-blue-t900-pro-max-blue-plusbuyer.jpg"
 
-- id: 66
-  name: "High Performance Smart Watch 475BKGR, New, Sealed"
-  category: "Smart Watches"
-  description: "Slide Innovation High Performance Smart Watch 475BKGR
-New, Black
-Robust design with a water-resistant aluminum frame.
-Features-
-Sweat-resistant watch straps.
-Large 2.01-inch HD high-definition touchscreen display
-Send and receive calls and text messages.
-Over 50 sports modes and motion tracking.
-Wireless magnetic charge
-Powerful internal battery lasts up to 2 days.
-Push notifications for Facebook, email, and SMS.
-2.5in screen. - Various meters, including pedometer and pace tracker.
-MTK processor.
-Compatible with Android and iOS."
-  variants:
-    - id: 318
-      color: "Black"
-      price: 109.95
-    # minStock: true/false
-      image: "images/smart_w_475__70274.jpg"
-
 - id: 67
   name: "ZTE Blade L8, Overseas, 32GB, GSM, New, Sealed"
   category: "Phone"
