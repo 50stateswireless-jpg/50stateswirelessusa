@@ -1477,9 +1477,10 @@ According to GSMArena and other product specification sites, here are the key te
     # minStock: true/false
       image: "images/ZTE Blade L8_Overseas_32GB_GSM_New_Sealed.JPG"
 
-- id: 68
+- id: 68      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "Xiaomi, Redmi A2, 32GB, Unlocked, New, Sealed.jpg"
   category: "Phone"
+  price: 180.45
   description: "The smartphone features a MediaTek Helio G36 processor with speeds of up to 2.2GHz.
 
         It offers storage options of 2GB RAM + 32GB internal storage or 3GB RAM + 32GB internal storage, supporting expandable storage up to 1TB.
@@ -1502,10 +1503,5 @@ According to GSMArena and other product specification sites, here are the key te
 
         The smartphone includes a 3.5mm headphone jack and an accelerometer sensor.
         It runs on the Android 12 (Go Edition) operating system.
-        Package contents include the Redmi A2, adapter, USB cable, SIM eject tool, warranty card, and user guide."
-  variants:
-    - id: 320
-      color: ""
-      price: 180.45
-    # minStock: true/false
-      image: "images/Xiaomi_Redmi_A2_32GB_Unlocked_New_Sealed.jpg"
+        Package contents include the Redmi A2, adapter, USB cable, SIM eject tool, warranty card, and user guide."   
+  image: "images/Xiaomi_Redmi_A2_32GB_Unlocked_New_Sealed.jpg"
