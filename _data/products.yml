@@ -1405,22 +1405,50 @@ Features are subject to change. Some features, applications, and services may no
       image: "images/galaxy_ultra_watch_black__83656.jpg"
 
 - id: 65
-  name: "T900 PRO MAX 1.71 inch LCD Screen Smart Watch, Support Bluetooth Call / Multiple Sports Modes (Blue) - T900 PRO MAX, Blue [AEDA003262101DPB]"
+  name: "T900 Pro Max Smart Watch, New, Sealed Colors Black, white, Pink"
   category: "Smart Watches"
-  price: 133.93
   description: "CPU: HS6620+BK3266
-FLASH memory: 512KB+16M
-Display: 1.71 inch COB capacitive multi-touch screen, 240x280 resolution
-Battery: 200mAh, 2Pin thimble charging
-Bluetooth 4.2+5.0 dual mode
-Support motor, heart rate sensor, gravity sensor
-Support APP: heyfine
-System requirements: Android5.0 or above, iOS9.0 or above
-APP language: Support English, Simplified Chinese, Traditional Chinese, Dutch, Russian, French, German, Portuguese, Spanish, Turkish, Japanese, Polish, Arabic, Malaysian, Thai, Czech, Slovak
-Watch menu language: English, Arabic, French, Spanish, Portuguese, Russian, German, Dutch, Turkish, Malay, Polish, Czech, Slovak
-Main functions: step counting, distance, calorie, heart rate/blood pressure/blood oxygen monitoring, Bluetooth calling, Bluetooth music, temperature measurement, sleep monitoring, call reminder, SMS reminder, social APP message reminder (WeChat, QQ, Facebook, Twitter, Line, Whatsapp, Instagram), alarm clock reminder, sedentary reminder, more exercise, turning wrist to bright screen, looking for wristband, looking for mobile phone, remote photo, reject call, do not disturb mode, custom dial, etc.
-13. Appearance material: metal body + IML bottom case, silicone band"
-  image: "images/t900-pro-max-171-inch-lcd-screen-smart-watch-support-bluetooth-call-multiple-sports-modes-blue-t900-pro-max-blue-plusbuyer.jpg"
+    FLASH memory: 512KB+16M
+    Display: 1.71 inch COB capacitive multi-touch screen, 240x280 resolution
+    Battery: 200mAh, 2Pin thimble charging
+    Bluetooth 4.2+5.0 dual mode
+    Support motor, heart rate sensor, gravity sensor
+    Support APP: heyfine
+    System requirements: Android5.0 or above, iOS9.0 or above
+    APP language: Support English, Simplified Chinese, Traditional Chinese, Dutch, Russian, French, German, Portuguese, Spanish, Turkish, Japanese, Polish, Arabic, Malaysian, Thai, Czech, Slovak
+    Watch menu language: English, Arabic, French, Spanish, Portuguese, Russian, German, Dutch, Turkish, Malay, Polish, Czech, Slovak
+    Main functions: step counting, distance, calorie, heart rate/blood pressure/blood oxygen monitoring, Bluetooth calling, Bluetooth music, temperature measurement, sleep monitoring, call reminder, SMS reminder, social APP message reminder (WeChat, QQ, Facebook, Twitter, Line, Whatsapp, Instagram), alarm clock reminder, sedentary reminder, more exercise, turning wrist to bright screen, looking for wristband, looking for mobile phone, remote photo, reject call, do not disturb mode, custom dial, etc.
+    13. Appearance material: metal body + IML bottom case, silicone band
+
+
+
+
+Product Specifications
+
+
+    Package Weight
+    One Package Weight: 0.11kgs / 0.25lb
+    One Package Size: 21cm * 6.5cm * 3.5cm / 8.27inch * 2.56inch * 1.38inch
+    Qty per Carton: 100
+    Carton Weight: 9.80kgs / 21.61lb
+    Carton Size: 33cm * 44cm * 33cm / 12.99inch * 17.32inch * 12.99inch
+    Loading Container: 20GP: 556 cartons * 100 pcs = 55600 pcs, 40HQ: 1291 cartons * 100 pcs = 129100 pcs"
+  variants:
+    - id: 320
+      color: "White"
+      price: 109.95
+    # minStock: true/false
+      image: "images/t900-pro-max-171-inch-lcd-screen-smart-watch-support-bluetooth-call-multiple-sports-modes-white-t900-pro-max-white-plusbuyer.jpg"
+    - id: 321
+      color: "Black"
+      price: 109.95
+    # minStock: true/false
+      image: "images/t900_pro_max_black__29212.jpg"
+    - id: 322
+      color: "Pink"
+      price: 109.95  # maybe premium color costs more
+    # minStock: true/false
+      image: "images/t900-pro-max-171-inch-lcd-screen-smart-watch-support-bluetooth-call-multiple-sports-modes-pink-t900-pro-max-pink-plusbuyer.jpg"
 
 - id: 67
   name: "ZTE Blade L8, Overseas, 32GB, GSM, New, Sealed"
