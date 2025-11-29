@@ -1617,3 +1617,33 @@ Product Weight
       price: 1159.95
     # minStock: true/false
       image: "images/iphone-17-finish-select-202509-lavender_GEO_US.webp"
+
+- id: 71
+  name: "iPhone 17 Pro Max, 5G, 1TB, 6.9inch , Unlocked, New , Sealed"
+  category: "Phone"
+  description: "Key features
+
+    Design: The iPhone 17 Pro Max
+    features a lightweight, heat-forged aluminum unibody design with a two-tone finish and rounded edges, making it more comfortable to hold. The camera bump has been redesigned into a horizontal plateau that runs across the entire width of the phone.
+    Display: A larger 6.9-inch Super Retina XDR display offers a brighter picture (up to 3000 nits peak outdoor brightness) and is protected by Ceramic Shield 2, which covers both the front and back for better scratch and crack resistance. The display also includes ProMotion technology with a 120Hz refresh rate and improved anti-reflection properties.
+    Processor: It is equipped with the A19 Pro chip, which provides significant performance improvements and is optimized for advanced AI features through its Neural Accelerators. A new vapor chamber cooling system helps the phone maintain higher performance for longer.
+    Cameras: The rear camera system features three "Fusion" cameras, all with 48MP sensors. The telephoto lens now offers 8x optical zoom, a substantial improvement over previous models. The front-facing camera has also been upgraded to an 18MP square sensor that supports Center Stage, allowing for landscape selfies while holding the phone vertically.
+    Battery: The new internal design allows for a larger battery, providing the best-ever battery life in an iPhone. It also supports faster wired charging, reaching 50% in 20 minutes with a compatible 40W adapter.
+    Connectivity: An Apple-designed Wi-Fi 7 chip (N1) is included, promising better performance and reliability for Wi-Fi and Bluetooth connectivity. 
+
+Color options
+
+    Cosmic Orange: A vibrant new orange color option.
+    Deep Blue: A dark blue finish.
+    Silver: A classic, minimalist silver finish."
+  variants:
+    - id: 326
+      color: "Deep Blue"
+      price: 1659.95
+    # minStock: true/false
+      image: "images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp"
+    - id: 327
+      color: "Cosmic Orange"
+      price: 1659.95
+    # minStock: true/false
+      image: "images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg"
