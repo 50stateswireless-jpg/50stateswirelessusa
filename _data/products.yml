@@ -1530,38 +1530,40 @@ The BLU G33 Unlocked Smartphone combines performance, durability, and modern."
   image: "images/Blu_G33_16GB_2Ram_Dual_Slim_GSM_Unlocked.jpg"
 
 - id: 70
-  name: "iPhone 17 Pro Max, 5G, 256GB, Unlocked, New, Sealed Colors available Blue, Orange"
+  name: "Apple - iPhone 17 Pro - 5G, 256GB, Unlocked, New, Sealed. Colors available lavender, white, black"
   category: "Phone"
-  description: "Color-Blue  Key Specs
+  description: "Colors available lavender, white, black - Key Specs
 Screen Size
-6.9 inches
+6.3 inches
 Built-in Storage
-1000 gigabytes
+256 gigabytes
 General
 Brand
 Apple
 Model Number
-MFXQ4LL/A
+MG474LL/A
 Product Name
-iPhone 17 Pro Max 1TB
+iPhone 17 256GB
 Color
-Deep Blue
+White
 Series
-iPhone 17 Pro/Pro Max
+iPhone 17
 Year of Release
 2025
 Display
 Screen Size
-6.9 inches
+6.3 inches
 Screen Resolution
-2688 x 1242
+2622 x 1206
 Display Type
 LED
 Screen Type
 Super Retina XDR display
+Brightness
+3000 nits
 Network
 Carrier
-AT&T
+Verizon
 Network Connectivity
 5G
 Connectivity
@@ -1574,7 +1576,7 @@ Battery Chemistry
 Lithium-ion
 Features
 Model Family
-Apple iPhone 17 Pro Max
+Apple iPhone 17
 GPS Enabled
 Yes
 Global Positioning
@@ -1584,7 +1586,7 @@ Water resistant
 Maximum Depth Of Water Resistance
 19.68 feet
 Built-in Storage
-1000 gigabytes
+256 gigabytes
 Performance
 Operating System
 Apple iOS
@@ -1592,33 +1594,26 @@ Processor Brand
 Apple
 Dimensions
 Product Height
-6.43 inches
+5.89 inches
 Product Width
-3.07 inches
+2.81 inches
 Product Depth
-0.34 inches
+0.31 inches
 Product Weight
-8.22 ounces
-Warranty
-Warranty - Parts
-Apple One (1) Year Limited Warranty
-Warranty - Labor
-Apple One (1) Year Limited Warranty
-Other
-UPC
-400064730330
-BSIN
-JCQ6HQTW63
-SKU
-6473033"
+6.24 ounces"
   variants:
     - id: 323
-      color: "Blue"
-      price: 709.95
+      color: "Black"
+      price: 1159.95
     # minStock: true/false
-      image: "images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp"
+      image: "images/iphone-17-finish-select-202509-black_GEO_US.webp"
     - id: 324
-      color: "Orange"
-      price: 709.95
+      color: "White"
+      price: 1159.95
     # minStock: true/false
-      image: "images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg"
+      image: "images/iphone-17-finish-select-202509-white_GEO_US.webp"
+    - id: 325
+      color: "Lavender"
+      price: 1159.95
+    # minStock: true/false
+      image: "images/iphone-17-finish-select-202509-lavender_GEO_US.webp"
