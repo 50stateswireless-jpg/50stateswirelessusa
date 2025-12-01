@@ -198,7 +198,7 @@ has the following specifications:
 
 - id: 16       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "JBL Tune Flex Active Noise Cancelling Wireless Earbuds"
-  category: "Headsets & Earbud"
+  category: "Headsets & Earbuds"
   price: 149.95
   description: " White or Blue. JBL Pure Bass Sound: Smartly designed 12mm drivers enhanced by the stick form factor deliver JBL's Pure Bass Sound so you'll feel every pulsing beat.
 Active Noise Cancelling with Smart Ambient: Hear more of what you want, less of what you don't. Active Noise Cancelling technology with 2 microphones lets you minimize audio distractions. With Ambient Aware, you can tune into your surroundings at any time so that you feel safer when you're out in the world, while TalkThru lets you stop for a quick chat without having to remove your headphones. "
@@ -229,7 +229,7 @@ Active Noise Cancelling with Smart Ambient: Hear more of what you want, less of 
 
 - id: 18       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "Soundcore P30i, By Anker Earbuds , New ,Sealed"
-  category: "Headsets & Earbud"
+  category: "Headsets & Earbuds"
   price: 99.95
   description: " White or Powder Blue. JBL Pure Bass Sound: Smartly designed 12mm drivers enhanced by the stick form factor deliver JBL's Pure Bass Sound so you'll feel every pulsing beat.
 Active Noise Cancelling with Smart Ambient: Hear more of what you want, less of what you don't. Active Noise Cancelling technology with 2 microphones lets you minimize audio distractions. With Ambient Aware, you can tune into your surroundings at any time so that you feel safer when you're out in the world, while TalkThru lets you stop for a quick chat without having to remove your headphones. "
@@ -429,21 +429,21 @@ The Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB , WiFi, New, Sealed, like our o
 
 - id: 29       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "Motorola Moto Buds 085 , New , Sealed"
-  category: "Headsets & Earbud"
+  category: "Headsets & Earbuds"
   price: 109.95
   description: "Black. Speaker Driver: 6mm Frequency Response Range: 20Hz - 20KHz Sensitivity: 91dB ± 3dB Impedance: 16 ohm Power: 16 W Playtime: 5 hours on earbuds, 10 hours on charging case Connectivity: Bluetooth BT Transmitted Frequency and Power: 2.402 - 2.480GHZ BT Transmitted Modulation: GFSK Operation Distance: >10m Charging: USB Type-C connector Net Weight: 35g, Gross Weight: 50g"
   image: "images/moto_buds_085__69255.jpg"
 
 - id: 30       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "soundcore P25i , By Anker Earbuds , New , Sealed"
-  category: "Headsets & Earbud"
+  category: "Headsets & Earbuds"
   price: 89.95
   description: "Black or White.Anker soundcore P25i Earbuds Key Specifications: Wireless Connectivity: Bluetooth True Wireless:Yes Headphone Fit: In-Ear Battery Life: 30 hours General Product Name: Anker P25i True Wireless In-Ear Headphones Brand: Soundcore Model Number: A3949Z11 Color: Black Sound Isolating: Yes Wireless Connectivity: Bluetooth True Wireless: Yes Bluetooth Version: 5.3 Design: Anker soundcore P25i Earbuds Key Specifications: Wireless Connectivity: Bluetooth True Wireless:Yes Headphone Fit: In-Ear Battery Life: 30 hours General Product Name: Anker P25i True Wireless In-Ear Headphones Brand: Soundcore Model Number: A3949Z11 Color: Black Sound Isolating: Yes Wireless Connectivity: Bluetooth True Wireless: Yes Bluetooth Version: 5.3 Design: Headphone Fit: In-Ear Rechargeable: Yes Battery Life: 30 hours Battery Life Provided by Charging Case: 20 hours Fast Charging: Yes Rechargeable: Yes Battery Life: 30 hours Battery Life Provided by Charging Case: 20 hours Fast Charging: Yes"
   image: "images/Anker-Soundcore-P25i-Earbuds.jpg"
 
 - id: 31      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "JBL Tune 710BT Over Ear Bluetooth Headphones, New ,Sealed"
-  category: "Headsets & Earbud"
+  category: "Headsets & Earbuds"
   price: 149.95
   description: "Black. JBL's official product page, here are the technical specifications for the Tune 710BT headphones: 
 
@@ -461,7 +461,7 @@ The Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB , WiFi, New, Sealed, like our o
   
 - id: 32       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "JBL Tune 500 Wired On-Ear Headphones, New , Sealed"
-  category: "Headsets & Earbud"
+  category: "Headsets & Earbuds"
   price: 99.95
   description: "Black or Blue
 General Specifications
@@ -513,7 +513,7 @@ On-ear
 
 - id: 33       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "JBL Tune 520BT Bluetooth Wireless On-Ear Headphones ,New ,Sealed"
-  category: "Headsets & Earbud"
+  category: "Headsets & Earbuds"
   price: 109.95
   description: "Black , White , Blue , Purple.  NOTE: If headset is too tight we suggest placing them over a ball or something of similar size/shape. Leave undisturbed for at least 24 hours. Repeat if necessary. Please also try length adjustments of either earpiece until both sides best fit you.
 JBL Pure Bass Sound: The JBL Tune 520BT features the renowned JBL Pure Bass sound, the same technolgy that powers the most famous venues all around the world.
@@ -523,7 +523,7 @@ Customize your listening experience: Download the free JBL Headphones App to tai
       
 - id: 34       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "JBL Tune 670NC Headphones , New , Sealed"
-  category: "Headsets & Earbud"
+  category: "Headsets & Earbuds"
   price: 159.95
   description: "Purple. 
     Adaptive Noise Cancelling with Smart Ambient
@@ -537,7 +537,7 @@ Customize your listening experience: Download the free JBL Headphones App to tai
 
 - id: 35       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "Motorola XT220 over-ear Headphones , New , Sealed"
-  category: "Headsets & Earbud"
+  category: "Headsets & Earbuds"
   price: 109.95
   description: "Black or White. Features and specifications
 According to Motorola Sound and product manuals: 
@@ -555,7 +555,7 @@ According to Motorola Sound and product manuals:
 
 - id: 36      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: Motorola XT500+ over-ear Headphones , New , Sealed"
-  category: "Headsets & Earbud"
+  category: "Headsets & Earbuds"
   price: 139.95
   description: "Black. Key specifications
 According to the Motorola Sound website, the MOTO XT500+
@@ -573,7 +573,7 @@ offers the following features:
 
 - id: 37       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "Motorola XT120 Over Ear Headphone , New , Sealed"
-  category: "Headsets & Earbud"
+  category: "Headsets & Earbuds"
   price: 109.95
   description: "White or Black.Key specifications
 Based on product listings from Motorola and retailers: 
@@ -588,7 +588,7 @@ Based on product listings from Motorola and retailers:
 
 - id: 38       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "Beats Studio 3 Wireless Headphones, New, Sealed"
-  category: "Headsets & Earbud"
+  category: "Headsets & Earbuds"
   price: 239.95
   description: "Black or Sage Gray. Connectivity:
   Jack: 3.5 mm jack
@@ -630,7 +630,7 @@ Based on product listings from Motorola and retailers:
 
 - id: 39       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "Beats Solo 3 Wireless Headphone , New ,Sealed"
-  category: "Headsets & Earbud"
+  category: "Headsets & Earbuds"
   price: 209.95
   description: "Black .Key features
   Based on information from retailer websites and reviews, here are some of the Solo3's key features:
