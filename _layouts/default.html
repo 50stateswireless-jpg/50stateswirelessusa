@@ -417,6 +417,16 @@ container.innerHTML = `
             ${baseProduct.description}
             <br><br>The ${baseProduct.name}, like our other offerings comes with the consistent quality our customers have come to expect, another great product from 50stateswirelessusa.
           </p>
+
+          <!-- Truncated View -->
+          <p 
+            id="truncated-description" 
+            class="text-gray-600 leading-relaxed mb-2"
+            style="-webkit-line-clamp: 10; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; height: auto;">
+            ${baseProduct.description}
+            <br><br>The ${baseProduct.name}, like our other offerings comes with the consistent quality our customers have come to expect, another great product from NewRock Wireless.
+          </p>
+          
           <!-- "More Details" Button -->
           <button 
             id="toggle-description" 
