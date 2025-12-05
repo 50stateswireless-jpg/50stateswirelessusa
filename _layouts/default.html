@@ -865,20 +865,6 @@ deleteFromCart: (productId) => {
     app.render();
   },
 
-  handleCheckout: () => {
-    const subtotal = app.cart.reduce((sum, item) => {
-      const allProducts = [...app.products, ...app.rawProducts.flatMap(p => p.variants || [])];
-      const product = allProducts.find(p => p.id === item.id);
-      return sum + (product ? product.price * item.quantity : 0);
-    }, 0);
-    const tax = subtotal * 0.08875;
-    const total = subtotal + tax;
-    app.showTemporaryMessage(`You will be redirected to our secure payment portal.\n\nPlease manually enter the total amount: $${total.toFixed(2)}`);
-    setTimeout(() => {
-      window.location.href = 'https://pay.allcreditfinancialservices.com/Newrockwireless0469';
-    }, 3000);
-  },
-
   render: () => {
     app.updateCartCount();
     if (app.view === 'home') app.renderHome();
