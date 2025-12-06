@@ -62,7 +62,10 @@ pluralizeCategory: (category) => {
     'Chargers': 'Chargers',
     'Part': 'Parts',
     'WiFi': 'WiFi Plans',          // or just "WiFi"
-    'Headsets & Earbuds': 'Headsets & Earbuds'
+    'Headsets & Earbuds': 'Headsets & Earbuds',
+    'Pre-Owned Phones & Tablets': 'Pre-Owned Phones & Tablets',
+    'Headsets & Earbuds': 'Headsets & Earbuds',
+    'Wireless Speakers': 'Wireless Speakers'
     
     // Add more as needed
   };
@@ -165,6 +168,12 @@ renderHome: () => {
       </button>
       <button onclick="app.setView('home', 'Charger')" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg">
         Shop Chargers
+      </button>
+      <button onclick="app.setView('home', 'Pre-Owned Phones & Tablets')" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg">
+        Pre-Owned Phones & Tablets
+      </button>
+      <button onclick="app.setView('home', 'Wireless Speakers')" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg">
+        Wireless Speakers
       </button>
     `;
   
