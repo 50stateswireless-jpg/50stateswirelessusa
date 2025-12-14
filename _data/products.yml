@@ -1,31 +1,4 @@
-#- id: 5       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
-#  name: "PRODUCT NAME HERE"
-#  category: "CATAGORY HERE"
-#  price: 45.00
-#  description: "DESCRIPTION HERE"
-#  image: "URL OR PATH TO PRODUCT IMAGE HERE"
-#
-#- id: 113    # This entry is just a template for varients below (color picker)
-#  -name: "RockPhone 15 Pro Max"
-#  -category: "Phones"
-#  -description: "Flagship smartphone with triple-lens camera system and A18 Bionic chip."
-#  -variants:
-#     - id: 301
-#       color: "Blue"
-#       price: 999.00
-#       inStock: true/false
-#       image: "images/bluephone.jpeg"
-#     - id: 302
-#       color: "Black"
-#       price: 999.00
-#       inStock: true/false
-#       image: "images/blackphone.webp"
-#     - id: 303
-#       color: "Silver"
-#       price: 1049.00  # maybe premium color costs more
-#       inStock: true/false
-#       image: "images/silverphone.webp"
-#
+
 - id: 1
   name: "Verizon Home Internet 300 Mbps"
   category: "Internet Services"
@@ -120,7 +93,7 @@
   price: 249.95
   description: " Colors Black  Key features
 
-Display: A 6.67-inch IPS LCD with a 720p HD+ resolution and a smooth 120Hz refresh rate. Some variants may have a 6.6-inch screen with a 90Hz refresh rate and a 720p resolution.
+    Display: A 6.67-inch IPS LCD with a 720p HD+ resolution and a smooth 120Hz refresh rate. Some variants may have a 6.6-inch screen with a 90Hz refresh rate and a 720p resolution.
     Performance: Powered by a MediaTek Helio G81 chipset (or G70 for some variants) and comes with up to 8GB of RAM, depending on the model. Virtual RAM expansion is also a feature.
     Camera: It has a dual-camera system on the back with a 50MP main sensor and an auxiliary lens. The front camera is 8MP and can shoot video at 1080p@30fps.
     Battery and charging: The device is powered by a large 5,000mAh non-removable battery and supports 18W wired charging. A full charge may take around 2 hours.
@@ -135,7 +108,7 @@ Display: A 6.67-inch IPS LCD with a 720p HD+ resolution and a smooth 120Hz refre
   category: "Phones"
   price: 209.95
   description: " Colors Black According to Samsung's official website and other sources, the Samsung Galaxy A03s
-has the following specifications: 
+    has the following specifications: 
 
     Display: 6.5-inch HD+ PLS LCD (1600 x 720 resolution) with a standard 60Hz refresh rate.
     Processor: MediaTek Helio P35 Octa-Core clocked at 2.3 GHz.
@@ -201,7 +174,7 @@ has the following specifications:
   category: "Headsets & Earbuds"
   price: 149.95
   description: " White or Blue. JBL Pure Bass Sound: Smartly designed 12mm drivers enhanced by the stick form factor deliver JBL's Pure Bass Sound so you'll feel every pulsing beat.
-Active Noise Cancelling with Smart Ambient: Hear more of what you want, less of what you don't. Active Noise Cancelling technology with 2 microphones lets you minimize audio distractions. With Ambient Aware, you can tune into your surroundings at any time so that you feel safer when you're out in the world, while TalkThru lets you stop for a quick chat without having to remove your headphones. "
+    Active Noise Cancelling with Smart Ambient: Hear more of what you want, less of what you don't. Active Noise Cancelling technology with 2 microphones lets you minimize audio distractions. With Ambient Aware, you can tune into your surroundings at any time so that you feel safer when you're out in the world, while TalkThru lets you stop for a quick chat without having to remove your headphones. "
   image: "images/0-1.jpeg"
 
 - id: 17
@@ -232,7 +205,7 @@ Active Noise Cancelling with Smart Ambient: Hear more of what you want, less of 
   category: "Headsets & Earbuds"
   price: 99.95
   description: " White or Powder Blue. JBL Pure Bass Sound: Smartly designed 12mm drivers enhanced by the stick form factor deliver JBL's Pure Bass Sound so you'll feel every pulsing beat.
-Active Noise Cancelling with Smart Ambient: Hear more of what you want, less of what you don't. Active Noise Cancelling technology with 2 microphones lets you minimize audio distractions. With Ambient Aware, you can tune into your surroundings at any time so that you feel safer when you're out in the world, while TalkThru lets you stop for a quick chat without having to remove your headphones. "
+    Active Noise Cancelling with Smart Ambient: Hear more of what you want, less of what you don't. Active Noise Cancelling technology with 2 microphones lets you minimize audio distractions. With Ambient Aware, you can tune into your surroundings at any time so that you feel safer when you're out in the world, while TalkThru lets you stop for a quick chat without having to remove your headphones. "
   image: "images/0-2.jpeg"
 
 - id: 19       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
@@ -240,7 +213,7 @@ Active Noise Cancelling with Smart Ambient: Hear more of what you want, less of 
   category: "Smart Watches"
   price: 899.95
   description: "Black. The Apple Watch Ultra 3 
-builds on its predecessor with a few notable improvements, including enhanced connectivity and a better display. Key features include: 
+    builds on its predecessor with a few notable improvements, including enhanced connectivity and a better display. Key features include: 
 
     Satellite communications: A major new feature for the Ultra 3
     is built-in satellite connectivity. This allows you to send an Emergency SOS, send messages, and share your location via the Find My app even when you are off the grid without cellular or WiFi.
@@ -292,15 +265,15 @@ builds on its predecessor with a few notable improvements, including enhanced co
   category: "Phones"
   price: 109.95
   description: "Blue, Black and Gray Candy bar smartphone
- 3x flash
- 1.77” screen
- Dual sim
- Camera
- Fm radio
- GSM quad band
- Unlocked
- Overseas
- Here works with H2O and Ultra"
+    3x flash
+    1.77” screen
+    Dual sim
+    Camera
+    Fm radio
+    GSM quad band
+    Unlocked
+    Overseas
+    Here works with H2O and Ultra"
   image: "images/maxwest-NEO-M1-Mobile-aPhone-User-Manual_1-185x300.jpg"
 
 - id: 23       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
@@ -308,12 +281,12 @@ builds on its predecessor with a few notable improvements, including enhanced co
   category: "Phones"
   price: 109.95
   description: "Colors Black, Blue , Red , Gold.   Form Factor: The classic clamshell (flip) design protects the    screen and keypad.
-  Screen: 1.8-inch display.
-  Carrier: Sold as an unlocked device, compatible with most GSM carriers.
-  Network: Supports quad-band GSM (850/900/1800/1900), and some versions may support WCDMA for 3G networks.
-  SIM: Available with either a single or dual SIM card slot.
-  Storage: Includes a microSD card slot for expandable storage (often up to 8GB).
-  Multimedia: Features a basic VGA camera, Bluetooth connectivity, and GPRS/WAP support"
+    Screen: 1.8-inch display.
+    Carrier: Sold as an unlocked device, compatible with most GSM carriers.
+    Network: Supports quad-band GSM (850/900/1800/1900), and some versions may support WCDMA for 3G networks.
+    SIM: Available with either a single or dual SIM card slot.
+    Storage: Includes a microSD card slot for expandable storage (often up to 8GB).
+    Multimedia: Features a basic VGA camera, Bluetooth connectivity, and GPRS/WAP support"
   image: "images/71mNOZ4dT5L-_AC_SL1500___30335.jpg"
 
 - id: 24      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
@@ -321,22 +294,22 @@ builds on its predecessor with a few notable improvements, including enhanced co
   category: "Phones"
   price: 199.95
   description: "Black. 5G smartphone: Features a larger 6.78” screen and fast speeds.
-Triple rear camera: Includes a 48MP main camera, 8MP, and 2MP cameras.
-16MP front camera: Ideal for selfies and video calls.
-All-day battery: 5000mAh with Quick Charge 3.0 for extended use and fast charging.
-Durable design: Metallic finish and scratch-resistant 2D glass screen.
+    Triple rear camera: Includes a 48MP main camera, 8MP, and 2MP cameras.
+    16MP front camera: Ideal for selfies and video calls.
+    All-day battery: 5000mAh with Quick Charge 3.0 for extended use and fast charging.
+    Durable design: Metallic finish and scratch-resistant 2D glass screen.
 
-Specifications:
+    Specifications:
 
-Display: 6.78” HD+ TFT LCD, 20:9 aspect ratio, scratch-resistant glass.
-Network: 4G and 5G support.
-Battery: 5000mAh, non-removable, Quick Charge 3.0.
-Connectivity: Wi-Fi (2.4GHz and 5GHz), Bluetooth 5.0.
-Camera:
-Main: 48MP + 8MP + 2MP with flash.
-Front: 16MP.
-Speed & Power: Qualcomm Snapdragon® 750G.
-Memory: 6GB RAM, 64GB internal storage, Micro SD support up to 512GB."
+    Display: 6.78” HD+ TFT LCD, 20:9 aspect ratio, scratch-resistant glass.
+    Network: 4G and 5G support.
+    Battery: 5000mAh, non-removable, Quick Charge 3.0.
+    Connectivity: Wi-Fi (2.4GHz and 5GHz), Bluetooth 5.0.
+    Camera:
+    Main: 48MP + 8MP + 2MP with flash.
+    Front: 16MP.
+    Speed & Power: Qualcomm Snapdragon® 750G.
+    Memory: 6GB RAM, 64GB internal storage, Micro SD support up to 512GB."
   image: "images/orbic_myra_5g__43224.jpg"
 
 - id: 25      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
@@ -366,42 +339,42 @@ Memory: 6GB RAM, 64GB internal storage, Micro SD support up to 512GB."
   category: "Phones"
   price: 139.95
   description: "Gray or White.  
-The Z1L Flip is a sporty looking LTE foldable phone that offers users 4G communication.
+    The Z1L Flip is a sporty looking LTE foldable phone that offers users 4G communication.
 
-VoLTE Suppor , BANDS
+    VoLTE Suppor , BANDS
 
-4G: 2/4/5/8/12/13/17/28AB/66
-3G: 2/4/5
-2G: 850/900/1800/1900 MHz , SCREEN
+    4G: 2/4/5/8/12/13/17/28AB/66
+    3G: 2/4/5
+    2G: 850/900/1800/1900 MHz , SCREEN
 
-Size: 2.4” & 1.77” TFT
-240×320 & 128×160
-4:3 Aspect ratio , CONNECTIONS
+    Size: 2.4” & 1.77” TFT
+    240×320 & 128×160
+    4:3 Aspect ratio , CONNECTIONS
 
-USB Type-C
-3.5mm Audio Jack
-SIM Card: Dual Nano SIM (4FF) , MEMORY
+    USB Type-C
+    3.5mm Audio Jack
+    SIM Card: Dual Nano SIM (4FF) , MEMORY
 
-ROM: 256MB
-RAM: 48MB>
-Micro SD: Up to: , CONNECTIVITY
+    ROM: 256MB
+    RAM: 48MB>
+    Micro SD: Up to: , CONNECTIVITY
 
-BT: 5.0 , BATTERY
+    BT: 5.0 , BATTERY
 
-Capacity: 1,000mAh
-Li-ion , CAMERA
+    Capacity: 1,000mAh
+    Li-ion , CAMERA
 
-VGA + Flash , MULTIMEDIA
+    VGA + Flash , MULTIMEDIA
 
-Music and Video Player
-FM Radio . EXTRAS
+    Music and Video Player
+    FM Radio . EXTRAS
 
-Video Recorder
-Loudspeaker
-Browser , PROCESSOR
+    Video Recorder
+    Loudspeaker
+    Browser , PROCESSOR
 
-Chipset: T107
-UNISOC"
+    Chipset: T107
+    UNISOC"
   image: "images/LOGIC-Z1L-Flip_8060_1.png"
 
 - id: 27       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
@@ -409,13 +382,13 @@ UNISOC"
   category: "Tablets"
   price: 179.95
   description: "Black. Display: 8-inch HD IPS screen with a resolution of 1280 x 800.
-Processor: 2.0 GHz Octa-Core CPU. Some models may have a 1.6 GHz processor.
-Memory and storage: 32GB of internal storage, paired with either 1GB or 3GB of RAM, depending on the specific model.
-Operating system: Typically runs on Android 11.
-Connectivity: Supports Wi-Fi and 4G connectivity, making it suitable for both home and on-the-go use. Some variants may offer dual SIM support.
-Battery: 4000mAh battery.
-Cameras: 5MP rear camera and a 2MP front camera.
-Accessories: Often bundled with a protective silicone case and screen protector"
+    Processor: 2.0 GHz Octa-Core CPU. Some models may have a 1.6 GHz processor.
+    Memory and storage: 32GB of internal storage, paired with either 1GB or 3GB of RAM, depending on the specific model.
+    Operating system: Typically runs on Android 11.
+    Connectivity: Supports Wi-Fi and 4G connectivity, making it suitable for both home and on-the-go use. Some variants may offer dual SIM support.
+    Battery: 4000mAh battery.
+    Cameras: 5MP rear camera and a 2MP front camera.
+    Accessories: Often bundled with a protective silicone case and screen protector"
   image: "images/sky_elite_oxtax_tab_wtihout_case__97220.jpg"
 
 - id: 28      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
@@ -424,7 +397,7 @@ Accessories: Often bundled with a protective silicone case and screen protector"
   price: 249.95
   description: "Silver. 4GB of Ram Unlocked 8.7 inches Android 13 with One UI 5.1 Rear camera is 8MP Front Camera is 2MP 5100 mAh Battery
 
-The Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB , WiFi, New, Sealed, like our other offerings comes with the consistant quality our customers have come to expect, another great product from NewRock Wireless."
+    The Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB , WiFi, New, Sealed, like our other offerings comes with the consistant quality our customers have come to expect, another great product from NewRock Wireless."
   image: "images/Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB Cellular, New, Sealed.jpg"
 
 - id: 29       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
@@ -464,50 +437,50 @@ The Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB , WiFi, New, Sealed, like our o
   category: "Headsets & Earbuds"
   price: 99.95
   description: "Black or Blue
-General Specifications
+    General Specifications
 
-Driver size (mm)
-    32.0 
-Number of Microphones
-    1 
+    Driver size (mm)
+        32.0 
+    Number of Microphones
+        1 
 
-Audio Specifications
+    Audio Specifications
 
-Driver sensitivity at 1kHz/1mW (dB)
-    1kHz - 24dBV/Pa 
-Dynamic frequency response range (Hz)
-    20 Hz - 20 kHz 
-Impedance (ohms)
-    32.0 
-Number of drivers per ear
-    1.0 
+    Driver sensitivity at 1kHz/1mW (dB)
+        1kHz - 24dBV/Pa 
+    Dynamic frequency response range (Hz)
+        20 Hz - 20 kHz 
+    Impedance (ohms)
+        32.0 
+    Number of drivers per ear
+        1.0 
 
-Dimensions
+    Dimensions
 
-Headphone cable length (cm)
-    118.7 
-Headphone cable length (ft)
-    3.89 
-Weight (g)
-    148 
-Weight (oz)
-    5.44 
+    Headphone cable length (cm)
+        118.7 
+    Headphone cable length (ft)
+        3.89 
+    Weight (g)
+        148 
+    Weight (oz)
+        5.44 
 
-Features
+    Features
 
-Foldable
-    Yes 
-Voice Assistant integration
-    Yes 
-Built-in Microphone
-    Yes 
-Flat-fold design
-    Yes 
-Hands Free Call
-    Yes 
-JBL Pure Bass Sound
-    Yes 
-On-ear
+    Foldable
+        Yes 
+    Voice Assistant integration
+        Yes 
+    Built-in Microphone
+        Yes 
+    Flat-fold design
+        Yes 
+    Hands Free Call
+        Yes 
+    JBL Pure Bass Sound
+        Yes 
+    On-ear
     Ye"
   image: "images/1_82729c23-93f2-489f-b450-ce3a35399185.webp"
 
@@ -516,9 +489,9 @@ On-ear
   category: "Headsets & Earbuds"
   price: 109.95
   description: "Black , White , Blue , Purple.  NOTE: If headset is too tight we suggest placing them over a ball or something of similar size/shape. Leave undisturbed for at least 24 hours. Repeat if necessary. Please also try length adjustments of either earpiece until both sides best fit you.
-JBL Pure Bass Sound: The JBL Tune 520BT features the renowned JBL Pure Bass sound, the same technolgy that powers the most famous venues all around the world.
-Wireless Bluetooth 5.3 technology: Wirelessly stream high-quality sound from your smartphone without messy cords with the help of the latest Bluetooth technology.
-Customize your listening experience: Download the free JBL Headphones App to tailor the sound to your taste with the EQ. Voice prompts in your desired language guide you through the Tune 520BT features.  DESCRIPTION HERE"
+    JBL Pure Bass Sound: The JBL Tune 520BT features the renowned JBL Pure Bass sound, the same technolgy that powers the most famous venues all around the world.
+    Wireless Bluetooth 5.3 technology: Wirelessly stream high-quality sound from your smartphone without messy cords with the help of the latest Bluetooth technology.
+    Customize your listening experience: Download the free JBL Headphones App to tailor the sound to your taste with the EQ. Voice prompts in your desired language guide you through the Tune 520BT features.  DESCRIPTION HERE"
   image: "images/jbl_tune_520_headphones__00469.jpg"
       
 - id: 34       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
@@ -540,7 +513,7 @@ Customize your listening experience: Download the free JBL Headphones App to tai
   category: "Headsets & Earbuds"
   price: 109.95
   description: "Black or White. Features and specifications
-According to Motorola Sound and product manuals: 
+    According to Motorola Sound and product manuals: 
 
     Audio drivers: 40mm drivers deliver dynamic bass.
     Noise isolation: Features passive noise isolation.
@@ -558,8 +531,8 @@ According to Motorola Sound and product manuals:
   category: "Headsets & Earbuds"
   price: 139.95
   description: "Black. Key specifications
-According to the Motorola Sound website, the MOTO XT500+
-offers the following features: 
+    According to the Motorola Sound website, the MOTO XT500+
+    offers the following features: 
 
     Audio drivers: Powerful 40mm drivers deliver dynamic sound with powerful bass.
     Wireless playtime: A rechargeable battery provides up to 25 hours of listening time.
@@ -576,7 +549,7 @@ offers the following features:
   category: "Headsets & Earbuds"
   price: 109.95
   description: "White or Black.Key specifications
-Based on product listings from Motorola and retailers: 
+    Based on product listings from Motorola and retailers: 
 
     Audio drivers: 40mm high-definition drivers deliver impressive sound quality with powerful bass.
     Connectivity: Features a 3.5mm cord with a built-in microphone and in-line controls for calls and music playback.
@@ -591,41 +564,41 @@ Based on product listings from Motorola and retailers:
   category: "Headsets & Earbuds"
   price: 239.95
   description: "Black or Sage Gray. Connectivity:
-  Jack: 3.5 mm jack
-  Bluetooth: Yes
-  Noise Reduction:
-  Passive Noise-Isolating: Yes
-  Active Noise-Cancelling: Yes
-  Manufacturer’s Guarantee: 1 year
-  Box Contents:
-  Beats Studio 3 Wireless Bluetooth Noise-Cancelling Headphones
-  Carrying case
-  3.5 mm RemoteTalk cable
-  Universal USB charging cable (USB-A to USB Micro-B)
-  Quick start guide
-  Weight: 260 g
-  Overview:
-  Type: Over-ear
-  Color: Matte black
-  Design Features:
-  Acoustic System: Closed
-  Detachable cable: Yes
-  Single-sided cable: Yes
-  Foldable: Yes
-  Other Features:
-  LED fuel gauge
-  Controls
-  Microphone: Yes
-  Playback / Functions Control: Yes
-  Control Positioning: Earcup
-  Volume Control: Yes
-  Control Compatibility: All smartphones
-  Power:
-  Battery Life
-  With ANC on: Up to 22 hours
-  With ANC off: Up to 40 hours
-  Battery: Yes, internal rechargeable battery
-  Quick Charge: 3 hours of battery life from 10 minutes charging"
+    Jack: 3.5 mm jack
+    Bluetooth: Yes
+    Noise Reduction:
+    Passive Noise-Isolating: Yes
+    Active Noise-Cancelling: Yes
+    Manufacturer’s Guarantee: 1 year
+    Box Contents:
+    Beats Studio 3 Wireless Bluetooth Noise-Cancelling Headphones
+    Carrying case
+    3.5 mm RemoteTalk cable
+    Universal USB charging cable (USB-A to USB Micro-B)
+    Quick start guide
+    Weight: 260 g
+    Overview:
+    Type: Over-ear
+    Color: Matte black
+    Design Features:
+    Acoustic System: Closed
+    Detachable cable: Yes
+    Single-sided cable: Yes
+    Foldable: Yes
+    Other Features:
+    LED fuel gauge
+    Controls
+    Microphone: Yes
+    Playback / Functions Control: Yes
+    Control Positioning: Earcup
+    Volume Control: Yes
+    Control Compatibility: All smartphones
+    Power:
+    Battery Life
+    With ANC on: Up to 22 hours
+    With ANC off: Up to 40 hours
+    Battery: Yes, internal rechargeable battery
+    Quick Charge: 3 hours of battery life from 10 minutes charging"
   image: "images/beats_studio_3__32267.jpg"
 
 - id: 39       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
@@ -633,9 +606,9 @@ Based on product listings from Motorola and retailers:
   category: "Headsets & Earbuds"
   price: 209.95
   description: "Black .Key features
-  Based on information from retailer websites and reviews, here are some of the Solo3's key features:
+    Based on information from retailer websites and reviews, here are some of the Solo3's key features:
 
-  Connectivity: Class 1 Bluetooth provides a strong, reliable wireless connection. The Apple W1 chip   allows for quick, one-touch pairing with iOS devices and integration with Siri. As of 2025, Android users can also use a fast-pair feature. A 3.5mm RemoteTalk cable is also included for wired listening.
+    Connectivity: Class 1 Bluetooth provides a strong, reliable wireless connection. The Apple W1 chip   allows for quick, one-touch pairing with iOS devices and integration with Siri. As of 2025, Android users can also use a fast-pair feature. A 3.5mm RemoteTalk cable is also included for wired listening.
     Battery life: A single charge provides up to 40 hours of playback time. The Fast Fuel feature provides 3 hours of playback from just a 5-minute charge.
     Audio: The headphones offer award-winning Beats sound, with fine-tuned acoustics emphasizing strong bass. They do not feature active noise cancellation (ANC), but their on-ear cushions provide passive noise isolation.
     Design: The adjustable, cushioned earcups are designed for all-day comfort, and the headphones foldable design makes them highly portable.
@@ -647,7 +620,7 @@ Based on product listings from Motorola and retailers:
   category: "Charger"
   price: 119.95
   description: "Features 
-Blue , Red , Green
+    Blue , Red , Green
     Charging technology: Supports Qualcomm Quick Charge 3.0 and USB Power Delivery 3.0.
     Ports: One USB-C port and two USB-A ports.
     Simultaneous charging: Can charge three devices at the same time.
@@ -663,7 +636,7 @@ Blue , Red , Green
   category: "Charger"
   price: 79.95
   description: "colors black , blue                    
-Zone One 5000MAH Power Bank is limited, but a similar product called the Trend Zone Portable Charger Power Bank is available from sellers on eBay. Its basic features include dual-port output, an LED indicator for battery life, and a compact size for portability. For a more comprehensive option, the Anker Nano Power Bank offers 5,000mAh capacity along with enhanced features like a built-in USB-C connector for convenience"
+    Zone One 5000MAH Power Bank is limited, but a similar product called the Trend Zone Portable Charger Power Bank is available from sellers on eBay. Its basic features include dual-port output, an LED indicator for battery life, and a compact size for portability. For a more comprehensive option, the Anker Nano Power Bank offers 5,000mAh capacity along with enhanced features like a built-in USB-C connector for convenience"
   image: "images/m_wp_6903d13c9f19e231f9911ba8.webp"
 
 - id: 42       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
@@ -671,13 +644,13 @@ Zone One 5000MAH Power Bank is limited, but a similar product called the Trend Z
   category: "Charger"
   price: 109.95
   description: "coloprs , black , blue                                                  
-Chargeworx Power Bank
-Slim
-10000 mAh
-Dual USB
-Charge 2 devices at once
-Up to 75 extra hours
-Battery life indicator"
+    Chargeworx Power Bank
+    Slim
+    10000 mAh
+    Dual USB
+    Charge 2 devices at once
+    Up to 75 extra hours
+    Battery life indicator"
   image: "images/Chargeworx-Power-Bank-charger-Slim-10000-Mah.jpeg"
 
 - id: 43       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
@@ -685,12 +658,12 @@ Battery life indicator"
   category: "Charger"
   price: 119.95
   description: "Tough Tested
-16000mAh
-Wireless Charger
-Waterproof
-3 charging ports
-High output multi-mode flashlight
-New , Sealed"
+    16000mAh
+    Wireless Charger
+    Waterproof
+    3 charging ports
+    High output multi-mode flashlight
+    New , Sealed"
   image: "images/power_bank_solar_roc16__42691.jpg"
 
 - id: 44       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
@@ -698,16 +671,16 @@ New , Sealed"
   category: "Charger"
   price: 109.95
   description: "black, Verizon Wireless Charger USB-C Combo Pack
-This modern bundle is compatible with newer smartphones, including Apple iPhone 15/16 and Samsung Galaxy models.
-What's included: 
-VERIZON Wireless charger combo pack 6,000mAh
+    This modern bundle is compatible with newer smartphones, including Apple iPhone 15/16 and Samsung Galaxy models.
+    What's included: 
+    VERIZON Wireless charger combo pack 6,000mAh
     Car charger: Features a fixed coiled 6-ft cable and a USB-C connector.
     Qi wireless charger: Comes with a fast-charge wall adapter and a 5-ft charge/sync cable.
     Portable power bank: Includes a 1.6-ft USB-A to USB-C charging cable.
     USB-C cable: An 8-in charge/sync cable with a USB-C to USB-C connector.
-This modern bundle is compatible with newer smartphones, including Apple iPhone 15/16 and Samsung Galaxy models. 
+    This modern bundle is compatible with newer smartphones, including Apple iPhone 15/16 and Samsung Galaxy models. 
 
-What's included: 
+    What's included: 
 
     Car charger: Features a fixed coiled 6-ft cable and a USB-C connector.
     Qi wireless charger: Comes with a fast-charge wall adapter and a 5-ft charge/sync cable.
@@ -720,10 +693,10 @@ What's included:
   category: "Phones"
   price: 799.95
   description: " Black, Blue, Green, Yellow, and Pink . Display: 6.1-inch Super Retina XDR (OLED) display with a 2556‑by‑1179-pixel resolution. It features the Dynamic Island, which dynamically expands to show important alerts.
-Camera system: It has an advanced dual-camera system with a 48-megapixel main camera and a 12-megapixel ultra-wide camera. The main camera supports 2x optical zoom and captures super-high-resolution photos.
-Processor: The phone is powered by the A16 Bionic chip with a 5-core GPU, which was previously used in the iPhone 14 Pro.
-Port: The iPhone 15 includes a USB-C port for charging and data transfer, replacing the proprietary Lightning port.
-Colors: The standard iPhone 15 is available in a variety of colors, including Black, Blue, Green, Yellow, and Pink."
+    Camera system: It has an advanced dual-camera system with a 48-megapixel main camera and a 12-megapixel ultra-wide camera. The main camera supports 2x optical zoom and captures super-high-resolution photos.
+    Processor: The phone is powered by the A16 Bionic chip with a 5-core GPU, which was previously used in the iPhone 14 Pro.
+    Port: The iPhone 15 includes a USB-C port for charging and data transfer, replacing the proprietary Lightning port.
+    Colors: The standard iPhone 15 is available in a variety of colors, including Black, Blue, Green, Yellow, and Pink."
   image: "images/Apple-iPhone-15-lineup-hero-230912-scaled.jpg"
 
 - id: 46       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
@@ -749,7 +722,7 @@ Colors: The standard iPhone 15 is available in a variety of colors, including Bl
   price: 1169.95
   description: "Black Titanium ,Natural Titanium , Desert Titanium. Key features
 
-   Built for Apple Intelligence: The iPhone 16 Pro
+    Built for Apple Intelligence: The iPhone 16 Pro
     runs on the A18 Pro chip, which is optimized to handle Apple's new suite of personal AI features in iOS 18.
     Enhanced Camera System: The pro-level camera array includes an upgraded 48-megapixel Ultra Wide lens and a 5x Telephoto zoom lens, bringing more creative possibilities to both the smaller Pro model and the Pro Max. A new hardware Camera Control button on the side allows for quick access to camera settings and shooting options.
     ProMotion Display: A 6.3-inch OLED Super Retina XDR display offers adaptive refresh rates up to 120Hz for smoother scrolling and a minimum brightness of 1 nit for an always-on feature.
@@ -812,13 +785,13 @@ Colors: The standard iPhone 15 is available in a variety of colors, including Bl
   category: "Phones"
   price: 789.95
   description: "Icyblue,Navy,Silver Shadow,Mint. Design: The phone has a compact, slim, and lightweight design. It is made with an Armor Aluminum frame and Corning Gorilla Glass Victus 2, providing durability and water resistance.
-Display: It features a 6.2-inch FHD+ Dynamic AMOLED 2X display with a variable 1–120Hz refresh rate and a peak brightness of 2,600 nits. This provides a smooth, vivid, and highly visible viewing experience.
-Security: For security, it uses an under-display ultrasonic fingerprint reader and facial recognition.
-Audio: The S25
-includes stereo speakers and Dolby Atmos support. 
-Camera
-The triple-camera system on the rear includes: 
-50MP main camera with optical image stabilization (OIS)
+    Display: It features a 6.2-inch FHD+ Dynamic AMOLED 2X display with a variable 1–120Hz refresh rate and a peak brightness of 2,600 nits. This provides a smooth, vivid, and highly visible viewing experience.
+    Security: For security, it uses an under-display ultrasonic fingerprint reader and facial recognition.
+    Audio: The S25
+    includes stereo speakers and Dolby Atmos support. 
+    Camera
+    The triple-camera system on the rear includes: 
+    50MP main camera with optical image stabilization (OIS)
     12MP ultrawide camera
     10MP telephoto lens with 3x optical zoom"
   image: "images/s25_plus_silver__97385.jpg"
@@ -829,14 +802,14 @@ The triple-camera system on the rear includes:
   category: "Phones"
   price: 1049.95
   description: "Titanium Silverblue,Titanium Gray, Titanium Whitesilver.Display: It features a large 6.9-inch Dynamic AMOLED 2X display with a sharp 3120 x 1440 pixel resolution and a 120Hz refresh rate. An anti-reflective layer on the display improves visibility in bright sunlight.
-Build quality: The device has a titanium frame and Corning Gorilla Glass Victus 2 on the back for a premium feel and enhanced durability. It is also IP68 rated for water and dust resistance.
-Security: For security, the phone features an in-display ultrasonic fingerprint reader and facial recognition.
-Audio: It is equipped with stereo speakers and Dolby Atmos support for a high-quality audio experience.
-S Pen: The S Pen stylus is included and can be used for taking notes, sketching, and other tasks. 
-Camera
-The Galaxy S25 Ultra
-includes a powerful quad-camera system on the rear, which includes: 
- 200MP main camera with optical image stabilization (OIS)
+    Build quality: The device has a titanium frame and Corning Gorilla Glass Victus 2 on the back for a premium feel and enhanced durability. It is also IP68 rated for water and dust resistance.
+    Security: For security, the phone features an in-display ultrasonic fingerprint reader and facial recognition.
+    Audio: It is equipped with stereo speakers and Dolby Atmos support for a high-quality audio experience.
+    S Pen: The S Pen stylus is included and can be used for taking notes, sketching, and other tasks. 
+    Camera
+    The Galaxy S25 Ultra
+    includes a powerful quad-camera system on the rear, which includes: 
+     200MP main camera with optical image stabilization (OIS)
     50MP ultrawide camera
     50MP and 10MP telephoto lenses, offering different optical zoom capabilities
     It supports 100x Space Zoom, which is an AI-powered digital zoom feature.
@@ -850,19 +823,19 @@ includes a powerful quad-camera system on the rear, which includes:
   category: "Phones"
   price: 1179.95
   description: "Titanium Silverblue,Titanium Gray, Titanium Whitesilver.Display: It features a large 6.9-inch Dynamic AMOLED 2X display with a sharp 3120 x 1440 pixel resolution and a 120Hz refresh rate. An anti-reflective layer on the display improves visibility in bright sunlight.
-Build quality: The device has a titanium frame and Corning Gorilla Glass Victus 2 on the back for a premium feel and enhanced durability. It is also IP68 rated for water and dust resistance.
-Security: For security, the phone features an in-display ultrasonic fingerprint reader and facial recognition.
-Audio: It is equipped with stereo speakers and Dolby Atmos support for a high-quality audio experience.
-S Pen: The S Pen stylus is included and can be used for taking notes, sketching, and other tasks. 
-Camera
-The Galaxy S25 Ultra
-includes a powerful quad-camera system on the rear, which includes: 
- 200MP main camera with optical image stabilization (OIS)
-  50MP ultrawide camera
-  50MP and 10MP telephoto lenses, offering different optical zoom capabilities
-  It supports 100x Space Zoom, which is an AI-powered digital zoom feature.
-  The front camera is a 12MP lens.
-  The camera system is praised for its versatility and includes features like Nightography for low-light photography and Expert RAW for advanced controls."
+    Build quality: The device has a titanium frame and Corning Gorilla Glass Victus 2 on the back for a premium feel and enhanced durability. It is also IP68 rated for water and dust resistance.
+    Security: For security, the phone features an in-display ultrasonic fingerprint reader and facial recognition.
+    Audio: It is equipped with stereo speakers and Dolby Atmos support for a high-quality audio experience.
+    S Pen: The S Pen stylus is included and can be used for taking notes, sketching, and other tasks. 
+    Camera
+    The Galaxy S25 Ultra
+    includes a powerful quad-camera system on the rear, which includes: 
+     200MP main camera with optical image stabilization (OIS)
+      50MP ultrawide camera
+      50MP and 10MP telephoto lenses, offering different optical zoom capabilities
+      It supports 100x Space Zoom, which is an AI-powered digital zoom feature.
+      The front camera is a 12MP lens.
+      The camera system is praised for its versatility and includes features like Nightography for low-light photography and Expert RAW for advanced controls."
   image: "images/s25_ultra_green__47114.jpg"
 
 - id: 54
@@ -871,13 +844,13 @@ includes a powerful quad-camera system on the rear, which includes:
   price: 379.95
   description: "
 
-Samsung Galaxy Watch 8
+    Samsung Galaxy Watch 8
 
-Features the new Exynos W1000 processor, Wear OS 6 with One UI 8 Watch, and enhanced AI capabilities powered by Google's Gemini. It offers improved battery management, a high-brightness Super AMOLED display with Sapphire Crystal, and health tracking features including enhanced sleep tracking and an advanced running coach. Key upgrades from the previous generation include a more responsive user interface, a new Multi-Info Tile system for quick data access, and a user-friendly, detachable strap design
-GPS
-New Sealed
-Graphite, silver
-"
+    Features the new Exynos W1000 processor, Wear OS 6 with One UI 8 Watch, and enhanced AI capabilities powered by Google's Gemini. It offers improved battery management, a high-brightness Super AMOLED display with Sapphire Crystal, and health tracking features including enhanced sleep tracking and an advanced running coach. Key upgrades from the previous generation include a more responsive user interface, a new Multi-Info Tile system for quick data access, and a user-friendly, detachable strap design
+    GPS
+    New Sealed
+    Graphite, silver
+    "
   image: "images/galaxy_watch_8_black__63061.jpg"
 
 - id: 55
@@ -891,24 +864,22 @@ Graphite, silver
   name: "Samsung Galaxy Watch 6 classic, 43MM , WiFi+ GPS , New, sealed"
   category: "Smart Watches"
   price: 309.95
-  description: "
+  description: "Samsung Watch 6 Classic
 
-Samsung Watch 6 Classic
+    43MM
 
-43MM
+    Wifi plus GPS
 
-Wifi plus GPS
-
-New Sealed
-Bluetooth
-Sapphire Crystal Display
-Includes health features
-A dual-core 1.4GHz processor
-2GB Ram
-16GB Internal Storage
-Water and dust resistant
-UPC: 8806095054292
-Silver color"
+    New Sealed
+    Bluetooth
+    Sapphire Crystal Display
+    Includes health features
+    A dual-core 1.4GHz processor
+    2GB Ram
+    16GB Internal Storage
+    Water and dust resistant
+    UPC: 8806095054292
+    Silver color"
   image: "images/samsung_watch_6_43mm_siilver_78313.jpg"  
 
 - id: 57      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
@@ -916,9 +887,9 @@ Silver color"
   category: "Smart Watches"
   price: 259.95
   description: "Colors available are Black. Silver and Yellow. Technical Specifications
-Finishes
+    Finishes
 
-GPS + Cellular
+    GPS + Cellular
 
     Stainless Steel
 
@@ -936,7 +907,7 @@ GPS + Cellular
 
         Gold
 
-GPS
+    GPS
 
     Aluminum
 
@@ -946,10 +917,10 @@ GPS
 
         Gold
 
-Apple Watch Nike+ available in silver and space gray aluminum.
+    Apple Watch Nike+ available in silver and space gray aluminum.
 
-Apple Watch Hermès available in polished stainless steel.
-Features
+    Apple Watch Hermès available in polished stainless steel.
+    Features
 
     GPS, GLONASS, Galileo, and QZSS
 
@@ -985,7 +956,7 @@ Features
 
     Ceramic and sapphire crystal back
 
-Display
+    Display
 
     44mm
 
@@ -1003,7 +974,7 @@ Display
 
         1000 nits brightness
 
-Chip
+    Chip
 
     S4 with 64-bit dual-core processor
 
@@ -1013,7 +984,7 @@ Chip
 
         Apple wireless chip
 
-Connectivity
+    Connectivity
 
     LTE and UMTS2
 
@@ -1025,7 +996,7 @@ Connectivity
 
     Bluetooth 5.0
 
-Power
+    Power
 
     Built-in rechargeable lithium-ion battery
 
@@ -1035,9 +1006,9 @@ Power
 
     USB power adapter
 
-Case Size
+    Case Size
 
-Stainless Steel - 40mm
+    Stainless Steel - 40mm
 
     Height: 40mm
 
@@ -1047,7 +1018,7 @@ Stainless Steel - 40mm
 
     Case Weight: 39.8g
 
-Stainless Steel - 44mm
+    Stainless Steel - 44mm
 
     Height: 44mm
 
@@ -1057,7 +1028,7 @@ Stainless Steel - 44mm
 
     Case Weight: 47.9g
 
-Aluminum - 40mm
+    Aluminum - 40mm
 
     Height: 40mm
 
@@ -1067,7 +1038,7 @@ Aluminum - 40mm
 
     Case Weight: 30.1g
 
-Aluminum - 44mm
+    Aluminum - 44mm
 
     Height: 44mm
 
@@ -1083,9 +1054,9 @@ Aluminum - 44mm
 
     Apple Watch All-Day Battery Life testing was conducted by Apple in August 2018 using preproduction Apple Watch Series 4 (GPS) and Apple Watch Series 4 (GPS + Cellular), each paired with an iPhone; all devices were tested with prerelease software. Battery life varies by use, cellular coverage, configuration, and many other factors; actual results will vary. See www.apple.com/batteries and www.apple.com/watch/battery.html for more information.
 
-Apple Watch Series 4 (GPS + Cellular) requires an iPhone 6 or later with iOS 12 or later. Apple Watch Series 4 (GPS) requires an iPhone 5s or later with iOS 12 or later.
+    Apple Watch Series 4 (GPS + Cellular) requires an iPhone 6 or later with iOS 12 or later. Apple Watch Series 4 (GPS) requires an iPhone 5s or later with iOS 12 or later.
 
-Features are subject to change. Some features, applications, and services may not be available in all regions or all languages. "
+    Features are subject to change. Some features, applications, and services may not be available in all regions or all languages. "
   image: "images/series_4_40mm__32998.jpg"
 
 - id: 58
@@ -1108,23 +1079,23 @@ Features are subject to change. Some features, applications, and services may no
   name: "Samsung Galaxy Watch 8, New, Sealed"
   category: "Smart Watches"
   description: "Available colors care Silver and graphite. Specs
-Network/Bearer
-Infra
-Wi-Fi Only, Bluetooth Only
-Audio and Video
-Audio Playing Format
-MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB
-Connectivity
-Location Technology
-GPS, Glonass, Beidou, Galileo
-Wi-Fi
-802.11a/b/g/n 2.4GHz+5GHz
-NFC
-Yes
-Bluetooth Version
-Bluetooth v5.3
-Bluetooth Profiles
-A2DP, AVRCP, HFP, HSP"
+    Network/Bearer
+    Infra
+    Wi-Fi Only, Bluetooth Only
+    Audio and Video
+    Audio Playing Format
+    MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB
+    Connectivity
+    Location Technology
+    GPS, Glonass, Beidou, Galileo
+    Wi-Fi
+    802.11a/b/g/n 2.4GHz+5GHz
+    NFC
+    Yes
+    Bluetooth Version
+    Bluetooth v5.3
+    Bluetooth Profiles
+    A2DP, AVRCP, HFP, HSP"
   variants:
     - id: 311
       color: "Silver"
@@ -1142,16 +1113,16 @@ A2DP, AVRCP, HFP, HSP"
   category: "Smart Watches"
   price: 299.95
   description: "Samsung Galaxy Watch 7
-Display: 1.5” super amoled
-Storage: 32GB
-Ram: 2GB
-Battery: 425mAh
-Operating System: Android Wear OS 5 with One UI Watch 6
-Connectivity: Bluetooth 5.3, Wi-Fi, LTE (optional), NFC
-Water resistant
-UPC: 8806095662251
-New Sealed
-Green color"
+    Display: 1.5” super amoled
+    Storage: 32GB
+    Ram: 2GB
+    Battery: 425mAh
+    Operating System: Android Wear OS 5 with One UI Watch 6
+    Connectivity: Bluetooth 5.3, Wi-Fi, LTE (optional), NFC
+    Water resistant
+    UPC: 8806095662251
+    New Sealed
+    Green color"
   image: "images/galaxy_watch_7_green__98766.jpg"
 
 - id: 61
@@ -1166,21 +1137,21 @@ Green color"
   category: "Smart Watches"
   price: 499.95
   description: "New Sealed
-White color - Samsung Galaxy Watch 8 Classic
-Display: 1.34-inch Sapphire Crystal Super AMOLED with 3,000 nits peak brightness
-Processor: Exynos W1000 (3nm, 5-core)
-RAM: 2GB
-Storage: 64GB
-Build: Stainless steel case and frame with Sapphire crystal front
-Dimensions: 46.4 x 46 x 10.6 mm
-Weight: 63.5 g (2.26 oz)
-Connectivity: Bluetooth, supports eSIM
-Battery: 445mAh
-Advanced Health Tracking: Blood oxygen saturation, heart rate, sleep cycles, and snoring detection
-New Running Coach: Offers personalized plans and real-time feedback
-Body Composition Analysis: Can measure body fat and body composition
-Vascular Health: Includes an antioxidant index and vascular load measurement
-Sleep Monitoring: Features a built-in Sleep Coach"
+    White color - Samsung Galaxy Watch 8 Classic
+    Display: 1.34-inch Sapphire Crystal Super AMOLED with 3,000 nits peak brightness
+    Processor: Exynos W1000 (3nm, 5-core)
+    RAM: 2GB
+    Storage: 64GB
+    Build: Stainless steel case and frame with Sapphire crystal front
+    Dimensions: 46.4 x 46 x 10.6 mm
+    Weight: 63.5 g (2.26 oz)
+    Connectivity: Bluetooth, supports eSIM
+    Battery: 445mAh
+    Advanced Health Tracking: Blood oxygen saturation, heart rate, sleep cycles, and snoring detection
+    New Running Coach: Offers personalized plans and real-time feedback
+    Body Composition Analysis: Can measure body fat and body composition
+    Vascular Health: Includes an antioxidant index and vascular load measurement
+    Sleep Monitoring: Features a built-in Sleep Coach"
   image: "images/galaxy_watch_series_8_classic__52061.jpg"
 
 - id: 63
@@ -1192,8 +1163,8 @@ Sleep Monitoring: Features a built-in Sleep Coach"
 
         Natural
 
-Made with aerospace-grade titanium for the perfect balance between weight, ruggedness, and corrosion resistance. Case designed with raised edges to protect the flat sapphire front crystal from edge impacts. Super rugged to withstand the elements.
-Features
+    Made with aerospace-grade titanium for the perfect balance between weight, ruggedness, and corrosion resistance. Case designed with raised edges to protect the flat sapphire front crystal from edge impacts. Super rugged to withstand the elements.
+    Features
 
     L1 and L5 GPS, GLONASS, Galileo, QZSS, and BeiDou
 
@@ -1253,7 +1224,7 @@ Features
 
     Ceramic and sapphire crystal back
 
-Display
+    Display
 
     49mm
 
@@ -1265,7 +1236,7 @@ Display
 
         Up to 3000 nits
 
-Chip
+    Chip
 
     S8 SiP with 64-bit dual-core processor
 
@@ -1277,7 +1248,7 @@ Chip
 
         (Ultra Wideband)10
 
-Connectivity
+    Connectivity
 
     LTE and UMTS8
 
@@ -1291,7 +1262,7 @@ Connectivity
 
     Bluetooth 5.3
 
-Power
+    Power
 
     Built-in rechargeable lithium-ion battery
 
@@ -1301,7 +1272,7 @@ Power
 
     USB-C magnetic fast charging cable
 
-Environmental Features11
+    Environmental Features11
 
     100% recycled tungsten in the Taptic Engine
 
@@ -1317,9 +1288,9 @@ Environmental Features11
 
     Mercury-, BFR-, PVC-, and beryllium-free14
 
-Dimensions
+    Dimensions
 
-49mm
+    49mm
 
     Height: 49mm
 
@@ -1327,13 +1298,13 @@ Dimensions
 
     Depth: 12mm
 
-Weight
+    Weight
 
-49mm
+    49mm
 
     Titanium: 61.3g
 
-In the Box
+    In the Box
 
     Apple Watch Ultra
 
@@ -1341,7 +1312,7 @@ In the Box
 
     Apple Watch Magnetic Fast Charger to USB-C Cable (1m)
 
-The case materials and the band types would be based on your selection
+    The case materials and the band types would be based on your selection
 
     Emergency SOS requires a cellular connection or Wi-Fi Calling with an internet connection from your Apple Watch or nearby iPhone.
 
@@ -1373,9 +1344,9 @@ The case materials and the band types would be based on your selection
 
     Tested against subsections for Altitude, High Temperature, Low Temperature, Temperature Shock, Immersion, Freeze/Thaw, Shock, and Vibration.
 
-Apple Watch Ultra, Apple Watch Series 8, and Apple Watch SE require an iPhone 8 or later with iOS 16 or later.
+    Apple Watch Ultra, Apple Watch Series 8, and Apple Watch SE require an iPhone 8 or later with iOS 16 or later.
 
-Features are subject to change. Some features, applications, and services may not be available in all regions or all languages."
+    Features are subject to change. Some features, applications, and services may not be available in all regions or all languages."
   variants:
     - id: 314
       color: "Ocean White"
@@ -1423,7 +1394,7 @@ Features are subject to change. Some features, applications, and services may no
 
 
 
-Product Specifications
+    Product Specifications
 
 
     Package Weight
@@ -1454,17 +1425,17 @@ Product Specifications
   name: "ZTE Blade L8, Overseas, 32GB, GSM, New, Sealed"
   category: "Phones"
   description: "ZTE Blade L8
-for international use
-The ZTE Blade L8
-is typically purchased internationally through global online retailers such as Ubuy and Amazon, or through regional retailers. It is not available for purchase on ZTE's official U.S. website. When purchasing, keep the following points in mind: 
+    for international use
+    The ZTE Blade L8
+    is typically purchased internationally through global online retailers such as Ubuy and Amazon, or through regional retailers. It is not available for purchase on ZTE's official U.S. website. When purchasing, keep the following points in mind: 
 
     Carrier compatibility: The international model will work with GSM carriers such as AT&T and T-Mobile. It will not function with CDMA carriers like Verizon and Sprint.
     Manufacturer warranty: As an internationally shipped product, any manufacturer warranty from ZTE may not be valid in your country.
     Customs and import taxes: When purchasing from global online stores like Ubuy, you may be responsible for paying import taxes and fees upon the phone's arrival. 
 
-Specifications
-According to GSMArena and other product specification sites, here are the key technical details for the ZTE Blade L8
-: 
+    Specifications
+    According to GSMArena and other product specification sites, here are the key technical details for the ZTE Blade L8
+    : 
 
     Display: 5.0-inch TFT display with a 480 x 960 pixel resolution.
     Processor: Quad-core 1.3 GHz Unisoc SC7731E chipset.
@@ -1515,86 +1486,86 @@ According to GSMArena and other product specification sites, here are the key te
   category: "Phones"
   price: 142.45
   description: "BLU G33 Unlocked Smartphone, featuring a vivid 6.26 inch HD display that brings your favorite content to life. Designed for performance and reliability, this sleek smartphone is powered by the MediaTek Helio A22 Quad-Core 2.0GHz processor, ensuring smooth multitasking and efficient operation for everyday use. Running on Android 13 (Go Edition), the G33 offers an optimized experience with fast performance, intuitive navigation, and smart customization options that keep your device running at its best.
-Equipped with 32GB of internal storage and 3GB of RAM, the BLU G33 provides ample space for apps, photos, and videos while maintaining snappy responsiveness. Capture every moment in sharp detail with its 5MP rear and front cameras, perfect for selfies, video calls, and high-definition 1080p recording. With built-in Face ID technology, unlocking your phone is effortless, fast, and secure — no passwords required. The G33 also features dual SIM capability, expandable memory, and full 3G/4G network compatibility, giving you flexibility Display- 6.26-inch HD screen with 480 x 960 resolution for vivid viewing.
-Processor- MediaTek Helio A22 Quad-Core, 2.0GHz for fast, reliable performance.
-Memory & Storage- 3GB RAM with 32GB internal storage, expandable via microSD.
-Cameras- 5MP front and rear cameras with 1080p HD video recording capability.
-Operating System- Android 13 (Go Edition) for optimized, efficient operation.
-Security- Facial recognition unlock for seamless access and enhanced privacy.
-Connectivity- Dual SIM, 3G/4G compatible, Micro USB charging and data port.
-Durability- IP68 water and dust resistance for added protection.
-Battery- 1 non-universal lithium-ion battery included for all-day power.
-Carrier Compatibility- Works with Mint Mobile, AT&T, T-Mobile, Total by Verizon, BOOST Mobile, and other unlocked networks.
-Warranty- Includes 1-year limited manufacturer’s warranty; imported model.
-The BLU G33 Unlocked Smartphone combines performance, durability, and modern."
+    Equipped with 32GB of internal storage and 3GB of RAM, the BLU G33 provides ample space for apps, photos, and videos while maintaining snappy responsiveness. Capture every moment in sharp detail with its 5MP rear and front cameras, perfect for selfies, video calls, and high-definition 1080p recording. With built-in Face ID technology, unlocking your phone is effortless, fast, and secure — no passwords required. The G33 also features dual SIM capability, expandable memory, and full 3G/4G network compatibility, giving you flexibility Display- 6.26-inch HD screen with 480 x 960 resolution for vivid viewing.
+    Processor- MediaTek Helio A22 Quad-Core, 2.0GHz for fast, reliable performance.
+    Memory & Storage- 3GB RAM with 32GB internal storage, expandable via microSD.
+    Cameras- 5MP front and rear cameras with 1080p HD video recording capability.
+    Operating System- Android 13 (Go Edition) for optimized, efficient operation.
+    Security- Facial recognition unlock for seamless access and enhanced privacy.
+    Connectivity- Dual SIM, 3G/4G compatible, Micro USB charging and data port.
+    Durability- IP68 water and dust resistance for added protection.
+    Battery- 1 non-universal lithium-ion battery included for all-day power.
+    Carrier Compatibility- Works with Mint Mobile, AT&T, T-Mobile, Total by Verizon, BOOST Mobile, and other unlocked networks.
+    Warranty- Includes 1-year limited manufacturer’s warranty; imported model.
+    The BLU G33 Unlocked Smartphone combines performance, durability, and modern."
   image: "images/Blu_G33_16GB_2Ram_Dual_Slim_GSM_Unlocked.jpg"
 
 - id: 70
   name: "Apple - iPhone 17 - 5G, 256GB, Unlocked, New, Sealed. Colors available lavender, white, black"
   category: "Phones"
   description: "Colors available lavender, white, black - Key Specs
-Screen Size
-6.3 inches
-Built-in Storage
-256 gigabytes
-General
-Brand
-Apple
-Model Number
-MG474LL/A
-Product Name
-iPhone 17 256GB
-iPhone 17
-Year of Release
-2025
-Display
-Screen Size
-6.3 inches
-Screen Resolution
-2622 x 1206
-Display Type
-LED
-Screen Type
-Super Retina XDR display
-Brightness
-3000 nits
-Network Connectivity
-5G
-Connectivity
-Wireless Connectivity
-Bluetooth, Thread, Wi-Fi
-Wireless Networking Standard
-Wi-Fi 7
-Power
-Battery Chemistry
-Lithium-ion
-Features
-Model Family
-Apple iPhone 17
-GPS Enabled
-Yes
-Global Positioning
-GPS
-Protective Qualities
-Water resistant
-Maximum Depth Of Water Resistance
-19.68 feet
-Built-in Storage
-256 gigabytes
-Performance
-Operating System
-Apple iOS
-Processor Brand
-Apple
-Dimensions
-Product Height
-5.89 inches
-Product Width
-2.81 inches
-Product Depth
-0.31 inches
-Product Weight
-6.24 ounces"
+    Screen Size
+    6.3 inches
+    Built-in Storage
+    256 gigabytes
+    General
+    Brand
+    Apple
+    Model Number
+    MG474LL/A
+    Product Name
+    iPhone 17 256GB
+    iPhone 17
+    Year of Release
+    2025
+    Display
+    Screen Size
+    6.3 inches
+    Screen Resolution
+    2622 x 1206
+    Display Type
+    LED
+    Screen Type
+    Super Retina XDR display
+    Brightness
+    3000 nits
+    Network Connectivity
+    5G
+    Connectivity
+    Wireless Connectivity
+    Bluetooth, Thread, Wi-Fi
+    Wireless Networking Standard
+    Wi-Fi 7
+    Power
+    Battery Chemistry
+    Lithium-ion
+    Features
+    Model Family
+    Apple iPhone 17
+    GPS Enabled
+    Yes
+    Global Positioning
+    GPS
+    Protective Qualities
+    Water resistant
+    Maximum Depth Of Water Resistance
+    19.68 feet
+    Built-in Storage
+    256 gigabytes
+    Performance
+    Operating System
+    Apple iOS
+    Processor Brand
+    Apple
+    Dimensions
+    Product Height
+    5.89 inches
+    Product Width
+    2.81 inches
+    Product Depth
+    0.31 inches
+    Product Weight
+    6.24 ounces"
   variants:
     - id: 323
       color: "Black"
@@ -1624,7 +1595,7 @@ Product Weight
     Battery- The new internal design allows for a larger battery, providing the best-ever battery life in an iPhone. It also supports faster wired charging, reaching 50% in 20 minutes with a compatible 40W adapter.
     Connectivity- An Apple-designed Wi-Fi 7 chip (N1) is included, promising better performance and reliability for Wi-Fi and Bluetooth connectivity. 
 
-Color options
+    Color options
 
     Cosmic Orange- A vibrant new orange color option.
     Deep Blue- A dark blue finish."
@@ -1652,7 +1623,7 @@ Color options
     Battery- The new internal design allows for a larger battery, providing the best-ever battery life in an iPhone. It also supports faster wired charging, reaching 50% in 20 minutes with a compatible 40W adapter.
     Connectivity- An Apple-designed Wi-Fi 7 chip (N1) is included, promising better performance and reliability for Wi-Fi and Bluetooth connectivity. 
 
-Color options
+    Color options
 
     Cosmic Orange- A vibrant new orange color option.
     Deep Blue- A dark blue finish."
@@ -1680,7 +1651,7 @@ Color options
     Battery- The new internal design allows for a larger battery, providing the best-ever battery life in an iPhone. It also supports faster wired charging, reaching 50% in 20 minutes with a compatible 40W adapter.
     Connectivity- An Apple-designed Wi-Fi 7 chip (N1) is included, promising better performance and reliability for Wi-Fi and Bluetooth connectivity. 
 
-Color options
+    Color options
 
     Cosmic Orange- A vibrant new orange color option.
     Deep Blue- A dark blue finish."
@@ -1695,3 +1666,903 @@ Color options
       price: 1909.95
     # minStock: true/false
       image: "images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg"
+- id: 74
+  name: "Apple iphone 16, E-Sim , 128GB, A+ Grade, Pre-owned , Unlocked"
+  category: "Pre-Owned Phones & Tablets"
+  description: "
+    6.1 inch
+    1179x2556 pixels
+    48MP
+    2160p
+    8GB RAM
+    Apple A18
+    3561mAh
+    PD2.0
+    25W
+    Network
+    Technology 	GSM / CDMA / HSPA / EVDO / LTE / 5G
+    2G bands 	GSM 850 / 900 / 1800 / 1900
+      	CDMA 800 / 1900
+    3G bands 	HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+      	CDMA2000 1xEV-DO
+    4G bands 	1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66 - A3287
+      	1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66, 71 - A3081
+      	1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66, 71 - A3286
+      	1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66 - A3288
+    5G bands 	1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 76, 77, 78, 79 SA/NSA/Sub6 - A3287
+      	1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 76, 77, 78, 79, 258, 260, 261 SA/NSA/Sub6/mmWave - A3081
+      	1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 76, 77, 78, 79 SA/NSA/Sub6 - A3286
+      	1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 75, 76, 77, 78, 79 SA/NSA/Sub6 - A3288
+    Speed 	HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps
+    Launch
+    Announced 	2024, September 09
+    Status 	Available. Released 2024, September 20
+    Body
+    Dimensions 	147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in)
+    Weight 	170 g (6.00 oz)
+    Build 	Glass front (Ceramic Shield), glass back, aluminum frame
+    SIM 	· Nano-SIM + eSIM + eSIM (max 2 at a time; International)
+    · eSIM + eSIM (8 or more, max 2 at a time; USA)
+    · Nano-SIM + Nano-SIM (China)
+     	IP68 dust tight and water resistant (immersible up to 6m for 30 min)
+    Apple Pay (Visa, MasterCard, AMEX certified)
+    Display
+    Type 	Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)
+    Size 	6.1 inches, 91.7 cm2 (~86.8% screen-to-body ratio)
+    Resolution 	1179 x 2556 pixels, 19.5:9 ratio (~460 ppi density)
+    Protection 	Ceramic Shield glass (2024 gen)
+    Platform
+    OS 	iOS 18, upgradable to iOS 26.1
+    Chipset 	Apple A18 (3 nm)
+    CPU 	Hexa-core (2x4.04 GHz + 4x2.20 GHz)
+    GPU 	Apple GPU (5-core graphics)
+    Memory
+    Card slot 	No
+    Internal 	128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM
+     	NVMe
+    Main Camera
+    Dual 	48 MP, f/1.6, 26mm (wide), 1/1.56in, 1.0µm, dual pixel PDAF, sensor-shift OIS
+    12 MP, f/2.2, 13mm, 120˚ (ultrawide), 0.7µm, dual pixel PDAF
+    Features 	Dual-LED dual-tone flash, HDR (photo/panorama)
+    Video 	4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec.
+    Selfie Camera
+    Single 	12 MP, f/1.9, 23mm (wide), 1/3.6in , 1.0µm, PDAF
+    SL 3D, (depth/biometrics sensor)
+    Features 	HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.
+    Video 	4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+  variants:
+    - id: 332
+      color: "Blue"
+      price: 899.95
+    # minStock: true/false
+      image: "images/apple-iphone-16(Blue-USED).jpeg"
+    - id: 333
+      color: "Black"
+      price: 899.95
+    # minStock: true/false
+      image: "images/apple-iphone-16(black-USED).jpg"
+    - id: 334
+      color: "Pink"
+      price: 899.95
+    # minStock: true/false
+      image: "images/apple-iphone-16(pink-USED).jpg"
+    - id: 335
+      color: "White"
+      price: 899.95
+    # minStock: true/false
+      image: "images/apple-iphone-16(white-USED).jpg"
+    - id: 336
+      color: "Teal"
+      price: 899.95
+    # minStock: true/false
+      image: "images/apple-iphone-16(teal-USED).jpg"
+- id: 75
+  name: "Apple iphone 15 , 128GB , E-Sim, Pre-owned, A+ Grade , Unlocked."
+  category: "Pre-Owned Phones & Tablets"
+  description: "Finish
+
+    Black
+
+    Blue
+
+    Green
+
+    Yellow
+
+    Pink
+
+    Aluminum design, Ceramic Shield front, Color-infused glass back
+    Capacity1
+
+    128GB
+
+    256GB
+
+    512GB
+
+    Size and Weight2
+
+    Width: 2.82 inches (71.6 mm)
+
+    Height: 5.81 inches (147.6 mm)
+
+    Depth: 0.31 inch (7.80 mm)
+
+    Weight: 6.02 ounces (171 grams)
+
+    Display
+
+    Super Retina XDR display
+
+    6.1‑inch (diagonal) all‑screen OLED display
+
+    2556‑by‑1179-pixel resolution at 460 ppi
+
+    Dynamic Island
+
+    HDR display
+
+    True Tone
+
+    Wide color (P3)
+
+    Haptic Touch
+
+    2,000,000:1 contrast ratio (typical)
+
+    1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor)
+
+    Fingerprint-resistant oleophobic coating
+
+    Support for display of multiple languages and characters simultaneously
+
+    The iPhone 15 display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.12 inches diagonally (actual viewable area is less).
+    Splash, Water, and Dust Resistant3
+
+    Rated IP68 (maximum depth of 6 meters up to 30 minutes) under IEC standard 60529
+    Chip
+
+    A16 Bionic chip
+
+    6‑core CPU with 2 performance and 4 efficiency cores
+
+    5‑core GPU
+
+    16‑core Neural Engine
+
+    Camera
+
+    Dual-camera system
+
+    48MP Main: 26 mm, ƒ/1.6 aperture, sensor‑shift optical image stabilization, 100% Focus Pixels, support for super-high-resolution photos (24MP and 48MP)
+
+    12MP Ultra Wide: 13 mm, ƒ/2.4 aperture and 120° field of view
+
+    12MP 2x Telephoto (enabled by quad-pixel sensor): 52 mm, ƒ/1.6 aperture, sensor-shift optical image stabilization, 100% Focus Pixels
+
+    2x optical zoom in, 2x optical zoom out; 4x optical zoom range
+
+    Digital zoom up to 10x
+
+    Sapphire crystal lens cover
+
+    True Tone flash
+
+    Photonic Engine
+
+    Deep Fusion
+
+    Smart HDR 5
+
+    Next-generation portraits with Focus and Depth Control
+
+    Portrait Lighting with six effects
+
+    Night mode
+
+    Panorama (up to 63MP)
+
+    Photographic Styles
+
+    Wide color capture for photos and Live Photos
+
+    Lens correction (Ultra Wide)
+
+    Advanced red‑eye correction
+
+    Auto image stabilization
+
+    Burst mode
+
+    Photo geotagging
+
+    Image formats captured: HEIF and JPEG
+
+    Video Recording
+
+    4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps, or 60 fps
+
+    1080p HD video recording at 25 fps, 30 fps, or 60 fps
+
+    720p HD video recording at 30 fps
+
+    Cinematic mode up to 4K HDR at 30 fps
+
+    Action mode up to 2.8K at 60 fps
+
+    HDR video recording with Dolby Vision up to 4K at 60 fps
+
+    Slo‑mo video support for 1080p at 120 fps or 240 fps
+
+    Time‑lapse video with stabilization
+
+    Night mode Time-lapse
+
+    QuickTake video
+
+    Sensor-shift optical image stabilization for video (Main)
+
+    Digital zoom up to 6x
+
+    Audio zoom
+
+    True Tone flash
+
+    Cinematic video stabilization (4K, 1080p, and 720p)
+
+    Continuous autofocus video
+
+    Take 8MP still photos while recording 4K video
+
+    Playback zoom
+
+    Video formats recorded: HEVC and H.264
+
+    Stereo recording"
+  variants:
+    - id: 337
+      color: "White"
+      price: 739.95
+    # minStock: true/false
+      image: "images/Apple-iphone-15-128GB-E-Sim(White).png"
+    - id: 338
+      color: "Yellow"
+      price: 739.95
+    # minStock: true/false
+      image: "images/Apple-iphone-15-128GB-E-Sim(Yellow).jpg"
+    - id: 339
+      color: "Pink"
+      price: 739.95
+    # minStock: true/false
+      image: "images/Apple-iphone-15-128GB-E-Sim(Pink).png"
+    - id: 340
+      color: "Blue"
+      price: 739.95
+    # minStock: true/false
+      image: "images/Apple-iphone-15-128GB-E-Sim(Blue).jpg"
+- id: 76
+  name: "Apple iPhone 16 Pro Max, 256GB, E-Sim , Pre-owned, A+ Grade , unlocked"
+  category: "Pre-Owned Phones & Tablets"
+  description: "iPhone 16 Pro Max - Tech Specs
+
+    Year introduced: 2024
+
+    Identify your iPhone model
+    Finish
+
+    Black Titanium
+
+    White Titanium
+
+    Natural Titanium
+
+    Desert Titanium
+
+    Titanium design, Latest-generation Ceramic Shield front, Textured matte glass back
+    Capacity1
+
+    256GB
+
+    512GB
+
+    1TB
+
+    Size and Weight2
+
+    Width: 3.06 inches (77.6 mm)
+
+    Height: 6.42 inches (163 mm)
+
+    Depth: 0.32 inch (8.25 mm)
+
+    Weight: 7.99 ounces (227 grams)
+
+    Display
+
+    Super Retina XDR display
+
+    6.9‑inch (diagonal) all‑screen OLED display
+
+    2868‑by‑1320-pixel resolution at 460 ppi
+
+    Dynamic Island
+
+    Always-On display
+
+    ProMotion technology with adaptive refresh rates up to 120Hz
+
+    HDR display
+
+    True Tone
+
+    Wide color (P3)
+
+    Haptic Touch
+
+    2,000,000:1 contrast ratio (typical)
+
+    1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor); 1 nit minimum brightness
+
+    Fingerprint-resistant oleophobic coating
+
+    Support for display of multiple languages and characters simultaneously
+
+    The iPhone 16 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.86 inches diagonally (actual viewable area is less).
+    Splash, Water, and Dust Resistant3
+
+    Rated IP68 (maximum depth of 6 meters up to 30 minutes) under IEC standard 60529
+    Apple Intelligence
+
+    Built into your iPhone, Apple Intelligence is the personal intelligence system that helps you write, express yourself, and get things done effortlessly. With groundbreaking privacy protections, it gives you peace of mind that no one else can access your data — not even Apple.4
+
+    Learn more about Apple Intelligence
+    Chip
+
+    A18 Pro chip
+
+    New 6‑core CPU with 2 performance and 4 efficiency cores
+
+    New 6‑core GPU
+
+    New 16‑core Neural Engine
+
+    Camera
+
+    Pro camera system
+
+    48MP Fusion: 24 mm, ƒ/1.78 aperture, second‑generation sensor‑shift optical image stabilization, 100% Focus Pixels, support for super‑high‑resolution photos (24MP and 48MP)
+
+    Also enables 12MP 2x Telephoto: 48 mm, ƒ/1.78 aperture, second generation sensor‑shift optical image stabilization, 100% Focus Pixels
+
+    48MP Ultra Wide: 13 mm, ƒ/2.2 aperture and 120° field of view, Hybrid Focus Pixels, super-high-resolution photos (48MP)
+
+    12MP 5x Telephoto: 120 mm, ƒ/2.8 aperture and 20° field of view, 100% Focus Pixels, seven-element lens, 3D sensor-shift optical image stabilization and autofocus, tetraprism design
+
+    5x optical zoom in, 2x optical zoom out; 10x optical zoom range
+
+    Digital zoom up to 25x
+
+    Camera Control
+
+    Customizable default lens (Fusion)
+
+    Sapphire crystal lens cover
+
+    Adaptive True Tone flash
+
+    Photonic Engine
+
+    Deep Fusion
+
+    Smart HDR 5
+
+    Next-generation portraits with Focus and Depth Control
+
+    Portrait Lighting with six effects
+
+    Night mode
+
+    Night mode portraits enabled by LiDAR Scanner
+
+    Panorama (up to 63MP)
+
+    Latest-generation Photographic Styles
+
+    Spatial photos
+
+    48MP macro photography
+
+    Apple ProRAW
+
+    Wide color capture for photos and Live Photos
+
+    Lens correction (Ultra Wide)
+
+    Advanced red-eye correction
+
+    Auto image stabilization
+
+    Burst mode
+
+    Photo geotagging
+
+    Image formats captured: HEIF, JPEG, and DNG
+
+    Video Recording
+
+    4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps, 60 fps, 100 fps (Fusion), or 120 fps (Fusion)
+
+    1080p Dolby Vision video recording at 25 fps, 30 fps, 60 fps, or 120 fps (Fusion)
+
+    720p Dolby Vision video recording at 30 fps
+
+    Cinematic mode up to 4K Dolby Vision at 30 fps
+
+    Action mode up to 2.8K Dolby Vision at 60 fps
+
+    Spatial video recording at 1080p at 30 fps
+
+    ProRes video recording up to 4K at 120 fps with external recording
+
+    Log video recording
+
+    Academy Color Encoding System
+
+    Macro video recording, including slo‑mo and time‑lapse
+
+    Slo‑mo video support for 1080p up to 240 fps and 4K Dolby Vision up to 120 fps (Fusion)
+
+    Time‑lapse video with stabilization
+
+    Night mode Time‑lapse
+
+    QuickTake video up to 4K Dolby Vision at 60 fps
+
+    Second‑generation sensor‑shift optical image stabilization for video (Fusion)
+
+    3D sensor‑shift optical image stabilization and autofocus for video (Telephoto)
+
+    Digital zoom up to 15x
+
+    Audio zoom
+
+    True Tone flash
+
+    Cinematic video stabilization (4K, 1080p, and 720p)
+
+    Continuous autofocus video
+
+    Take 8MP still photos while recording 4K video
+
+    Playback zoom
+
+    Video formats recorded: HEVC, H.264, and ProRes
+
+    Spatial Audio and stereo recording
+
+    Four studio-quality mics
+
+    Wind noise reduction
+
+    Audio Mix
+
+    TrueDepth Camera
+
+    12MP camera
+
+    ƒ/1.9 aperture
+
+    Autofocus with Focus Pixels
+
+    Retina Flash
+
+    Photonic Engine
+
+    Deep Fusion
+
+    Smart HDR 5
+
+    Next-generation portraits with Focus and Depth Control
+
+    Portrait Lighting with six effects
+
+    Animoji and Memoji
+
+    Night mode
+
+    Latest-generation Photographic Styles
+
+    Apple ProRAW
+
+    Wide color capture for photos and Live Photos
+
+    Lens correction
+
+    Auto image stabilization
+
+    Burst mode
+
+    4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps, 60 fps, 100 fps (Fusion), or 120 fps (Fusion)
+
+    1080p Dolby Vision video recording at 25 fps, 30 fps, 60 fps, or 120 fps (Fusion)
+
+    Cinematic mode up to 4K Dolby Vision at 30 fps
+
+    ProRes video recording up to 4K at 60 fps with external recording
+
+    Log video recording
+
+    Academy Color Encoding System
+
+    Slo-mo video support for 1080p at 120 fps
+
+    Time‑lapse video with stabilization
+
+    Night mode Time-lapse
+
+    QuickTake video up to 4K at 60 fps in Dolby Vision
+
+    Cinematic video stabilization (4K, 1080p, and 720p)
+
+    Spatial Audio and stereo recording
+
+    Wind noise reduction
+
+    Audio Mix
+
+    Face ID
+
+    Enabled by TrueDepth camera for facial recognition
+    Apple Pay
+
+    Pay with your iPhone using Face ID in stores, within apps, and on the web
+
+    Send and receive money in Messages with Apple Cash5
+
+    Complete purchases made with Apple Pay on your Mac
+
+    Pay for your ride using Express Transit6
+
+    Learn more about Apple Pay
+
+    Learn more about Apple Cash
+    Peace of Mind
+
+    Emergency SOS via satellite7
+
+    Crash Detection8
+
+    Roadside Assistance via satellite7
+
+    Messages via satellite7
+
+    Find My via satellite7
+
+    Cellular and Wireless
+
+    Model A3083* Model A3084*
+
+    FDD-5G NR (Bands n1, n2, n3, n5, n7, n8, n12, n14, n20, n25, n26, n28, n29, n30, n66, n70, n71, n75, n76)
+
+    TDD-5G NR (Bands n38, n40, n41, n48, n53, n77, n78, n79)
+
+    5G NR mmWave (Bands n258, n260, n261)
+
+    FDD-LTE (Bands 1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 66, 71)
+
+    TDD-LTE (Bands 34, 38, 39, 40, 41, 42, 48, 53)
+
+    UMTS/HSPA+/DC‑HSDPA (850, 900, 1700/2100, 1900, 2100 MHz)
+
+    GSM/EDGE (850, 900, 1800, 1900 MHz)"
+  variants:
+    - id: 341
+      color: "Black"
+      price: 1219.95
+    # minStock: true/false
+      image: "images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp"
+- id: 77
+  name: "Apple iPhone 16 Pro , 128GB, E-Sim , Pre-owned, A+ Grade, Unlocked"
+  category: "Pre-Owned Phones & Tablets"
+  description: "iPhone 16 Pro - Tech Specs
+
+    Year introduced: 2024
+
+    Identify your iPhone model
+    Finish
+
+    Black Titanium
+
+    White Titanium
+
+    Natural Titanium
+
+    Desert Titanium
+
+    Titanium design, Latest-generation Ceramic Shield front, Textured matte glass back
+    Capacity1
+
+    128GB
+
+    256GB
+
+    512GB
+
+    1TB
+
+    Size and Weight2
+
+    Width: 2.81 inches (71.5 mm)
+
+    Height: 5.89 inches (149.6 mm)
+
+    Depth: 0.32 inch (8.25 mm)
+
+    Weight: 7.03 ounces (199 grams)
+
+    Display
+
+    Super Retina XDR display
+
+    6.3‑inch (diagonal) all‑screen OLED display
+
+    2622‑by‑1206-pixel resolution at 460 ppi
+
+    Dynamic Island
+
+    Always-On display
+
+    ProMotion technology with adaptive refresh rates up to 120Hz
+
+    HDR display
+
+    True Tone
+
+    Wide color (P3)
+
+    Haptic Touch
+
+    2,000,000:1 contrast ratio (typical)
+
+    1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor); 1 nit minimum brightness
+
+    Fingerprint-resistant oleophobic coating
+
+    Support for display of multiple languages and characters simultaneously
+
+    The iPhone 16 Pro display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.27 inches diagonally (actual viewable area is less).
+    Splash, Water, and Dust Resistant3
+
+    Rated IP68 (maximum depth of 6 meters up to 30 minutes) under IEC standard 60529
+    Apple Intelligence
+
+    Built into your iPhone, Apple Intelligence is the personal intelligence system that helps you write, express yourself, and get things done effortlessly. With groundbreaking privacy protections, it gives you peace of mind that no one else can access your data — not even Apple.4
+
+    Learn more about Apple Intelligence
+    Chip
+
+    A18 Pro chip
+
+    New 6‑core CPU with 2 performance and 4 efficiency cores
+
+    New 6‑core GPU
+
+    New 16‑core Neural Engine
+
+    Camera
+
+    Pro camera system
+
+    48MP Fusion: 24 mm, ƒ/1.78 aperture, second‑generation sensor‑shift optical image stabilization, 100% Focus Pixels, support for super‑high‑resolution photos (24MP and 48MP)
+
+    Also enables 12MP 2x Telephoto: 48 mm, ƒ/1.78 aperture, second generation sensor‑shift optical image stabilization, 100% Focus Pixels
+
+    48MP Ultra Wide: 13 mm, ƒ/2.2 aperture and 120° field of view, Hybrid Focus Pixels, super-high-resolution photos (48MP)
+
+    12MP 5x Telephoto: 120 mm, ƒ/2.8 aperture and 20° field of view, 100% Focus Pixels, seven-element lens, 3D sensor-shift optical image stabilization and autofocus, tetraprism design
+
+    5x optical zoom in, 2x optical zoom out; 10x optical zoom range
+
+    Digital zoom up to 25x
+
+    Camera Control
+
+    Customizable default lens (Fusion)
+
+    Sapphire crystal lens cover
+
+    Adaptive True Tone flash
+
+    Photonic Engine
+
+    Deep Fusion
+
+    Smart HDR 5
+
+    Next-generation portraits with Focus and Depth Control
+
+    Portrait Lighting with six effects
+
+    Night mode
+
+    Night mode portraits enabled by LiDAR Scanner
+
+    Panorama (up to 63MP)
+
+    Latest-generation Photographic Styles
+
+    Spatial photos
+
+    48MP macro photography
+
+    Apple ProRAW
+
+    Wide color capture for photos and Live Photos
+
+    Lens correction (Ultra Wide)
+
+    Advanced red-eye correction
+
+    Auto image stabilization
+
+    Burst mode
+
+    Photo geotagging
+
+    Image formats captured: HEIF, JPEG, and DNG
+
+    Video Recording
+
+    4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps, 60 fps, 100 fps (Fusion), or 120 fps (Fusion)
+
+    1080p Dolby Vision video recording at 25 fps, 30 fps, 60 fps, or 120 fps (Fusion)
+
+    720p Dolby Vision video recording at 30 fps
+
+    Cinematic mode up to 4K Dolby Vision at 30 fps
+
+    Action mode up to 2.8K Dolby Vision at 60 fps
+
+    Spatial video recording at 1080p at 30 fps
+
+    ProRes video recording up to 4K at 120 fps with external recording
+
+    Log video recording
+
+    Academy Color Encoding System
+
+    Macro video recording, including slo‑mo and time‑lapse
+
+    Slo‑mo video support for 1080p up to 240 fps and 4K Dolby Vision up to 120 fps (Fusion)
+
+    Time‑lapse video with stabilization
+
+    Night mode Time‑lapse
+
+    QuickTake video up to 4K Dolby Vision at 60 fps
+
+    Second‑generation sensor‑shift optical image stabilization for video (Fusion)
+
+    3D sensor‑shift optical image stabilization and autofocus for video (Telephoto)
+
+    Digital zoom up to 15x
+
+    Audio zoom
+
+    True Tone flash
+
+    Cinematic video stabilization (4K, 1080p, and 720p)
+
+    Continuous autofocus video
+
+    Take 8MP still photos while recording 4K video
+
+    Playback zoom
+
+    Video formats recorded: HEVC, H.264, and ProRes
+
+    Spatial Audio and stereo recording
+
+    Four studio-quality mics
+
+    Wind noise reduction
+
+    Audio Mix
+
+    TrueDepth Camera
+
+    12MP camera
+
+    ƒ/1.9 aperture
+
+    Autofocus with Focus Pixels
+
+    Retina Flash
+
+    Photonic Engine
+
+    Deep Fusion
+
+    Smart HDR 5
+
+    Next-generation portraits with Focus and Depth Control
+
+    Portrait Lighting with six effects
+
+    Animoji and Memoji
+
+    Night mode
+
+    Latest-generation Photographic Styles
+
+    Apple ProRAW
+
+    Wide color capture for photos and Live Photos
+
+    Lens correction
+
+    Auto image stabilization
+
+    Burst mode
+
+    4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps, 60 fps, 100 fps (Fusion), or 120 fps (Fusion)
+
+    1080p Dolby Vision video recording at 25 fps, 30 fps, 60 fps, or 120 fps (Fusion)
+
+    Cinematic mode up to 4K Dolby Vision at 30 fps
+
+    ProRes video recording up to 4K at 60 fps with external recording
+
+    Log video recording
+
+    Academy Color Encoding System
+
+    Slo-mo video support for 1080p at 120 fps
+
+    Time‑lapse video with stabilization
+
+    Night mode Time-lapse
+
+    QuickTake video up to 4K Dolby Vision at 60 fps
+
+    Cinematic video stabilization (4K, 1080p, and 720p)
+
+    Spatial Audio and stereo recording
+
+    Wind noise reduction
+
+    Audio Mix
+
+    Face ID
+
+    Enabled by TrueDepth camera for facial recognition
+    Apple Pay
+
+    Pay with your iPhone using Face ID in stores, within apps, and on the web
+
+    Send and receive money in Messages with Apple Cash5
+
+    Complete purchases made with Apple Pay on your Mac
+
+    Pay for your ride using Express Transit6
+
+    Learn more about Apple Pay
+
+    Learn more about Apple Cash
+    Peace of Mind
+
+    Emergency SOS via satellite7
+
+    Crash Detection8
+
+    Roadside Assistance via satellite7
+
+    Messages via satellite7
+
+    Find My via satellite7"
+  variants:
+    - id: 342
+      color: "Natural Titanium"
+      price: 1099.95
+    # minStock: true/false
+      image: "images/iPhone-16-Pro-128GB-E-Sim-Pre-ownednatural-titanium-hero-zoom.webp"
