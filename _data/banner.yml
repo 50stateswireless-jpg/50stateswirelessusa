@@ -1,0 +1,9 @@
+heading:
+  text: "SHOP HOLIDAY SALES HERE!"
+  size_class: "text-3xl md-text-5xl"
+  color: "#dc2626"
+
+description:
+  text: "Upgrade Your Phone Today! Get amazing deals on the latest Samsung, iPhone, and other top-brand smartphones! Get an Orbic Myra , 5G , 64GB Smartphone for $199.95"
+  size_class: "text-xl md-text-2xl"
+  color: "#ffffff"
