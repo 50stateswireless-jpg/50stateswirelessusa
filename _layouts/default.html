@@ -307,6 +307,7 @@ html = bannerHtml;
                         'Black': '#111827',
                         'Purple': '#8B5CF6',
                         'White': '#F9FAFB',
+                        'Gray': '#808080',
                         'Green': '#10B981',
                         'Red': '#EF4444',
                         'Yellow': '#F59E0B',
@@ -388,12 +389,14 @@ html += `{% include affiliate-banner.html %}`;
                   variant.color === 'Black' ? '#000000' :
                   variant.color === 'graphite' ? '#3B4042' :
                   variant.color === 'Silver' ? '#D9D2D9' :
+                  variant.color === 'Green' ? '#10B981' :
                   variant.color === 'Ocean White' ? '#E7EFF5' :
                   variant.color === 'Yellow Beige' ? '#ffc566' :
                   variant.color === 'Pink' ? '#D1A1CB' :
                   variant.color === 'Cosmic Orange' ? '#FFA500' :
                   variant.color === 'Deep Blue' ? '#00008B' :
                   variant.color === 'Orange' ? '#FFA500' :
+                  variant.color === 'Gray' ? '#808080' :
                   variant.color === 'Lavender' ? '#E7D3FF' :
                   variant.color === 'Titan titanium Gray' ? '#8992AD' :
                   variant.color === 'Titanium silver' ? '#C5CCE6' :
