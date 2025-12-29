@@ -182,14 +182,17 @@ const bannerHtml = `
   <div class="nrw-bg-blue rounded-xl shadow-2xl p-6 md:p-10 mb-10 border-4 border-white">
     <div class="flex flex-col md:flex-row items-center justify-between">
       <div class="text-white space-y-4">
-        <h2 class="${bannerData.heading?.size_class || 'text-3xl md:text-5xl'} font-extrabold mb-2" 
-            style="color: ${bannerData.heading?.color || '#dc2626'};">
-          ${bannerData.heading?.text || 'SMARTPHONE SALES!'}
-        </h2>
-        <p class="${bannerData.description?.size_class || 'text-xl md:text-2xl'} font-light"
-           style="color: ${bannerData.description?.color || '#ffffff'};">
-          ${bannerData.description?.text || 'Upgrade Your Phone Today! Get amazing deals...'}
-        </p>
+    <h1 
+      class="{{ site.data.hero.headline.size }} {{ site.data.hero.headline.weight }} mb-3" 
+      style="color: {{ site.data.hero.headline.color }};">
+      {{ site.data.hero.headline.text }}
+    </h1>
+
+    <p 
+      class="{{ site.data.hero.subtext.size }} mb-8" 
+      style="color: {{ site.data.hero.subtext.color }};">
+      {{ site.data.hero.subtext.text }}
+    </p>
         <div class="flex flex-col sm:flex-row gap-3">
           ${ctaButtonsHtml}
         </div>
@@ -440,7 +443,7 @@ container.innerHTML = `
           <div class="relative">
             <p id="product-description" class="text-gray-600 leading-relaxed" data-state="truncated">
               ${baseProduct.description}
-              <br><br>The ${baseProduct.name}, like our other offerings comes with the consistent quality our customers have come to expect, another great product from 50StatesWirelessUSA.
+              <br><br>The ${baseProduct.name}, like our other offerings comes with the consistent quality our customers have come to expect, another great product from NewRock Wireless.
             </p>
             
             <!-- "More Details" Button -->
