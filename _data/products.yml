@@ -3031,21 +3031,21 @@ products:
         color: Blue
         price: 249.95
         image: images/redmi_a5__11503.jpg
-    name: Xiaomi Redmi A5 , 128GB , Unlocked,  New, Sealed
+    name: "Xiaomi Redmi A5 , 128GB , Unlocked,  New, Sealed"
     category: Phones
-    description: The Redmi A5 is a budget 4G smartphone featuring a large 6.88" HD+
+    description: "The Redmi A5 is a budget 4G smartphone featuring a large 6.88in HD+
       120Hz LCD display, a Unisoc T7250 octa-core processor, a 32MP main camera,
       8MP selfie cam, a big 5200mAh battery with 15W charging, and runs Android
       15 (Go Edition), offering up to 8GB virtual RAM, expandable storage, a
       3.5mm jack, and side fingerprint sensor for an affordable price.  Colors
-      available Blue
+      available Blue"
   - id: 101
     variants:
       - id: 372
         color: Gray
         price: 269.95
         image: images/zte_blade_v70_max__41601.jpg
-    name: ZTE Blade V70 Max, 258GB, 6.9in ,14Ram, Unlocked, New, Sealed
+    name: "ZTE Blade V70 Max, 258GB, 6.9in ,14Ram, Unlocked, New, Sealed"
     category: Phones
     description: "The ZTE Blade V70 Max is a budget-friendly 4G smartphone featuring
       a large 6.9-inch HD+ 120Hz display, powered by a Unisoc T606/T7200
@@ -3053,12 +3053,11 @@ products:
       22.5W charging, alongside a 50MP main rear camera, an 8MP front camera,
       and up to 8GB RAM with 256GB expandable storage. It focuses on durability
       (IP54, reinforced frame) and large screen experience, with features like
-      extended RAM and AI camera software. Color Available Gray "
+      extended RAM and AI camera software. Color Available Gray"
   - id: 102
     name: ZTE 35E, 64GB, 6.5in , unlocked, New , Sealed
     category: Phones
-    description: >+
-      The ZTE Blade A35e is an affordable, entry-level Android smartphone
+    description: "The ZTE Blade A35e is an affordable, entry-level Android smartphone
       designed for basic daily use, featuring a large 6.52-inch HD+ screen, a
       long-lasting 5000mAh battery, an 8MP rear camera, 5MP front camera, and
       expandable storage with a triple SIM slot for simultaneous use of two SIMs
@@ -3072,10 +3071,7 @@ products:
           Display: 6.52-inch HD+ (1280x576)
           Battery: 5000mAh
           Cameras: 8MP rear, 5MP front
-          Storage: 64GB internal, expandable via microSD   Color Available Gray 
-
-       One attachment  •  Scanned by Gmail
-      	
+          Storage: 64GB internal, expandable via microSD   Color Available Gray"
     variants:
       - id: 373
         price: 219.95
@@ -3087,23 +3083,23 @@ products:
         color: Green
         price: 219.95
         image: images/zte_a35_c__53576.jpg
-    name: ZTE Blade 35, 64GB , 6.7, Dual SIM, Unlocked, New , Sealed
+    name: "ZTE Blade 35, 64GB , 6.7, Dual SIM, Unlocked, New , Sealed"
     category: Phones
     description: "The ZTE Blade A35 is a budget-friendly Android smartphone
       featuring a large 6.75-inch 90Hz display, a Unisoc octa-core chip, 4GB
       RAM, 64GB storage (expandable), and a big 5000mAh battery, running Android
       14 (Go Edition) for light daily use, social media, and basic tasks, making
       it a solid, affordable choice for first-time users or as a backup phone.
-      Color Available green "
+      Color Available green"
   - id: 104
-    name: ZTE Blade. V60 , 256GB , 4G, Dual SIM, Unlocked, New, Sealed
+    name: "ZTE Blade. V60 , 256GB , 4G, Dual SIM, Unlocked, New, Sealed"
     description: "The ZTE Blade V60 is an entry-level Android smartphone featuring a
       large 6.6-inch HD+ screen with a 90Hz refresh rate, a powerful 5000mAh
       battery with fast charging, a 50MP main camera, and often comes with
       significant storage (like 256GB) and dynamic RAM (up to 16GB) for smooth
       multitasking, running on Android 13 with ZTE's MyOS and a budget-friendly
       Unisoc processor, offering features like a headphone jack and USB-C.
-      Colors Available  Violet, Blue, Gold "
+      Colors Available  Violet, Blue, Gold"
     category: Phones
     variants:
       - id: 375
@@ -3118,18 +3114,18 @@ products:
         color: Gold
         price: 269.95
         image: images/zte_blade_v60_g__86680-1-.jpg
-  - name: "ZTE Blade V50, 256GB,  6.6in , 4G, , unlocked, New, Sealed "
+  - name: "ZTE Blade V50, 256GB,  6.6in , 4G, , unlocked, New, Sealed"
     variants:
       - id: 378
         color: Purple
         image: images/zte_blade_v50__73519-1-.jpg
         price: 259.95
-    description: The ZTE Blade V50 with 4GB RAM and 256GB storage is a
+    description: "The ZTE Blade V50 with 4GB RAM and 256GB storage is a
       budget-friendly smartphone featuring a large 6.6-inch FHD+ display, a 50MP
       main camera, a powerful Unisoc T606 processor, a long-lasting 5000mAh
       battery with 22.5W fast charging, and Android OS, offering great value
       with ample storage for everyday use, social media, and light gaming,
-      including features like NFC and dual SIM support. Colors Available purple
+      including features like NFC and dual SIM support. Colors Available purple"
     category: Phones
     id: 105
     variants:
@@ -3145,7 +3141,7 @@ products:
         color: Blue
         price: 219.95
         image: images/zte_blade_a55_black__86362.jpg
-    name: " ZTE Blade A55, 128GB, 4G, 6.7in HD, Dual SIM, unlocked, New, Sealed"
+    name: "ZTE Blade A55, 128GB, 4G, 6.7in HD, Dual SIM, unlocked, New, Sealed"
     category: Phones
     description: "The ZTE Blade A55 is an affordable Android smartphone released in
       2024, featuring a large 6.75-inch 90Hz HD+ display, a 13MP dual rear
@@ -3155,7 +3151,7 @@ products:
       fingerprint unlock. It's known for offering good value, especially for
       social media, light gaming, and general use, but may struggle with
       intensive gaming or high-end camera performance.  Colors Available Orange,
-      Black Blue "
+      Black Blue"
   - id: 107
     variants:
       - id: 382
@@ -3172,8 +3168,7 @@ products:
         image: images/google_pixel_7_white__62439.jpg
     name: Google Pixel 7,128GB, unlocked , New, Sealed
     category: Phones
-    description: >-
-      The Google Pixel 7, released in 2022, is a capable smartphone featuring
+    description: "The Google Pixel 7, released in 2022, is a capable smartphone featuring
       Google's Tensor G2 chip for strong performance, a 6.3-inch OLED display,
       advanced AI-driven camera features like Magic Eraser and Photo Unblur, and
       a clean stock Android experience with timely updates, though its 20W
@@ -3185,4 +3180,4 @@ products:
 
           Processor: Google Tensor G2
           Display: 6.3-inch OLED, 1080x2400 resolution, 90Hz refresh rate
-          Cameras: 50MP main rear camera, 10.8MP front camera, with AI features Color Available Black, White, Lime green
+          Cameras: 50MP main rear camera, 10.8MP front camera, with AI features Color Available Black, White, Lime green"
