@@ -199,7 +199,7 @@ products:
       Display: A 6.67-inch IPS LCD with a 720p HD+ resolution and a smooth 120Hz refresh rate. Some variants may have a 6.6-inch screen with a 90Hz refresh rate and a 720p resolution. Performance: Powered by a MediaTek Helio G81 chipset (or G70 for some variants) and comes with up to 8GB of RAM, depending on the model. Virtual RAM expansion is also a feature. Camera: It has a dual-camera system on the back with a 50MP main sensor and an auxiliary lens. The front camera is 8MP and can shoot video at 1080p@30fps. Battery and charging: The device is powered by a large 5,000mAh non-removable battery and supports 18W wired charging. A full charge may take around 2 hours. Storage: The Spark 30C is available with different storage options, including 128GB and 256GB of internal storage, which is expandable via a microSDXC card. Audio: Includes a 3.5mm headphone jack and stereo speakers. Operating system: It runs on Android 14 with Tecno's HiOS skin. Some variants are specified with Android 12 and HiOS 8.6. Other features: The phone has a side-mounted fingerprint sensor, an IR blaster for controlling appliances, and an IP54 rating for dust and splash resistance
     image: images/tecno_spark_30c_white__64972.jpg
   - id: 13
-    name: "Samsung Galaxy A03S ,32GB , 4G LTE , 6.5in , unlocked ,New , Sealed "
+    name: "Samsung Galaxy A03S ,32GB , 4G LTE , 6.5in , Unlocked ,New , Sealed "
     category: Phones
     price: 209.95
     description: >-2
@@ -1749,7 +1749,7 @@ products:
         price: 739.95
         image: images/Apple-iphone-15-128GB-E-Sim(Blue).jpg
   - id: 76
-    name: Apple iPhone 16 Pro Max, 256GB, E-Sim , Pre-owned, A+ Grade , unlocked
+    name: Apple iPhone 16 Pro Max, 256GB, E-Sim , Pre-owned, A+ Grade , Unlocked
     category: Pre-Owned Phones & Tablets
     description: >-
       iPhone 16 Pro Max - Tech Specs Year introduced: 2024 Identify your iPhone
@@ -2781,7 +2781,7 @@ products:
         color: Gray
         image: images/note-12-pro__64347.jpg
   - id: 97
-    name: Xiaomi Redmi 10, 128GB, 6.4in ,Dual SIM, unlocked,New
+    name: Xiaomi Redmi 10, 128GB, 6.4in ,Dual SIM, Unlocked,New
     category: Phones
     description: The Redmi 10 5G is a budget-friendly Xiaomi smartphone featuring a
       6.58-inch 90Hz FHD+ display, MediaTek Dimensity 700 chip, 50MP dual rear
@@ -2822,7 +2822,7 @@ products:
         price: 289.95
         id: 371
         image: images/redmi_13_blue__32847.jpg
-    name: " Xiaomi Redmi 13, 256GB, unlocked, New, Sealed"
+    name: " Xiaomi Redmi 13, 256GB, Unlocked, New, Sealed"
     category: Phones
     description: The Redmi 13 is a budget-friendly smartphone featuring a Helio
       G91-Ultra processor, a large 6.79" 90Hz FHD+ display, a high-resolution
@@ -2861,7 +2861,7 @@ products:
       (IP54, reinforced frame) and large screen experience, with features like
       extended RAM and AI camera software. Color Available Gray "
   - id: 102
-    name: ZTE 35E, 64GB, 6.5in , unlocked, New , Sealed
+    name: ZTE Blade A35E, 64GB, 6.5in , Unlocked, New , Sealed
     category: Phones
     description: >+
       The ZTE Blade A35e is an affordable, entry-level Android smartphone
@@ -2924,7 +2924,7 @@ products:
         color: Gold
         price: 269.95
         image: images/zte_blade_v60_g__86680-1-.jpg
-  - name: "ZTE Blade V50, 256GB,  6.6in , 4G, , unlocked, New, Sealed "
+  - name: "ZTE Blade V50, 256GB,  6.6in , 4G, , Unlocked, New, Sealed "
     variants:
       - id: 378
         color: Purple
@@ -2951,7 +2951,7 @@ products:
         color: Blue
         price: 219.95
         image: images/zte_blade_a55_black__86362.jpg
-    name: " ZTE Blade A55, 128GB, 4G, 6.7in HD, Dual SIM, unlocked, New, Sealed"
+    name: " ZTE Blade A55, 128GB, 4G, 6.7in HD, Dual SIM, Unlocked, New, Sealed"
     category: Phones
     description: "The ZTE Blade A55 is an affordable Android smartphone released in
       2024, featuring a large 6.75-inch 90Hz HD+ display, a 13MP dual rear
@@ -2976,7 +2976,7 @@ products:
         color: Lime green
         price: 369.95
         image: images/google_pixel_7_white__62439.jpg
-    name: Google Pixel 7,128GB, unlocked , New, Sealed
+    name: Google Pixel 7,128GB, Unlocked , New, Sealed
     category: Phones
     description: >-
       The Google Pixel 7, released in 2022, is a capable smartphone featuring
