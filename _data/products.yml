@@ -2806,12 +2806,12 @@ products:
         image: images/redmi_14c_g__01228.jpg
     name: Xiaomi Redmi , 256GB, 6.4in. Dual SIM Unlocked, New
     category: Phones
-    description: "The Redmi 14C is an entry-level smartphone featuring a large
+    description: The Redmi 14C is an entry-level smartphone featuring a large
       6.88-inch 720p 120Hz display, MediaTek Helio G81-Ultra processor, up to
       8GB RAM, 50MP main camera, 13MP selfie camera, and a 5160mAh battery with
       18W charging, running Android 14 with HyperOS, offering good value for
       basic use but with some compromises like a budget display
-      resolution.  Colors Green "
+      resolution.  Colors Green
   - id: 99
     variants:
       - color: Black
@@ -2822,7 +2822,7 @@ products:
         price: 289.95
         id: 371
         image: images/redmi_13_blue__32847.jpg
-    name: " Xiaomi Redmi 13, 256GB, Unlocked, New, Sealed"
+    name: Xiaomi Redmi 13, 256GB, Unlocked, New, Sealed
     category: Phones
     description: The Redmi 13 is a budget-friendly smartphone featuring a Helio
       G91-Ultra processor, a large 6.79" 90Hz FHD+ display, a high-resolution
@@ -2853,23 +2853,23 @@ products:
         image: images/zte_blade_v70_max__41601.jpg
     name: ZTE Blade V70 Max, 258GB, 6.9in ,14Ram, Unlocked, New, Sealed
     category: Phones
-    description: "The ZTE Blade V70 Max is a budget-friendly 4G smartphone featuring
+    description: The ZTE Blade V70 Max is a budget-friendly 4G smartphone featuring
       a large 6.9-inch HD+ 120Hz display, powered by a Unisoc T606/T7200
       processor, running Android 15, and boasting a big 6000mAh battery with
       22.5W charging, alongside a 50MP main rear camera, an 8MP front camera,
       and up to 8GB RAM with 256GB expandable storage. It focuses on durability
       (IP54, reinforced frame) and large screen experience, with features like
-      extended RAM and AI camera software. Color Available Gray "
+      extended RAM and AI camera software. Color Available Gray
   - id: 102
     name: ZTE Blade A35E, 64GB, 6.5in , Unlocked, New , Sealed
     category: Phones
-    description: "The ZTE Blade A35e is an affordable, entry-level Android smartphone
+    description: The ZTE Blade A35e is an affordable, entry-level Android smartphone
       designed for basic daily use, featuring a large 6.52-inch HD+ screen, a
       long-lasting 5000mAh battery, an 8MP rear camera, 5MP front camera, and
       expandable storage with a triple SIM slot for simultaneous use of two SIMs
       and a microSD card. Key features include a 3.5mm headphone jack, USB-C,
       and often running Android 14, making it a practical choice for calls,
-      messaging, and light apps without frills"
+      messaging, and light apps without frills
 
 
       Key Specifications:
@@ -2894,21 +2894,21 @@ products:
         image: images/zte_a35_c__53576.jpg
     name: ZTE Blade 35, 64GB , 6.7, Dual SIM, Unlocked, New , Sealed
     category: Phones
-    description: "The ZTE Blade A35 is a budget-friendly Android smartphone
+    description: The ZTE Blade A35 is a budget-friendly Android smartphone
       featuring a large 6.75-inch 90Hz display, a Unisoc octa-core chip, 4GB
       RAM, 64GB storage (expandable), and a big 5000mAh battery, running Android
       14 (Go Edition) for light daily use, social media, and basic tasks, making
       it a solid, affordable choice for first-time users or as a backup phone.
-      Color Available green "
+      Color Available green
   - id: 104
     name: ZTE Blade. V60 , 256GB , 4G, Dual SIM, Unlocked, New, Sealed
-    description: "The ZTE Blade V60 is an entry-level Android smartphone featuring a
+    description: The ZTE Blade V60 is an entry-level Android smartphone featuring a
       large 6.6-inch HD+ screen with a 90Hz refresh rate, a powerful 5000mAh
       battery with fast charging, a 50MP main camera, and often comes with
       significant storage (like 256GB) and dynamic RAM (up to 16GB) for smooth
       multitasking, running on Android 13 with ZTE's MyOS and a budget-friendly
       Unisoc processor, offering features like a headphone jack and USB-C.
-      Colors Available  Violet, Blue, Gold "
+      Colors Available  Violet, Blue, Gold
     category: Phones
     variants:
       - id: 375
@@ -2923,7 +2923,7 @@ products:
         color: Gold
         price: 269.95
         image: images/zte_blade_v60_g__86680-1-.jpg
-  - name: "ZTE Blade V50, 256GB,  6.6in , 4G, , Unlocked, New, Sealed "
+  - name: ZTE Blade V50, 256GB,  6.6in , 4G, , Unlocked, New, Sealed
     variants:
       - id: 378
         color: Purple
@@ -2950,17 +2950,17 @@ products:
         color: Blue
         price: 219.95
         image: images/zte_blade_a55_black__86362.jpg
-    name: " ZTE Blade A55, 128GB, 4G, 6.7in HD, Dual SIM, Unlocked, New, Sealed"
+    name: ZTE Blade A55, 128GB, 4G, 6.7in HD, Dual SIM, Unlocked, New, Sealed
     category: Phones
-    description: "The ZTE Blade A55 is an affordable Android smartphone released in
+    description: The ZTE Blade A55 is an affordable Android smartphone released in
       2024, featuring a large 6.75-inch 90Hz HD+ display, a 13MP dual rear
       camera, an 8MP selfie camera, a large 5000mAh battery with 10W charging,
       and Unisoc octa-core processor, running Android 14 (Go Edition) for basic
       tasks and everyday use, with dynamic RAM expansion technology and side
-      fingerprint unlock. It's known for offering good value, especially for
+      fingerprint unlock. Its known for offering good value, especially for
       social media, light gaming, and general use, but may struggle with
       intensive gaming or high-end camera performance.  Colors Available Orange,
-      Black Blue "
+      Black Blue
   - id: 107
     variants:
       - id: 382
@@ -2977,14 +2977,13 @@ products:
         image: images/google_pixel_7_white__62439.jpg
     name: Google Pixel 7,128GB, Unlocked , New, Sealed
     category: Phones
-    description: >-
-      The Google Pixel 7, released in 2022, is a capable smartphone featuring
-      Google's Tensor G2 chip for strong performance, a 6.3-inch OLED display,
+    description: The Google Pixel 7, released in 2022, is a capable smartphone featuring
+      Googles Tensor G2 chip for strong performance, a 6.3-inch OLED display,
       advanced AI-driven camera features like Magic Eraser and Photo Unblur, and
       a clean stock Android experience with timely updates, though its 20W
       charging and older Tensor G2 can show limitations in 2025 compared to
       newer models, making it a budget-friendly choice for those wanting great
-      photos and pure Android without the latest flagship cost. 
+      photos and pure Android without the latest flagship cost
 
       Key Features & Specs
 
