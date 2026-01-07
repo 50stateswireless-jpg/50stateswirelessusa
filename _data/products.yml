@@ -3059,3 +3059,481 @@ products:
         color: Lime Green
         price: 369.95
         image: images/google_pixel_7_white__62439.jpg
+  - id: 108
+    name: Apple iPhone 13, 128GB, Physical SIM ,  Unlocked, A+ Grade , Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      The iPhone 13, released by Apple in 2021, features a 6.1-inch Super Retina
+      XDR display, the powerful A15 Bionic chip, a dual 12MP camera system (Wide
+      & Ultra Wide) with Cinematic Mode, 5G connectivity, and extended battery
+      life, supporting up to 19 hours of video playback. Key highlights include
+      its aerospace-grade aluminum design with Ceramic Shield, MagSafe
+      compatibility, and availability in colors like Midnight, Starlight, Pink,
+      Blue, and Green. 
+
+      Key Features
+
+          Display: 6.1-inch Super Retina XDR (OLED) with Dolby Vision HDR.
+          Performance: A15 Bionic chip (6-core CPU, 4-core GPU, 16-core Neural Engine).
+          Cameras: Dual 12MP (Wide & Ultra Wide) with Night Mode, Sensor-shift OIS, 4K Dolby Vision HDR recording, Cinematic Mode.
+          Battery: Up to 19 hours video playback, MagSafe/Qi wireless charging, fast-charge capable.
+          Connectivity: Advanced 5G, Wi-Fi 6, Bluetooth 5.0.
+          Design: Flat edges, Aerospace-grade aluminum frame, Ceramic Shield front, water resistance.
+          Security: Face ID.
+
+      Models & Storage
+
+          Available in various storage options (e.g., 128GB, 256GB, 512GB
+    variants:
+      - id: 385
+        color: White
+        price: 519.95
+        image: images/sta-image-0.jpeg
+      - id: 386
+        color: Black
+        price: 519.95
+        image: images/61mxivwdp5l._ac_uf894-1000_ql80_fmwebp_.webp
+  - id: 109
+    name: Apple iPhone 13, 256GB, Unlocked, Physical SIM, A+ Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Colors Black and white.    Details.  The iPhone 13, released by
+      Apple in 2021, features a 6.1-inch Super Retina XDR display, the powerful
+      A15 Bionic chip, a dual 12MP camera system (Wide & Ultra Wide) with
+      Cinematic Mode, 5G connectivity, and extended battery life, supporting up
+      to 19 hours of video playback. Key highlights include its aerospace-grade
+      aluminum design with Ceramic Shield, MagSafe compatibility, and
+      availability in colors like Midnight, Starlight, Pink, Blue, and Green. 
+
+      Key Features
+
+          Display: 6.1-inch Super Retina XDR (OLED) with Dolby Vision HDR.
+          Performance: A15 Bionic chip (6-core CPU, 4-core GPU, 16-core Neural Engine).
+          Cameras: Dual 12MP (Wide & Ultra Wide) with Night Mode, Sensor-shift OIS, 4K Dolby Vision HDR recording, Cinematic Mode.
+          Battery: Up to 19 hours video playback, MagSafe/Qi wireless charging, fast-charge capable.
+          Connectivity: Advanced 5G, Wi-Fi 6, Bluetooth 5.0.
+          Design: Flat edges, Aerospace-grade aluminum frame, Ceramic Shield front, water resistance.
+          Security: Face ID.
+
+      Models & Storage
+
+          Available in various storage options (e.g., 128GB, 256GB, 512GB
+    variants:
+      - id: 387
+        color: White
+        price: 619.95
+        image: images/sta-image-0.jpeg
+      - id: 389
+        color: Black
+        price: 619.95
+        image: images/61MXivWDp5L._AC_UF894,1000_QL80_FMwebp_.webp
+  - id: 110
+    name: Apple iPhone 13 Pro Max,128GB, Unlocked, A+ Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      The iPhone 13 Pro Max, released in 2021, is a large, high-end smartphone
+      featuring a 6.7-inch ProMotion display, the A15 Bionic chip, and an
+      advanced Pro camera system, known for its excellent battery life, durable
+      stainless steel frame, and IP68 water resistance, with models available
+      for purchase renewed or refurbished today. 
+
+      Key Features
+
+      Display: 6.7-inch Super Retina XDR display with ProMotion (adaptive 120Hz refresh rate).
+
+      Processor: A15 Bionic chip.
+
+      Camera: 12MP Pro camera system (Telephoto, Wide, Ultra Wide).
+
+      Battery: Long-lasting battery, supporting MagSafe and fast charging.
+
+      Design: Stainless steel frame with a squared-off edge design.
+
+      Durability: IP68 dust and water resistance.
+
+      Storage: Up to 1TB options available. 
+
+      Performance & Software
+
+      Ships with iOS 15 but is compatible with the latest iOS versions, including iOS 18.
+
+      Offers strong 5G connectivity. 
+
+      Availability     Although discontinued by Apple for new sales, it remains available as renewed or refurbished from various retailers. 
+    variants:
+      - id: 390
+        color: Black
+        price: 649.95
+        image: images/iphone-13-pro-max-color-series-skins-slickwraps-1.jpg
+      - id: 391
+        color: Green
+        price: 649.95
+        image: images/13promaxalpinegreen_dual_1_05d80a91-0098-4006-b112-b1b96cfbc0cb.png
+      - id: 392
+        color: Graphite
+        price: 649.95
+        image: images/untitled-design-60__86520.png
+  - id: 111
+    name: Apple iPhone 13 Pro Max ,256GB, Unlocked, A+ Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      The iPhone 13 Pro Max, released in 2021, is a large, high-end smartphone
+      featuring a 6.7-inch ProMotion display, the A15 Bionic chip, and an
+      advanced Pro camera system, known for its excellent battery life, durable
+      stainless steel frame, and IP68 water resistance, with models available
+      for purchase renewed or refurbished today. 
+
+      Key Features
+
+      Display: 6.7-inch Super Retina XDR display with ProMotion (adaptive 120Hz refresh rate).
+
+      Processor: A15 Bionic chip.
+
+      Camera: 12MP Pro camera system (Telephoto, Wide, Ultra Wide).
+
+      Battery: Long-lasting battery, supporting MagSafe and fast charging.
+
+      Design: Stainless steel frame with a squared-off edge design.
+
+      Durability: IP68 dust and water resistance.
+
+      Storage: Up to 1TB options available. 
+
+      Performance & Software
+
+      Ships with iOS 15 but is compatible with the latest iOS versions, including iOS 18.
+
+      Offers strong 5G connectivity. 
+
+      Availability     Although discontinued by Apple for new sales, it remains available as renewed or refurbished from various retailers. 
+    variants:
+      - id: 393
+        color: Black
+        price: 699.95
+        image: images/iphone-13-pro-max-color-series-skins-slickwraps-1.jpg
+      - id: 394
+        color: Green
+        price: 699.95
+        image: images/13promaxalpinegreen_dual_1_05d80a91-0098-4006-b112-b1b96cfbc0cb.png
+      - id: 395
+        color: Graphite
+        price: 699.95
+        image: images/untitled-design-60__86520.png
+  - id: 112
+    name: Apple iPhone 14, 128GB, Unlocked, E-SIM, A+ Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      The iPhone 14 features a 6.1-inch Super Retina XDR (OLED) display, the A15
+      Bionic chip with 5-core GPU, dual 12MP (Wide & Ultra Wide) rear cameras,
+      12MP TrueDepth front camera, 6GB RAM, IP68 water resistance, and supports
+      5G, all powered by a 3279mAh battery for all-day life, running iOS
+      (originally 16). It comes with 128/256/512GB storage, a Lightning port
+      (last of its kind for standard models), and introduced features like
+      Cinematic Mode and Emergency SOS via Satellite.  
+
+      Display & Design
+
+              Screen: 6.1-inch Super Retina XDR (OLED).
+              Resolution: 1170x2532 pixels.
+              Refresh Rate: Standard 60Hz.
+              Durability: Ceramic Shield front, aluminum design, IP68 water/dust resistant.
+              Colors: Blue, Midnight, Starlight, Purple, Product Red, Yellow. 
+
+      Performance
+
+              Chip: A15 Bionic (6-core CPU, 5-core GPU).
+              RAM: 6GB.
+              Storage: 128GB, 256GB, or 512GB. 
+
+      Cameras
+
+              Rear: Advanced Dual-Camera System (12MP Wide + 12MP Ultra Wide).
+              Front: 12MP TrueDepth with Autofocus.
+              Video: 4K Dolby Vision HDR recording, Cinematic Mode. 
+
+      Battery & Charging
+
+              Battery: Up to 20 hours video playback.
+              Charging: MagSafe (up to 15W) & Qi wireless charging, USB-C (Lightning port). 
+
+      Connectivity & Features
+
+              Network: 5G.
+              Security: Face ID.
+              New Features: Emergency SOS via Satellite, Crash Detection. 
+
+      Other Specs
+
+              OS: Launched with iOS 16, upgradable.
+              Dimensions: 146.7 x 71.5 x 7.8 mm.
+              Weight: 172g. 
+    variants:
+      - id: 396
+        color: Black
+        price: 559.95
+        image: images/aag-ip14128mdn_new.jpg
+      - id: 397
+        color: White
+        price: 559.95
+        image: images/refurb-iphone-14-starlight-202404.jpeg
+  - id: 113
+    name: Apple iPhone 14 Plus, 128GB, E-SIM, Unlocked, A+ Grade , Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Colors Black, Yellow, Purple, Blue  Details  The iPhone 14 Plus
+      features a large 6.7-inch Super Retina XDR (OLED) display, powered by the
+      A15 Bionic chip with a 5-core GPU, dual 12MP main and ultrawide cameras,
+      and 6GB of RAM with 128GB, 256GB, or 512GB storage options, all housed in
+      an aluminum body with Ceramic Shield front, offering excellent battery
+      life and MagSafe, but lacks the ProMotion display and telephoto lens of
+      the Pro models.  
+
+      Here are the key specs: 
+
+              Display: 6.7-inch (diagonal) Super Retina XDR (OLED)
+              Chip: A15 Bionic (6-core CPU, 5-core GPU, 16-core Neural Engine)
+              Cameras: Dual 12MP system (Wide & Ultra Wide)
+              RAM: 6GB
+              Storage: 128GB, 256GB, 512GB
+              Design: Aluminum frame, Ceramic Shield front, Glass back
+              Water Resistance: IP68
+              Connectivity: 5G, MagSafe
+
+      Key Highlights:
+
+              Large Screen: Offers the big 6.7-inch display size previously only on Pro Max models. 
+              Great Battery: Known for excellent battery performance. 
+              Solid Performance: Fast A15 chip handles daily tasks and gaming well. 
+              No Pro Features: Lacks the high refresh rate (ProMotion) display and 48MP main camera of the iPhone 14 Pro series. 
+    variants:
+      - id: 398
+        color: Black
+        price: 599.95
+        image: images/aag-ip14128mdn_new.jpg
+      - id: 399
+        color: Yellow
+        price: 599.95
+        image: images/iphone-14-plus-yellow__15396.jpg
+      - id: 400
+        color: Purple
+        price: 599.95
+        image: images/619f09kk7tl._ac_uf894-1000_ql80_fmwebp_.webp
+      - id: 401
+        color: Blue
+        price: 599.95
+        image: images/iphone-14-4.jpg
+  - id: 114
+    name: Apple iPhone 14 Plus, 256GB, E-SIM, Unlocked, A+ Grade , Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      The iPhone 14 Plus features a large 6.7-inch Super Retina XDR (OLED)
+      display, powered by the A15 Bionic chip with a 5-core GPU, dual 12MP main
+      and ultrawide cameras, and 6GB of RAM with 128GB, 256GB, or 512GB storage
+      options, all housed in an aluminum body with Ceramic Shield front,
+      offering excellent battery life and MagSafe, but lacks the ProMotion
+      display and telephoto lens of the Pro models.  
+
+      Here are the key specs: 
+
+              Display: 6.7-inch (diagonal) Super Retina XDR (OLED)
+              Chip: A15 Bionic (6-core CPU, 5-core GPU, 16-core Neural Engine)
+              Cameras: Dual 12MP system (Wide & Ultra Wide)
+              RAM: 6GB
+              Storage: 128GB, 256GB, 512GB
+              Design: Aluminum frame, Ceramic Shield front, Glass back
+              Water Resistance: IP68
+              Connectivity: 5G, MagSafe
+
+      Key Highlights:
+
+              Large Screen: Offers the big 6.7-inch display size previously only on Pro Max models. 
+              Great Battery: Known for excellent battery performance. 
+              Solid Performance: Fast A15 chip handles daily tasks and gaming well. 
+              No Pro Features: Lacks the high refresh rate (ProMotion) display and 48MP main camera of the iPhone 14 Pro series. 
+    variants:
+      - id: 402
+        color: Black
+        price: 649.95
+        image: images/refurb-iphone-14-starlight-202404.jpeg
+      - id: 403
+        color: Yellow
+        price: 649.95
+        image: images/refurb-iphone-14-starlight-202404.jpeg
+      - id: 404
+        color: Purple
+        price: 649.95
+        image: images/refurb-iphone-14-starlight-202404.jpeg
+      - id: 405
+        color: Blue
+        price: 649.95
+        image: images/refurb-iphone-14-starlight-202404.jpeg
+  - id: 115
+    name: Apple iPhone 14 Pro Max, 128GB, E-SIM, Unlocked, A+Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Colors White, Gold, Purple.    Details  The iPhone 14 Pro Max
+      features a large 6.7-inch Super Retina XDR display with Dynamic Island,
+      Always-On, and ProMotion (120Hz). It's powered by the A16 Bionic chip,
+      boasts a Pro camera system with a 48MP main sensor, and offers robust
+      connectivity with 5G, Wi-Fi 6, and Bluetooth 5.3. Key features include
+      Face ID, IP68 water resistance, MagSafe, and durable stainless steel
+      design. 
+
+      Display
+
+      Size: 6.7-inch Super Retina XDR display
+
+      Resolution: 2796x1290 pixels
+
+      Refresh Rate: ProMotion (adaptive up to 120Hz)
+
+      Features: Dynamic Island, Always-On display, Ceramic Shield front 
+
+      Cameras
+
+      Rear Pro System: 48MP Main, 12MP Ultra Wide, 12MP Telephoto (3x optical zoom)
+
+      Front Camera: 12MP TrueDepth with Autofocus
+
+      Features: LiDAR Scanner, Photonic Engine, ProRes video 
+
+      Performance
+
+      Chip: A16 Bionic
+
+      RAM: 6GB
+
+      Storage Options: 128GB, 256GB, 512GB, 1TB 
+
+      Battery & Charging
+
+      Capacity: ~4323 mAh
+
+      Charging: MagSafe (up to 15W), Qi (up to 7.5W), Fast-charge capable 
+
+      Connectivity
+
+      Cellular: 5G
+
+      Wireless: Wi-Fi 6, Bluetooth 5.3, NFC
+
+      Port: Lightning 
+
+      Design & Durability
+
+      Materials: Stainless steel frame, Textured matte glass back
+
+      Water Resistance: IP68 (up to 6 meters for 30 mins)
+
+      Weight: 240 grams (8.5 oz) 
+
+      Other Features
+
+          Face ID
+          Emergency SOS via Satellite
+          Crash Detection
+          Runs iOS (originally iOS 16) 
+    variants:
+      - id: 406
+        color: White
+        price: 649.95
+        image: images/sta-image-0.jpeg
+      - id: 407
+        color: Gold
+        price: 649.95
+        image: images/64fefcbc-cafa-4964-842c-788fefc5a837-1_a0f89d9b-5eb7-4848-ac8e-cf3d0aebcaca.jpg
+      - id: 408
+        color: Purple
+        price: 649.95
+        image: images/619f09kK7tL._AC_UF894,1000_QL80_FMwebp_.webp
+  - id: 116
+    name: Apple iPhone 15 Pro Max, 256GB, E-SIM, Unlocked, A+ Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Colors White , Blue, Natural.  Details  The iPhone 15 Pro Max
+      boasts a 6.7-inch ProMotion Super Retina XDR display (120Hz), A17 Pro
+      chip, titanium design, and a versatile camera system with advanced
+      features like ProRes video, all powered by iOS 17/18 and featuring USB-C
+      connectivity; key upgrades include the Action Button, brighter display,
+      and enhanced camera zoom, making it a premium powerhouse for demanding
+      users.  
+
+      Key Specifications & Features:
+
+          Design: Aerospace-grade titanium frame, Ceramic Shield front, textured matte glass back, IP68 water resistance. 
+          Display: 6.7-inch All-Screen OLED, ProMotion (up to 120Hz), Always-On, Dynamic Island, up to 2000 nits peak outdoor brightness. 
+              Performance: A17 Pro chip (3nm), fast CPU/GPU for gaming and professional tasks, 8GB RAM. 
+              Cameras: Advanced Pro Camera System: 48MP Main, 12MP Ultra Wide, 12MP Telephoto (5x optical zoom/120mm equivalent). 
+              Charging/Port: USB-C port (USB 3 speeds), MagSafe wireless charging. 
+              Action Button: Customizable button replacing the mute switch. 
+              Storage: Options for 256GB, 512GB, 1TB. 
+              Operating System: Launched with iOS 17, supports latest iOS (currently iOS 18). 
+
+      Key Upgrades Over Previous Models:
+
+              Titanium Build: Lighter and stronger than stainless steel.
+              A17 Pro Chip: Significant performance leap, especially for graphics.
+              5x Telephoto Zoom: Longer optical zoom for telephoto shots.
+              Action Button: Quick access to camera, flashlight, or other functions. 
+
+      Considerations:
+
+              Software: Early models experienced some bugs like overheating and battery drain, often addressed by iOS updates. 
+              Price: Premium pricing, with newer models sometimes available refurbished. 
+    variants:
+      - id: 409
+        color: White
+        price: 959.95
+        image: images/712ty0ncerl._ac_uf894-1000_ql80_fmwebp_-1-.webp
+      - id: 410
+        color: Blue
+        price: 959.95
+        image: images/61-k3mduxkl._ac_uf894-1000_ql80_fmwebp_.webp
+      - id: 411
+        color: Natural
+        price: 959.95
+        image: images/616mzzm8-7l._ac_uf894-1000_ql80_fmwebp_.webp
+  - id: 117
+    name: Apple iPhone 16E , 128GB, E-SIM , Unlocked, A+ Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available white, Black.   Details  The iPhone 16e is Apple's
+      budget-friendly iPhone, featuring a 6.1-inch Super Retina XDR (OLED)
+      display, the powerful A18 chip with Apple Intelligence, a 48MP main
+      camera, USB-C, and durable design with Ceramic Shield, offering high
+      performance and battery life in an accessible package with standard 60Hz
+      refresh rate, detailed in its tech specs on Apple's support pages. 
+
+      Key Specifications:
+
+          Display: 6.1-inch Super Retina XDR (OLED), 2532x1170 resolution, True Tone, Wide Color (P3).
+          Processor: A18 Chip (6-core CPU).
+          Cameras: 48MP Main (ƒ/1.6) with optical stabilization, 12MP TrueDepth front camera.
+          Storage: 128GB, 256GB, 512GB options.
+          Connectivity: 5G, Wi-Fi 6, Bluetooth 5.3, NFC, USB-C.
+          Durability: IP68 water/dust resistance, Ceramic Shield front.
+          Battery: Long-lasting, supports up to 26 hours video playback.
+          Design: Aluminum frame, glass back, available in Black, White.
+          Features: Action Button, Face ID, Apple Intelligence. 
+
+      Highlights:
+
+          Apple Intelligence: Integrated AI features for enhanced communication and productivity.
+          A18 Chip: Delivers fast performance, making it a great value for powerful features.
+          USB-C Port: For universal charging and connectivity.
+          Camera: High-resolution 48MP main camera for detailed photos. 
+
+      What it lacks compared to Pro models:
+
+          ProMotion Display: Standard 60Hz refresh rate (Pro models have 120Hz).
+          mmWave 5G: US models lack mmWave support, relying on sub-6GHz 5G.
+          Ultra-Wideband: Does not include the U2 chip for UWB features.
+    variants:
+      - id: 412
+        color: White
+        price: 629.95
+        image: images/iphone_16e_whi_1.webp
+      - id: 413
+        color: Black
+        price: 629.95
+        image: images/iphone_16e_black__55227.jpg
