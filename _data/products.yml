@@ -4085,3 +4085,894 @@ products:
         color: Gold
         price: 609.95
         image: images/apple-iphone-12-pro-4595755.jpg
+  - id: 128
+    name: Apple iPhone 12 Mini , 128GB, Physical SIM, Unlocked, A- Grade
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Colors Black, Red , White. The iPhone 12 mini is a compact
+      5.4-inch 5G smartphone featuring an OLED Super Retina XDR display, A14
+      Bionic chip, and Ceramic Shield front cover. It has a 12MP dual-camera
+      system (wide/ultra-wide), 4GB RAM, and 64GB/128GB/256GB storage options.
+      Key specs include IP68 water resistance, Face ID, and a 2,227mAh battery. 
+
+      Key Technical Specifications 
+
+          Display: 5.4-inch OLED, 2340 x 1080 resolution (476 ppi), 60Hz refresh rate, 1200 nits peak brightness (HDR).
+          Processor: A14 Bionic chip (6-core CPU, 4-core GPU, 16-core Neural Engine).
+          RAM: 4GB.
+          Storage: 64GB, 128GB, or 256GB.
+          Rear Camera: Dual 12MP system (Main:
+          f/1.6f / 1.6
+          𝑓/1.6
+          , Ultra Wide:
+          f/2.4f / 2.4
+          𝑓/2.4
+          with 120° field of view).
+          Front Camera: 12MP TrueDepth (
+          f/2.2f / 2.2
+          𝑓/2.2
+          ).
+          Battery: 2,227 mAh; supports up to 15 hours of video playback.
+          Charging: Lightning port, MagSafe wireless charging (up to 15W), Qi wireless charging (up to 7.5W).
+          Dimensions: 5.18" x 2.53" x 0.29" (131.5 x 64.2 x 7.4 mm).
+          Weight: 4.76 oz (135 grams).
+          Connectivity: 5G (Sub-6 GHz and mmWave), Wi-Fi 6, Bluetooth 5.0, NFC.
+          Durability: IP68 (6 meters for 30 minutes), Ceramic Shield front. 
+    variants:
+      - id: 444
+        color: Black
+        price: 349.95
+        image: images/128-black.webp
+      - id: 445
+        color: Red
+        price: 349.95
+        image: images/128-red.jpeg
+      - id: 446
+        color: White
+        price: 349.95
+        image: images/128-white.jpeg
+  - id: 129
+    name: Apple iPhone 12 , 64GB, Physical SIM, Unlocked , A- Grade
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Color Black. The Apple iPhone 12 features a 6.1-inch Super
+      Retina XDR OLED display, A14 Bionic chip, 5G connectivity, and a Ceramic
+      Shield front cover. It includes a dual 12MP camera system, MagSafe
+      charging, IP68 water resistance, and 4GB of RAM with 64GB, 128GB, or 256GB
+      storage options. 
+
+      Key Specifications: 
+
+          Display: 6.1-inch Super Retina XDR OLED, 2532 x 1170 resolution, 625 nits typical brightness (1200 nits HDR), Ceramic Shield
+          Processor: A14 Bionic chip (6-core CPU, 4-core GPU)
+          Camera: Rear: 12MP Wide (
+          f/1.6f / 1.6
+          𝑓/1.6
+          ) and 12MP Ultra Wide (
+          f/2.4f / 2.4
+          𝑓/2.4
+          ). Front: 12MP TrueDepth (
+          f/2.2f / 2.2
+          𝑓/2.2
+          )
+          Video: 4K recording up to 60fps, Dolby Vision HDR
+          Battery: 2,815mAh (approx.), 15 hours video playback, 15W MagSafe wireless charging
+          Storage: 64GB, 128GB, 256GB
+          RAM: 4GB
+          Durability: IP68 water and dust resistant (maximum depth of 6 meters up to 30 minutes)
+          Weight & Dimensions: 164g, 146.7 x 71.5 x 7.4mm
+          Ports: Lightning connector 
+
+      Features: 
+
+          5G: Sub-6 GHz
+          Security: Face ID
+          Other: MagSafe accessories, Wi-Fi 6, Bluetooth 5.0, Ceramic Shield
+    variants:
+      - id: 447
+        color: Black
+        price: 369.95
+        image: images/129-black.jpeg
+  - id: 130
+    name: Apple iPhone 13 Mini, 256GB, Physical SIM, Unlocked, A- Grade
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Color Black. The iPhone 13 mini (2021) is a compact flagship
+      featuring a 5.4-inch Super Retina XDR OLED display,
+
+      A15 Bionic chip, and improved dual 12MP cameras (wide/ultra-wide) with Sensor-Shift OIS. Key specs include 4GB RAM, 128GB-512GB storage, Face ID, 5G connectivity, and a ~2438mAh battery with MagSafe. It measures
+
+      5.18×2.53×0.305.18 cross 2.53 cross 0.30
+
+      5.18×2.53×0.30
+
+      inches and weighs 141 grams. 
+
+      Key Specifications 
+
+          Display: 5.4-inch OLED (2340 x 1080 resolution), 476 ppi, 60Hz refresh rate, up to 1200 nits HDR brightness.
+          Processor: Apple A15 Bionic chip (6-core CPU, 4-core GPU, 16-core Neural Engine).
+          Camera (Rear): Dual 12MP system (Main: f/1.6, Sensor-shift OIS; Ultra Wide: f/2.4, 120° FOV).
+          Camera (Front): 12MP TrueDepth camera (f/2.2).
+          Video Recording: 4K up to 60fps, Cinematic Mode (1080p at 30fps), Dolby Vision HDR.
+          Storage: 128GB, 256GB, 512GB.
+          RAM: 4GB.
+          Battery: ~2438mAh, up to 17 hours video playback.
+          Charging: Lightning port, 15W MagSafe wireless charging, 7.5W Qi wireless charging.
+          Durability: IP68 water and dust resistant, Ceramic Shield front.
+          Dimensions: 5.18 in (H) x 2.53 in (W) x 0.30 in (D).
+          Weight: 4.97 ounces (141 grams).
+          Colors: (PRODUCT)RED, Starlight, Midnight, Blue, Pink, Green.
+    variants:
+      - id: 448
+        color: Black
+        price: 379.95
+        image: images/130-black.webp
+  - id: 131
+    name: Apple iPhone XS, 64GB, Physical SIM, Unlocked, A- Grade
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Color Black. Handset Only.  The iPhone XS (released 2018)
+      features a 5.8-inch Super Retina OLED display (2436x1125), A12 Bionic
+      chip, 4GB RAM, and a dual 12MP rear camera system (wide/telephoto) with 4K
+      video. It includes Face ID, IP68 water resistance, and a 2,658mAh battery.
+      Available in 64GB, 256GB, or 512GB storage, it supports Gigabit LTE, NFC,
+      and wireless charging. 
+
+      Key Specifications:
+
+          Display: 5.8-inch OLED (458 ppi, HDR, 3D Touch)
+          Processor: A12 Bionic chip with next-generation Neural Engine
+          Camera: Dual 12MP (f/1.8 wide, f/2.4 telephoto) with 2x optical zoom, OIS, and 4K video
+          Front Camera: 7MP TrueDepth camera with Portrait Mode
+          Storage: 64GB, 256GB, 512GB
+          Battery: 2,658mAh (up to 20 hours talk time)
+          Build: Stainless steel frame, glass back, IP68 rated
+          Dimensions: 143.6 x 70.9 x 7.7 mm (177 grams)
+          Connectivity: Gigabit-class LTE, Bluetooth 5.0, Wi-Fi 5 (802.11ac), NFC 
+
+      The iPhone XS was originally released with iOS 12 and supports up to iOS 18.
+    variants:
+      - id: 449
+        price: 299.95
+        color: Black
+        image: images/131-black.jpeg
+  - id: 132
+    name: Apple iPhone XS Max, 256GB, Physical SIM, Unlocked, A- Grade
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Color Black. Handset OnlyThe Apple iPhone XS Max features a
+      6.5-inch Super Retina OLED display (2688 x 1242), A12 Bionic chip, 4GB
+      RAM, and a 3,174 mAh battery. Key specs include dual 12MP rear cameras
+      (wide/telephoto), IP68 water resistance, Face ID, and storage options of
+      64GB, 256GB, or 512GB. Released in 2018, it supports iOS 18. 
+
+      Key Technical Specifications
+
+          Display: 6.5-inch OLED, 2688-by-1242 resolution, 458 ppi, 625 nits brightness
+          Processor: A12 Bionic chip, Hexa-core CPU, 4-core GPU, Next-generation Neural Engine
+          RAM: 4GB LPDDR4X
+          Storage: 64GB, 256GB, 512GB
+          Rear Camera: Dual 12MP (f/1.8 wide, f/2.4 telephoto), 2x optical zoom, 10x digital zoom, OIS
+          Front Camera: 7MP TrueDepth (f/2.2)
+          Video Recording: 4K up to 60fps, 1080p up to 60fps
+          Battery: 3,174 mAh, up to 25 hours talk time, fast-charge capable
+          Dimensions: 157.5 x 77.4 x 7.7 mm (6.20 x 3.05 x 0.30 inches)
+          Weight: 208 grams (7.34 ounces)
+          Build: Stainless steel frame, glass back, IP68 water/dust resistance
+          Connectivity: Lightning connector, Bluetooth 5.0, Wi-Fi 802.11ac, NFC
+          Sensors: Face ID, barometer, three-axis gyro, accelerometer, proximity sensor, ambient light sensor
+    price: ""
+    variants:
+      - id: 450
+        price: 389.95
+        color: Black
+        image: images/132-black.png
+  - id: 133
+    name: Apple iPhone XS Max, 64GB, Physical SIM, Unlocked, A- Grade
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Color Black. Details Handset OnlyThe Apple iPhone XS Max
+      features a 6.5-inch Super Retina OLED display (2688 x 1242), A12 Bionic
+      chip, 4GB RAM, and a 3,174 mAh battery. Key specs include dual 12MP rear
+      cameras (wide/telephoto), IP68 water resistance, Face ID, and storage
+      options of 64GB, 256GB, or 512GB. Released in 2018, it supports iOS 18. 
+
+      Key Technical Specifications
+
+          Display: 6.5-inch OLED, 2688-by-1242 resolution, 458 ppi, 625 nits brightness
+          Processor: A12 Bionic chip, Hexa-core CPU, 4-core GPU, Next-generation Neural Engine
+          RAM: 4GB LPDDR4X
+          Storage: 64GB, 256GB, 512GB
+          Rear Camera: Dual 12MP (f/1.8 wide, f/2.4 telephoto), 2x optical zoom, 10x digital zoom, OIS
+          Front Camera: 7MP TrueDepth (f/2.2)
+          Video Recording: 4K up to 60fps, 1080p up to 60fps
+          Battery: 3,174 mAh, up to 25 hours talk time, fast-charge capable
+          Dimensions: 157.5 x 77.4 x 7.7 mm (6.20 x 3.05 x 0.30 inches)
+          Weight: 208 grams (7.34 ounces)
+          Build: Stainless steel frame, glass back, IP68 water/dust resistance
+          Connectivity: Lightning connector, Bluetooth 5.0, Wi-Fi 802.11ac, NFC
+          Sensors: Face ID, barometer, three-axis gyro, accelerometer, proximity sensor, ambient light sensor 
+    variants:
+      - id: 451
+        price: 379.95
+        color: Black
+        image: images/133-black.png
+  - id: 134
+    name: Apple iPhone 7, 32GB, Physical SIM, Unlocked, A-Grade
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Colors Sliver & Black Details Handset Only  The iPhone 7 (2016)
+      features a 4.7-inch Retina HD display, Apple A10 Fusion chip, 2GB RAM, and
+      12MP rear camera with 4K video. It has an IP67 water-resistant rating,
+      Touch ID, and a 1,960mAh battery. It was released with iOS 10 and is
+      upgradable to iOS 15. 
+
+      Key Specifications: 
+
+          Display: 4.7-inch LED-backlit IPS LCD,
+          1334×7501334 cross 750
+          1334×750
+          pixels at 326 ppi, 625 nits brightness
+          .
+              Processor: A10 Fusion chip (quad-core).
+              Camera (Rear): 12MP,
+              f/1.8f / 1.8
+              𝑓/1.8
+              aperture, optical image stabilization (OIS), 4K video at 30 fps.
+              Camera (Front): 7MP,
+              f/2.2f / 2.2
+              𝑓/2.2
+              aperture, 1080p video.
+              RAM: 2GB LPDDR4.
+              Storage: 32GB, 128GB, or 256GB.
+              Battery: 1,960 mAh, non-removable.
+              Audio: Stereo speakers, no 3.5mm headphone jack.
+              Build: IP67 water and dust resistance, Aluminum body.
+              Colors: Jet Black, Black, Silver, Gold, Rose Gold, Red [Wikipedia]. 
+
+      Features & Connectivity: 
+
+          Security: Touch ID fingerprint sensor.
+          Dimensions: 138.3 mm x 67.1 mm x 7.1 mm; 138 grams.
+          Connectivity: Lightning connector, Bluetooth 4.2, NFC (for Apple Pay), Wi-Fi 802.11ac. 
+    variants:
+      - id: 452
+        color: Sliver
+        price: 169.95
+        image: images/134-silver.png
+      - id: 453
+        price: 169.95
+        color: Black
+        image: images/134-black.png
+  - id: 135
+    name: Google 8 Pro 128GB, Unlocked , A-Grade
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Colors , Black,white,  Mint (light green), Bay (light
+      blue).  The
+
+      Google Pixel 8 Pro features a 6.7-inch Super Actua LTPO OLED display (1-120Hz), the Google Tensor G3 chip, 12GB RAM, and a 5050mAh battery. It boasts a powerful triple rear camera system (50MP main, 48MP ultrawide, 48MP telephoto) with advanced AI photo/video tools like Video Boost and Best Take. 
+
+      Key Specifications 
+
+          Display: 6.7-inch LTPO OLED, 1344 x 2992 pixels, 120Hz refresh rate, up to 2400 nits peak brightness.
+          Processor: Google Tensor G3 (4nm).
+          RAM: 12GB LPDDR5x.
+          Storage: 128GB, 256GB, 512GB, or 1TB options.
+          Rear Cameras: 50 MP wide (
+          f/1.68f / 1.68
+          𝑓/1.68
+          ), 48 MP ultrawide (
+          f/1.95f / 1.95
+          𝑓/1.95
+          ), and 48 MP telephoto (
+          5×5 cross
+          5×
+          optical,
+          f/2.8f / 2.8
+          𝑓/2.8
+          ).
+          Front Camera: 10.5 MP.
+          Battery & Charging: 5050mAh battery, 30W wired charging (approx. 50% in 30 min), fast wireless charging, and reverse wireless charging.
+          OS: Android 14 (with 7 years of OS and security updates).
+          Build: Gorilla Glass Victus 2 front and back, aluminum frame, IP68 dust/water resistance. 
+
+      Key Features 
+
+          Advanced AI Cameras: Magic Editor for complex photo edits, Best Take to fix group photos, and Audio Magic Eraser for noise reduction in videos.
+          Video Boost: Cloud-based processing that improves color, lighting, and stabilization for video.
+          AI Integration: Gemini AI assistant for enhanced voice commands.
+          Security: Under-display fingerprint sensor and face unlock.
+          Design: Distinctive rear camera bar with a polished aluminum frame and matte glass back. 
+
+      The device, typically priced from $999 at launch but often found for less, represents a significant focus on AI-driven capabilities for imaging and daily usage. 
+    variants:
+      - id: 454
+        color: Black
+        image: images/135-black.png
+        price: 539.95
+      - id: 455
+        color: White
+        image: images/135-white.jpeg
+        price: 539.95
+      - id: 456
+        color: Blue
+        image: images/135-blue.jpeg
+        price: 539.95
+      - id: 457
+        color: Green
+        image: images/135-green.png
+        price: 539.95
+  - id: 136
+    name: Google Pixel 8 Pro, 256GB, Unlocked, A-Grade
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Colors , Black,white, Mint (light green), Bay (light blue).  The
+
+      Google Pixel 8 Pro features a 6.7-inch Super Actua LTPO OLED display (1-120Hz), the Google Tensor G3 chip, 12GB RAM, and a 5050mAh battery. It boasts a powerful triple rear camera system (50MP main, 48MP ultrawide, 48MP telephoto) with advanced AI photo/video tools like Video Boost and Best Take. 
+
+      Key Specifications 
+
+          Display: 6.7-inch LTPO OLED, 1344 x 2992 pixels, 120Hz refresh rate, up to 2400 nits peak brightness.
+          Processor: Google Tensor G3 (4nm).
+          RAM: 12GB LPDDR5x.
+          Storage: 128GB, 256GB, 512GB, or 1TB options.
+          Rear Cameras: 50 MP wide (
+          f/1.68f / 1.68
+          𝑓/1.68
+          ), 48 MP ultrawide (
+          f/1.95f / 1.95
+          𝑓/1.95
+          ), and 48 MP telephoto (
+          5×5 cross
+          5×
+           optical, 
+          f/2.8f / 2.8
+          𝑓/2.8
+          ).
+          Front Camera: 10.5 MP.
+          Battery & Charging: 5050mAh battery, 30W wired charging (approx. 50% in 30 min), fast wireless charging, and reverse wireless charging.
+          OS: Android 14 (with 7 years of OS and security updates).
+          Build: Gorilla Glass Victus 2 front and back, aluminum frame, IP68 dust/water resistance. 
+
+      Key Features 
+
+          Advanced AI Cameras: Magic Editor for complex photo edits, Best Take to fix group photos, and Audio Magic Eraser for noise reduction in videos.
+          Video Boost: Cloud-based processing that improves color, lighting, and stabilization for video.
+          AI Integration: Gemini AI assistant for enhanced voice commands.
+          Security: Under-display fingerprint sensor and face unlock.
+          Design: Distinctive rear camera bar with a polished aluminum frame and matte glass back.
+    variants:
+      - id: 458
+        color: Black
+        price: 589.95
+        image: images/136-black.jpeg
+      - id: 459
+        color: White
+        price: 589.95
+        image: images/136-white.png
+      - id: 460
+        color: Blue
+        price: 589.95
+        image: images/136-blue.png
+      - id: 461
+        color: Green
+        price: 589.95
+        image: images/136-green.webp
+  - id: 137
+    name: Google Pixel 8, 128GB, A-Grade, Unlocked, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Colors Mint (light green), Rose ,Black. Details  The Google
+      Pixel 8 is a compact 6.2-inch flagship smartphone featuring the Tensor G3
+      chip, 8GB RAM, a 120Hz Actua OLED display, and a 50MP main camera. Key
+      specs include a 4575mAh battery, 27W wired charging, and 7 years of
+      Android OS/security updates. It offers premium features like IP68 water
+      resistance, Face/Fingerprint Unlock, and AI-driven camera tools. 
+
+      Key Specifications
+
+          Processor: Google Tensor G3 with Titan M2 security chip.
+          Display: 6.2-inch OLED, 1080 x 2400 resolution, 60–120 Hz refresh rate, up to 2000 nits peak brightness.
+          Camera (Rear): 50 MP Octa PD wide (ƒ/1.68) + 12 MP ultrawide with autofocus (macro capability).
+          Camera (Front): 10.5 MP Dual PD.
+          Memory/Storage: 8 GB RAM, 128 GB or 256 GB storage.
+          Battery: 4575 mAh, 27W wired charging, wireless charging support.
+          Dimensions/Weight: 187g, 8.9mm thickness.
+          Software: Android 14 (7 years of updates).
+          Features: IP68 dust/water resistance, under-display fingerprint sensor, Face Unlock, Gorilla Glass Victus. 
+    variants:
+      - id: 462
+        color: Green
+        price: 469.95
+        image: images/137-green.jpeg
+      - id: 463
+        color: Rose
+        price: 469.95
+        image: images/137-rose.png
+      - id: 464
+        color: Black
+        price: 469.95
+        image: images/137-black.png
+  - id: 138
+    name: Google Pixel 7A, 128GB, Unlocked , A-Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Colors White, Coral , Charcoal   Details  The Google Pixel 7a
+      features a 6.1-inch FHD+ OLED 90Hz display, powered by the Google Tensor
+      G2 chip, with 8GB RAM and 128GB storage, a 64MP main camera, 13MP
+      ultrawide, 13MP selfie camera, and a 4385mAh battery with wireless
+      charging, all running Android.
+
+      Display
+
+              Size: 6.1-inch OLED
+              Resolution: 1080 x 2400 pixels (FHD+)
+              Refresh Rate: Up to 90Hz
+              Protection: Corning Gorilla Glass 3
+
+      Performance
+
+              Processor: Google Tensor G2
+              RAM: 8GB LPDDR5
+              Storage: 128GB UFS 3.1
+
+      Cameras
+
+              Rear Main: 64 MP (wide), OIS
+              Rear Ultrawide: 13 MP, 120° field of view
+              Front (Selfie): 13 MP, ultrawide
+              Video: Up to 4K on rear, 1080p on front
+
+      Battery & Charging
+
+              Capacity: 4385mAh
+              Wired Charging: Up to 20W
+              Wireless Charging: Up to 7.5W (Qi-certified)
+
+      Other Specs
+
+              Operating System: Android (Launched with Android 13, upgradable)
+              Connectivity: 5G (Sub-6GHz, mmWave on some models)
+              Security: Fingerprint sensor (under-display)
+              SIM: Dual SIM (Nano-SIM + eSIM)
+              Durability: IP67 dust/water resistant (not IP68 like the flagship)
+    variants:
+      - id: 465
+        color: White
+        price: 409.95
+        image: images/138-white.jpg
+      - id: 466
+        price: 409.95
+        color: Coral
+        image: images/138-coral.jpeg
+      - id: 467
+        color: Black
+        price: 409.95
+        image: images/138-charcoal.png
+  - id: 139
+    name: Google Pixel 7,128GB, A-Grade, Unlocked, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Colors White & Black. Details   The Google Pixel 7 features a
+      6.3-inch OLED display (90Hz) with Corning Gorilla Glass Victus, powered by
+      the Google Tensor G2 processor, 8GB of RAM, and a 4355mAh battery. It
+      includes a 50MP main camera, a 12MP ultrawide camera, and 128GB or 256GB
+      of storage. It runs on Android 13, features an IP68 rating, and is known
+      for AI-powered camera features like Magic Eraser and Photo Unblur. 
+
+      Key Specifications for Google Pixel 7:
+
+          Display: 6.3-inch FHD+ OLED, 90Hz refresh rate, 1080 x 2400 pixels, ~416 ppi, up to 1400 nits (HDR).
+          Processor: Google Tensor G2 (5nm), Octa-core.
+          RAM & Storage: 8GB LPDDR5 RAM; 128GB or 256GB UFS 3.1 storage.
+          Rear Cameras: 50 MP main (f/1.85, OIS) + 12 MP ultrawide (f/2.2).
+          Front Camera: 10.8 MP (f/2.2).
+          Battery: 4355 mAh, supports 20W+ fast wired and wireless charging.
+          Build & Dimensions: 155.6 x 73.2 x 8.7 mm, 197g, IP68 dust/water resistance.
+          Connectivity: 5G, Wi-Fi 6E, Bluetooth 5.2, USB-C 3.2.
+          Features: In-display fingerprint sensor, Face Unlock, Stereo speakers. 
+
+      The Pixel 7 provides a compact, high-performance experience with advanced AI capabilities, aiming for efficient daily use, though it may run warm under heavy tasks like gaming.
+    variants:
+      - color: White
+        id: 468
+        price: 359.95
+        image: images/139-white.webp
+      - id: 469
+        color: Black
+        price: 359.95
+        image: images/139-black.png
+  - id: 140
+    name: Google Pixel 7 Pro ,128GB, Unlocked, A-Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Colors Black,  Hazel, White. Details  The Google Pixel 7 Pro
+      features a 6.7-inch QHD+ LTPO OLED display (120Hz), the Google Tensor G2
+      chipset with 12GB RAM, and a 5,000mAh battery. Its triple rear camera
+      system includes a 50MP main, 48MP 5x telephoto, and 12MP ultrawide lens,
+      supporting up to 30x Super Res Zoom. It runs Android 13 (upgradable) and
+      features IP68 water resistance, Face/Fingerprint unlock, and
+      128GB/256GB/512GB storage options. 
+
+      Key Specifications:
+
+          Display: 6.7-inch LTPO OLED, 1440 x 3120 pixels, 120Hz, 1000-1500 nits (HDR/peak)
+          Processor: Google Tensor G2 (5 nm), Octa-core
+          RAM: 12GB LPDDR5
+          Storage: 128GB, 256GB, or 512GB (UFS 3.1)
+          Rear Cameras: 50 MP (wide, OIS), 48 MP (telephoto, 5x optical, OIS), 12 MP (ultrawide)
+          Front Camera: 10.8 MP
+          Battery: 5000 mAh, 23W fast wired charging, wireless charging
+          Dimensions & Weight: 162.9 x 76.6 x 8.9 mm, 212g
+          OS: Android 13 (upgradable)
+          Features: IP68 water/dust resistance, Titan M2 security chip, stereo speakers, NFC 
+
+      Camera Capabilities
+
+      The camera system supports up to 30x Super Res Zoom, Pro-level focus, and 4K video recording at 60fps. 
+
+      Design & Build
+
+      The device features Gorilla Glass Victus front and back, with a polished aluminum frame.
+    variants:
+      - id: 470
+        color: Black
+        price: 399.95
+        image: images/140-black.png
+      - id: 471
+        color: Hazel
+        price: 399.95
+        image: images/140-hazel.jpeg
+      - id: 472
+        color: White
+        price: 399.95
+        image: images/140-white.png
+  - id: 141
+    name: Google Pixel 7 Pro ,256GB, Unlocked, A-Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Colors Black, Hazel, White. Details  The Google Pixel 7 Pro
+      features a 6.7-inch QHD+ LTPO OLED display (120Hz), the Google Tensor G2
+      chipset with 12GB RAM, and a 5,000mAh battery. Its triple rear camera
+      system includes a 50MP main, 48MP 5x telephoto, and 12MP ultrawide lens,
+      supporting up to 30x Super Res Zoom. It runs Android 13 (upgradable) and
+      features IP68 water resistance, Face/Fingerprint unlock, and
+      128GB/256GB/512GB storage options. 
+
+      Key Specifications:
+
+          Display: 6.7-inch LTPO OLED, 1440 x 3120 pixels, 120Hz, 1000-1500 nits (HDR/peak)
+          Processor: Google Tensor G2 (5 nm), Octa-core
+          RAM: 12GB LPDDR5
+          Storage: 128GB, 256GB, or 512GB (UFS 3.1)
+          Rear Cameras: 50 MP (wide, OIS), 48 MP (telephoto, 5x optical, OIS), 12 MP (ultrawide)
+          Front Camera: 10.8 MP
+          Battery: 5000 mAh, 23W fast wired charging, wireless charging
+          Dimensions & Weight: 162.9 x 76.6 x 8.9 mm, 212g
+          OS: Android 13 (upgradable)
+          Features: IP68 water/dust resistance, Titan M2 security chip, stereo speakers, NFC 
+
+      Camera Capabilities
+
+      The camera system supports up to 30x Super Res Zoom, Pro-level focus, and 4K video recording at 60fps. 
+
+      Design & Build
+
+      The device features Gorilla Glass Victus front and back, with a polished aluminum frame
+    variants:
+      - id: 473
+        color: Black
+        image: images/141-black.png
+        price: 449.95
+      - id: 474
+        price: 449.95
+        color: Hazel
+        image: images/141-hazel.jpeg
+      - id: 475
+        color: White
+        price: 449.95
+        image: images/141-white.png
+  - id: 142
+    name: Google Pixel 7 Pro 512GB, Unlocked, A-Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Colors Black, Hazel, White,. Details  The Google Pixel 7 Pro
+      features a 6.7-inch QHD+ LTPO OLED display (120Hz), the Google Tensor G2
+      chipset with 12GB RAM, and a 5,000mAh battery. Its triple rear camera
+      system includes a 50MP main, 48MP 5x telephoto, and 12MP ultrawide lens,
+      supporting up to 30x Super Res Zoom. It runs Android 13 (upgradable) and
+      features IP68 water resistance, Face/Fingerprint unlock, and
+      128GB/256GB/512GB storage options. 
+
+      Key Specifications:
+
+          Display: 6.7-inch LTPO OLED, 1440 x 3120 pixels, 120Hz, 1000-1500 nits (HDR/peak)
+          Processor: Google Tensor G2 (5 nm), Octa-core
+          RAM: 12GB LPDDR5
+          Storage: 128GB, 256GB, or 512GB (UFS 3.1)
+          Rear Cameras: 50 MP (wide, OIS), 48 MP (telephoto, 5x optical, OIS), 12 MP (ultrawide)
+          Front Camera: 10.8 MP
+          Battery: 5000 mAh, 23W fast wired charging, wireless charging
+          Dimensions & Weight: 162.9 x 76.6 x 8.9 mm, 212g
+          OS: Android 13 (upgradable)
+          Features: IP68 water/dust resistance, Titan M2 security chip, stereo speakers, NFC 
+
+      Camera Capabilities
+
+      The camera system supports up to 30x Super Res Zoom, Pro-level focus, and 4K video recording at 60fps. 
+
+      Design & Build
+
+      The device features Gorilla Glass Victus front and back, with a polished aluminum frame
+    variants:
+      - id: 476
+        price: 499.95
+        color: Black
+        image: images/142-black.png
+      - id: 477
+        color: Hazel
+        price: 499.95
+        image: images/142-hazel.jpeg
+      - id: 478
+        color: White
+        price: 499.95
+        image: images/142-white.png
+  - id: 143
+    name: Google Pixel 9 Pro, 128GB, Unlocked, A-2 Grade , Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Colors Black, Rose, Hazel, White. Details  The Google Pixel 9
+      Pro is a compact flagship, featuring a 6.3-inch Super Actua LTPO OLED
+      display (1-120Hz, up to 3000 nits peak), Tensor G4 processor, 16GB RAM,
+      and a 4700mAh battery. It boasts a triple-rear camera system (50MP wide,
+      48MP ultrawide, 48MP 5x telephoto) and a 42MP front camera. Key features
+      include 27W wired charging, Android 14, and 128GB to 1TB storage. 
+
+      Key Specifications
+
+          Display: 6.3-inch LTPO OLED, 1280 x 2856 resolution, 495 PPI, 120Hz refresh rate, 3000 nits peak brightness.
+          Processor: Google Tensor G4 with Titan M2 security coprocessor.
+          RAM: 16GB LPDDR5X.
+          Storage: 128GB, 256GB, 512GB, or 1TB.
+          Rear Camera: 50MP main, 48MP ultrawide (with autofocus), 48MP 5x telephoto (up to 30x Super Res Zoom).
+          Front Camera: 42MP.
+          Battery: 4700mAh typical, fast charging (up to 55% in ~30 mins with 45W charger).
+          Dimensions: 6.0 x 2.8 x 0.3 inches.
+          Durability: IP68 water/dust resistance, Gorilla Glass Victus 2.
+          OS: Android 14 (with 7 years of OS and security updates). 
+
+      Key Features
+
+          AI Integration: Deeply integrated with Gemini.
+          Video: Supports up to 8K video recording.
+          Connectivity: 5G, Wi-Fi 7, Bluetooth 5.3, UWB.
+          Security: Face unlock and under-display fingerprint sensor. 
+    variants:
+      - id: 479
+        price: 729.95
+        color: Black
+        image: images/143-black.webp
+      - id: 480
+        color: Rose
+        price: 729.95
+        image: images/143-rose.png
+      - id: 481
+        color: Hazel
+        price: 729.95
+        image: images/143-hazel.jpeg
+      - id: 482
+        color: White
+        price: 729.95
+        image: images/143-white.png
+  - id: 144
+    name: Samsung Galaxy A52 , 128GB ,Unlocked , A+Grade , Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Color Black, Details    The Samsung Galaxy A52 (released 2021) is a
+      mid-range smartphone featuring a 6.5-inch Super AMOLED 90Hz/120Hz display,
+      Snapdragon 720G/750G processor, and a 64MP main camera with OIS. Known for
+      its IP67 water resistance, 4,500mAh battery with 25W charging, and
+      expandable storage, it offers a solid, durable package. It supports up to
+      Android 14 and is considered a capable, budget-friendly device. 
+
+      Key Specifications and Features
+
+          Display: 6.5-inch FHD+ Super AMOLED, 90Hz (4G) or 120Hz (5G).
+          Processor: Snapdragon 720G (4G) or 750G (5G).
+          Camera: 64MP (OIS) main, 12MP ultra-wide, 5MP macro, 5MP depth; 32MP front.
+          Battery: 4,500mAh, 25W fast charging.
+          Build: Plastic back (matte finish), IP67 water/dust resistance.
+          Memory: 128GB/256GB storage, microSD expansion. 
+
+      Pros
+
+          Display: Bright, vibrant AMOLED with high refresh rate.
+          Camera: Reliable 64MP main sensor with Optical Image Stabilization (OIS).
+          Durability: IP67 rating is rare in this price category.
+          Features: Retains 3.5mm headphone jack and microSD card slot. 
+
+      Cons
+
+          Performance: The chipset may feel slow in 2025 with heavy app usage.
+          Battery: 25W charging is considered slow by modern standards.
+          Camera: Macro lens is considered weak, and 4K video is limited to 30fps. 
+
+      Software and Support
+
+      The device launched with Android 11 and is supported up to Android 14 with One UI 6.1. As of 2025, it is considered retired from receiving new major updates.
+    variants:
+      - id: 483
+        color: Black
+        price: 349.95
+        image: images/144-black.jpeg
+  - id: 145
+    name: Samsung Galaxy A54 , 128GB, Unlocked, A+ Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    price: ""
+    description: >-
+      Available Color.Black. Details  The Samsung Galaxy A54 5G features a
+      6.4-inch 120Hz FHD+ Super AMOLED display, Exynos 1380 processor, 50MP OIS
+      main camera, and a 5000mAh battery with 25W charging. Released in 2023, it
+      includes IP67 water resistance, 6GB/8GB RAM, and 128GB/256GB storage,
+      expandable up to 1TB via microSD. 
+
+      Key Specifications
+
+          Display:
+           6.4-inch Super AMOLED, 1080 x 2340 (FHD+), 120Hz refresh rate
+              Processor: Exynos 1380 (5 nm), Octa-core
+              Camera (Rear): 50MP Main (f/1.8, OIS), 12MP Ultra-wide (f/2.2), 5MP Macro (f/2.4)
+              Camera (Front): 32MP (f/2.2)
+              Battery: 5000mAh, 25W Fast Charging
+              Memory/Storage: 6GB/8GB RAM, 128GB/256GB storage, microSD up to 1TB
+              OS: Android 13 (upgradable)
+              Connectivity: 5G, Wi-Fi 6, Bluetooth 5.3, NFC
+              Features: IP67 Dust/Water Resistant, Stereo Speakers, Under-display Fingerprint Sensor
+              Weight: 202g 
+    variants:
+      - id: 484
+        color: Black
+        price: 329.95
+        image: images/145-black.jpeg
+  - id: 146
+    description: >-
+      Available Color Black.          Details  The Samsung Galaxy S21 Ultra 5G
+      features a 6.8-inch Dynamic AMOLED 2X display with a 120Hz adaptive
+      refresh rate, powered by a Snapdragon 888 or Exynos 2100 processor. It
+      includes a 108MP quad-camera system with 100x Space Zoom, a 5000mAh
+      battery, and supports S Pen functionality, running on Android 11 up to 4
+      major upgrades. 
+
+      This video provides a detailed overview of the Galaxy S21 Ultra's specifications: Core Specifications:
+
+          Display: 6.8-inch Edge QHD+ Dynamic AMOLED 2X, 3200 x 1440 resolution, 515ppi, 120Hz refresh rate.
+          Processor: Qualcomm Snapdragon 888 (US) or Exynos 2100 (Global), 5nm 64-bit Octa-Core.
+          RAM/Storage: 12GB RAM with 128GB/256GB storage, or 16GB RAM with 512GB storage.
+          Rear Cameras: 108MP Main (f/1.8, OIS), 12MP Ultra-Wide (f/2.2), 10MP Telephoto 3x (f/2.4, OIS), 10MP Telephoto 10x (f/4.9, OIS); 100x Space Zoom.
+          Front Camera: 40MP (f/2.2).
+          Battery: 5,000mAh, 25W wired fast charging, 15W wireless charging, Wireless PowerShare.
+          OS/Software: Android 11, upgradeable to Android 15.
+          Connectivity: 5G, Wi-Fi 6E, Bluetooth 5.1.
+          Dimensions/Weight: 165.1 x 75.6 x 8.9 mm, 227-229g.
+          Durability: IP68 water and dust resistance, Gorilla Glass Victus.
+          Features: S Pen support (no built-in slot). 
+
+      Camera Performance & Features
+
+      The camera system offers high-resolution 108MP shots, dual telephoto lenses for 3x and 10x optical zoom, and 100x Space Zoom. It supports 8K video recording at 24fps and 4K at 60fps. The 40MP front camera includes autofocus for improved selfies. 
+
+      Battery & Charging
+
+      The 5,000mAh battery supports 25W wired charging (50% in ~28 mins) and 15W wireless charging. 
+
+      Design
+
+      The device has a 6.8-inch display, with a 165.1 x 75.6 x 8.9 mm footprint.
+    name: Samsung Galaxy S22 Ultra,128GB, Unlocked, A+Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    variants:
+      - id: 485
+        color: Black
+        price: 399.95
+        image: images/146-black.jpeg
+  - id: 147
+    name: Samsung Galaxy S23 Ultra, 256GB, Unlocked, A+Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >
+      Available Colors Green, Gray.  Details  The Samsung Galaxy S23 Ultra is a
+      premium 5G smartphone featuring a 6.8-inch QHD+ Dynamic AMOLED 2X display
+      (1-120Hz), a 200MP main camera, and a built-in S Pen. Powered by the
+      Snapdragon 8 Gen 2 for Galaxy chipset, it includes a 5,000mAh battery with
+      45W fast charging, up to 12GB of RAM, and 1TB of storage. 
+
+      This video provides a detailed review of the Samsung Galaxy S23 Ultra's features and performance. Key Specifications
+
+          Processor: Qualcomm Snapdragon 8 Gen 2 for Galaxy (up to 3.36GHz, octa-core)
+          Display: 6.8-inch QHD+ (3088 x 1440) Dynamic AMOLED 2X, 120Hz adaptive refresh rate, 1750 nits peak brightness
+          Camera:
+              Rear: 200MP Wide (f/1.7, OIS), 12MP Ultra-Wide (120° FOV, f/2.2), 10MP Telephoto (3x optical, f/2.4), 10MP Telephoto (10x optical, f/4.9)
+              Front: 12MP (f/2.2)
+              Video: Up to 8K @ 30fps
+          Memory/Storage: 8GB or 12GB RAM, 256GB, 512GB, or 1TB internal storage
+          Battery: 5,000mAh, 45W wired charging, 15W wireless charging, Wireless PowerShare
+          Dimensions/Weight: 163.4 x 78.1 x 8.9 mm, 234g
+          OS/Features: Android 13 (at launch), One UI 5.1, S Pen, IP68 water/dust resistance, Gorilla Glass Victus 2
+          Network: 5G Capabilities 
+
+       2 Attachments
+        •  Scanned by Gmail
+    variants:
+      - id: 486
+        color: Green
+        price: 649.95
+        image: images/147-green.jpeg
+      - id: 487
+        color: Gray
+        price: 649.95
+        image: images/147-gray.webp
+  - id: 148
+    name: Samsung Galaxy Note 20, 128GB, Unlocked, A+Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Colors Black, Bronze, Gray. Details  The Samsung Galaxy Note 20
+      5G (2020) features a 6.7-inch Super AMOLED+ 60Hz display, Snapdragon 865+
+      or Exynos 990 processor, 8GB RAM, and a 4300mAh battery. It boasts a 12MP
+      wide, 64MP telephoto (3x optical/30x space zoom), and 12MP ultra-wide
+      triple camera system with 8K video recording. 
+
+      Key Specifications:
+
+          Display:
+           6.7-inch FHD+ (2400 x 1080) Super AMOLED+ Flat
+              Processor: Qualcomm Snapdragon 865+ (US/China) or Exynos 990 (Global)
+              RAM: 8GB
+              Storage: 128GB or 256GB (no microSD expansion)
+              Rear Cameras: 12MP (Main, OIS) + 64MP (Telephoto, 3x Opt, 30x Zoom) + 12MP (Ultra-wide)
+              Front Camera: 10MP
+              Battery: 4300mAh with 25W fast charging
+              Connectivity: 5G, Wi-Fi 6, Bluetooth 5.0, NFC
+              Features: Included S Pen (26ms latency), IP68 water resistance, Plastic back ("Glasstic")
+              Dimensions: 161.6 x 75.2 x 8.3 mm (192g - 194g) 
+    variants:
+      - id: 488
+        color: Black
+        price: 399.95
+        image: images/148-black.jpeg
+      - id: 489
+        color: Bronze
+        price: 399.95
+        image: images/148-bronze.jpeg
+      - id: 490
+        color: Gray
+        price: 399.95
+        image: images/148-gray.jpeg
+  - id: 149
+    name: AT&T Radiant Max, 64GB, Unlocked , A+Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Available Color Blue. Details.       The AT&T  Radiant Max 5G  is a
+      budget-friendly 5G prepaid smartphone featuring a large 6.82-inch HD+
+      display, 4GB RAM, and 64GB expandable storage. It runs on Android 11,
+      powered by a MediaTek Dimensity 700 processor, and features a quad-camera
+      system with a 48MP main sensor. 
+
+      Key Specifications:
+
+          Display: 6.82-inch IPS LCD, 1640 x 720 resolution (HD+), scratch-resistant glass
+          Processor: Octa-core MediaTek Dimensity 700
+          Memory (RAM): 4GB
+          Storage: 64GB Internal, expandable up to 512GB via microSD
+          Rear Camera: Quad setup: 48MP (Main), 8MP (Ultra-wide), 2MP (Macro), 2MP (Depth)
+          Front Camera: 13MP
+          Battery: 4,750 mAh, supports fast/wireless charging
+          OS: Android 11
+          Security: Rear-mounted fingerprint sensor
+          Connectivity: 5G, 4G LTE, Bluetooth, USB Type-C, Wi-Fi
+          Dimensions & Weight: 176.3 x 78.6 x 9.6 mm; 222g (7.83 oz) 
+    variants:
+      - id: 491
+        color: Blue
+        price: 199.95
+        image: images/149-blue.jpeg
