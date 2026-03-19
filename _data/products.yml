@@ -3664,8 +3664,7 @@ products:
           Connectivity: 4G LTE, Wi-Fi (802.11ac), Bluetooth 5.0, NFC.
           Security: Touch ID (fingerprint sensor). 
 
-      Operating System
-          Launched with iOS 11, upgradable to newer versions (e.g., iOS 16). 
+      Operating System     Launched with iOS 11, upgradable to newer versions (e.g., iOS 16). 
     variants:
       - id: 420
         color: Black
@@ -3831,8 +3830,7 @@ products:
           Wireless: Wi-Fi 6 (802.11ax), Bluetooth 5.0
           Security: Face ID 
 
-      Operating System
-          OS: Launched with iOS 13 Version 
+      Operating System     OS: Launched with iOS 13 Version 
     variants:
       - id: 430
         price: 389.95
@@ -4976,3 +4974,440 @@ products:
         color: Blue
         price: 199.95
         image: images/149-blue.jpeg
+  - variants:
+      - id: 492
+        color: Black
+        price: 1329.95
+        image: images/150-black.jpg
+      - id: 493
+        color: Blue
+        price: 1329.95
+        image: images/150-blue.webp
+      - id: 494
+        color: Gray
+        price: 1329.95
+        image: images/150-gray.webp
+      - id: 495
+        color: Silver
+        price: 1329.95
+        image: images/150-silver.webp
+    id: 150
+    name: Samsung Galaxy S25 Ultra, 1TB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Titanium Black, Titanium Gray, Titanium Silverblue
+      ,Titanium White Silver  . The Samsung Galaxy S25 Ultra features a 6.9-inch
+      QHD+ 120Hz Dynamic AMOLED 2X display, powered by the Snapdragon 8 Elite
+      chip, 12GB/16GB RAM, and up to 1TB storage. Key upgrades include a 50MP
+      ultrawide camera, a 50MP periscope zoom lens, and a 200MP main sensor with
+      improved Galaxy AI. The device has a 5000mAh battery supporting 45W
+      charging in a 218g titanium frame. 
+
+      Key Specifications
+
+          Processor: Snapdragon 8 Elite for Galaxy (up to 4.47 GHz).
+          Display: 6.9-inch QHD+ Dynamic AMOLED 2X, 120Hz adaptive refresh rate, improved brightness.
+          Camera:
+              Main: 200 MP (f/1.7).
+              Ultra-Wide: 50 MP (f/1.9), improved macro capabilities.
+              Telephoto: 50 MP (f/3.4) 5x optical, 10 MP 3x optical.
+              Selfie: 12 MP.
+          Battery & Charging: 5000 mAh battery, 45W wired charging, 15W wireless.
+          Memory & Storage: 12GB RAM (16GB available in some regions/models). 256GB, 512GB, or 1TB UFS 4.0 storage.
+          Build: Titanium frame, Corning Gorilla Armor 2, IP68 water/dust resistance.
+          Software: Android 15 with One UI 7 and advanced Galaxy AI features. Key Enhancements
+
+          Design: Refined titanium frame with thinner bezels for a larger 6.9-inch screen within a similar footprint to the S24 Ultra.
+          AI Integration: Enhanced Galaxy AI for tools like note assistance, image generation, and improved "Circle to Search".
+          Camera Upgrades: Significant update to the ultrawide (50MP) and telephoto sensors, enabling better low-light photography and 8K video recording across more lenses.
+  - id: 151
+    name: Samsung Galaxy S25 Plus , 512GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Navy, Silver Shadow, Mint ,  Icy Blue.   The Samsung
+      Galaxy S25+ (released Feb 2025) is a high-end Android smartphone featuring
+      a 6.7-inch QHD+ 120Hz AMOLED display, the Snapdragon 8 Elite processor,
+      and 12GB of RAM. It includes a 4,900 mAh battery with 45W charging, a
+      triple rear camera system (50MP main), and AI features within One UI 7. 
+
+      Key Specifications:
+
+          Display:
+           6.7-inch Dynamic AMOLED 2X, QHD+ resolution, 1-120Hz adaptive refresh rate, 2600 nits peak brightness.
+              Processor: Qualcomm Snapdragon 8 Elite for Galaxy.
+              RAM & Storage: 12GB RAM with 256GB or 512GB storage options.
+              Rear Cameras:
+                  Main: 50MP, OIS
+                  Ultrawide: 12MP
+                  Telephoto: 10MP, 3x optical zoom, OIS
+              Front Camera: 12MP.
+              Battery: 4,900 mAh with 45W wired and 15W wireless charging.
+              Software: Android 15 with One UI 7, 7 years of updates.
+              Build: Glass front/back (Gorilla Glass Victus 2), aluminum frame.
+              Dimensions: 158.4 x 75.8 x 7.3 mm (6.24 x 2.98 x 0.29 in), 190g (6.70 oz).
+              Features: Ultra-wideband (UWB) support, AI-driven capabilities, 5G, stereo speakers with Dolby Atmos. 
+    variants:
+      - id: 496
+        color: Blue
+        price: 1069.95
+        image: images/151-blue.jpeg
+      - id: 497
+        color: Green
+        price: 1069.95
+        image: images/151-green.jpg
+      - id: 498
+        color: Blue
+        price: 1069.95
+        image: images/151-navyblue.webp
+      - id: 499
+        color: Silver
+        price: 1069.95
+        image: images/151-silver.webp
+  - id: 152
+    name: Samsung Galaxy S26 Plus, 256GB, Unlocked, New, Sealed
+    category: Phones
+    description: >-
+      Available Colors Skyblue , Black , White, Cobalt Violet .  The Samsung
+      Galaxy S26+ (released March 2026) is a high-end AI-focused smartphone
+      featuring a 6.7-inch 120Hz QHD+ AMOLED display, Snapdragon 8 Elite Gen 5
+      chipset, and 12GB of RAM. Key specs include a 4900mAh battery, 45W wired
+      charging, 50MP triple cameras, and Android 16 with heavy Galaxy AI
+      integration, available in 256GB or 512GB. 
+
+      Key Specifications of the Samsung Galaxy S26+:
+
+          Display: 6.7-inch Dynamic AMOLED 2X, QHD+ resolution (3120 x 1440), 120Hz adaptive refresh rate, 2600 nits peak brightness.
+          Processor: Snapdragon® 8 Elite Gen 5 for Galaxy (3nm), or Exynos 2600 depending on market.
+          Memory & Storage: 12GB RAM with 256GB or 512GB storage.
+          Rear Camera: 50MP main (
+          ), 12MP ultra-wide (
+          ), 10MP 3x telephoto (
+          ).
+          Front Camera: 12MP (
+          ).
+          Battery: 4900mAh with 45W wired fast charging and wireless charging capabilities.
+          OS: Android 16 with One UI (supports up to 7 major upgrades).
+          Connectivity: 5G, Wi-Fi 7, Bluetooth 6.0, UWB, NFC.
+          Durability: IP68 rating, Armor Aluminum 2 frame, Gorilla Glass Victus 2 back. 
+
+      Key Features:
+
+          Galaxy AI: Advanced AI tools for photo editing (Photo Assist), live translation, and smarter search.
+          Satellite Connectivity: Compatible with T-Satellite with Starlink.
+          Design: Slim profile (
+          ) with a new camera lens design, weighing approx 
+          .
+    variants:
+      - id: 500
+        color: Black
+        price: 1129.95
+        image: images/152-black.jpeg
+      - id: 501
+        color: Blue
+        price: 1129.95
+        image: images/152-blue.png
+      - id: 502
+        color: Violet
+        price: 1129.95
+        image: images/152-violet.jpg
+      - id: 503
+        color: White
+        price: 1129.95
+        image: images/152-white.png
+  - id: 153
+    name: Samsung Galaxy S26 Ultra , 1TB, Unlocked, New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors White, Black, Skyblue, Cobalt Violet. The Samsung Galaxy
+      S26 Ultra (released early 2026) features a 6.9-inch QHD+ 120Hz display
+      with integrated privacy technology, powered by the Snapdragon 8 Elite Gen
+      5 chip. It boasts a 200MP main camera with improved 
+       aperture, a 50MP 5x periscope lens, 60W wired charging, and a 5,000 mAh battery, all in a thinner 214g Armor Aluminum body. Key Specifications
+
+          Processor: Qualcomm Snapdragon 8 Elite Gen 5 (3 nm).
+          Display: 6.9-inch OLED, QHD+ resolution, 1-120 Hz, enhanced privacy display modes.
+          Camera:
+              Main: 200 MP  
+              Ultra-wide: 50 MP 
+              Telephoto 1: 10 MP 3x 
+              Telephoto 2: 50 MP 5x 
+              Selfie: 12 MP.
+              Video: 8K at 30fps, 4K at 120fps, new APV video format.
+          Battery: 5,000 mAh with 60W wired, 25W wireless (Qi2) charging.
+          RAM/Storage: 12GB/16GB RAM; 256GB, 512GB, or 1TB storage.
+          Design: 7.9 mm thick, 214 grams, Armor Aluminum frame, IP68 rated.
+          Software: One UI 8.5 (based on Android 16).
+          Features: Integrated S Pen, Galaxy AI (Photo Assist, Nudge), advanced 360-degree horizon lock. 
+
+      Design and Performance Enhancements
+
+          Camera Upgrades: The main sensor is enhanced with a wider 
+           aperture for better low-light, while the 5x camera features a 50MP sensor with a faster 
+           aperture.
+          Design Changes: The S26 Ultra has more rounded corners compared to the S25 Ultra, and the camera module is redesigned to appear more cohesive, 
+          Display Privacy: A new "privacy display" feature can be toggled to make the screen invisible from side angles, according to
+          Battery Life: Despite maintaining a 5,000 mAh capacity, optimized efficiency allows for improved screen-on time, as shown in
+    variants:
+      - id: 504
+        color: Violet
+        price: 1799.95
+        image: images/153-violet.jpg
+      - id: 505
+        color: Black
+        price: 1799.95
+        image: images/153-black.jpeg
+      - id: 506
+        color: Blue
+        price: 1799.95
+        image: images/153-blue.png
+      - id: 507
+        color: White
+        price: 1799.95
+        image: images/153-white.png
+  - id: 154
+    name: Samsung Galaxy S26 Plus , 512GB, Unlocked, New, Sealed
+    category: Phones
+    description: >-
+      Available Colors Skyblue , Black , white , Cobalt Violet. The Samsung
+      Galaxy S26+ (released March 2026) is a high-end AI-focused smartphone
+      featuring a 6.7-inch 120Hz QHD+ AMOLED display, Snapdragon 8 Elite Gen 5
+      chipset, and 12GB of RAM. Key specs include a 4900mAh battery, 45W wired
+      charging, 50MP triple cameras, and Android 16 with heavy Galaxy AI
+      integration, available in 256GB or 512GB. 
+
+      Key Specifications of the Samsung Galaxy S26+:
+
+          Display: 6.7-inch Dynamic AMOLED 2X, QHD+ resolution (3120 x 1440), 120Hz adaptive refresh rate, 2600 nits peak brightness.
+          Processor: Snapdragon® 8 Elite Gen 5 for Galaxy (3nm), or Exynos 2600 depending on market.
+          Memory & Storage: 12GB RAM with 256GB or 512GB storage.
+          Rear Camera: 50MP main (
+          ), 12MP ultra-wide (
+          ), 10MP 3x telephoto (
+          ).
+          Front Camera: 12MP (
+          ).
+          Battery: 4900mAh with 45W wired fast charging and wireless charging capabilities.
+          OS: Android 16 with One UI (supports up to 7 major upgrades).
+          Connectivity: 5G, Wi-Fi 7, Bluetooth 6.0, UWB, NFC.
+          Durability: IP68 rating, Armor Aluminum 2 frame, Gorilla Glass Victus 2 back. 
+
+      Key Features:
+
+          Galaxy AI: Advanced AI tools for photo editing (Photo Assist), live translation, and smarter search.
+          Satellite Connectivity: Compatible with T-Satellite with Starlink.
+          Design: Slim profile (
+          ) with a new camera lens design, weighing approx 
+          . 
+    variants:
+      - id: 508
+        color: Black
+        price: 1299.95
+        image: images/154-black.jpeg
+      - id: 509
+        color: Blue
+        price: 1299.95
+        image: images/154-blue.png
+      - id: 510
+        color: Violet
+        price: 1299.95
+        image: images/154-violet.jpg
+      - id: 511
+        color: White
+        price: 1299.95
+        image: images/154-white.png
+  - id: 155
+    name: Samsung Galaxy S26, 512GB, Unlocked, New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Black , White , Skyblue Cobalt Violet. Released in March
+      2026, the Samsung Galaxy S26 series (S26, S26+, S26 Ultra) features the
+      Snapdragon 8 Elite Gen 5 for Galaxy (or Exynos 2600), Android 16, and
+      advanced Galaxy AI. The S26 Ultra features a 200MP camera, 50MP 10x
+      telephoto lens, 5,000mAh battery, and a unique, built-in "Privacy
+      Display". 
+
+      Key Specifications & Features (S26 Ultra Focus):
+
+          Processor: Snapdragon 8 Elite Gen 5 for Galaxy (all regions for Ultra).
+          Display: 6.8-inch Dynamic LTPO AMOLED 2X, 120Hz.
+          Privacy Display: Built-in technology that limits side-angle viewing to protect on-screen content.
+          Camera: 200MP Wide (AI ISP), 50MP Ultra-Wide, 50MP Telephoto (10x optical zoom), and a 12MP Front camera.
+          Battery: 5,000mAh (4,300mAh for S26, 4,900mAh for S26+).
+          Charging: 25W wireless and fast charging capable.
+          Build: Aluminum frame (not titanium) with Corning Gorilla Armor 2.
+          Storage/RAM: 256GB, 512GB, 1TB with 12GB or 16GB RAM.
+          AI Features: Improved Photo Assist, Nightography video, and AI-enabled Noise Eraser. 
+
+      Design and Models:
+
+          S26 Ultra: 163.6 x 78.1 x 7.9 mm, 214 g.
+          S26+: 158.4 x 75.8 x 7.3 mm, 190 g.
+          S26: 149.6 x 71.7 x 7.2 mm, 167 g. 
+    variants:
+      - id: 512
+        color: Blue
+        price: 1119.95
+        image: images/155-blue.png
+      - id: 513
+        color: Violet
+        price: 1119.95
+        image: images/155-violet.jpg
+      - id: 514
+        color: Black
+        price: 1119.95
+        image: images/155-black.jpeg
+      - id: 515
+        color: White
+        price: 1119.95
+        image: images/155-white.png
+    price: ""
+  - id: 156
+    name: Samsung Galaxy S26 Ultra, 512GB, Unlocked ,New , Sealed Sale
+    category: Phones
+    description: >-
+      Available Colors Black, White, Skyblue, Cobalt Violet. The Samsung Galaxy
+      S26 Ultra (released early 2026) features a 6.9-inch QHD+ 120Hz display
+      with integrated privacy technology, powered by the Snapdragon 8 Elite Gen
+      5 chip. It boasts a 200MP main camera with improved 
+       aperture, a 50MP 5x periscope lens, 60W wired charging, and a 5,000 mAh battery, all in a thinner 214g Armor Aluminum body. Key Specifications
+
+          Processor: Qualcomm Snapdragon 8 Elite Gen 5 (3 nm).
+          Display: 6.9-inch OLED, QHD+ resolution, 1-120 Hz, enhanced privacy display modes.
+          Camera:
+              Main: 200 MP 
+              Ultra-wide: 50 MP 
+              Telephoto 1: 10 MP 3x 
+              Telephoto 2: 50 MP 5x 
+              Selfie: 12 MP.
+              Video: 8K at 30fps, 4K at 120fps, new APV video format.
+          Battery: 5,000 mAh with 60W wired, 25W wireless (Qi2) charging.
+          RAM/Storage: 12GB/16GB RAM; 256GB, 512GB, or 1TB storage.
+          Design: 7.9 mm thick, 214 grams, Armor Aluminum frame, IP68 rated.
+          Software: One UI 8.5 (based on Android 16).
+          Features: Integrated S Pen, Galaxy AI (Photo Assist, Nudge), advanced 360-degree horizon lock. 
+
+      Design and Performance Enhancements
+
+          Camera Upgrades: The main sensor is enhanced with a wider 
+           aperture for better low-light, while the 5x camera features a 50MP sensor with a faster 
+           aperture.
+          Design Changes: The S26 Ultra has more rounded corners compared to the S25 Ultra, and the camera module is redesigned to appear more cohesive, says 
+          Display Privacy: A new "privacy display" feature can be toggled to make the screen invisible from side angles, according to this
+          Battery Life: Despite maintaining a 5,000 mAh capacity, optimized efficiency allows for improved screen-on time, as shown in
+    variants:
+      - id: 516
+        color: Violet
+        price: 1499.95
+        image: images/156-violet.jpg
+      - id: 517
+        color: Black
+        price: 1499.95
+        image: images/156-black.jpeg
+      - id: 518
+        color: Blue
+        price: 1499.95
+        image: images/156-blue.png
+      - id: 519
+        color: White
+        price: 1499.95
+        image: images/156-white.png
+  - id: 157
+    name: Samsung Galaxy S26 Ultra  256GB, Unlocked
+    category: Phones
+    description: >-
+      Available White, Black, Skyblue, Cobalt Violet,     The Samsung Galaxy S26
+      Ultra (released early 2026) features a 6.9-inch QHD+ 120Hz display with
+      integrated privacy technology, powered by the Snapdragon 8 Elite Gen 5
+      chip. It boasts a 200MP main camera with improved 
+       aperture, a 50MP 5x periscope lens, 60W wired charging, and a 5,000 mAh battery, all in a thinner 214g Armor Aluminum body. 
+      Key Specifications
+
+          Processor: Qualcomm Snapdragon 8 Elite Gen 5 (3 nm).
+          Display: 6.9-inch OLED, QHD+ resolution, 1-120 Hz, enhanced privacy display modes.
+          Camera:
+              Main: 200 MP (
+              ).
+              Ultra-wide: 50 MP (
+              ).
+              Telephoto 1: 10 MP 3x (
+              ).
+              Telephoto 2: 50 MP 5x (
+              ).
+              Selfie: 12 MP.
+              Video: 8K at 30fps, 4K at 120fps, new APV video format.
+          Battery: 5,000 mAh with 60W wired, 25W wireless (Qi2) charging.
+          RAM/Storage: 12GB/16GB RAM; 256GB, 512GB, or 1TB storage.
+          Design: 7.9 mm thick, 214 grams, Armor Aluminum frame, IP68 rated.
+          Software: One UI 8.5 (based on Android 16).
+          Features: Integrated S Pen, Galaxy AI (Photo Assist, Nudge), advanced 360-degree horizon lock. 
+
+      Design and Performance Enhancements
+
+          Camera Upgrades: The main sensor is enhanced with a wider 
+           aperture for better low-light, while the 5x camera features a 50MP sensor with a faster 
+           aperture.
+          Design Changes: The S26 Ultra has more rounded corners compared to the S25 Ultra, and the camera module is redesigned to appear more cohesive, says this YouTube video.
+          Display Privacy: A new "privacy display" feature can be toggled to make the screen invisible from side angles, according to this YouTube video.
+          Battery Life: Despite maintaining a 5,000 mAh capacity, optimized efficiency allows for improved screen-on time, as shown in
+    variants:
+      - id: 520
+        color: Blue
+        price: 1299.95
+        image: images/157-blue.png
+      - id: 521
+        color: black
+        price: 1299.95
+        image: images/157-black.jpeg
+      - id: 522
+        color: white
+        price: 1299.95
+        image: images/157-white.png
+      - id: 523
+        color: violet
+        price: 1299.95
+        image: images/157-violet.jpg
+  - id: 158
+    name: Samsung Galaxy S26, 256GB, Unlocked, New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Black , White, Sky Blue , Cobalt Violet . Released in
+      March 2026, the Samsung Galaxy S26 series (S26, S26+, S26 Ultra) features
+      the Snapdragon 8 Elite Gen 5 for Galaxy (or Exynos 2600), Android 16, and
+      advanced Galaxy AI. The S26 Ultra features a 200MP camera, 50MP 10x
+      telephoto lens, 5,000mAh battery, and a unique, built-in "Privacy
+      Display". 
+
+      Key Specifications & Features (S26 Ultra Focus):
+
+          Processor: Snapdragon 8 Elite Gen 5 for Galaxy (all regions for Ultra).
+          Display: 6.8-inch Dynamic LTPO AMOLED 2X, 120Hz.
+          Privacy Display: Built-in technology that limits side-angle viewing to protect on-screen content.
+          Camera: 200MP Wide (AI ISP), 50MP Ultra-Wide, 50MP Telephoto (10x optical zoom), and a 12MP Front camera.
+          Battery: 5,000mAh (4,300mAh for S26, 4,900mAh for S26+).
+          Charging: 25W wireless and fast charging capable.
+          Build: Aluminum frame (not titanium) with Corning Gorilla Armor 2.
+          Storage/RAM: 256GB, 512GB, 1TB with 12GB or 16GB RAM.
+          AI Features: Improved Photo Assist, Nightography video, and AI-enabled Noise Eraser. 
+
+      Design and Models:
+
+          S26 Ultra: 163.6 x 78.1 x 7.9 mm, 214 g.
+          S26+: 158.4 x 75.8 x 7.3 mm, 190 g.
+          S26: 149.6 x 71.7 x 7.2 mm, 167 g.
+    variants:
+      - id: 524
+        color: Black
+        price: 919.95
+        image: images/158-black.jpeg
+      - id: 525
+        color: Blue
+        price: 919.95
+        image: images/158-blue.png
+      - id: 526
+        color: Violet
+        price: 919.95
+        image: images/158-violet.jpg
+      - id: 527
+        color: White
+        price: 919.95
+        image: images/158-white.png
