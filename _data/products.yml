@@ -5355,15 +5355,15 @@ products:
         price: 1299.95
         image: images/157-blue.png
       - id: 521
-        color: black
+        color: Black
         price: 1299.95
         image: images/157-black.jpeg
       - id: 522
-        color: white
+        color: White
         price: 1299.95
         image: images/157-white.png
       - id: 523
-        color: violet
+        color: Violet
         price: 1299.95
         image: images/157-violet.jpg
   - id: 158
