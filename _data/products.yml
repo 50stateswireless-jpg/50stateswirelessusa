@@ -1434,18 +1434,18 @@ products:
     variants:
       - id: 323
         color: Black
-        price: 1159.95
+        price: 939.95
         image: images/iphone-17-finish-select-202509-black_GEO_US.webp
       - id: 324
         color: White
-        price: 1159.95
+        price: 939.95
         image: images/iphone-17-finish-select-202509-white_GEO_US.webp
       - id: 325
         color: Lavender
-        price: 1159.95
+        price: 939.95
         image: images/iphone-17-finish-select-202509-lavender_GEO_US.webp
   - id: 71
-    name: iPhone 17 Pro Max, 5G, 256gb, 6.9inch , Unlocked, New , Sealed
+    name: iPhone 17 Pro Max, 5G, 256GB, 6.9inch , Unlocked, New , Sealed
     category: Phones
     description: >-
       Key features Design- The iPhone 17 Pro Max features a lightweight,
@@ -1478,14 +1478,14 @@ products:
     variants:
       - id: 326
         color: Deep Blue
-        price: 1659.95
+        price: 1379.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp
       - id: 327
         color: Cosmic Orange
-        price: 1659.95
+        price: 1379.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg
   - id: 72
-    name: iPhone 17 Pro Max, 5G, 512gb, 6.9inch , Unlocked, New , Sealed
+    name: iPhone 17 Pro Max, 5G, 512GB, 6.9inch , Unlocked, New , Sealed
     category: Phones
     description: >-
       Key features Design- The iPhone 17 Pro Max features a lightweight,
@@ -1518,11 +1518,11 @@ products:
     variants:
       - id: 328
         color: Deep Blue
-        price: 1749.95
+        price: 1629.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp
       - id: 329
         color: Cosmic Orange
-        price: 1749.95
+        price: 1629.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg
   - id: 73
     name: iPhone 17 Pro Max, 5G, 1TB, 6.9inch , Unlocked, New , Sealed
@@ -1558,11 +1558,11 @@ products:
     variants:
       - id: 330
         color: Deep Blue
-        price: 1909.95
+        price: 1849.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp
       - id: 331
         color: Cosmic Orange
-        price: 1909.95
+        price: 1849.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg
   - id: 74
     name: Apple iphone 16, E-Sim , 128GB, A+ Grade, Pre-owned , Unlocked
@@ -6117,19 +6117,19 @@ products:
     variants:
       - id: 575
         color: Black
-        price: 385.95
+        price: 439.95
         image: images/177-black.jpeg
       - id: 576
         color: Lavender
-        price: 385.95
+        price: 439.95
         image: images/177-lavender.jpg
       - id: 577
         color: White
-        price: 385.95
+        price: 439.95
         image: images/177-white.jpg
       - id: 578
         color: Lime
-        price: 385.95
+        price: 439.95
         image: images/177-lime.jpg
   - id: 178
     name: Samsung Galaxy A16 , 128GB , 4G, Latin Spec , Unlocked, New ,Sealed
