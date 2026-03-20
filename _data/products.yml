@@ -1038,7 +1038,7 @@ products:
         price: 379.95
         image: images/Galaxy_Watch8_Silver.webp
       - id: 312
-        color: graphite
+        color: Graphite
         price: 379.95
         image: images/Galaxy_Watch8_graphite.webp
   - id: 60
@@ -5411,3 +5411,957 @@ products:
         color: White
         price: 919.95
         image: images/158-white.png
+  - id: 159
+    name: Samsung Galaxy F17, 128GB, Latin Spec, Unlocked, New, Sealed
+    category: Phones
+    description: >-
+      Available Colors Black.  The Samsung Galaxy F17 5G (4GB/128GB) features a
+      6.7-inch FHD+ Super AMOLED 90Hz display, Exynos 1330 chipset, and a
+      5000mAh battery with 25W charging. It includes a 50MP OIS main camera, 5MP
+      ultrawide lens, and 13MP front camera, running Android 15 with 6 years of
+      software support. It is 7.5mm thick with 5G, 4GB RAM, and 128GB storage. 
+
+      Key Specifications
+
+          Display: 6.7-inch Super AMOLED, 1080 x 2340 (FHD+), 90Hz refresh rate, 1100 nits peak brightness, Gorilla Glass Victus.
+          Processor: Exynos 1330 (5nm) octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55).
+          Memory & Storage: 4GB RAM, 128GB internal storage, expandable up to 2TB via microSD (hybrid slot).
+          Rear Camera: 50MP main (f/1.8, OIS) + 5MP ultrawide (f/2.2) + 2MP macro (f/2.4).
+          Front Camera: 13MP (f/2.0).
+          Battery & Charging: 5000mAh typical, 25W fast wired charging (charger usually not included).
+          OS: Android 15 with One UI 7.
+          Dimensions & Weight: 164.4 x 77.9 x 7.5 mm, 192 grams.
+          Connectivity: 5G, 4G LTE, dual-band Wi-Fi, Bluetooth 5.3, USB-C 2.0.
+          Durability: IP54 dust and splash resistant.
+          Security: Side-mounted fingerprint sensor. 
+    variants:
+      - id: 528
+        color: Black
+        price: 309.95
+        image: images/159-black.jpeg
+  - id: 160
+    name: Samsung Galaxy A17, 8GB, 256GB, Latin Spec, Unlocked, New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Black, Blue.    The Samsung Galaxy A17 5G (released early
+      2026) is a budget-focused smartphone featuring a 6.7-inch 90Hz FHD+ Super
+      AMOLED display, an Exynos 1330 processor, and a 5,000 mAh battery with 25W
+      charging. It offers a 50MP main camera with OIS, 4GB/6GB/8GB RAM, and
+      128GB/256GB storage. 
+
+      Key Specifications:
+
+      Display:
+
+           6.7-inch FHD+ (1080x2340) Super AMOLED, 90Hz, 800-1150 nits peak brightness.
+              Processor: Exynos 1330 (octa-core, 2.4 GHz).
+              Camera: 50MP main (OIS) + 5MP ultra-wide + 2MP macro. 13MP front camera.
+              Battery & Charging: 5,000 mAh, 25W wired charging (no wireless charging).
+              Memory & Storage: 4GB/6GB RAM, 128GB/256GB storage (expandable up to 1TB via microSD).
+              Software: Android 16 with One UI 8.0.
+              Build & Durability: 7.5mm thick, Gorilla Glass Victus front, plastic frame/back, IP54 rating.
+              Connectivity: 5G, Bluetooth 5.3, Wi-Fi 5, USB Type-C, NFC.
+              Security: Side-mounted fingerprint scanner. 
+
+      Key Features:
+
+          Long-Term Support: Promised six years of security and major OS updates.
+          Display Quality: Upgraded AMOLED panel offers high brightness up to 1,150 nits.
+          Camera Stability: 50MP sensor features Optical Image Stabilization (OIS) for better photos.
+          Design: Slim 7.5mm profile with a slightly refreshed, thinner design compared to its predecessor
+    variants:
+      - id: 529
+        color: Blue
+        price: 369.95
+        image: images/160-blue.jpeg
+      - id: 530
+        color: Black
+        price: 369.95
+        image: images/160-black.jpeg
+  - id: 161
+    name: Samsung Galaxy A17, 6GB, 128GB, Latin Spec, Unlocked, New , Sealed.
+    category: Phones
+    description: >-
+      Available Colors Black, Blue.    The Samsung Galaxy A17 5G (released early
+      2026) is a budget-focused smartphone featuring a 6.7-inch 90Hz FHD+ Super
+      AMOLED display, an Exynos 1330 processor, and a 5,000 mAh battery with 25W
+      charging. It offers a 50MP main camera with OIS, 4GB/6GB RAM, and
+      128GB/256GB storage. 
+
+      Key Specifications:
+
+      Display:
+
+           6.7-inch FHD+ (1080x2340) Super AMOLED, 90Hz, 800-1150 nits peak brightness.
+              Processor: Exynos 1330 (octa-core, 2.4 GHz).
+              Camera: 50MP main (OIS) + 5MP ultra-wide + 2MP macro. 13MP front camera.
+              Battery & Charging: 5,000 mAh, 25W wired charging (no wireless charging).
+              Memory & Storage: 4GB/6GB RAM, 128GB/256GB storage (expandable up to 1TB via microSD).
+              Software: Android 16 with One UI 8.0.
+              Build & Durability: 7.5mm thick, Gorilla Glass Victus front, plastic frame/back, IP54 rating.
+              Connectivity: 5G, Bluetooth 5.3, Wi-Fi 5, USB Type-C, NFC.
+              Security: Side-mounted fingerprint scanner. 
+
+      Key Features:
+
+          Long-Term Support: Promised six years of security and major OS updates.
+          Display Quality: Upgraded AMOLED panel offers high brightness up to 1,150 nits.
+          Camera Stability: 50MP sensor features Optical Image Stabilization (OIS) for better photos.
+          Design: Slim 7.5mm profile with a slightly refreshed, thinner design compared to its predecessor
+    variants:
+      - id: 531
+        color: Black
+        price: 319.95
+        image: images/161-black.jpeg
+      - id: 532
+        color: Blue
+        price: 319.95
+        image: images/161-blue.jpeg
+  - id: 162
+    name: Samsung Galaxy A07, 128GB, Latin Spec , Unlocked ,New ,Sealed
+    category: Phones
+    price: ""
+    description: >-
+      Available Colors Black , Green.  The Samsung Galaxy A07 (2026) is a
+      budget-friendly smartphone featuring a 6.7-inch 90Hz/120Hz PLS LCD
+      display, a 50MP main camera, and a 5,000–6,000 mAh battery with 25W
+      charging. Available in 4G (Helio G99) and 5G (Dimensity 6300) variants, it
+      offers 4GB-8GB RAM, 128GB-256GB storage, and runs Android 16. 
+
+      Key Specifications:
+
+          Display:
+           6.7-inch HD+ PLS LCD, 90Hz or 120Hz refresh rate, ~800 nits peak brightness.
+              Processor: MediaTek Helio G99 (4G variant) or MediaTek Dimensity 6300 (5G variant).
+              RAM/Storage: 4GB/6GB/8GB RAM; 64GB/128GB/256GB storage, expandable up to 2TB via microSD.
+              Rear Camera: 50MP main (f/1.8) + 2MP depth sensor.
+              Front Camera: 8MP (f/2.0).
+              Battery & Charging: 5,000–6,000 mAh, 25W fast charging supported.
+              Software: Android 16, One UI 8.
+              Features: Side-mounted fingerprint sensor, IP54 dust/splash resistance, USB Type-C.
+    variants:
+      - id: 533
+        color: Black
+        price: 289.95
+        image: images/162-black.jpeg
+      - id: 534
+        color: Green
+        price: 289.95
+        image: images/162-green.webp
+  - id: 163
+    category: Phones
+    name: Samsung Galaxy A05, 128GB, Latin Spec, Unlocked , New , Sealed
+    description: >-
+      Available Colors Black, Green , Silver.   The Samsung Galaxy A05 is a
+      budget-friendly 4G smartphone featuring a large 6.7-inch HD+ PLS LCD
+      display, a 50MP main rear camera, and a 5,000mAh battery with 25W fast
+      charging support. Powered by the MediaTek Helio G85 chipset with 4GB/6GB
+      RAM, it offers basic performance suitable for daily tasks, running on
+      Android 13/14.  Key Specifications:
+
+          Display: 6.7-inch HD+ (720 x 1600) PLS LCD, 60Hz refresh rate.
+          Processor: MediaTek Helio G85 (Octa-core).
+          RAM/Storage: 4GB or 6GB RAM, with 64GB or 128GB internal storage; expandable up to 1TB via microSD.
+          Rear Camera: 50 MP (main, F1.8) + 2 MP (depth, F2.4).
+          Front Camera: 8 MP (F2.0).
+          Battery: 5,000mAh with 25W Super Fast Charging (charger typically not included).
+          OS: Android 13, upgradable to Android 14 with 1 UI 6.1.
+          Other: 4G LTE, Dual-SIM, 3.5mm headphone jack, USB Type-C, Face Recognition. 
+
+      Key Features:
+
+          Display & Design: A 6.7-inch screen with a U-notch, offering a large display for media consumption with a plastic build that makes it relatively light at 195g.
+          Performance: The Helio G85 handles everyday tasks and light gaming, though it may struggle with heavy multitasking.
+          Camera: The 50MP main sensor delivers decent photos in good lighting, capable of 1080p video recording at 60fps.
+          Battery: Large 5,000mAh battery capacity offers all-day usage with 25W charging, though no charger is included in the box in many regions.
+          Software: Supports multiple years of security updates and OS upgrades, starting with Android 13
+    variants:
+      - id: 535
+        color: Black
+        price: 249.95
+        image: images/163-black.jpeg
+      - id: 536
+        color: Silver
+        price: 249.95
+        image: images/163-silver.jpeg
+      - id: 537
+        color: Green
+        price: 249.95
+        image: images/163-green.jpeg
+  - id: 164
+    name: Samsung Galaxy A06, 64GB, Latin Spec, Unlocked , New, Sealed
+    category: Phones
+    price: ""
+    description: >-
+      Avaiable Colors Black.     The Samsung Galaxy A06 is an budget-friendly 4G
+      LTE smartphone (2024) featuring a 6.7-inch HD+ display, 50MP main camera,
+      and 5,000mAh battery. It runs Android 14 with a MediaTek Helio G85
+      processor, available in 64GB/128GB storage options, and includes a side
+      fingerprint sensor. This unlocked, black model is ideal for basic tasks. 
+
+      Key Features & Specifications:
+
+          Performance: MediaTek Helio G85 processor with 4GB RAM.
+          Display: 6.7-inch PLS LCD, 
+           resolution, 60Hz refresh rate.
+          Camera: 50MP main camera (f/1.8) and 2MP depth sensor; 8MP front camera.
+          Storage & Battery: 64GB or 128GB internal storage + MicroSD slot; 5,000mAh battery with 25W charging.
+          Connectivity: 4G LTE, Dual SIM, Wi-Fi, Bluetooth, USB-C, 3.5mm headphone jack.
+          OS: Android 14 with One UI 6.1 (2 years of OS upgrades).
+          Design: Black color, plastic construction, side-mounted fingerprint sensor. 
+
+      Key Considerations:
+
+          Performance Constraints: As an entry-level device, it is suitable for basic tasks but may experience lag in high-demand apps or gaming.
+          Durability: The device is not officially waterproof.
+          Display: The 60Hz screen is lower than some competitors (90Hz).
+          Value: It is highly praised for its affordability and reliable core features.
+    variants:
+      - id: 538
+        color: Black
+        price: 229.95
+        image: images/164-black.jpg
+  - id: 165
+    name: Samsung Galaxy A06, 128GB, Latin Spec, Unlocked , New, Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Black.     The Samsung Galaxy A06 is an budget-friendly 4G
+      LTE smartphone (2024) featuring a 6.7-inch HD+ display, 50MP main camera,
+      and 5,000mAh battery. It runs Android 14 with a MediaTek Helio G85
+      processor, available in 64GB/128GB storage options, and includes a side
+      fingerprint sensor. This unlocked, black model is ideal for basic tasks. 
+
+      Key Features & Specifications:
+
+          Performance: MediaTek Helio G85 processor with 4GB RAM.
+          Display: 6.7-inch PLS LCD,  resolution, 60Hz refresh rate.
+          Camera: 50MP main camera (f/1.8) and 2MP depth sensor; 8MP front camera.
+          Storage & Battery: 64GB or 128GB internal storage + MicroSD slot; 5,000mAh battery with 25W charging.
+          Connectivity: 4G LTE, Dual SIM, Wi-Fi, Bluetooth, USB-C, 3.5mm headphone jack.
+          OS: Android 14 with One UI 6.1 (2 years of OS upgrades).
+          Design: Black color, plastic construction, side-mounted fingerprint sensor. Key Considerations:
+
+          Performance Constraints: As an entry-level device, it is suitable for basic tasks but may experience lag in high-demand apps or gaming.
+          Durability: The device is not officially waterproof.
+          Display: The 60Hz screen is lower than some competitors (90Hz).
+          Value: It is highly praised for its affordability and reliable core features
+    variants:
+      - id: 539
+        color: Black
+        price: 249.95
+        image: images/165-Black.jpg
+  - id: 166
+    name: Samsung Galaxy Z Fold 7, 512GB, Latin Spec, Unlocked, New, Sealed
+    category: Phones
+    description: >+
+      Available Colors Black , Shadow Blue, Silver Shadow  The Samsung Galaxy Z
+      Fold7 (released 2026) is a high-end foldable featuring a 200MP main
+      camera, Snapdragon 8 Elite chip, and up to 16GB RAM, starting at roughly
+      $1,599. It offers an 8-inch main display and a 6.5-inch cover screen,
+      boasting a 215g weight, IP48 rating, and 7 years of software support. 
+
+
+      Core Specifications
+
+          Processor: Qualcomm Snapdragon 8 Elite for Galaxy.
+          Main Display: 8.0-inch Dynamic AMOLED 2X, QXGA+ , 120Hz Adaptive.
+          Cover Display: 6.5-inch Dynamic AMOLED 2X, FHD+ , 120Hz.
+          RAM & Storage: 12GB/16GB RAM; 256GB, 512GB, or 1TB storage.
+          Rear Camera: 200MP Wide , 12MP Ultra-wide, 10MP Telephoto Optical).
+          Front Cameras: 10MP cover camera; 10MP under-display camera.
+          Battery & Charging: 4,400 mAh; 25W wired, 15W wireless charging.
+          OS: Android 16 with One UI 8.
+          Durability: IP48 water/dust resistance, Armor Aluminum frame.
+          Weight: 215g. 
+
+      Key Features
+
+          Enhanced Cameras: Significant upgrade to a 200MP main sensor.
+          AI Integration: Includes Galaxy AI for photo editing, real-time translation, and Search (Gemini Live).
+          Design: Known for being a very thin and light foldable, with a refined, wider cover display for better one-handed use.
+          Performance: High-performance AP, though it can experience thermal throttling under heavy load.
+          Support: 7 years of OS upgrades and security patches. 
+
+    variants:
+      - id: 540
+        color: Black
+        price: 2099.95
+        image: images/166-black.jpeg
+      - id: 541
+        color: Blue
+        price: 2099.95
+        image: images/166-blue.jpg
+      - id: 542
+        color: Silver
+        price: 2099.95
+        image: images/166-silver.jpg
+  - id: 167
+    name: Samsung Galaxy Z Fold 7, 256GB, Latin Spec, Unlocked, New, Sealed
+    category: Phones
+    description: >-
+      Available Colors Black ,  Blue Shadow , Silver Shadow  The Samsung Galaxy
+      Z Fold 7 (released 2026) is a high-end foldable featuring a 200MP main
+      camera, Snapdragon 8 Elite chip, and up to 16GB RAM, starting at roughly
+      $1999 It offers an 8-inch main display and a 6.5-inch cover screen,
+      boasting a 215g weight, IP48 rating, and 7 years of software support. 
+
+
+      Core Specifications
+
+          Processor: Qualcomm Snapdragon 8 Elite for Galaxy.
+          Main Display: 8.0-inch Dynamic AMOLED 2X, QXGA+ , 120Hz Adaptive.
+          Cover Display: 6.5-inch Dynamic AMOLED 2X, FHD+ , 120Hz.
+          RAM & Storage: 12GB/16GB RAM; 256GB, 512GB, or 1TB storage.
+          Rear Camera: 200MP Wide , 12MP Ultra-wide, 10MP Telephoto Optical).
+          Front Cameras: 10MP cover camera; 10MP under-display camera.
+          Battery & Charging: 4,400 mAh; 25W wired, 15W wireless charging.
+          OS: Android 16 with One UI 8.
+          Durability: IP48 water/dust resistance, Armor Aluminum frame.
+          Weight: 215g. 
+
+      Key Features
+
+          Enhanced Cameras: Significant upgrade to a 200MP main sensor.
+          AI Integration: Includes Galaxy AI for photo editing, real-time translation, and Search (Gemini Live).
+          Design: Known for being a very thin and light foldable, with a refined, wider cover display for better one-handed use.
+          Performance: High-performance AP, though it can experience thermal throttling under heavy load.
+          Support: 7 years of OS upgrades and security patches. 
+    variants:
+      - id: 543
+        color: Black
+        price: 1989.95
+        image: images/167-black.jpeg
+      - id: 544
+        color: Silver
+        price: 1989.95
+        image: images/167-silver.jpg
+      - id: 545
+        color: Blue
+        price: 1989.95
+        image: images/167-blue.jpg
+  - id: 168
+    name: Samang Galaxy Z Flip 7 FE, 256GB, Latin Spec, Unlocked, New , Sealed
+    category: Phones
+    price: ""
+    description: >-
+      Avaiable Colors  Black & White The Samsung Galaxy Z Flip 7 FE (released
+      July 2025) is a mid-range foldable priced around featuring a 6.7-inch
+      120Hz LTPO main display, 3.4-inch 60Hz cover screen, and an Exynos 2400
+      processor. It includes 8GB RAM, 128/256GB storage, a 4,000mAh battery,
+      50MP main camera, and Android 16. 
+
+      Key Specifications (Based on 2025 Reports):
+
+          Processor: Exynos 2400 (S5E9945).
+          Main Display: 6.7-inch Dynamic LTPO AMOLED 2X, 1080 x 2640 pixels, 120Hz, 2600 nits peak.
+          Cover Display: 3.4-inch Super AMOLED, 720 x 748 pixels, 60Hz, 2600 nits peak.
+          RAM/Storage: 8GB RAM with 128GB or 256GB storage.
+          Camera: 50MP main  + 12MP ultra-wide rear; 10MP front camera.
+          Battery/Charging: 4,000 mAh, 25W wired, 15W wireless.
+          Software: Android 16 with One UI 8.
+          Durability: IP48 water/dust resistance.
+          Dimensions (Folded): 3.35" x 2.83" x 0.59". 
+    variants:
+      - id: 546
+        color: Black
+        price: 959
+        image: images/168-black.jpeg
+      - id: 547
+        price: 959
+        color: White
+        image: images/168-white.jpg
+  - id: 169
+    name: Samsung Galaxy Z Fold 7, 1TB , Latin Spec, Unlocked, New, Sealed
+    category: Phones
+    description: >-
+      Available Colors  Black , Blue Shadow , Silver Shadow  The Samsung Galaxy
+      Z Fold 7 (released 2026) is a high-end foldable featuring a 200MP main
+      camera, Snapdragon 8 Elite chip, and up to 16GB RAM, starting at roughly
+      $1,599. It offers an 8-inch main display and a 6.5-inch cover screen,
+      boasting a 215g weight, IP48 rating, and 7 years of software support. 
+
+
+
+      Core Specifications
+
+          Processor: Qualcomm Snapdragon 8 Elite for Galaxy.
+          Main Display: 8.0-inch Dynamic AMOLED 2X, QXGA+ , 120Hz Adaptive.
+          Cover Display: 6.5-inch Dynamic AMOLED 2X, FHD+ , 120Hz.
+          RAM & Storage: 12GB/16GB RAM; 256GB, 512GB, or 1TB storage.
+          Rear Camera: 200MP Wide , 12MP Ultra-wide, 10MP Telephoto Optical).
+          Front Cameras: 10MP cover camera; 10MP under-display camera.
+          Battery & Charging: 4,400 mAh; 25W wired, 15W wireless charging.
+          OS: Android 16 with One UI 8.
+          Durability: IP48 water/dust resistance, Armor Aluminum frame.
+          Weight: 215g. 
+
+      Key Features
+
+          Enhanced Cameras: Significant upgrade to a 200MP main sensor.
+          AI Integration: Includes Galaxy AI for photo editing, real-time translation, and Search (Gemini Live).
+          Design: Known for being a very thin and light foldable, with a refined, wider cover display for better one-handed use.
+          Performance: High-performance AP, though it can experience thermal throttling under heavy load.
+          Support: 7 years of OS upgrades and security patches. 
+    variants:
+      - id: 548
+        color: Black
+        price: 2409.95
+        image: images/169-black.jpeg
+      - id: 549
+        color: Silver
+        price: 2409.95
+        image: images/169-silver.jpg
+      - id: 550
+        color: Blue
+        price: 2409.95
+        image: images/169-blue.jpg
+  - id: 170
+    name: Samang Galaxy Z Flip 7 FE, 128GB, Latin Spec, Unlocked, New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors  Black & White The Samsung Galaxy Z Flip 7 FE (released
+      July 2025) is a mid-range foldable priced around featuring a 6.7-inch
+      120Hz LTPO main display, 3.4-inch 60Hz cover screen, and an Exynos 2400
+      processor. It includes 8GB RAM, 128/256GB storage, a 4,000mAh battery,
+      50MP main camera, and Android 16. 
+
+      Key Specifications (Based on 2025 Reports):
+
+          Processor: Exynos 2400 (S5E9945).
+          Main Display: 6.7-inch Dynamic LTPO AMOLED 2X, 1080 x 2640 pixels, 120Hz, 2600 nits peak.
+          Cover Display: 3.4-inch Super AMOLED, 720 x 748 pixels, 60Hz, 2600 nits peak.
+          RAM/Storage: 8GB RAM with 128GB or 256GB storage.
+          Camera: 50MP main  + 12MP ultra-wide rear; 10MP front camera.
+          Battery/Charging: 4,000 mAh, 25W wired, 15W wireless.
+          Software: Android 16 with One UI 8.
+          Durability: IP48 water/dust resistance.
+          Dimensions (Folded): 3.35" x 2.83" x 0.59". 
+    variants:
+      - id: 551
+        color: Black
+        price: 899
+        image: images/170-black.jpeg
+      - id: 552
+        color: White
+        price: 899
+        image: images/170-white.jpg
+  - id: 171
+    name: Samsung Galaxy Z Flip 7 , 256GB , Latin Spec, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Jet Black, Coral Red , Blue Shadow . The Samsung Galaxy Z
+      Flip 7 (released July 2025) features a 6.9-inch 120Hz LTPO main display, a
+      larger 4.1-inch 120Hz cover screen, and is powered by the Exynos 2500
+      chipset with 12GB of RAM. It includes a 50MP main camera, a 4,300mAh
+      battery, 25W charging, and runs Android 16. 
+
+      Core Specifications:
+
+          Main Display: 6.9-inch Dynamic AMOLED 2X, 120Hz, FHD+ resolution, foldable Ultra Thin Glass.
+          Cover Display: 4.1-inch, 120Hz, 2400 nits peak brightness, enhanced "Flex Window".
+          Processor: Exynos 2500 (global).
+          RAM/Storage: 12GB RAM with 256GB or 512GB storage.
+          Rear Cameras: 50MP Wide  + 12MP Ultra-wide 
+          Front Camera: 10MP inner camera.
+          Battery: 4,300mAh (typical), 4,174mAh (rated).
+          Charging: 25W wired, 15W wireless, 4.5W reverse wireless.
+          Weight: 188 grams.
+          Software: Android 16 with One UI 8, 7 years of OS updates.
+          Connectivity: Wi-Fi 7, Bluetooth 5.4. 
+
+      Key Features:
+
+          Design: Thinner and lighter, with a 30% slimmer hinge than the previous model.
+          Camera Capabilities: 4K video recording, enhanced low-light, and improved AI auto-zoom via the flex window.
+          Display Quality: Brighter, more responsive cover screen, and reduced crease
+    variants:
+      - id: 553
+        color: Black
+        price: 1099.95
+        image: images/171-black.webp
+      - id: 554
+        color: Blue
+        price: 1099.95
+        image: images/171-blue.webp
+      - id: 555
+        color: Red
+        price: 1099.95
+        image: images/171-red.webp
+  - id: 172
+    name: Samsung Galaxy Z Flip 7 , 512GB , Latin Spec, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Jet Black, Coral Red , Blue Shadow . The Samsung Galaxy Z
+      Flip 7 (released July 2025) features a 6.9-inch 120Hz LTPO main display, a
+      larger 4.1-inch 120Hz cover screen, and is powered by the Exynos 2500
+      chipset with 12GB of RAM. It includes a 50MP main camera, a 4,300mAh
+      battery, 25W charging, and runs Android 16. 
+
+      Core Specifications:
+
+          Main Display: 6.9-inch Dynamic AMOLED 2X, 120Hz, FHD+ resolution, foldable Ultra Thin Glass.
+          Cover Display: 4.1-inch, 120Hz, 2400 nits peak brightness, enhanced "Flex Window".
+          Processor: Exynos 2500 (global).
+          RAM/Storage: 12GB RAM with 256GB or 512GB storage.
+          Rear Cameras: 50MP Wide  + 12MP Ultra-wide 
+          Front Camera: 10MP inner camera.
+          Battery: 4,300mAh (typical), 4,174mAh (rated).
+          Charging: 25W wired, 15W wireless, 4.5W reverse wireless.
+          Weight: 188 grams.
+          Software: Android 16 with One UI 8, 7 years of OS updates.
+          Connectivity: Wi-Fi 7, Bluetooth 5.4. 
+
+      Key Features:
+
+          Design: Thinner and lighter, with a 30% slimmer hinge than the previous model.
+          Camera Capabilities: 4K video recording, enhanced low-light, and improved AI auto-zoom via the flex window.
+          Display Quality: Brighter, more responsive cover screen, and reduced crease
+    variants:
+      - id: 556
+        color: Black
+        price: 1219.95
+        image: images/172-black.webp
+      - id: 557
+        color: Blue
+        price: 1219.95
+        image: images/172-blue.webp
+      - id: 558
+        color: Red
+        price: 1219.95
+        image: images/172-red.webp
+  - id: 173
+    name: Samsung Galaxy A26, 256GB, Latin Spec , Unlocked , New , Sealed Sale
+    category: Phones
+    description: >-
+      Available Colors Pink, Black, White ,  Mint .  The Samsung Galaxy A26 5G
+      (2025) is a mid-range device featuring a 6.7-inch 120Hz FHD+ Super AMOLED
+      display, powered by an Exynos 1380 chipset, up to 8GB of RAM, and 256GB of
+      storage. It boasts a 50MP OIS main camera, 13MP selfie camera, a 5,000mAh
+      battery with 25W charging, and IP67 water resistance, running Android 15
+      with 6 years of promised updates. 
+
+      Key Specifications:
+
+          Display: 6.7-inch FHD+ Super AMOLED, 120Hz refresh rate (1080x2340 pixels),
+          Processor: Exynos 1380 (5nm) octa-core chipset (some regions may feature the older Exynos 1280),
+          Memory/Storage: 6GB/8GB RAM, 128GB/256GB storage, microSD support up to 2TB, 
+          Cameras:
+              Rear: 50MP Wide (f/1.8, OIS), 8MP Ultra Wide (f/2.2), 2MP Macro (f/2.4).
+              Front: 13MP Selfie camera (f/2.2),
+          Battery: 5,000mAh with 25W fast charging support (charger typically included), TracFone.
+          OS/Updates: Android 15 with samsung.com One UI 7, 6 years of software support promised.
+          Connectivity/Security: 5G, Wi-Fi 5, Bluetooth 5.3, NFC, Dual SIM, Fingerprint Sensor.
+          Build/Features: IP67 dust/water resistance, slim 7.7mm design, no headphone jack, TracFone. K
+    variants:
+      - id: 559
+        color: Black
+        price: 359.95
+        image: images/173-black.jpg
+      - id: 560
+        color: White
+        price: 359.95
+        image: images/173-white.jpeg
+      - id: 561
+        color: Pink
+        price: 359.95
+        image: images/173-pink.jpg
+      - id: 562
+        color: Green
+        price: 359.95
+        image: images/173-green.jpg
+  - id: 174
+    name: "Samsung Galaxy A26, 128GB, Latin Spec , Unlocked , New , Sealed "
+    category: Phones
+    variants:
+      - price: 349.95
+        id: 563
+        color: Black
+        image: images/174-black.jpg
+      - id: 564
+        color: Green
+        price: 349.95
+        image: images/174-green.jpg
+      - id: 565
+        color: White
+        price: 349.95
+        image: images/174-white.jpeg
+      - id: 566
+        color: Pink
+        price: 349.95
+        image: images/174-pink.jpg
+    description: >-
+      Available Colors Pink, Black, White ,  Mint .  The Samsung Galaxy A26 5G
+      (2025) is a mid-range device featuring a 6.7-inch 120Hz FHD+ Super AMOLED
+      display, powered by an Exynos 1380 chipset, up to 8GB of RAM, and 256GB of
+      storage. It boasts a 50MP OIS main camera, 13MP selfie camera, a 5,000mAh
+      battery with 25W charging, and IP67 water resistance, running Android 15
+      with 6 years of promised updates. 
+
+      Key Specifications:
+
+          Display: 6.7-inch FHD+ Super AMOLED, 120Hz refresh rate (1080x2340 pixels),
+          Processor: Exynos 1380 (5nm) octa-core chipset (some regions may feature the older Exynos 1280),
+          Memory/Storage: 6GB/8GB RAM, 128GB/256GB storage, microSD support up to 2TB, 
+          Cameras:
+              Rear: 50MP Wide (f/1.8, OIS), 8MP Ultra Wide (f/2.2), 2MP Macro (f/2.4).
+              Front: 13MP Selfie camera (f/2.2),
+          Battery: 5,000mAh with 25W fast charging support (charger typically included), TracFone.
+          OS/Updates: Android 15 with samsung.com One UI 7, 6 years of software support promised.
+          Connectivity/Security: 5G, Wi-Fi 5, Bluetooth 5.3, NFC, Dual SIM, Fingerprint Sensor.
+          Build/Features: IP67 dust/water resistance, slim 7.7mm design, no headphone jack, TracFone. K
+  - id: 175
+    name: Samsung Galaxy A56, 256GB, Latin Spec , Unlocked , New, Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Awesome Graphite, Awesome Light Gray, Awesome Olive,
+      Awesome Pink.  The Samsung Galaxy A56 5G (released March 2025) is a
+      mid-range phone featuring a 6.7-inch 120Hz Super AMOLED display, Exynos
+      1580 chipset, and 8GB/12GB RAM. Key specs include a 50MP main camera with
+      4K video, 5,000mAh battery, 45W fast charging, and IP67 water resistance,
+      all protected by Gorilla Glass Victus+. 
+
+      Key Specifications:
+
+          Display:
+           6.7-inch FHD+ Super AMOLED, 120Hz refresh rate, 1200+ nits brightness.
+              Processor: Exynos 1580 (approx. 25-30% improved performance over A55).
+              Memory & Storage: 8GB or 12GB RAM; 128GB or 256GB storage (UFS 3.1).
+              Rear Cameras: 50MP Main (OIS/PDAF) Sony IMX 906 + 12MP Ultra-wide + 5MP Macro.
+              Front Camera: 12MP (supports 4K video).
+              Battery & Charging: 5,000 mAh capacity, 45W wired fast charging.
+              Build & Durability: Gorilla Glass Victus Plus (front & back), aluminum frame, IP67 dust/water resistance.
+              Software: Supports 6 generations of OS upgrades and 6 years of security updates. 
+
+      The Samsung Galaxy A56 5G is designed to look similar to flagship Samsung models, featuring a slim aluminum frame and a revised camera layout.
+    variants:
+      - id: 567
+        color: Gray
+        price: 499.95
+        image: images/175gray.jpg
+      - id: 568
+        color: Green
+        price: 499.95
+        image: images/175-green.jpeg
+      - id: 569
+        color: White
+        price: 499.95
+        image: images/175-white.jpg
+      - id: 570
+        color: Pink
+        price: 499.95
+        image: images/175-pink.jpg
+  - id: 176
+    name: Samsung Galaxy A56, 128GB, Latin Spec , Unlocked , New, Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Awesome Graphite, Awesome Light Gray, Awesome Olive,
+      Awesome Pink.  The Samsung Galaxy A56 5G (released March 2025) is a
+      mid-range phone featuring a 6.7-inch 120Hz Super AMOLED display, Exynos
+      1580 chipset, and 8GB/12GB RAM. Key specs include a 50MP main camera with
+      4K video, 5,000mAh battery, 45W fast charging, and IP67 water resistance,
+      all protected by Gorilla Glass Victus+. 
+
+      Key Specifications:
+
+          Display:
+           6.7-inch FHD+ Super AMOLED, 120Hz refresh rate, 1200+ nits brightness.
+              Processor: Exynos 1580 (approx. 25-30% improved performance over A55).
+              Memory & Storage: 8GB or 12GB RAM; 128GB or 256GB storage (UFS 3.1).
+              Rear Cameras: 50MP Main (OIS/PDAF) Sony IMX 906 + 12MP Ultra-wide + 5MP Macro.
+              Front Camera: 12MP (supports 4K video).
+              Battery & Charging: 5,000 mAh capacity, 45W wired fast charging.
+              Build & Durability: Gorilla Glass Victus Plus (front & back), aluminum frame, IP67 dust/water resistance.
+              Software: Supports 6 generations of OS upgrades and 6 years of security updates. 
+
+      The Samsung Galaxy A56 5G is designed to look similar to flagship Samsung models, featuring a slim aluminum frame and a revised camera layout.
+    variants:
+      - id: 571
+        color: Gray
+        price: 449.95
+        image: images/176-gray.jpg
+      - id: 572
+        color: Green
+        price: 449.95
+        image: images/176-green.jpeg
+      - id: 573
+        color: White
+        price: 449.95
+        image: images/176-white.jpg
+      - id: 574
+        color: Pink
+        price: 449.95
+        image: images/176-pink.jpg
+  - id: 177
+    name: Samsung Galaxy A36, 256GB, Latin Spec , Unlocked , New , Sealed
+    category: Phones
+    description: >+
+      Available Colors Awesome Lime , Awesome Black, Awesome Lavender, Awesome
+      White.  The Samsung Galaxy A36 5G is a 2025 mid-range smartphone featuring
+      a 6.7-inch 120Hz FHD+ Super AMOLED display (up to 1900 nits) and a 50MP
+      main camera. It is powered by a Qualcomm Snapdragon 6 Gen 3 processor, a
+      5000mAh battery with 45W fast charging, and runs Android 15 with 6 years
+      of security support.  Key Specifications:
+
+          Display:
+           6.7-inch FHD+ Super AMOLED, 120Hz refresh rate, 1900 nits peak brightness, Gorilla Glass Victus+.
+              Processor: Qualcomm Snapdragon 6 Gen 3 (4 nm).
+              Camera (Rear): 50MP Main (f/1.8, OIS), 8MP Ultra-Wide (f/2.2), 5MP Macro (f/2.4).
+              Camera (Front): 12MP (f/2.2).
+              Battery & Charging: 5000mAh, 45W fast charging, no wireless charging.
+              Storage & RAM: 6GB/8GB/12GB RAM, 128GB/256GB storage, microSD support.
+              Software: Android 15, One UI 7.0, 6 years of OS and security updates.
+              Durability: IP67 rating (dust and water-resistant, up to 1 meter for 30 minutes).
+              Dimensions: 162.9 x 78.2 x 7.4 mm (0.29-inch thin design).
+              Features: In-display fingerprint sensor, 5G Sub6, NFC, Stereo speakers, AI features (Circle to Search). 
+
+    variants:
+      - id: 575
+        color: Black
+        price: 385.95
+        image: images/177-black.jpeg
+      - id: 576
+        color: Lavender
+        price: 385.95
+        image: images/177-lavender.jpg
+      - id: 577
+        color: White
+        price: 385.95
+        image: images/177-white.jpg
+      - id: 578
+        color: Lime
+        price: 385.95
+        image: images/177-lime.jpg
+  - id: 178
+    name: Samsung Galaxy A16 , 128GB , 4G, Latin Spec , Unlocked, New ,Sealed
+    category: Phones
+    description: >-
+      Available Colors Blue Black, Light Gray, Light Green, Gold.           The
+      Samsung Galaxy A16 is a budget-friendly 5G smartphone featuring a 6.7-inch
+      FHD+ Super AMOLED 90Hz display, 50MP triple cameras, and a 5,000mAh
+      battery with 25W charging. It runs on an Exynos 1330 (5nm) chipset with
+      4GB/8GB RAM, up to 256GB expandable storage, and offers an impressive 6
+      years of software support. 
+
+      Key Specifications
+
+          Display:
+           6.7-inch Super AMOLED, FHD+ (1080 x 2340), 90Hz refresh rate, approx. 385 PPI.
+              Processor: Exynos 1330 (5nm) or Mediatek Dimensity 6300 (6nm), depending on region.
+              Memory & Storage: 4GB RAM (some models 8GB) + 128GB/256GB internal storage, expandable via microSD up to 1.5TB.
+              Rear Camera: 50 MP Main (f/1.8), 5 MP Ultra-wide (f/2.2), 2 MP Macro (f/2.4).
+              Front Camera: 13 MP (f/2.0).
+              Battery & Charging: 5,000 mAh battery, 25W wired fast charging (no wireless charging).
+              Software: Android 14 with One UI 6.1 (upgradeable), with 6 years of promised software/security updates.
+              Connectivity: 5G, Wi-Fi 5 (802.11ac), Bluetooth 5.3, NFC, USB-C.
+              Durability & Design: IP54 water and dust resistance, 3.5mm headphone jack, Side-mounted fingerprint sensor.
+              Dimensions & Weight: 164.4 x 77.9 x 7.9 mm (6.47 x 3.07 x 0.31 in); Approx. 200g.
+    variants:
+      - id: 579
+        color: Blue
+        price: 289.95
+        image: images/178-blue.jpeg
+      - id: 580
+        color: Gold
+        price: 289.95
+        image: images/178-gold.jpg
+      - id: 581
+        color: Gray
+        price: 289.95
+        image: images/178-gray.jpg
+      - id: 582
+        color: Green
+        price: 289.95
+        image: images/178-green.jpeg
+  - id: 179
+    name: Samsung Galaxy A36, 128GB, Latin Spec , Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Awesome Lime , Awesome Black, Awesome Lavender, Awesome
+      White.  The Samsung Galaxy A36 5G is a 2025 mid-range smartphone featuring
+      a 6.7-inch 120Hz FHD+ Super AMOLED display (up to 1900 nits) and a 50MP
+      main camera. It is powered by a Qualcomm Snapdragon 6 Gen 3 processor, a
+      5000mAh battery with 45W fast charging, and runs Android 15 with 6 years
+      of security support.  Key Specifications:
+
+          Display:
+           6.7-inch FHD+ Super AMOLED, 120Hz refresh rate, 1900 nits peak brightness, Gorilla Glass Victus+.
+              Processor: Qualcomm Snapdragon 6 Gen 3 (4 nm).
+              Camera (Rear): 50MP Main (f/1.8, OIS), 8MP Ultra-Wide (f/2.2), 5MP Macro (f/2.4).
+              Camera (Front): 12MP (f/2.2).
+              Battery & Charging: 5000mAh, 45W fast charging, no wireless charging.
+              Storage & RAM: 6GB/8GB/12GB RAM, 128GB/256GB storage, microSD support.
+              Software: Android 15, One UI 7.0, 6 years of OS and security updates.
+              Durability: IP67 rating (dust and water-resistant, up to 1 meter for 30 minutes).
+              Dimensions: 162.9 x 78.2 x 7.4 mm (0.29-inch thin design).
+              Features: In-display fingerprint sensor, 5G Sub6, NFC, Stereo speakers, AI features (Circle to Search). 
+    variants:
+      - id: 583
+        color: Black
+        price: 399.95
+        image: images/179-black.jpeg
+      - id: 584
+        color: Lavender
+        price: 399.95
+        image: images/179-lavender.jpg
+      - id: 585
+        color: White
+        price: 399.95
+        image: images/179-white.jpg
+      - id: 586
+        color: Lime
+        price: 399.95
+        image: images/179-lime.jpg
+  - id: 180
+    name: Samsung Galaxy A16 , 256GB , 4G, Latin Spec , Unlocked, New ,Sealed
+    category: Phones
+    description: >-
+      Available Colors Blue Black, Light Gray, Light Green, Gold.           The
+      Samsung Galaxy A16 is a budget-friendly 5G smartphone featuring a 6.7-inch
+      FHD+ Super AMOLED 90Hz display, 50MP triple cameras, and a 5,000mAh
+      battery with 25W charging. It runs on an Exynos 1330 (5nm) chipset with
+      4GB/8GB RAM, up to 256GB expandable storage, and offers an impressive 6
+      years of software support. 
+
+      Key Specifications
+
+          Display:
+           6.7-inch Super AMOLED, FHD+ (1080 x 2340), 90Hz refresh rate, approx. 385 PPI.
+              Processor: Exynos 1330 (5nm) or Mediatek Dimensity 6300 (6nm), depending on region.
+              Memory & Storage: 4GB RAM (some models 8GB) + 128GB/256GB internal storage, expandable via microSD up to 1.5TB.
+              Rear Camera: 50 MP Main (f/1.8), 5 MP Ultra-wide (f/2.2), 2 MP Macro (f/2.4).
+              Front Camera: 13 MP (f/2.0).
+              Battery & Charging: 5,000 mAh battery, 25W wired fast charging (no wireless charging).
+              Software: Android 14 with One UI 6.1 (upgradeable), with 6 years of promised software/security updates.
+              Connectivity: 5G, Wi-Fi 5 (802.11ac), Bluetooth 5.3, NFC, USB-C.
+              Durability & Design: IP54 water and dust resistance, 3.5mm headphone jack, Side-mounted fingerprint sensor.
+              Dimensions & Weight: 164.4 x 77.9 x 7.9 mm (6.47 x 3.07 x 0.31 in); Approx. 200g
+    variants:
+      - id: 587
+        color: Black
+        price: 319.95
+        image: images/180-black.jpeg
+      - id: 588
+        color: Gold
+        price: 319.95
+        image: images/180-gold.jpg
+      - id: 589
+        color: Gray
+        price: 319.95
+        image: images/180-gray.jpg
+      - id: 590
+        color: Green
+        price: 319.95
+        image: images/180-green.jpeg
+  - id: 181
+    name: Samsung Galaxy M55, 256GB, Latin Spec, Unlocked , New, Sealed
+    category: Phones
+    description: >-
+      Available Colors Denim Black , Light Green.  The Samsung Galaxy M55 5G is
+      a slim (7.8mm) smartphone featuring a 6.7-inch FHD+ 120Hz Super AMOLED
+      Plus display, a Qualcomm Snapdragon 7 Gen 1 processor, and 8GB/12GB RAM.
+      It boasts a 50MP primary camera with OIS and a 50MP front camera, backed
+      by a 5,000mAh battery with 45W fast charging. 
+
+      Key Specifications:
+
+          Display: 6.7-inch Super AMOLED Plus, 1080 x 2400 pixels, 120Hz, 1,000 nits brightness.
+          Processor: Qualcomm Snapdragon 7 Gen 1 (4nm).
+          Memory & Storage: 8GB/12GB RAM, 128GB/256GB storage (MicroSD support up to 1TB).
+          Rear Camera: 50 MP (OIS, f/1.8) + 8 MP (Ultra-wide) + 2 MP (Macro).
+          Front Camera: 50 MP (f/2.4).
+          Battery: 5000 mAh with 45W fast charging support.
+          Software: Android 14 with One UI 6.1 (4 years Android upgrades, 5 years security updates).
+          Dimensions: 7.8 mm thin, ~180g.
+          Connectivity: 5G, Wi-Fi 6, Bluetooth 5.2, Dual SIM. 
+    variants:
+      - id: 591
+        color: Black
+        price: 419.95
+        image: images/181-black.jpeg
+      - id: 592
+        color: Green
+        price: 419.95
+        image: images/181-green.jpg
+  - id: 182
+    name: Samsung Galaxy S24 FE, 256GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Gay Graphite        The Samsung Galaxy S24 FE is a
+      high-performance, fan-edition smartphone featuring a 6.7-inch Dynamic
+      AMOLED 2X display, 120Hz refresh rate, and 1,900 nits peak brightness. It
+      is powered by the Exynos 2400e processor, 8GB RAM, a 4,700 mAh battery,
+      and includes a 50MP main camera. It runs Android 14, supports 25W
+      charging, and has an IP68 rating. 
+
+      Core Specifications
+
+          Display: 6.7-inch Dynamic AMOLED 2X, 2340x1080 (FHD+), 120Hz, 1900 nits
+          Processor: Exynos 2400e (4nm) chipset
+          RAM/Storage: 8GB RAM with 128GB or 256GB storage
+          Rear Camera: 50 MP (Wide, f/1.8, OIS), 12 MP (Ultra-wide, f/2.2), 8 MP (Telephoto, 3x Optical Zoom, f/2.4)
+          Front Camera: 10 MP (f/2.4)
+          Battery: 4,700 mAh
+          Charging: 25W Wired, Wireless Charging, Wireless PowerShare
+          Software: Android 14, One UI 6.1
+          Build: Aluminum frame, Corning Gorilla Glass Victus+
+          Durability: IP68 Water and Dust Resistance
+          Connectivity: 5G, Wi-Fi 6E, Bluetooth 5.3 
+
+      Key Features
+
+          Galaxy AI: Features built-in AI tools for photography, editing, and productivity.
+          Camera Quality: The 50MP main sensor delivers high-quality images with good color parity across all lenses, according to 
+          Performance: The Exynos 2400e processor offers flagship-level performance for gaming and multitasking, notes 
+          Design: The phone features a flat back, 1.99mm thin bezels, and a, 213g weight, says. Battery Life.
+
+          4,700mAh battery supports up to 46 hours of talk time (per AT&T).
+          The device provides good battery life, lasting a full day on a single charge based on normal usage, as seen in this YouTube video review
+    variants:
+      - id: 593
+        color: Graphite
+        price: 699.95
+        image: images/182-graphite.png
+      - id: 594
+        color: Gray
+        price: 699.95
+        image: images/182-grey.png
+  - id: 183
+    name: Samsung Galaxy A54, 128GB,  Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Black , Violet.       The Samsung Galaxy A54 5G is a
+      mid-range smartphone featuring a 6.4-inch 120Hz Super AMOLED display, a
+      50MP main camera with OIS, and a 5,000mAh battery. Powered by the Exynos
+      1380 processor, it offers 6GB/8GB RAM and 128GB/256GB storage
+      (expandable). It is known for its durable design, IP67 rating, and
+      reliable battery life. 
+
+      Key Specgifications
+
+          Display: 6.4-inch FHD+ Super AMOLED, 120Hz refresh rate, 1000 nits peak brightness, Gorilla Glass 5.
+          Processor: Samsung Exynos 1380 (octa-core).
+          Cameras:
+              Rear: 50MP (f/1.8, OIS) main, 12MP (f/2.2) ultra-wide, 5MP (f/2.4) macro.
+              Front: 32MP (f/2.2) selfie camera.
+          Battery: 5,000mAh, 25W wired charging (no charger in box).
+          Memory/Storage: 6GB/8GB RAM, 128GB/256GB storage, expandable up to 1TB.
+          Durability: IP67 water and dust resistance.
+          Operating System: Android 13 (upon release), upgradable.
+          Connectivity: 5G, Wi-Fi 6, Bluetooth 5.3, NFC, USB-C.
+          Dimensions/Weight: 158.2 x 76.7 x 8.2mm, 202 grams. 
+
+      Performance and Features
+
+          Camera Quality: Features "Nightography" for better low-light photos and improved OIS for smoother video.
+          Battery Life: Offers approximately 2 days of battery life, with a 119-hour endurance rating.
+          Build: Glass back (Gorilla Glass 5) and plastic frame.
+          Support: Promised 5 years of security updates and 4 generations of Android OS upgrades.
+    variants:
+      - id: 595
+        color: Black
+        price: 389.95
+        image: images/183-black.jpeg
+      - id: 596
+        color: Violet
+        price: 389.95
+        image: images/183-Violet.jpg
