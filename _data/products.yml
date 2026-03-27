@@ -6365,3 +6365,1295 @@ products:
         color: Violet
         price: 389.95
         image: images/183-Violet.jpg
+  - id: 184
+    name: Samsung Galaxy A54, 128GB,  Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Black , Violet.       The Samsung Galaxy A54 5G is a
+      mid-range smartphone featuring a 6.4-inch 120Hz Super AMOLED display, a
+      50MP main camera with OIS, and a 5,000mAh battery. Powered by the Exynos
+      1380 processor, it offers 6GB/8GB RAM and 128GB/256GB storage
+      (expandable). It is known for its durable design, IP67 rating, and
+      reliable battery life. 
+
+      Key Specgifications
+
+          Display: 6.4-inch FHD+ Super AMOLED, 120Hz refresh rate, 1000 nits peak brightness, Gorilla Glass 5.
+          Processor: Samsung Exynos 1380 (octa-core).
+          Cameras:
+              Rear: 50MP (f/1.8, OIS) main, 12MP (f/2.2) ultra-wide, 5MP (f/2.4) macro.
+              Front: 32MP (f/2.2) selfie camera.
+          Battery: 5,000mAh, 25W wired charging (no charger in box).
+          Memory/Storage: 6GB/8GB RAM, 128GB/256GB storage, expandable up to 1TB.
+          Durability: IP67 water and dust resistance.
+          Operating System: Android 13 (upon release), upgradable.
+          Connectivity: 5G, Wi-Fi 6, Bluetooth 5.3, NFC, USB-C.
+          Dimensions/Weight: 158.2 x 76.7 x 8.2mm, 202 grams. 
+
+      Performance and Features
+
+          Camera Quality: Features "Nightography" for better low-light photos and improved OIS for smoother video.
+          Battery Life: Offers approximately 2 days of battery life, with a 119-hour endurance rating.
+          Build: Glass back (Gorilla Glass 5) and plastic frame.
+          Support: Promised 5 years of security updates and 4 generations of Android OS upgrades. 
+    variants:
+      - id: 597
+        color: Black
+        price: 389.95
+        image: images/184-black.jpeg
+      - id: 598
+        color: Violet
+        price: 389.95
+        image: images/184-violet.jpg
+  - id: 185
+    name: Meizu Note 21, 256GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Blue. The Meizu 21 Note (256GB storage) is a
+      high-performance 5G smartphone featuring the Snapdragon 8 Gen 2 chipset, a
+      6.78-inch 144Hz LTPO AMOLED display, and 16GB LPDDR5 RAM. It packs a
+      5500mAh battery with 66W fast charging, a 50MP main camera, and operates
+      on Android 14 based on Flyme 10.5, emphasizing AI capabilities. 
+
+      Key Specifications of the Meizu 21 Note (256GB model):
+
+          Processor: Qualcomm Snapdragon 8 Gen 2 (4nm).
+          Memory & Storage: 16GB RAM + 256GB ROM (UFS 4.0).
+          Display: 6.78-inch LTPO AMOLED display, 120Hz/144Hz variable refresh rate, 1.5K resolution, 1B colors, 1250 nits (HBM).
+          Rear Camera: 50MP main sensor (OIS) + 13MP ultra-wide sensor.
+          Front Camera: 16MP.
+          Battery & Charging: 5500mAh typical, 66W wired charging.
+          OS: Flyme 10.5 (Android 14).
+          Connectivity: 5G, Wi-Fi 7, Bluetooth 5.3, NFC, Dual-band GPS.
+          Other: Dual speakers, under-display fingerprint sensor, X-axis linear motor, IP65 rating
+    image: ""
+    variants:
+      - id: 599
+        color: Blue
+        price: 299.95
+        image: images/185-blue.jpeg
+  - id: 186
+    name: Honor X8A, 256GB, Latin Spec , Unlocked , New ,Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Blue.  The Honor X8a is a 4G budget smartphone featuring a
+      6.7-inch 90Hz LCD, a 100MP main camera, and a slim 7.48mm design. Powered
+      by a MediaTek Helio G88 processor with 8GB RAM and 128GB storage, it
+      includes a 4500mAh battery with 22.5W fast charging and runs on MagicUI
+      6.1 (Android 12). 
+
+      Key Specifications of the Honor X8a:
+
+          Display: 6.7-inch IPS LCD, 2388 x 1080 resolution, 90Hz refresh rate, 16.7 million colors.
+          Processor: MediaTek Helio G88 (octa-core,).
+          Memory & Storage: 8GB RAM + 128GB ROM.
+          Rear Camera: 100MP main (f/1.9) + 5MP ultra-wide & depth (f/2.2) + 2MP macro (f/2.4).
+          Front Camera: 16MP (f/2.45).
+          Battery: 4500mAh (typical), 22.5W HONOR SuperCharge.
+          Operating System: MagicUI 6.1 (based on Android 12).
+          Dimensions/Weight: 162.9mm (H) x 74.5mm (W) x 7.48mm (D); ~179g.
+          Connectivity: 4G LTE, Wi-Fi 2.4GHz/5GHz, Bluetooth 5.1, USB Type-C, side-mounted fingerprint sensor. Important Notes:
+
+          This device is distinct from the Honor Pad X8a (a tablet) or the Honor X8a 5G.
+          The camera supports 1080P video recording.
+          The design features thin bezels and a flat-edge, premium-feeling finish.
+    variants:
+      - id: 600
+        color: Blue
+        price: 299.95
+        image: images/186-blue.jpeg
+  - id: 187
+    name: ZTE Nubia Music, 128GB, 4G, Unlocked, New, Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Pop Art , Orange   The Nubia Music is a budget-focused
+      smartphone (typically 4G/LTE, not 5G) designed for audio enthusiasts,
+      featuring a high-volume "vinyl-record" style speaker, dual 3.5mm headphone
+      jacks, and a 5000mAh battery. It offers 128GB storage, a 50MP camera, and
+      a 90Hz display, but provides modest performance using a Unisoc T606
+      processor. 
+
+      Key Features and Details
+
+          Audio Focus: The rear speaker is 600% louder than standard phones and features melodic light effects that sync with music. It includes DTS:X® Ultra for sound enhancement.
+          Unique Design: Available in vibrant "Pop Art" colors and an orange variant, designed to look like a, portable radio.
+          Dual Headphone Jacks: Allows two people to listen to the same device simultaneously via wired headphones.
+          Performance: Uses a Unisoc T606 processor, with 4GB RAM (+4GB dynamic RAM) and 128GB storage. It is considered a budget phone better suited for media consumption than gaming.
+          Display & Battery: 6.6-inch HD+ display with 90Hz refresh rate and a 5000mAh battery with 10W slow charging.
+          Camera: 50MP main camera. 
+    variants:
+      - id: 601
+        color: Orange
+        price: 269.95
+        image: images/187-orange.jpeg
+      - id: 602
+        color: Pop-art
+        price: 269.95
+        image: images/187-pop-art.jpeg
+  - id: 188
+    name: Samsung Galaxy S24, 256GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Orange, Yellow,  Gray , Black , Violet.  The Samsung
+      Galaxy S24 features a 6.2-inch FHD+ 120Hz Dynamic AMOLED 2X display,
+      Snapdragon 8 Gen 3 for Galaxy chipset (or Exynos 2400 depending on
+      region), 8GB RAM, and a 4,000mAh battery. It offers 50MP main, 12MP
+      ultra-wide, and 10MP telephoto (3x zoom) cameras, plus 128GB/256GB/512GB
+      storage options and 7 years of security updates. 
+
+      Key Specifications for Galaxy S24:
+
+          Display: 6.2-inch Dynamic AMOLED 2X, FHD+ (
+          ), 1-120Hz refresh rate, 2600 nits peak brightness.
+          Processor: Qualcomm Snapdragon 8 Gen 3 for Galaxy (or Exynos 2400).
+          RAM: 8GB LPDDR5X.
+          Storage: 128GB/256GB/512GB (non-expandable).
+          Rear Cameras:
+              50 MP (Wide), 
+              , OIS.
+              12 MP (Ultrawide), 
+              , 120° FOV.
+              10 MP (Telephoto), 
+              , 3x Optical Zoom.
+          Front Camera: 12 MP, 
+          .
+          Battery: 4,000 mAh (25W wired charging).
+          Build: Armor Aluminum frame, Gorilla Glass Victus 2.
+          Dimensions/Weight: 147 x 70.6 x 7.6 mm (5.79 x 2.78 x 0.30 in) / 167-168 grams.
+          Software/AI: Android 14 with One UI 6.1; Galaxy AI features.
+          Connectivity: 5G, Wi-Fi 6E, Bluetooth 5.3, NFC. 
+    variants:
+      - id: 603
+        color: Gray
+        price: 829.95
+        image: images/188-gray.png
+      - id: 604
+        color: Black
+        price: 829.95
+        image: images/188-black.jpeg
+      - id: 605
+        color: Orange
+        price: 829.95
+        image: images/188-orange.webp
+      - id: 606
+        price: 829.95
+        color: Yellow
+        image: images/188-yellow.png
+  - id: 189
+    name: ZTE Nubia Neo 2, 256GB , Unlocked, New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Gray.  The ZTE Nubia Neo 2 5G is a budget gaming
+      smartphone featuring a 6.72-inch 120Hz FHD+ display, a Unisoc T820
+      processor, and dual gaming shoulder triggers. It packs a 6000mAh battery
+      with 33W fast charging, 8GB RAM (expandable), and 256GB storage, all
+      within a mecha-design body, often running Android 14. 
+
+      Key Specifications:
+
+          Display: 6.72-inch IPS LCD, 1080 x 2400 pixels, 120Hz refresh rate
+          Processor: Unisoc T820 (6nm, Octa-core, 2.7GHz)
+          RAM/Storage: 8GB LPDDR4X RAM (+ up to 12GB virtual RAM) & 256GB UFS 3.1 storage
+          Battery: 6000mAh, 33W fast charging
+          Rear Camera: 50 MP Main + 2 MP Depth
+          Front Camera: 16 MP
+          Gaming Features: Dual shoulder triggers (capacitive), Game Space 2.0, Multi-layer heat dissipation
+          OS: Android 13 or 14
+          Audio: Dual stereo speakers with DTS:X Ultra
+          Weight/Dimensions: 208g / 166 x 76.1 x 8.5 mm
+          Connectivity: 5G, Dual SIM, Wi-Fi, Bluetooth, USB Type-C
+    variants:
+      - id: 607
+        color: Gray
+        price: 359.95
+        image: images/189-gray.jpeg
+  - id: 190
+    name: Xiaomi Poco C75, 128GB, Unlocked. New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Black And Green. The POCO C75 is an entry-level smartphone
+      featuring a large 6.88-inch 120Hz IPS LCD display, a 50MP rear camera, and
+      a 5,160mAh battery with 18W charging. It is powered by the MediaTek Helio
+      G81-Ultra processor with up to 8GB RAM, running Android 14 with HyperOS.
+      The device is designed for budget-conscious users, featuring a 13MP front
+      camera and a side-mounted fingerprint sensor. 
+
+      Key Specifications:
+
+          Display: 6.88-inch IPS LCD, HD+ (1640x720) resolution, 120Hz refresh rate, 600 nits peak brightness.
+          Processor: MediaTek Helio G81-Ultra (Octa-core).
+          Memory & Storage: 6GB/8GB LPDDR4X RAM, 128GB/256GB eMMC 5.1 storage (expandable via microSD).
+          Rear Camera: 50MP main camera (f/1.8), auxiliary lens.
+          Front Camera: 13MP.
+          Battery & Charging: 5160 mAh capacity, 18W fast charging support.
+          OS: Xiaomi HyperOS based on Android 14.
+          Other Features: Side-mounted fingerprint sensor, AI face unlock, 3.5mm headphone jack, IP52 splash resistance, Bluetooth 5.4, NFC (region dependent).The device including green and black, with a, premium "starry" design aesthetic on certain models. Note that a 5G version exists in some markets (e.g., India) featuring the Snapdragon 4s Gen 2 chip, 5MP front camera, and a 204g weight.
+    variants:
+      - id: 608
+        color: Green
+        price: 299.95
+        image: images/190-green.jpg
+      - id: 609
+        color: Black
+        price: 299.95
+        image: images/190-black.jpeg
+  - id: 191
+    name: Nokia 2V Tella , 16GB , Unlocked , New. Sealed
+    category: Phones
+    description: >-
+      Available Colors Blue . The Nokia 2 V Tella is a budget Android 10
+      smartphone (released Oct 2020) featuring a 5.45-inch HD+ display, MediaTek
+      Helio A22 processor, 2GB RAM, and 16GB expandable storage. It includes an
+      8MP+2MP dual rear camera, 5MP front camera, and a 3000mAh removable
+      battery with USB-C, primarily available via Verizon prepaid. 
+
+      Core Specifications:
+
+          Display: 5.45-inch IPS LCD, 720 x 1440 pixels (~295 ppi), 18:9 ratio
+          Processor: MediaTek Helio A22 (MT6761) Quad-core 2.0 GHz
+          RAM: 2GB LPDDR3
+          Storage: 16GB internal, expandable via microSD up to 128GB
+          Rear Camera: 8MP Main (autofocus) + 2MP Depth
+          Front Camera: 5MP
+          Battery: 3000mAh (removable) with 10W charging
+          OS: Android 10
+          Connectivity: 4G LTE, Wi-Fi, Bluetooth 4.2, GPS, USB Type-C, 3.5mm jack
+          Dimensions: 150.6 x 71.6 x 9.3 mm
+          Weight: 180g
+          Other: Dedicated Google Assistant button, Face Unlock 
+    variants:
+      - id: 610
+        color: Blue
+        price: 179.95
+        image: images/191-blue.jpeg
+  - id: 192
+    name: " Xiaomi Poco M6 Pro, 256GB, Unlocked , New , Sealed"
+    category: Phones
+    description: >-
+      Available Colors Black, Blue The Poco M6 Pro 5G is a budget-friendly 5G
+      smartphone featuring a 6.79-inch 90Hz FHD+ display, Snapdragon 4 Gen 2
+      chipset, and a 50MP main camera. It includes a 5,000mAh battery, 18W fast
+      charging, IP53 resistance, and a 3.5mm headphone jack. It is available
+      with up to 6GB RAM and 128GB storage. 
+
+      Key Specifications:
+
+          Display: 6.79-inch IPS LCD, FHD+ resolution (
+          ), 90Hz refresh rate, 550 nits peak brightness, and Corning Gorilla Glass protection.
+          Processor: Qualcomm Snapdragon 4 Gen 2 (4nm).
+          Memory & Storage: 4GB/6GB LPDDR4X RAM, 64GB/128GB UFS 2.2 storage (expandable up to 1TB via microSD).
+          Rear Camera: 50MP (f/1.8) main + 2MP (f/2.4) depth sensor.
+          Front Camera: 8MP (f/2.0).
+          Battery: 5,000mAh, supports 18W fast charging (22.5W charger in-box).
+          Software: MIUI 14 for POCO based on Android 13.
+          Connectivity: 5G, 4G LTE, dual-band Wi-Fi, Bluetooth 5.0, IR Blaster, Type-C port, 3.5mm headphone jack.
+          Security: Side-mounted fingerprint sensor.
+          Durability: IP53 dust and splash resistance. 
+
+      Design & Build:
+
+          Dimensions: ~161.1 x 75 x 8 mm
+          Weight: ~199 g
+          Build: Glass front, plastic back/frame 
+    variants:
+      - id: 611
+        color: Blue
+        price: 369.95
+        image: images/192-blue.jpeg
+      - id: 612
+        color: Black
+        price: 369.95
+        image: images/192-black.jpeg
+  - id: 193
+    name: Celero , 5G , 64GB, Unlocked, New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Silver.   The Celero 5G SC is an ultra-budget 5G prepaid
+      phone for Boost Mobile featuring a 6.6-inch HD+ display, a 50MP main
+      camera, and a 5,000mAh battery. Running Android 14 with a 2.2GHz octa-core
+      processor and 64GB storage, it is designed for basic tasks and includes
+      BoostMax Audio. 
+
+      Key Specifications
+
+          Display: 6.6-inch HD+ (LCD), 90Hz refresh rate, approx. 480 nits brightness
+              Processor: MediaTek Dimensity 6100+ (2.2 GHz octa-core)
+              Storage/RAM: 64GB internal (expandable via microSD up to 128GB/1TB)
+              Rear Camera: 50MP Main (autofocus) + 2MP Depth (some reports note 8MP wide)
+              Front Camera: 5MP
+              Battery: 5,000mAh, 10W charging (Type-C)
+              OS: Android 14
+              Security: Side-mounted fingerprint sensor, Facial recognition
+              Other: 5G connectivity, 3.5mm headphone jack, BoostMax Audio, IPX2 water resistance 
+    variants:
+      - id: 613
+        color: Silver
+        price: 249.95
+        image: images/193-silver.jpeg
+  - id: 194
+    name: Maxwest Neo Flip Plus , 32MB, Unlocked, New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Red , Gold , Black, Blue .The Maxwest New Flip Plus is a
+      4G LTE enabled, dual-SIM compact flip phone featuring a 2.4-inch TFT main
+      display, a VGA rear camera, 32MB RAM, and 32MB internal memory (expandable
+      via microSD). Designed for basic communication, it operates on a SC6531E
+      chipset, includes a 1400mAh battery, FM radio, and Bluetooth. 
+
+      Key Specifications:
+
+          Connectivity: 4G LTE, GSM Quad Band, Dual Nano SIM, VoLTE.
+          Display: 2.4-inch TFT Main Display.
+          Camera: VGA Rear Camera (0.3 MP).
+          Memory: 32MB RAM + 32MB ROM, supports microSDHC (up to 32GB).
+          Battery: 1000mAh - 1400mAh, charges via micro-USB.
+          Features: SOS Function, FM Radio, Bluetooth, Music Player, Flashlight.
+          Dimensions: Approximately 106 x 52 x 13.6 mm.
+    variants:
+      - id: 614
+        color: Black
+        price: 109.95
+        image: images/194-black.png
+      - id: 615
+        color: Red
+        price: 109.95
+        image: images/194-red.png
+      - id: 616
+        color: Blue
+        price: 109.95
+        image: images/194-blue.jpeg
+      - id: 617
+        color: Gold
+        price: 109.95
+        image: images/194-gold.jpeg
+  - id: 195
+    name: Google Pixel 10 Pro , 128GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Moonstone , Obsidian , Porcelain, Jade . The Google Pixel
+      10 Pro features a 6.3-inch Super Actua LTPO OLED display (1-120Hz, 3300
+      nits peak) and is powered by the Tensor G5 chip with 16GB of RAM. It
+      includes a 50MP main, 48MP ultrawide, and 48MP 4.5x telephoto camera, with
+      a 4,870mAh battery, 128GB-1TB storage, and Qi2-certified wireless
+      charging. 
+
+      Key Specifications (Based on 2025/2026 Reports)
+
+          Processor: Google Tensor G5 + Titan M2 security coprocessor
+          Display: 6.3-inch LTPO OLED, 1280 x 2856 resolution, 1-120Hz refresh, up to 3300 nits peak brightness
+          RAM: 16GB
+          Storage: 128GB, 256GB, 512GB, 1TB (UFS 4.0)
+          Rear Camera:
+              50 MP Wide (Octa PD)
+              48 MP Ultrawide (Quad PD, Macro Focus)
+              48 MP Telephoto (4.5x optical, 30x Super Res Zoom)
+          Front Camera: 42MP
+          Battery & Charging: 4,870mAh, 24+ hour battery life, 55% charge in 30 mins (30W), Pixelsnap (Qi2) magnetic wireless charging
+          Build: Gorilla Glass Victus 2, spacecraft-grade aluminum frame
+          Dimensions: 6.02 x 2.83 x 0.33 inches, 7.3 oz
+          Software: Android 16 
+
+      Distinguishing Features
+
+          Compact Pro: Offers flagship 16GB RAM and top-tier camera specs in a smaller 6.3-inch form factor.
+          Tensor G5: The chip is built on a 3nm process, allowing for improved efficiency.
+          Qi2/Pixelsnap: Features magnetic wireless charging (15W).
+          AI Integration: Deeply integrated AI tools for camera and daily tasks.
+    variants:
+      - id: 618
+        color: Green
+        price: 989.95
+        image: images/195-green.jpeg
+      - id: 619
+        color: Gray
+        price: 989.95
+        image: images/195-gray.jpeg
+      - id: 620
+        color: White
+        price: 989.95
+        image: images/195-white.webp
+      - id: 621
+        color: Black
+        price: 989.95
+        image: images/195-black.png
+  - id: 196
+    name: Google Pixel 10 Pro , 256GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Moonstone , Obsidian , Porcelain, Jade . The Google Pixel
+      10 Pro features a 6.3-inch Super Actua LTPO OLED display (1-120Hz, 3300
+      nits peak) and is powered by the Tensor G5 chip with 16GB of RAM. It
+      includes a 50MP main, 48MP ultrawide, and 48MP 4.5x telephoto camera, with
+      a 4,870mAh battery, 128GB-1TB storage, and Qi2-certified wireless
+      charging. 
+
+      Key Specifications (Based on 2025/2026 Reports)
+
+          Processor: Google Tensor G5 + Titan M2 security coprocessor
+          Display: 6.3-inch LTPO OLED, 1280 x 2856 resolution, 1-120Hz refresh, up to 3300 nits peak brightness
+          RAM: 16GB
+          Storage: 128GB, 256GB, 512GB, 1TB (UFS 4.0)
+          Rear Camera:
+              50 MP Wide (Octa PD)
+              48 MP Ultrawide (Quad PD, Macro Focus)
+              48 MP Telephoto (4.5x optical, 30x Super Res Zoom)
+          Front Camera: 42MP
+          Battery & Charging: 4,870mAh, 24+ hour battery life, 55% charge in 30 mins (30W), Pixelsnap (Qi2) magnetic wireless charging
+          Build: Gorilla Glass Victus 2, spacecraft-grade aluminum frame
+          Dimensions: 6.02 x 2.83 x 0.33 inches, 7.3 oz
+          Software: Android 16 
+
+      Distinguishing Features
+
+          Compact Pro: Offers flagship 16GB RAM and top-tier camera specs in a smaller 6.3-inch form factor.
+          Tensor G5: The chip is built on a 3nm process, allowing for improved efficiency.
+          Qi2/Pixelsnap: Features magnetic wireless charging (15W).
+          AI Integration: Deeply integrated AI tools for camera and daily tasks.
+    variants:
+      - id: 622
+        color: Black
+        price: 1089.95
+        image: images/196-black.png
+      - id: 623
+        color: White
+        price: 1089.95
+        image: images/196-white.webp
+      - id: 624
+        color: Green
+        price: 1089.95
+        image: images/196-green.jpeg
+      - id: 625
+        color: Gray
+        price: 1089.95
+        image: images/196-gray.jpeg
+  - id: 197
+    name: Google Pixel 10 Pro , 512GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Moonstone , Obsidian , Porcelain, Jade . The Google Pixel
+      10 Pro features a 6.3-inch Super Actua LTPO OLED display (1-120Hz, 3300
+      nits peak) and is powered by the Tensor G5 chip with 16GB of RAM. It
+      includes a 50MP main, 48MP ultrawide, and 48MP 4.5x telephoto camera, with
+      a 4,870mAh battery, 128GB-1TB storage, and Qi2-certified wireless
+      charging. 
+
+      Key Specifications (Based on 2025/2026 Reports)
+
+          Processor: Google Tensor G5 + Titan M2 security coprocessor
+          Display: 6.3-inch LTPO OLED, 1280 x 2856 resolution, 1-120Hz refresh, up to 3300 nits peak brightness
+          RAM: 16GB
+          Storage: 128GB, 256GB, 512GB, 1TB (UFS 4.0)
+          Rear Camera:
+              50 MP Wide (Octa PD)
+              48 MP Ultrawide (Quad PD, Macro Focus)
+              48 MP Telephoto (4.5x optical, 30x Super Res Zoom)
+          Front Camera: 42MP
+          Battery & Charging: 4,870mAh, 24+ hour battery life, 55% charge in 30 mins (30W), Pixelsnap (Qi2) magnetic wireless charging
+          Build: Gorilla Glass Victus 2, spacecraft-grade aluminum frame
+          Dimensions: 6.02 x 2.83 x 0.33 inches, 7.3 oz
+          Software: Android 16 
+
+      Distinguishing Features
+
+          Compact Pro: Offers flagship 16GB RAM and top-tier camera specs in a smaller 6.3-inch form factor.
+          Tensor G5: The chip is built on a 3nm process, allowing for improved efficiency.
+          Qi2/Pixelsnap: Features magnetic wireless charging (15W).
+          AI Integration: Deeply integrated AI tools for camera and daily tasks.
+    variants:
+      - id: 626
+        color: Black
+        price: 1209.95
+        image: images/197-black.png
+      - id: 627
+        color: White
+        price: 1209.95
+        image: images/197-white.webp
+      - id: 628
+        color: Green
+        price: 1209.95
+        image: images/197-green.jpeg
+      - id: 629
+        color: Gray
+        price: 1209.95
+        image: images/197-gray.jpeg
+  - id: 198
+    name: Google Pixel 10 Pro , 1TB Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Moonstone , Obsidian , Porcelain, Jade . The Google Pixel
+      10 Pro features a 6.3-inch Super Actua LTPO OLED display (1-120Hz, 3300
+      nits peak) and is powered by the Tensor G5 chip with 16GB of RAM. It
+      includes a 50MP main, 48MP ultrawide, and 48MP 4.5x telephoto camera, with
+      a 4,870mAh battery, 128GB-1TB storage, and Qi2-certified wireless
+      charging. 
+
+      Key Specifications (Based on 2025/2026 Reports)
+
+          Processor: Google Tensor G5 + Titan M2 security coprocessor
+          Display: 6.3-inch LTPO OLED, 1280 x 2856 resolution, 1-120Hz refresh, up to 3300 nits peak brightness
+          RAM: 16GB
+          Storage: 128GB, 256GB, 512GB, 1TB (UFS 4.0)
+          Rear Camera:
+              50 MP Wide (Octa PD)
+              48 MP Ultrawide (Quad PD, Macro Focus)
+              48 MP Telephoto (4.5x optical, 30x Super Res Zoom)
+          Front Camera: 42MP
+          Battery & Charging: 4,870mAh, 24+ hour battery life, 55% charge in 30 mins (30W), Pixelsnap (Qi2) magnetic wireless charging
+          Build: Gorilla Glass Victus 2, spacecraft-grade aluminum frame
+          Dimensions: 6.02 x 2.83 x 0.33 inches, 7.3 oz
+          Software: Android 16 
+
+      Distinguishing Features
+
+          Compact Pro: Offers flagship 16GB RAM and top-tier camera specs in a smaller 6.3-inch form factor.
+          Tensor G5: The chip is built on a 3nm process, allowing for improved efficiency.
+          Qi2/Pixelsnap: Features magnetic wireless charging (15W).
+          AI Integration: Deeply integrated AI tools for camera and daily tasks.
+    variants:
+      - id: 630
+        color: Black
+        price: 1599.95
+        image: images/198-black.png
+      - id: 631
+        color: Gray
+        price: 1599.95
+        image: images/198-gray.jpeg
+      - id: 632
+        color: White
+        price: 1599.95
+        image: images/198-white.webp
+      - color: Green
+        id: 633
+        price: 1599.95
+        image: images/198-green.jpeg
+  - id: 199
+    name: Google Pixel 10 Pro XL, 256GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Moonstone, Jade, Obsidian , Porcelain. The Google Pixel
+      10 Pro XL is a flagship smartphone featuring a 6.8-inch 120Hz Super Actua
+      OLED display, the proprietary Google Tensor G5 chip, and 16GB of RAM. It
+      boasts a 5200 mAh battery with 45W wired charging, a 50MP main camera, a
+      48MP ultrawide with macro focus, and a 48MP 5x telephoto lens. 
+
+      Key Specifications (Based on early reports):
+
+          Display: 6.8-inch LTPO OLED, 1344 x 2992 resolution, ~486 ppi, 120Hz, 3300 nits peak brightness.
+          Processor: Google Tensor G5 + Titan M2 security coprocessor.
+          RAM/Storage: 16GB RAM; 256GB, 512GB, or 1TB storage.
+          Rear Cameras: 50MP Wide (ƒ/1.68), 48MP Ultrawide (125°), 48MP 5x Telephoto.
+          Front Camera: 42MP selfie camera.
+          Battery: 5200 mAh, 45W wired fast charging, 25W+ wireless charging.
+          Connectivity: Wi-Fi 7, Bluetooth 5.4, 5G, NFC, eSIM.
+          OS: Android 16.
+          Durability: Corning Gorilla Glass Victus 
+
+      Key Features:
+
+          Enhanced AI: Deeply integrated Google AI capabilities.
+          Superior Zoom: Up to 100x Pro Res Zoom with 5x optical zoom.
+          Design: Large-screen design with narrow bezels, roughly 6.4 x 3.0 x 0.3 inches. 
+    variants:
+      - id: 634
+        color: Black
+        price: 1189.95
+        image: images/199-black.png
+      - id: 635
+        color: Gray
+        price: 1189.95
+        image: images/199-gray.jpeg
+      - id: 636
+        color: White
+        price: 1189.95
+        image: images/199-white.webp
+      - id: 637
+        color: Green
+        price: 1189.95
+        image: images/199-green.jpeg
+  - id: 200
+    name: Google Pixel 10 Pro XL, 512GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Moonstone, Jade, Obsidian , Porcelain. The Google Pixel
+      10 Pro XL is a flagship smartphone featuring a 6.8-inch 120Hz Super Actua
+      OLED display, the proprietary Google Tensor G5 chip, and 16GB of RAM. It
+      boasts a 5200 mAh battery with 45W wired charging, a 50MP main camera, a
+      48MP ultrawide with macro focus, and a 48MP 5x telephoto lens. 
+
+      Key Specifications (Based on early reports):
+
+          Display: 6.8-inch LTPO OLED, 1344 x 2992 resolution, ~486 ppi, 120Hz, 3300 nits peak brightness.
+          Processor: Google Tensor G5 + Titan M2 security coprocessor.
+          RAM/Storage: 16GB RAM; 256GB, 512GB, or 1TB storage.
+          Rear Cameras: 50MP Wide (ƒ/1.68), 48MP Ultrawide (125°), 48MP 5x Telephoto.
+          Front Camera: 42MP selfie camera.
+          Battery: 5200 mAh, 45W wired fast charging, 25W+ wireless charging.
+          Connectivity: Wi-Fi 7, Bluetooth 5.4, 5G, NFC, eSIM.
+          OS: Android 16.
+          Durability: Corning Gorilla Glass Victus 
+
+      Key Features:
+
+          Enhanced AI: Deeply integrated Google AI capabilities.
+          Superior Zoom: Up to 100x Pro Res Zoom with 5x optical zoom.
+          Design: Large-screen design with narrow bezels, roughly 6.4 x 3.0 x 0.3 inches
+    variants:
+      - id: 638
+        color: Black
+        price: 1309.95
+        image: images/200-black.png
+      - id: 639
+        color: Green
+        price: 1309.95
+        image: images/200-green.jpeg
+      - id: 640
+        color: White
+        price: 1309.95
+        image: images/200-white.webp
+      - id: 641
+        color: Gray
+        price: 1309.95
+        image: images/200-gray.jpeg
+  - id: 201
+    name: Google Pixel 10 Pro XL, 1TB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Moonstone, Jade, Obsidian , Porcelain. The Google Pixel
+      10 Pro XL is a flagship smartphone featuring a 6.8-inch 120Hz Super Actua
+      OLED display, the proprietary Google Tensor G5 chip, and 16GB of RAM. It
+      boasts a 5200 mAh battery with 45W wired charging, a 50MP main camera, a
+      48MP ultrawide with macro focus, and a 48MP 5x telephoto lens. 
+
+      Key Specifications (Based on early reports):
+
+          Display: 6.8-inch LTPO OLED, 1344 x 2992 resolution, ~486 ppi, 120Hz, 3300 nits peak brightness.
+          Processor: Google Tensor G5 + Titan M2 security coprocessor.
+          RAM/Storage: 16GB RAM; 256GB, 512GB, or 1TB storage.
+          Rear Cameras: 50MP Wide (ƒ/1.68), 48MP Ultrawide (125°), 48MP 5x Telephoto.
+          Front Camera: 42MP selfie camera.
+          Battery: 5200 mAh, 45W wired fast charging, 25W+ wireless charging.
+          Connectivity: Wi-Fi 7, Bluetooth 5.4, 5G, NFC, eSIM.
+          OS: Android 16.
+          Durability: Corning Gorilla Glass Victus 
+
+      Key Features:
+
+          Enhanced AI: Deeply integrated Google AI capabilities.
+          Superior Zoom: Up to 100x Pro Res Zoom with 5x optical zoom.
+          Design: Large-screen design with narrow bezels, roughly 6.4 x 3.0 x 0.3 inches
+    variants:
+      - id: 642
+        color: Black
+        price: 1589.95
+        image: images/201-black.png
+      - id: 643
+        color: White
+        price: 1589.95
+        image: images/201-white.webp
+      - id: 644
+        color: Green
+        price: 1589.95
+        image: images/201-green.jpeg
+      - id: 645
+        color: Gray
+        price: 1589.95
+        image: images/201-gray.jpeg
+  - id: 202
+    name: Google Pixel 10, 128GB, Unlocked , New, Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors , Obsidian ,Frost , Indigo, Lemongrass. The Google Pixel
+      10 is a 6.3-inch compact flagship powered by the Tensor G5 chip, 12GB of
+      RAM, and Android 16. It features a 3,000-nit peak brightness OLED display,
+      a 48MP main camera, a 13MP ultrawide lens, and a new 5x telephoto zoom.
+      Key features include 7 years of updates, Qi2-certified 15W wireless
+      charging, and 128GB/256GB storage. 
+
+      Core Specifications:
+
+          Processor: Google Tensor G5 chip with Titan M2 security coprocessor.
+          RAM/Storage: 12GB RAM with 128GB or 256GB storage.
+          Display: 6.3-inch Actua OLED, 1080 x 2424, 120Hz refresh rate (60-120Hz), 3,000 nits peak brightness, Gorilla Glass Victus 2.
+          Rear Camera: 48MP main, 13MP ultrawide, 10.8MP telephoto (5x optical zoom).
+          Front Camera: 10.5MP.
+          Battery: 4,970mAh typical, 30W wired charging (approx. 55% in 30 mins), 15W+ wireless charging (Qi2).
+          Software/Support: Android 16 with 7 years of OS and security updates.
+          Build: IP68 water/dust resistance, aluminum frame, glossy back, builtin magnets for accessories.
+    variants:
+      - id: 646
+        color: Black
+        price: 839.95
+        image: images/202-black.webp
+      - id: 647
+        color: White
+        price: 839.95
+        image: images/202-white.png
+      - id: 648
+        color: Blue
+        price: 839.95
+        image: images/202-blue.png
+      - id: 649
+        color: Yellow
+        price: 839.95
+        image: images/202-yellow.png
+  - id: 203
+    name: Google Pixel 10, 256GB, Unlocked , New, Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors , Obsidian ,Frost , Indigo, Lemongrass. The Google Pixel
+      10 is a 6.3-inch compact flagship powered by the Tensor G5 chip, 12GB of
+      RAM, and Android 16. It features a 3,000-nit peak brightness OLED display,
+      a 48MP main camera, a 13MP ultrawide lens, and a new 5x telephoto zoom.
+      Key features include 7 years of updates, Qi2-certified 15W wireless
+      charging, and 128GB/256GB storage. 
+
+      Core Specifications:
+
+          Processor: Google Tensor G5 chip with Titan M2 security coprocessor.
+          RAM/Storage: 12GB RAM with 128GB or 256GB storage.
+          Display: 6.3-inch Actua OLED, 1080 x 2424, 120Hz refresh rate (60-120Hz), 3,000 nits peak brightness, Gorilla Glass Victus 2.
+          Rear Camera: 48MP main, 13MP ultrawide, 10.8MP telephoto (5x optical zoom).
+          Front Camera: 10.5MP.
+          Battery: 4,970mAh typical, 30W wired charging (approx. 55% in 30 mins), 15W+ wireless charging (Qi2).
+          Software/Support: Android 16 with 7 years of OS and security updates.
+          Build: IP68 water/dust resistance, aluminum frame, glossy back, builtin magnets for accessories.
+    variants:
+      - id: 650
+        color: Black
+        price: 939.95
+        image: images/203-black.webp
+      - id: 651
+        color: Blue
+        price: 939.95
+        image: images/203-blue.png
+      - id: 652
+        color: White
+        price: 939.95
+        image: images/203-white.png
+      - id: 653
+        color: Yellow
+        price: 939.95
+        image: images/203-yellow.png
+  - id: 204
+    name: Google Pixel 9A , 128GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Obsidian.The Google Pixel 9a is a mid-range smartphone
+      featuring the Tensor G4 chip, 8GB of RAM, and a 6.3-inch 120Hz Actua
+      display. It features a large 5,100 mAh battery, 48MP main camera, and full
+      IP68 water resistance, running Android 15 with 7 years of support. The
+      design includes flat aluminum rails and a plastic back, available in four
+      colors. 
+
+      Key Specifications
+
+          Processor: Google Tensor G4 (with 8GB RAM).
+          Display: 6.3-inch OLED, 1080 x 2424 resolution, 60–120Hz refresh rate, up to 1900-2700 nits peak brightness.
+          Battery: 5,100 mAh (largest in a Pixel A-series), supporting wired and wireless charging.
+          Rear Camera: 48 MP wide (main) + 13 MP ultrawide.
+          Front Camera: 13 MP.
+          Storage: 128GB or 256GB (expected).
+          Build: Aluminum frame, plastic back, IP68 dust/water resistance.
+          Connectivity: Wi-Fi 6E, Bluetooth 5.3, sub-6GHz 5G (no mmWave).
+          Colors: Porcelain , Obsidian, Peony, Iris.
+
+      Main Highlights
+
+          Performance: Uses the same Tensor G4 processor as the premium Pixel 9, offering similar AI capabilities and speed, as seen 
+          Display & Design: The 6.3-inch screen has a 120Hz refresh rate and is significantly brighter than previous models, notes
+          Battery Life: The 5,100 mAh battery is designed to last over 24 hours, or up to 100 hours with Extreme Battery Saver, says the Google Store.
+          Durability: It is the first A-series Pixel with an IP68 rating, meaning it has superior water resistance compared to the IP67-rated 8a, explains this YouTube review and Wikipedia.
+          Software: Includes 7 years of Android OS and security updates, reports this YouTube review.
+    variants:
+      - id: 654
+        color: Black
+        price: 589.95
+        image: images/204-black.webp
+  - id: 205
+    name: Google Pixel 9 ,128GB , Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Obsidian.  The Google Pixel 9 is a 6.3-inch Android 14
+      smartphone released in August 2024, featuring the Tensor G4 chip, 12GB of
+      RAM, and a 4700 mAh battery with 24+ hour life. Priced from $799, it
+      highlights a redesigned camera bar, glossy back, and advanced AI features
+      like Gemini and Magic Editor. The device offers a 50MP main camera and a
+      48MP ultrawide lens. Key Features and Specifications
+
+          Performance: Powered by the Tensor G4 chipset and 12GB of RAM, providing a smooth experience, though it may not be the fastest on the market.
+          Camera System: 50MP main, 48MP ultrawide, and a 10.5MP front camera, supporting features like Action Pan.
+          Display: 6.3-inch Actua OLED display with a 60Hz-120Hz refresh rate.
+          Design & Battery: Features a 4700 mAh battery with 24-hour battery life. Design includes a glossy back and matte sides, with an IP68 rating for water/dust resistance.
+          AI Integration: Deeply integrated with Gemini AI, Pixel Studio for image generation, and call screening features. 
+
+          Storage: Available in 128GB and 256GB options.
+          Colors: Available in colors such as Wintergreen, Obsidian, and Porcelain . 
+
+      Difference from Pro Models
+
+      The standard Pixel 9 lacks the 16GB of RAM, dedicated periscope telephoto camera, and matte finish found on the 9 Pro and 9 Pro XL, but it offers 95% of the same functionality for a lower price.
+    variants:
+      - id: 655
+        color: Black
+        price: 789.95
+        image: images/205-black.webp
+  - id: 206
+    name: Google Pixel 9 ,256GB , Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Obsidian.  The Google Pixel 9 is a 6.3-inch Android 14
+      smartphone released in August 2024, featuring the Tensor G4 chip, 12GB of
+      RAM, and a 4700 mAh battery with 24+ hour life.,8highlights a redesigned
+      camera bar, glossy back, and advanced AI features like Gemini and Magic
+      Editor. The device offers a 50MP main camera and a 48MP ultrawide lens.
+      Key Features and Specifications
+
+          Performance: Powered by the Tensor G4 chipset and 12GB of RAM, providing a smooth experience, though it may not be the fastest on the market.
+          Camera System: 50MP main, 48MP ultrawide, and a 10.5MP front camera, supporting features like Action Pan.
+          Display: 6.3-inch Actua OLED display with a 60Hz-120Hz refresh rate.
+          Design & Battery: Features a 4700 mAh battery with 24-hour battery life. Design includes a glossy back and matte sides, with an IP68 rating for water/dust resistance.
+          AI Integration: Deeply integrated with Gemini AI, Pixel Studio for image generation, and call screening features. 
+
+          Storage: Available in 128GB and 256GB options.
+          Colors: Available in colors such as Wintergreen, Obsidian, and Porcelain . 
+
+      Difference from Pro Models
+
+      The standard Pixel 9 lacks the 16GB of RAM, dedicated periscope telephoto camera, and matte finish found on the 9 Pro and 9 Pro XL, but it offers 95% of the same functionality for a lower price.
+    variants:
+      - id: 656
+        color: Bkack
+        price: 889.95
+        image: images/206-black.webp
+  - id: 207
+    name: Google pixel 9 Pro Fold , 256GB, Unlocked ,New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Obsidian , Porcelain.  The Goigle 9 Pro Fold (2024) is a
+      premium foldable featuring an 8-inch Super Actua Flex (LTPO) internal
+      display (2076 x 2152, 1-120Hz) and a 6.3-inch OLED external screen.
+      Powered by the Tensor G4 chip and 16GB RAM, it features a 48MP main
+      camera, 10.5MP ultrawide, and 10.8MP 5x telephoto camera, reaching up to
+      2,700 nits peak brightness. 
+
+      Key Specifications
+
+          Displays: 8-inch inner foldable OLED (120Hz, 2700 nits peak); 6.3-inch outer OLED (120Hz).
+          Processor: Google Tensor G4 with Titan M2 security coprocessor.
+          RAM/Storage: 16GB RAM and options for 256GB or 512GB internal storage.
+          Rear Cameras: 48MP Wide (f/1.7), 10.5MP Ultrawide (f/2.2), 10.8MP Telephoto (f/3.1) with 5x optical zoom.
+          Front Cameras: 10MP (outer) and 10MP (inner) selfie cameras.
+          Battery & Charging: 4,650mAh capacity. Supports USB-C 21W wired and 7W wireless charging.
+          Dimensions & Weight: 6.11 x 5.91 x 0.20 inches (unfolded) / 6.11 x 3.03 x 0.41 inches (folded); 9.07 oz (257g) weight.
+          Durability: IPx8 water rating.
+          OS: Android 14. 
+    variants:
+      - id: 657
+        color: Black
+        price: 1329.95
+        image: images/207-black.webp
+      - id: 658
+        color: White
+        price: 1329.95
+        image: images/207-white.jpg
+  - id: 208
+    name: Google pixel 9 Pro Fold , 512GB, Unlocked ,New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Obsidian.  The Goigle 9 Pro Fold (2024) is a premium
+      foldable featuring an 8-inch Super Actua Flex (LTPO) internal display
+      (2076 x 2152, 1-120Hz) and a 6.3-inch OLED external screen. Powered by the
+      Tensor G4 chip and 16GB RAM, it features a 48MP main camera, 10.5MP
+      ultrawide, and 10.8MP 5x telephoto camera, reaching up to 2,700 nits peak
+      brightness. 
+
+      Key Specifications
+
+          Displays: 8-inch inner foldable OLED (120Hz, 2700 nits peak); 6.3-inch outer OLED (120Hz).
+          Processor: Google Tensor G4 with Titan M2 security coprocessor.
+          RAM/Storage: 16GB RAM and options for 256GB or 512GB internal storage.
+          Rear Cameras: 48MP Wide (f/1.7), 10.5MP Ultrawide (f/2.2), 10.8MP Telephoto (f/3.1) with 5x optical zoom.
+          Front Cameras: 10MP (outer) and 10MP (inner) selfie cameras.
+          Battery & Charging: 4,650mAh capacity. Supports USB-C 21W wired and 7W wireless charging.
+          Dimensions & Weight: 6.11 x 5.91 x 0.20 inches (unfolded) / 6.11 x 3.03 x 0.41 inches (folded); 9.07 oz (257g) weight.
+          Durability: IPx8 water rating.
+          OS: Android 14. 
+    variants:
+      - id: 659
+        color: Black
+        price: 1669.95
+        image: images/208-black.webp
+  - id: 209
+    name: Google Pixel 9 Pro XL , 128GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Obsidian, Hazel, Rose Quartz , Porcelain.  The Google
+      Pixel 9 Pro XL is a flagship smartphone featuring a 6.8-inch Super Actua
+      LTPO OLED display (1344 x 2992, 120Hz), Tensor G4 processor, and 16GB of
+      RAM. It offers a 50MP main/48MP ultra-wide/48MP 5x telephoto camera system
+      with a 42MP front camera, 5060 mAh battery, and 7 years of software
+      support. 
+
+      Key Specifications
+
+          Display:
+           6.8-inch Super Actua (LTPO OLED), 1344 x 2992 resolution, 1-120Hz refresh rate, up to 3000 nits peak brightness, Gorilla Glass Victus 2.
+              Processor: Google Tensor G4 with Titan M2 security coprocessor.
+              RAM/Storage: 16GB RAM, with 128GB, 256GB, 512GB, or 1TB storage options.
+              Rear Cameras:
+                  Main: 50 MP wide, OIS.
+                  Ultrawide: 48 MP with Macro Focus.
+                  Telephoto: 48 MP 5x optical zoom, up to 30x Super Res Zoom.
+              Front Camera: 42 MP, f/2.2, 103° field of view.
+              Battery: 5060 mAh, 37W wired charging (70% in ~30 mins).
+              OS: Android 14 (upgradable to Android 16), 7 years of updates.
+              Durability: IP68 water and dust resistance.
+              Connectivity: 5G, Wi-Fi 7, Bluetooth 5.3, USB-C 3.2.
+              Weight: 221 grams. 
+
+      The Google Pixel 9 Pro XL is considered a premium, large-screen device with high-end camera capabilities including 8K video boost, notes 
+    variants:
+      - id: 660
+        color: Black
+        price: 1089.95
+        image: images/209-black.webp
+      - id: 661
+        color: Gray
+        price: 1089.95
+        image: images/209-gray.webp
+      - id: 662
+        color: White
+        price: 1089.95
+        image: images/209-white.jpeg
+      - id: 663
+        color: Pink
+        price: 1089.95
+        image: images/209-pink.webp
+  - id: 210
+    name: Google Pixel 9 Pro XL , 256GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Obsidian, Hazel, Rose Quartz , Porcelain.  The Google
+      Pixel 9 Pro XL is a flagship smartphone featuring a 6.8-inch Super Actua
+      LTPO OLED display (1344 x 2992, 120Hz), Tensor G4 processor, and 16GB of
+      RAM. It offers a 50MP main/48MP ultra-wide/48MP 5x telephoto camera system
+      with a 42MP front camera, 5060 mAh battery, and 7 years of software
+      support. 
+
+      Key Specifications
+
+          Display:
+           6.8-inch Super Actua (LTPO OLED), 1344 x 2992 resolution, 1-120Hz refresh rate, up to 3000 nits peak brightness, Gorilla Glass Victus 2.
+              Processor: Google Tensor G4 with Titan M2 security coprocessor.
+              RAM/Storage: 16GB RAM, with 128GB, 256GB, 512GB, or 1TB storage options.
+              Rear Cameras:
+                  Main: 50 MP wide, OIS.
+                  Ultrawide: 48 MP with Macro Focus.
+                  Telephoto: 48 MP 5x optical zoom, up to 30x Super Res Zoom.
+              Front Camera: 42 MP, f/2.2, 103° field of view.
+              Battery: 5060 mAh, 37W wired charging (70% in ~30 mins).
+              OS: Android 14 (upgradable to Android 16), 7 years of updates.
+              Durability: IP68 water and dust resistance.
+              Connectivity: 5G, Wi-Fi 7, Bluetooth 5.3, USB-C 3.2.
+              Weight: 221 grams. 
+
+      The Google Pixel 9 Pro XL is considered a premium, large-screen device with high-end camera capabilities including 8K video boost, notes 
+    variants:
+      - id: 664
+        color: Gray
+        price: 1199.95
+        image: images/210-gray.webp
+      - id: 665
+        color: White
+        price: 1199.95
+        image: images/210-white.jpeg
+      - id: 666
+        color: Pink
+        price: 1199.95
+        image: images/210-pink.webp
+      - id: 667
+        color: Black
+        price: 1199.95
+        image: images/210-black.webp
+  - id: 211
+    name: Google Pixel 9 Pro XL , 512GB, Unlocked , New , Sealed
+    category: Phones
+    description: >
+      Avaiable Colors Obsidian, Hazel, Rose Quartz , Porcelain.  The Google
+      Pixel 9 Pro XL is a flagship smartphone featuring a 6.8-inch Super Actua
+      LTPO OLED display (1344 x 2992, 120Hz), Tensor G4 processor, and 16GB of
+      RAM. It offers a 50MP main/48MP ultra-wide/48MP 5x telephoto camera system
+      with a 42MP front camera, 5060 mAh battery, and 7 years of software
+      support. 
+
+      Key Specifications
+
+          Display:
+           6.8-inch Super Actua (LTPO OLED), 1344 x 2992 resolution, 1-120Hz refresh rate, up to 3000 nits peak brightness, Gorilla Glass Victus 2.
+              Processor: Google Tensor G4 with Titan M2 security coprocessor.
+              RAM/Storage: 16GB RAM, with 128GB, 256GB, 512GB, or 1TB storage options.
+              Rear Cameras:
+                  Main: 50 MP wide, OIS.
+                  Ultrawide: 48 MP with Macro Focus.
+                  Telephoto: 48 MP 5x optical zoom, up to 30x Super Res Zoom.
+              Front Camera: 42 MP, f/2.2, 103° field of view.
+              Battery: 5060 mAh, 37W wired charging (70% in ~30 mins).
+              OS: Android 14 (upgradable to Android 16), 7 years of updates.
+              Durability: IP68 water and dust resistance.
+              Connectivity: 5G, Wi-Fi 7, Bluetooth 5.3, USB-C 3.2.
+              Weight: 221 grams. 
+
+      The Google Pixel 9 Pro XL is considered a premium, large-screen device with high-end camera capabilities including 8K video boost, notes 
+    variants:
+      - id: 668
+        color: Black
+        price: 1429.95
+        image: images/211-black.webp
+      - id: 669
+        color: Gray
+        price: 1429.95
+        image: images/211-gray.webp
+      - id: 670
+        color: White
+        price: 1429.95
+        image: images/211-white.jpeg
+      - id: 671
+        color: Pink
+        price: 1429.95
+        image: images/211-pink.webp
+  - id: 212
+    name: Google Pixel 9 Pro XL , 1TB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Obsidian, Hazel, Rose Quartz , Porcelain.  The Google
+      Pixel 9 Pro XL is a flagship smartphone featuring a 6.8-inch Super Actua
+      LTPO OLED display (1344 x 2992, 120Hz), Tensor G4 processor, and 16GB of
+      RAM. It offers a 50MP main/48MP ultra-wide/48MP 5x telephoto camera system
+      with a 42MP front camera, 5060 mAh battery, and 7 years of software
+      support. 
+
+      Key Specifications
+
+          Display:
+           6.8-inch Super Actua (LTPO OLED), 1344 x 2992 resolution, 1-120Hz refresh rate, up to 3000 nits peak brightness, Gorilla Glass Victus 2.
+              Processor: Google Tensor G4 with Titan M2 security coprocessor.
+              RAM/Storage: 16GB RAM, with 128GB, 256GB, 512GB, or 1TB storage options.
+              Rear Cameras:
+                  Main: 50 MP wide, OIS.
+                  Ultrawide: 48 MP with Macro Focus.
+                  Telephoto: 48 MP 5x optical zoom, up to 30x Super Res Zoom.
+              Front Camera: 42 MP, f/2.2, 103° field of view.
+              Battery: 5060 mAh, 37W wired charging (70% in ~30 mins).
+              OS: Android 14 (upgradable to Android 16), 7 years of updates.
+              Durability: IP68 water and dust resistance.
+              Connectivity: 5G, Wi-Fi 7, Bluetooth 5.3, USB-C 3.2.
+              Weight: 221 grams. 
+
+      The Google Pixel 9 Pro XL is considered a premium, large-screen device with high-end camera capabilities including 8K video boost, notes 
+    variants:
+      - id: 672
+        color: Black
+        price: 1659.95
+        image: images/212-black.webp
+      - id: 673
+        color: Gray
+        price: 1659.95
+        image: images/212-gray.webp
+      - id: 674
+        color: White
+        price: 1659.95
+        image: images/212-white.jpeg
+      - id: 675
+        color: Pink
+        price: 1659.95
+        image: images/212-pink.webp
+  - id: 213
+    name: Google Pixel 9 Pro, 128GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Obsidian , Hazel , Porcelain , Rose Quartz ,  The Google
+      Pixel 9 Pro is a compact flagship featuring a 6.3-inch Super Actua LTPO
+      OLED display (120Hz), Tensor G4 processor, 16GB of RAM, and a 4,700 mAh
+      battery. It has a 50MP main, 48MP ultrawide, and 48MP 5x telephoto camera,
+      plus a 42MP selfie camera, housed in a matte glass body with 7 years of
+      support. 
+
+      Key Specifications:
+
+          Display:
+           6.3-inch LTPO OLED, 1280 x 2856 pixels, 495 PPI, 1-120Hz, up to 2300 nits (HDR).
+              Processor: Google Tensor G4 with Titan M2 security coprocessor.
+              Memory & Storage: 16GB RAM, with storage options of 128GB, 256GB, 512GB, or 1TB.
+              Rear Cameras: 50MP Main (f/1.7), 48MP Ultrawide (f/1.7), 48MP Telephoto (5x optical, f/2.8).
+              Front Camera: 42MP (f/2.2) with autofocus.
+              Battery & Charging: 4,700 mAh, 27W wired charging (approx. 56% in 30 min), 21W+ wireless charging.
+              Software: Android 14, 7 years of security/OS updates.
+              Design: Matte glass back, polished metal frame, IP68 rating.
+              AI: Built-in Gemini, AI photo editing (Pixel Studio, Add Me). The Pixel 9 Pro provides top-tier camera performance, including 8K30 video recording (with Video Boost) and advanced AI capabilities in a smaller form factor than the Pro XL. 
+    variants:
+      - price: 999.95
+        color: Black
+        id: 676
+        image: images/213-black.webp
+      - id: 677
+        color: Gray
+        price: 999.95
+        image: images/213-gray.webp
+      - id: 678
+        color: White
+        price: 999.95
+        image: images/213-white.jpeg
+      - id: 679
+        color: Pink
+        price: 999.95
+        image: images/213-pink.webp
+  - id: 214
+    name: Google Pixel 9 Pro, 256GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Obsidian , Hazel , Porcelain , Rose Quartz ,  The Google
+      Pixel 9 Pro is a compact flagship featuring a 6.3-inch Super Actua LTPO
+      OLED display (120Hz), Tensor G4 processor, 16GB of RAM, and a 4,700 mAh
+      battery. It has a 50MP main, 48MP ultrawide, and 48MP 5x telephoto camera,
+      plus a 42MP selfie camera, housed in a matte glass body with 7 years of
+      support. 
+
+      Key Specifications:
+
+          Display:
+           6.3-inch LTPO OLED, 1280 x 2856 pixels, 495 PPI, 1-120Hz, up to 2300 nits (HDR).
+              Processor: Google Tensor G4 with Titan M2 security coprocessor.
+              Memory & Storage: 16GB RAM, with storage options of 128GB, 256GB, 512GB, or 1TB.
+              Rear Cameras: 50MP Main (f/1.7), 48MP Ultrawide (f/1.7), 48MP Telephoto (5x optical, f/2.8).
+              Front Camera: 42MP (f/2.2) with autofocus.
+              Battery & Charging: 4,700 mAh, 27W wired charging (approx. 56% in 30 min), 21W+ wireless charging.
+              Software: Android 14, 7 years of security/OS updates.
+              Design: Matte glass back, polished metal frame, IP68 rating.
+              AI: Built-in Gemini, AI photo editing (Pixel Studio, Add Me). The Pixel 9 Pro provides top-tier camera performance, including 8K30 video recording (with Video Boost) and advanced AI capabilities in a smaller form factor than the Pro XL. 
+    variants:
+      - id: 680
+        color: Black
+        price: 1199.95
+        image: images/214-black.webp
+      - id: 681
+        color: Gray
+        price: 1199.95
+        image: images/214-gray.webp
+      - id: 682
+        color: White
+        price: 1199.95
+        image: images/214-white.jpeg
+      - id: 683
+        color: Pink
+        price: 1199.95
+        image: images/214-pink.webp
+  - id: 215
+    name: Google Pixel 9 Pro, 512GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Obsidian , Hazel , Porcelain , Rose Quartz ,  The Google
+      Pixel 9 Pro is a compact flagship featuring a 6.3-inch Super Actua LTPO
+      OLED display (120Hz), Tensor G4 processor, 16GB of RAM, and a 4,700 mAh
+      battery. It has a 50MP main, 48MP ultrawide, and 48MP 5x telephoto camera,
+      plus a 42MP selfie camera, housed in a matte glass body with 7 years of
+      support. 
+
+      Key Specifications:
+
+          Display:
+           6.3-inch LTPO OLED, 1280 x 2856 pixels, 495 PPI, 1-120Hz, up to 2300 nits (HDR).
+              Processor: Google Tensor G4 with Titan M2 security coprocessor.
+              Memory & Storage: 16GB RAM, with storage options of 128GB, 256GB, 512GB, or 1TB.
+              Rear Cameras: 50MP Main (f/1.7), 48MP Ultrawide (f/1.7), 48MP Telephoto (5x optical, f/2.8).
+              Front Camera: 42MP (f/2.2) with autofocus.
+              Battery & Charging: 4,700 mAh, 27W wired charging (approx. 56% in 30 min), 21W+ wireless charging.
+              Software: Android 14, 7 years of security/OS updates.
+              Design: Matte glass back, polished metal frame, IP68 rating.
+              AI: Built-in Gemini, AI photo editing (Pixel Studio, Add Me). The Pixel 9 Pro provides top-tier camera performance, including 8K30 video recording (with Video Boost) and advanced AI capabilities in a smaller form factor than the Pro XL. 
+    variants:
+      - id: 684
+        color: Black
+        price: 1329.95
+        image: images/215-black.webp
+      - id: 685
+        color: Gray
+        price: 1329.95
+        image: images/215-gray.webp
+      - id: 686
+        color: White
+        price: 1329.95
+        image: images/215-white.jpeg
+      - id: 687
+        color: Pink
+        price: 1329.95
+        image: images/215-pink.webp
+  - id: 216
+    name: Google Pixel 9 Pro, 1TB Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Obsidian , Hazel , Porcelain , Rose Quartz ,  The Google
+      Pixel 9 Pro is a compact flagship featuring a 6.3-inch Super Actua LTPO
+      OLED display (120Hz), Tensor G4 processor, 16GB of RAM, and a 4,700 mAh
+      battery. It has a 50MP main, 48MP ultrawide, and 48MP 5x telephoto camera,
+      plus a 42MP selfie camera, housed in a matte glass body with 7 years of
+      support. 
+
+      Key Specifications:
+
+          Display:
+           6.3-inch LTPO OLED, 1280 x 2856 pixels, 495 PPI, 1-120Hz, up to 2300 nits (HDR).
+              Processor: Google Tensor G4 with Titan M2 security coprocessor.
+              Memory & Storage: 16GB RAM, with storage options of 128GB, 256GB, 512GB, or 1TB.
+              Rear Cameras: 50MP Main (f/1.7), 48MP Ultrawide (f/1.7), 48MP Telephoto (5x optical, f/2.8).
+              Front Camera: 42MP (f/2.2) with autofocus.
+              Battery & Charging: 4,700 mAh, 27W wired charging (approx. 56% in 30 min), 21W+ wireless charging.
+              Software: Android 14, 7 years of security/OS updates.
+              Design: Matte glass back, polished metal frame, IP68 rating.
+              AI: Built-in Gemini, AI photo editing (Pixel Studio, Add Me). The Pixel 9 Pro provides top-tier camera performance, including 8K30 video recording (with Video Boost) and advanced AI capabilities in a smaller form factor than the Pro XL. 
+    variants:
+      - id: 688
+        color: Black
+        price: 1559.95
+        image: images/216-black.webp
+      - id: 689
+        color: Gray
+        price: 1559.95
+        image: images/216-gray.webp
+      - id: 690
+        color: White
+        price: 1559.95
+        image: images/216-white.jpeg
+      - id: 691
+        color: Pink
+        price: 1559.95
+        image: images/216-pink.webp
+  - id: 217
+    name: Samsung Galaxy A25, 128GB, Unlocked, New , Sealed
+    category: Phones
+    description: >-
+      Avaiable Colors Blue Black.          The Samsung Galaxy A25 5G is a
+      budget-friendly smartphone featuring a 6.5-inch 120Hz Super AMOLED
+      display, Exynos 1280 processor, 50MP OIS main camera, and a 5000mAh
+      battery with 25W charging. It supports 5G, includes a 3.5mm jack, and runs
+      on Android 14 with a promising 4-year major update policy. 
+
+      Key Specifications:
+
+          Display:
+           6.5-inch FHD+ Super AMOLED, 120Hz refresh rate, 1000 nits peak brightness.
+              Processor: Samsung Exynos 1280 (Octa-core).
+              Camera:
+                  Rear: 50MP Main (OIS) + 8MP Ultra-wide + 2MP Macro.
+                  Front: 13MP.
+                  Video: 4K@30fps rear, 1080p@60fps front/rear.
+              Memory & Storage: 6GB/8GB RAM, 128GB/256GB storage (expandable up to 1TB via microSD).
+              Battery: 5000mAh with 25W fast charging support.
+              Audio: Dual speakers, 3.5mm headphone jack.
+              Connectivity: 5G, Wi-Fi 5, Bluetooth 5.3, NFC, USB-C.
+              Security: Side-mounted fingerprint sensor.
+              Dimensions & Weight: 161 x 76.5 x 8.3 mm; 197g. 
+    variants:
+      - id: 692
+        color: Black
+        price: 299.95
+        image: images/217-black.jpg
