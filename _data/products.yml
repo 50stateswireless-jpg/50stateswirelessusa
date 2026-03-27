@@ -6365,46 +6365,6 @@ products:
         color: Violet
         price: 389.95
         image: images/183-Violet.jpg
-  - id: 184
-    name: Samsung Galaxy A54, 128GB,  Unlocked , New , Sealed
-    category: Phones
-    description: >-
-      Available Colors Black , Violet.       The Samsung Galaxy A54 5G is a
-      mid-range smartphone featuring a 6.4-inch 120Hz Super AMOLED display, a
-      50MP main camera with OIS, and a 5,000mAh battery. Powered by the Exynos
-      1380 processor, it offers 6GB/8GB RAM and 128GB/256GB storage
-      (expandable). It is known for its durable design, IP67 rating, and
-      reliable battery life. 
-
-      Key Specgifications
-
-          Display: 6.4-inch FHD+ Super AMOLED, 120Hz refresh rate, 1000 nits peak brightness, Gorilla Glass 5.
-          Processor: Samsung Exynos 1380 (octa-core).
-          Cameras:
-              Rear: 50MP (f/1.8, OIS) main, 12MP (f/2.2) ultra-wide, 5MP (f/2.4) macro.
-              Front: 32MP (f/2.2) selfie camera.
-          Battery: 5,000mAh, 25W wired charging (no charger in box).
-          Memory/Storage: 6GB/8GB RAM, 128GB/256GB storage, expandable up to 1TB.
-          Durability: IP67 water and dust resistance.
-          Operating System: Android 13 (upon release), upgradable.
-          Connectivity: 5G, Wi-Fi 6, Bluetooth 5.3, NFC, USB-C.
-          Dimensions/Weight: 158.2 x 76.7 x 8.2mm, 202 grams. 
-
-      Performance and Features
-
-          Camera Quality: Features "Nightography" for better low-light photos and improved OIS for smoother video.
-          Battery Life: Offers approximately 2 days of battery life, with a 119-hour endurance rating.
-          Build: Glass back (Gorilla Glass 5) and plastic frame.
-          Support: Promised 5 years of security updates and 4 generations of Android OS upgrades. 
-    variants:
-      - id: 597
-        color: Black
-        price: 389.95
-        image: images/184-black.jpeg
-      - id: 598
-        color: Violet
-        price: 389.95
-        image: images/184-violet.jpg
   - id: 185
     name: Meizu Note 21, 256GB, Unlocked , New , Sealed
     category: Phones
