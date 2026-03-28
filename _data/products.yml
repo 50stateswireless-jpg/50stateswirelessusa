@@ -7128,7 +7128,7 @@ products:
       - id: 654
         color: Black
         price: 589.95
-        image: images/204-black.webp
+        image: images/204-black.jpg
   - id: 205
     name: Google Pixel 9 ,128GB , Unlocked , New , Sealed
     category: Phones
@@ -7156,7 +7156,7 @@ products:
       - id: 655
         color: Black
         price: 789.95
-        image: images/205-black.webp
+        image: images/205-black.jpg
   - id: 206
     name: Google Pixel 9 ,256GB , Unlocked , New , Sealed
     category: Phones
@@ -7182,9 +7182,9 @@ products:
       The standard Pixel 9 lacks the 16GB of RAM, dedicated periscope telephoto camera, and matte finish found on the 9 Pro and 9 Pro XL, but it offers 95% of the same functionality for a lower price.
     variants:
       - id: 656
-        color: Bkack
+        color: Black
         price: 889.95
-        image: images/206-black.webp
+        image: images/206-black.jpg
   - id: 207
     name: Google pixel 9 Pro Fold , 256GB, Unlocked ,New , Sealed
     category: Phones
