@@ -2450,7 +2450,7 @@ products:
       - id: 346
         color: Green
         price: 339.95
-        image: images/JBL-Xtreme-3-IP67-Bluetooth-speaker-Green.jpeg
+        image: images/JBL-Xtreme-3-IP67-Bluetooth-speaker-Green.jpg
   - id: 80
     name: JBL Xtreme 4 Bluetooth speaker, New , Sealed
     category: Wireless Speakers
