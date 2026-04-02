@@ -2,8 +2,8 @@
 menu_links:
   - text: "Home"
     function: "app.setView('home')"
-  - text: "Plans"
-    function: "app.setView('home', 'Plans')"
+  - text: "Phone Plans++"
+    function: "app.setView('home', 'Phone Plans')"
   - text: "Internet Services"
     function: "app.setView('home', 'Internet Services')"
   - text: "Tablets"
