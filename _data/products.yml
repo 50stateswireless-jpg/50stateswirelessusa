@@ -132,7 +132,7 @@ products:
     image: images/Xnet-Wifi--.jpeg
   - id: 9
     name: Friggs Mobile Plan
-    category: Plans
+    category: Phone Plans
     price: 30.95
     description: >-
       High speed data: A new generation of wireless carrier $30.00/mo 3
@@ -174,7 +174,7 @@ products:
     image: images/galaxy-a36-black-11321.jpg
   - id: 10
     name: Consumer Cellular Plan
-    category: Plans
+    category: Phone Plans
     price: 45.95
     description: |-
       Unlimited Talk/Txt/20GB Data 1 Line Included Unlimited Data
@@ -182,7 +182,7 @@ products:
     image: images/tecno_spark_30c_black__28400.jpg
   - id: 11
     name: AT&T Unlimited Plan Apple iPhone 17 Pro Max - 1TB
-    category: Plans
+    category: Phone Plans
     price: 133.93
     description: >-
       Due monthly* $133.93 Due today $142.00 *Plus taxes and fees.See
