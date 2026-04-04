@@ -32,7 +32,7 @@ products:
   - id: 3
     name: Samsung Galaxy S25 Plus, 256GB 5G . Unlocked, Dual Sim , New , Sealed
     category: Phones
-    price: 949.95
+    price: 909.95
     description: >-
       specifications: Colors Mint , Navy , Silver Shadow
 
@@ -203,7 +203,7 @@ products:
   - id: 12
     name: TECNO Spark 30C , 256GB , 4G , 6.67 inches , Unlocked ,New , Sealed
     category: Phones
-    price: 269.95
+    price: 279.95
     description: >-
       Colors Black  Key features
             Display: A 6.67-inch IPS LCD with a 720p HD+ resolution and a smooth 120Hz refresh rate. Some variants may have a 6.6-inch screen with a 90Hz refresh rate and a 720p resolution. Performance: Powered by a MediaTek Helio G81 chipset (or G70 for some variants) and comes with up to 8GB of RAM, depending on the model. Virtual RAM expansion is also a feature. Camera: It has a dual-camera system on the back with a 50MP main sensor and an auxiliary lens. The front camera is 8MP and can shoot video at 1080p@30fps. Battery and charging: The device is powered by a large 5,000mAh non-removable battery and supports 18W wired charging. A full charge may take around 2 hours. Storage: The Spark 30C is available with different storage options, including 128GB and 256GB of internal storage, which is expandable via a microSDXC card. Audio: Includes a 3.5mm headphone jack and stereo speakers. Operating system: It runs on Android 14 with Tecno's HiOS skin. Some variants are specified with Android 12 and HiOS 8.6. Other features: The phone has a side-mounted fingerprint sensor, an IR blaster for controlling appliances, and an IP54 rating for dust and splash resistance
@@ -268,7 +268,7 @@ products:
     variants:
       - id: 301
         color: Blue
-        price: 477.95
+        price: 469.95
         image: images/Apple-iPad-A16-11th-Gen-Blue.jpg
       - id: 302
         color: Silver
@@ -276,7 +276,7 @@ products:
         image: images/Apple-iPad-A16-11th-Gen-Silver.jpg
       - id: 303
         color: Pink
-        price: 473.95
+        price: 469.95
         image: images/Apple-iPad-A16-11th-Gen-Pink.jpeg
   - id: 18
     name: Soundcore P30i, By Anker Earbuds , New ,Sealed
@@ -654,7 +654,7 @@ products:
             Car charger: Features a fixed coiled 6-ft cable and a USB-C connector. Qi wireless charger: Comes with a fast-charge wall adapter and a 5-ft charge/sync cable. Portable power bank: Includes a 1.6-ft USB-A to USB-C charging cable. USB-C cable: An 8-in charge/sync cable with a USB-C to USB-C connector
     image: images/verizon-ACCS-722828-Portable-Charger-PRODUCT.webp
   - id: 45
-    name: iPhone 15 ,128GB , E-Sim ,Unlocked , New , Sealed
+    name: Apple iPhone 15 ,128GB , E-Sim ,Unlocked , New , Sealed
     category: Phones
     price: 799.95
     description: >-
@@ -671,7 +671,7 @@ products:
             a variety of colors, including Black, Blue, Green, Yellow, and Pink.
     image: images/Apple-iPhone-15-lineup-hero-230912-scaled.jpg
   - id: 46
-    name: iPhone 16 Plus ,128GB , E-Sim ,Unlocked , New , Sealed
+    name: Apple iPhone 16 Plus ,128GB , E-Sim ,Unlocked , New , Sealed
     category: Phones
     price: 899.95
     description: >-
@@ -680,7 +680,7 @@ products:
             Display: 6.7-inch OLED Super Retina XDR with Dynamic Island. Processor: A18 chip. Camera System: Dual-camera system with a 48MP main camera and an improved Ultra Wide camera with autofocus. Connectivity: 5G support, Wi-Fi 7, and USB-C port. SIM Compatibility: Exclusively uses eSIM (no physical SIM card tray in US models). Operating System: iOS 18. Features: Includes the new Action button and is built for Apple Intelligence. Storage: 128GB. Colors: Available in black, ultramarine blue, pink, teal, and white.
     image: images/iPhone-16-Plus-Ultramarine-1.webp
   - id: 47
-    name: iPhone 16 Pro , 256GB , E-Sim ,Unlocked , New , Sealed
+    name: Apple iPhone 16 Pro , 256GB , E-Sim ,Unlocked , New , Sealed
     category: Phones
     price: 1169.95
     description: >-
@@ -689,7 +689,7 @@ products:
             Built for Apple Intelligence: The iPhone 16 Pro runs on the A18 Pro chip, which is optimized to handle Apple's new suite of personal AI features in iOS 18. Enhanced Camera System: The pro-level camera array includes an upgraded 48-megapixel Ultra Wide lens and a 5x Telephoto zoom lens, bringing more creative possibilities to both the smaller Pro model and the Pro Max. A new hardware Camera Control button on the side allows for quick access to camera settings and shooting options. ProMotion Display: A 6.3-inch OLED Super Retina XDR display offers adaptive refresh rates up to 120Hz for smoother scrolling and a minimum brightness of 1 nit for an always-on feature. Titanium Design: The phone has a Grade 5 titanium frame, making it lightweight and durable. It comes in four matte titanium finishes: Black, White, Natural, and the new Desert Titanium. Superior Video Recording: The iPhone 16 Pro can capture 4K video at 120 fps with Dolby Vision, offering high-resolution and high-frame-rate options for filmmakers and content creators.
     image: images/iphone_16_pro__40881.jpg
   - id: 48
-    name: iPhone 16 Pro Max , 512GB , E-Sim ,Unlocked , New , Sealed
+    name: Apple iPhone 16 Pro Max , 512GB , E-Sim ,Unlocked , New , Sealed
     category: Phones
     price: 1449.95
     description: "Desert Titanium ,White Titanium , Black Titanium. Key
@@ -748,7 +748,7 @@ products:
   - id: 52
     name: Samsung Galaxy S25 Ultra, 256GB, 5G,Dual Sim,Unlocked, New, Sealed
     category: Phones
-    price: 1049.95
+    price: 1099.95
     description: >-
       Titanium Silverblue,Titanium Gray, Titanium Whitesilver.Display:
             It features a large 6.9-inch Dynamic AMOLED 2X display with a sharp 3120 x
@@ -773,7 +773,7 @@ products:
   - id: 53
     name: Samsung Galaxy S25 Ultra, 512GB, 5G,Dual Sim,Unlocked, New, Sealed
     category: Phones
-    price: 1179.95
+    price: 1209.95
     description: >-
       Titanium Silverblue,Titanium Gray, Titanium Whitesilver.Display:
             It features a large 6.9-inch Dynamic AMOLED 2X display with a sharp 3120 x
