@@ -203,7 +203,7 @@ products:
   - id: 12
     name: TECNO Spark 30C , 256GB , 4G , 6.67 inches , Unlocked ,New , Sealed
     category: Phones
-    price: 249.95
+    price: 269.95
     description: >-
       Colors Black  Key features
             Display: A 6.67-inch IPS LCD with a 720p HD+ resolution and a smooth 120Hz refresh rate. Some variants may have a 6.6-inch screen with a 90Hz refresh rate and a 720p resolution. Performance: Powered by a MediaTek Helio G81 chipset (or G70 for some variants) and comes with up to 8GB of RAM, depending on the model. Virtual RAM expansion is also a feature. Camera: It has a dual-camera system on the back with a 50MP main sensor and an auxiliary lens. The front camera is 8MP and can shoot video at 1080p@30fps. Battery and charging: The device is powered by a large 5,000mAh non-removable battery and supports 18W wired charging. A full charge may take around 2 hours. Storage: The Spark 30C is available with different storage options, including 128GB and 256GB of internal storage, which is expandable via a microSDXC card. Audio: Includes a 3.5mm headphone jack and stereo speakers. Operating system: It runs on Android 14 with Tecno's HiOS skin. Some variants are specified with Android 12 and HiOS 8.6. Other features: The phone has a side-mounted fingerprint sensor, an IR blaster for controlling appliances, and an IP54 rating for dust and splash resistance
@@ -230,7 +230,7 @@ products:
   - id: 15
     name: ZTE Nubia Focus Pro, 6.7inch , 5G LTE ,256GB , Unlocked , New , Sealed
     category: Phones
-    price: 339.95
+    price: 369.95
     description: >-
       Colors Black,Cream  Here is a detailed breakdown of the specifications for
       the nubia Focus Pro 5G, according to ZTE's official website and sources
@@ -307,7 +307,7 @@ products:
   - id: 20
     name: Maxwest Vice 4G Flip Phone , Unlocked , New , Sealed
     category: Phones
-    price: 119.95
+    price: 129.95
     description: >-
       Black, Blue, silver
             Design: Flip-style phone with a durable plastic body. Displays: Main Display: 2.8-inch TFT screen. External Display: 1.8-inch screen for viewing notifications, incoming calls, and messages without opening the phone. Camera: 2MP rear camera with flash. Memory: 64MB RAM and 128MB internal memory, expandable via a microSD card. Connectivity: Network: 4G LTE and VoLTE technology for clear calls. Wireless: Bluetooth. Ports: USB-C for charging. Special features: SOS button: A dedicated button for emergencies. Dual SIM: Supports two nano-SIM cards. Other features: FM radio. Compatibility: Works with GSM networks like T-Mobile and AT&T but is not compatible with the Verizon network.
@@ -315,7 +315,7 @@ products:
   - id: 21
     name: Maxwest Ranger , 4G ,32GB , Unlocked , New , Sealed
     category: Phones
-    price: 119.95
+    price: 129.95
     description: >-
       Black. This feature phone is built for durability and includes a number of
       basic communication  features.
@@ -324,7 +324,7 @@ products:
   - id: 22
     name: Maxwest NEO M1 Candy Bar Phone ,Unlocked ,New , Sealed
     category: Phones
-    price: 109.95
+    price: 119.95
     description: >-
       Blue, Black and Gray Candy bar smartphone 3x flash 1.77” screen
             Dual sim Camera Fm radio GSM quad band Unlocked Overseas Here works with
@@ -333,7 +333,7 @@ products:
   - id: 23
     name: Maxwest Uno Clam X1, 1.8'inch ,Unlocked , New, Sealed
     category: Phones
-    price: 109.95
+    price: 119.95
     description: >-
       Colors Black, Blue , Red , Gold.   Form Factor: The classic
             clamshell (flip) design protects the    screen and keypad. Screen:
@@ -1322,15 +1322,15 @@ products:
     variants:
       - id: 320
         color: White
-        price: 109.95
+        price: 119.95
         image: images/t900-pro-max-171-inch-lcd-screen-smart-watch-support-bluetooth-call-multiple-sports-modes-white-t900-pro-max-white-plusbuyer.jpg
       - id: 321
         color: Black
-        price: 109.95
+        price: 119.95
         image: images/t900_pro_max_black__29212.jpg
       - id: 322
         color: Pink
-        price: 109.95
+        price: 119.95
         image: images/t900-pro-max-171-inch-lcd-screen-smart-watch-support-bluetooth-call-multiple-sports-modes-pink-t900-pro-max-pink-plusbuyer.jpg
   - id: 67
     name: ZTE Blade L8, Overseas, 32GB, GSM, New, Sealed
@@ -1349,12 +1349,12 @@ products:
     variants:
       - id: 319
         color: Black
-        price: 151.95
+        price: 159.95
         image: images/ZTE Blade L8_Overseas_32GB_GSM_New_Sealed.JPG
   - id: 68
     name: Xiaomi, Redmi A2, 32GB, Unlocked, New, Sealed.jpg
     category: Phones
-    price: 180.45
+    price: 189.95
     description: >-
       (Color-Black) The smartphone features a MediaTek Helio G36 processor with
             speeds of up to 2.2GHz.
@@ -1382,7 +1382,7 @@ products:
   - id: 69
     name: Blu G33 , 16GB , 2Ram, Dual Slim, GSM, Unlocked, New, Sealed
     category: Phones
-    price: 142.45
+    price: 149.95
     description: >-
       BLU G33 Unlocked Smartphone, featuring a vivid 6.26 inch HD display
             that brings your favorite content to life. Designed for performance and
@@ -2924,7 +2924,7 @@ products:
         price: 269.95
         image: images/zte_blade_v70_max__41601.jpg
   - id: 102
-    name: ZTE 35E, 64GB, 6.5in , Unlocked, New , Sealed
+    name: ZTE Blade 35E, 64GB, 6.5in , Unlocked, New , Sealed
     category: Phones
     description: >-
       The ZTE Blade A35e is an affordable, entry-level Android smartphone
@@ -5764,10 +5764,10 @@ products:
     variants:
       - id: 546
         color: Black
-        price: 959
+        price: 959.95
         image: images/168-black.jpeg
       - id: 547
-        price: 959
+        price: 959.95
         color: White
         image: images/168-white.jpg
   - id: 169
@@ -5839,11 +5839,11 @@ products:
     variants:
       - id: 551
         color: Black
-        price: 899
+        price: 899.95
         image: images/170-black.jpeg
       - id: 552
         color: White
-        price: 899
+        price: 899.95
         image: images/170-white.jpg
   - id: 171
     name: Samsung Galaxy Z Flip 7 , 256GB , Latin Spec, Unlocked , New , Sealed
@@ -6672,19 +6672,19 @@ products:
     variants:
       - id: 614
         color: Black
-        price: 109.95
+        price: 119.95
         image: images/194-black.png
       - id: 615
         color: Red
-        price: 109.95
+        price: 119.95
         image: images/194-red.png
       - id: 616
         color: Blue
-        price: 109.95
+        price: 119.95
         image: images/194-blue.jpeg
       - id: 617
         color: Gold
-        price: 109.95
+        price: 119.95
         image: images/194-gold.jpeg
   - id: 195
     name: Google Pixel 10 Pro , 128GB, Unlocked , New , Sealed
@@ -7210,11 +7210,11 @@ products:
     variants:
       - id: 657
         color: Black
-        price: 1329.95
+        price: 1499.95
         image: images/207-black.webp
       - id: 658
         color: White
-        price: 1329.95
+        price: 1499.95
         image: images/207-white.jpg
   - id: 208
     name: Google pixel 9 Pro Fold , 512GB, Unlocked ,New , Sealed
@@ -7241,7 +7241,7 @@ products:
     variants:
       - id: 659
         color: Black
-        price: 1669.95
+        price: 1799.95
         image: images/208-black.webp
   - id: 209
     name: Google Pixel 9 Pro XL , 128GB, Unlocked , New , Sealed
