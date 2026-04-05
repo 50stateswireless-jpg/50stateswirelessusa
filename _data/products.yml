@@ -6319,11 +6319,11 @@ products:
     variants:
       - id: 593
         color: Graphite
-        price: 699.95
+        price: 659.95
         image: images/182-graphite.png
       - id: 594
         color: Gray
-        price: 699.95
+        price: 659.95
         image: images/182-grey.png
   - id: 183
     name: Samsung Galaxy A54, 128GB,  Unlocked , New , Sealed
@@ -7591,7 +7591,7 @@ products:
     name: Samsung Galaxy A25, 128GB, Unlocked, New , Sealed
     category: Phones
     description: >-
-      Avaiable Colors Blue Black.          The Samsung Galaxy A25 5G is a
+      Avaiable Colors Blue Black. The Samsung Galaxy A25 5G is a
       budget-friendly smartphone featuring a 6.5-inch 120Hz Super AMOLED
       display, Exynos 1280 processor, 50MP OIS main camera, and a 5000mAh
       battery with 25W charging. It supports 5G, includes a 3.5mm jack, and runs
