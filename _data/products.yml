@@ -6359,11 +6359,11 @@ products:
     variants:
       - id: 595
         color: Black
-        price: 389.95
+        price: 339.95
         image: images/183-black.jpeg
       - id: 596
         color: Violet
-        price: 389.95
+        price: 339.95
         image: images/183-Violet.jpg
   - id: 185
     name: Meizu Note 21, 256GB, Unlocked , New , Sealed
