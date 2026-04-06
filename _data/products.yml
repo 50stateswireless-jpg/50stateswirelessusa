@@ -131,46 +131,22 @@ products:
             $85.00 $284.00 $234.00 
     image: images/Xnet-Wifi--.jpeg
   - id: 9
-    name: Friggs Mobile Plan
+    name: U2C Mobile On The Go Plan
     category: Phone Plans
-    price: 30.95
+    price: 10.00
     description: >-
-      High speed data: A new generation of wireless carrier $30.00/mo 3
-            GB of 5G/4G high speed data Unlimited nationwide talk & text Bitcoin
-            rewards every month Plan Details > 3 GB InternetDrop 3GB of 5G/4G high
-            speed data Data speed reduces after 3GB 3GB Mobile HotSpot included
-            Calling & TextingDrop Unlimited nationwide talk & text WiFi calling
-            included eSIMDrop Bring your own device, unlocked and compatible
-            ConditionsDrop No contract duration CashbackDrop Get 5% Bitcoin cashback
-            on your monthly service fee. Get 10% cashback by adding plans for family
-            or friends. Rewards are deposited into your fliggs wallet, you can choose
-            to receive them in Bitcoin, Digital USD or another currencies. Wallet
-            access made simple and secure. Broadband factsDrop The smarter choice.
-            Stop overpaying, start saving. Choose an affordable mobile plan with low,
-            guaranteed prices. Change or cancel your plan anytime, every month. You
-            are in full control. Enjoy the fastest 5G network. Enjoy premium wireless
-            on the fastest and largest 5G network in the US. All plans include 5G
-            Ultra at no extra cost, which means you will get even faster 5G speeds.
-            Get monthly Bitcoin cashback. Get back 5% to 10% of your service fee every
-            month. The cashback is deposited in your fliggs wallet in Bitcoin or
-            digital USD. Mobile plans that pay you back Earn a share of your service
-            fee in Bitcoin, every month. Bitcoin Bitcoin Surf the fastest 5G network 0
-            0 0 Easy to use. 1 Install the fliggs mobile app from Google Play Store or
-            Apple App Store. 2 Bring your own phone, compatible and unlocked. 3 Pick
-            your plan, transfer your number or request a new one. Stay connected
-            anytime, everywhere. bgImage Play Enjoy serious data privacy. 1 We do not
-            exploit your information. We do not sell your data. 2 We apply the most
-            robust data standards, across the entire nation. 3 We guard your personal
-            data, and our commitment to privacy remains absolute. You'll love fliggs
-            Our partnerships 5g network r17 aws icon logo Want to stay up to date?
-            Sign up for the fliggs newsletter. Email Address Get the fliggs app.
-            appStoreIcon appStoreIcon Features 5G Coverage Bring your own phone
-            Bitcoin rewards Wallet Roaming packages Data boosters eSIM WiFi calling
-            Mobile Hotspot Support FAQ Web3 Glossary About fliggs News Why fliggs
-            Contact us TWITTER icon LINKEDIN icon INSTAGRAM icon FACEBOOK icon © 2025
-            fliggsmobile.com Privacy Policy Terms & Conditions Wallet Terms &
-            Conditions Accessibility Acceptable Use Policy 911 and E911 disclosure Do
-            not sell or share my Information 
+       U2CMobile ($10/mo): "On The Go +" plan includes 1GB high-speed data, unlimited talk/text, and unlimited roaming in Canada/Mexico.
+    AirVoice Wireless ($10/mo): Provides 1GB of data, unlimited nationwide talk/text, and 5G speeds, often structured as a 3-month plan ($30 upfront).
+    Red Pocket Mobile ($10/mo): Known for its "Essentials" plan offering 1GB of data.
+    Boost Mobile ($10/mo): A 30-day plan providing 1GB of high-speed data alongside unlimited talk and text. 
+
+Key Considerations:
+
+    Data Speeds: After the 1GB allowance is used, speeds are typically reduced for the remainder of the month.
+    Payment Structure: While advertised as $10/month, some carriers may require a 3-month or 12-month prepay to lock in the lowest monthly price.
+    Network: These plans usually offer 5G access via major networks. 
+
+
     image: images/galaxy-a36-black-11321.jpg
   - id: 10
     name: Consumer Cellular Plan
