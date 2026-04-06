@@ -149,7 +149,6 @@ products:
           Network: These plans usually offer 5G access via major networks. 
 
     image: images/galaxy-a36-black-11321.jpg
-
   - id: 10
     name: Consumer Cellular Plan
     category: Phone Plans
@@ -7569,11 +7568,11 @@ products:
     name: Samsung Galaxy A25, 128GB, Unlocked, New , Sealed
     category: Phones
     description: >-
-      Avaiable Colors Blue Black. The Samsung Galaxy A25 5G is a
-      budget-friendly smartphone featuring a 6.5-inch 120Hz Super AMOLED
-      display, Exynos 1280 processor, 50MP OIS main camera, and a 5000mAh
-      battery with 25W charging. It supports 5G, includes a 3.5mm jack, and runs
-      on Android 14 with a promising 4-year major update policy. 
+      Avaiable Colors Blue Black. The Samsung Galaxy A25 5G is a budget-friendly
+      smartphone featuring a 6.5-inch 120Hz Super AMOLED display, Exynos 1280
+      processor, 50MP OIS main camera, and a 5000mAh battery with 25W charging.
+      It supports 5G, includes a 3.5mm jack, and runs on Android 14 with a
+      promising 4-year major update policy. 
 
       Key Specifications:
 
@@ -7639,5 +7638,47 @@ products:
         color: White
         price: 729.95
         image: images/iPhone_16e_WHI_1.webp
-      
-   
+  - id: 219
+    name: Apple iPhone 16E, 256GB, E-SIM , Unlocked, New, Sealed
+    category: Phones
+    description: >-
+      Available white, Black.   Details  The iPhone 16e is Apple's
+      budget-friendly iPhone, featuring a 6.1-inch Super Retina XDR (OLED)
+      display, the powerful A18 chip with Apple Intelligence, a 48MP main
+      camera, USB-C, and durable design with Ceramic Shield, offering high
+      performance and battery life in an accessible package with standard 60Hz
+      refresh rate, detailed in its tech specs on Apple's support pages. 
+
+      Key Specifications:
+
+          Display: 6.1-inch Super Retina XDR (OLED), 2532x1170 resolution, True Tone, Wide Color (P3).
+          Processor: A18 Chip (6-core CPU).
+          Cameras: 48MP Main (ƒ/1.6) with optical stabilization, 12MP TrueDepth front camera.
+          Storage: 128GB, 256GB, 512GB options.
+          Connectivity: 5G, Wi-Fi 6, Bluetooth 5.3, NFC, USB-C.
+          Durability: IP68 water/dust resistance, Ceramic Shield front.
+          Battery: Long-lasting, supports up to 26 hours video playback.
+          Design: Aluminum frame, glass back, available in Black, White.
+          Features: Action Button, Face ID, Apple Intelligence. 
+
+      Highlights:
+
+          Apple Intelligence: Integrated AI features for enhanced communication and productivity.
+          A18 Chip: Delivers fast performance, making it a great value for powerful features.
+          USB-C Port: For universal charging and connectivity.
+          Camera: High-resolution 48MP main camera for detailed photos. 
+
+      What it lacks compared to Pro models:
+
+          ProMotion Display: Standard 60Hz refresh rate (Pro models have 120Hz).
+          mmWave 5G: US models lack mmWave support, relying on sub-6GHz 5G.
+          Ultra-Wideband: Does not include the U2 chip for UWB features.
+    variants:
+      - id: 695
+        color: White
+        price: 859.95
+        image: images/iPhone_16e_WHI_1.webp
+      - id: 696
+        color: Black
+        price: 859.95
+        image: images/iphone_16e_Black__55227.jpg
