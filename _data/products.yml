@@ -133,21 +133,23 @@ products:
   - id: 9
     name: U2C Mobile On The Go Plan
     category: Phone Plans
-    price: 10.00
-    description: >-
-       U2CMobile ($10/mo): "On The Go +" plan includes 1GB high-speed data, unlimited talk/text, and unlimited roaming in Canada/Mexico.
-    AirVoice Wireless ($10/mo): Provides 1GB of data, unlimited nationwide talk/text, and 5G speeds, often structured as a 3-month plan ($30 upfront).
-    Red Pocket Mobile ($10/mo): Known for its "Essentials" plan offering 1GB of data.
-    Boost Mobile ($10/mo): A 30-day plan providing 1GB of high-speed data alongside unlimited talk and text. 
+    price: 10
+    description: >+
+      (Phone not Included) U2CMobile ($10/mo): "On The Go +" plan includes 1GB
+      high-speed data, unlimited talk/text, and unlimited roaming in
+      Canada/Mexico.
+          AirVoice Wireless ($10/mo): Provides 1GB of data, unlimited nationwide talk/text, and 5G speeds, often structured as a 3-month plan ($30 upfront).
+          Red Pocket Mobile ($10/mo): Known for its "Essentials" plan offering 1GB of data.
+          Boost Mobile ($10/mo): A 30-day plan providing 1GB of high-speed data alongside unlimited talk and text. 
 
-Key Considerations:
+      Key Considerations:  
 
-    Data Speeds: After the 1GB allowance is used, speeds are typically reduced for the remainder of the month.
-    Payment Structure: While advertised as $10/month, some carriers may require a 3-month or 12-month prepay to lock in the lowest monthly price.
-    Network: These plans usually offer 5G access via major networks. 
-
+          Data Speeds: After the 1GB allowance is used, speeds are typically reduced for the remainder of the month.
+          Payment Structure: While advertised as $10/month, some carriers may require a 3-month or 12-month prepay to lock in the lowest monthly price.
+          Network: These plans usually offer 5G access via major networks. 
 
     image: images/galaxy-a36-black-11321.jpg
+
   - id: 10
     name: Consumer Cellular Plan
     category: Phone Plans
