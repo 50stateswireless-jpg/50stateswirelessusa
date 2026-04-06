@@ -7697,11 +7697,11 @@ products:
           mmWave 5G: US models lack mmWave support, relying on sub-6GHz 5G.
           Ultra-Wideband: Does not include the U2 chip for UWB features.
     variants:
-      - id: 693
+      - id: 695
         color: Black
         price: 859.95
         image: images/iphone_16e_Black__55227.jpg
-      - id: 694
+      - id: 696
         color: White
         price: 859.95
         image: images/iPhone_16e_WHI_1.webp
