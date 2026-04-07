@@ -7674,16 +7674,16 @@ products:
         color: Black
         price: 859.95
         image: images/iphone_16e_Black__55227.jpg
-  - description: >-2
-       Phone Not Included U2C Mobile
-      offers a prepaid plan with 5GB of data, plus unlimited voice and SMS, for $25.00 per month. This plan includes unlimited talk and roaming to Canada and Mexico, alongside unlimited calling from the US to these locations. It is geared toward reliable, affordable wireless service. 
-
-          Plan Details: 5GB Data + Unlimited Talk & Text.
-          International: Includes unlimited calls and roaming to Canada/Mexico.
-          Alternatives: The provider offers other plans, including a 1GB option for $10/Mo and a $5 plan for light users.
-          Activation: Known for fast, 2-second activation via the U2C Mobile app. 
   - id: 10
-    price: 25
-    category: Phone Plans
     name: U2C Mobile unlimited Eco Plan
+    category: Phone Plans
+    price: 25
+    description: >-2
+        Phone Not Included U2C Mobile
+            offers a prepaid plan with 5GB of data, plus unlimited voice and SMS, for $25.00 per month. This plan includes unlimited talk and roaming to Canada and Mexico, alongside unlimited calling from the US to these locations. It is geared toward reliable, affordable wireless service. 
+
+                Plan Details: 5GB Data + Unlimited Talk & Text.
+                International: Includes unlimited calls and roaming to Canada/Mexico.
+                Alternatives: The provider offers other plans, including a 1GB option for $10/Mo and a $5 plan for light users.
+                Activation: Known for fast, 2-second activation via the U2C Mobile app.
     image: images/178-blue.jpeg
