@@ -150,25 +150,23 @@ products:
 
     image: images/galaxy-a36-black-11321.jpg
   - id: 11
-    name: AT&T Unlimited Plan Apple iPhone 17 Pro Max - 1TB
+    name: U2C Mobile offers the "Unlimited Venture" plan
     category: Phone Plans
-    price: 133.93
+    price: 25
     description: >-
-      Due monthly* $133.93 Due today $142.00 *Plus taxes and fees.See
-            disclosures Your services will auto-renew monthly at then-current rates
-            (less any discounts or promotions) unless you cancel by visiting
-            att.com/cancel-info. Price details Due monthly $133.93 Apple iPhone 17 Pro
-            Max - 1TB $44.45 Price for 36 mos. at 0% APR ONLINE ONLY: You will get an
-            additional $200 in monthly bill credits ($5.56/mo. for 36 months) with new
-            voice on elig. unlimited plan (speed restr's apply). Credits start within
-            3 bills. AT&T Unlimited Premium® PL plan See discounts $85.95 AT&T
-            Administrative/Regulatory Cost Recovery Fee $3.49 Government taxes and
-            additional AT&T fees extra. See details Due only on first bill $0.00
-            Activation fee $0.00 Due today $142.00 Next-day shipping fee FREE Apple
-            iPhone 17 Pro Max - Deep Blue - 1TB Estimated device sales tax $142.00
-            Savings & promotions AutoPay and paperless billing discount . Billed
-            monthly.
-    image: images/iphone_17_pro_max_orange___13601.jpg
+      (Phone not Included) U2C Mobile offers the "Unlimited Venture" plan for
+      $25/month, providing
+
+      10GB of high-speed data alongside unlimited talk and text, often highlighted for travelers and everyday use. This prepaid, no-contract plan runs on major networks and is designed for flexibility. 
+
+      Key Features of U2C Mobile Venture Plan:
+
+          Data: 10GB per month.
+          Talk & Text: Unlimited.
+          Price: $25/month.
+          Flexibility: No contracts, prepaid service.
+          Network: Access to nationwide 5G coverage. 
+    image: images/galaxy-a36-black-11321.jpg
   - id: 12
     name: TECNO Spark 30C , 256GB , 4G , 6.67 inches , Unlocked ,New , Sealed
     category: Phones
@@ -7687,3 +7685,385 @@ products:
                 Alternatives: The provider offers other plans, including a 1GB option for $10/Mo and a $5 plan for light users.
                 Activation: Known for fast, 2-second activation via the U2C Mobile app.
     image: images/178-blue.jpeg
+  - id: 220
+    name: Samsung Galaxy S24 FE, 128GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-2
+            The Samsung Galaxy S24 FE
+
+            features a 6.7-inch Dynamic AMOLED 2X display, an upgraded Exynos 2400e deca-core processor, and a triple-camera system with a 50MP main sensor. Released in October 2024, it includes Galaxy AI features like Circle to Search and Live Translate. 
+
+            Key Specifications
+
+                Display:
+                    Type: 6.7-inch Dynamic AMOLED 2X with 120Hz adaptive refresh rate.
+                    Resolution: FHD+ (2340 x 1080 pixels) at ~385 ppi.
+                    Brightness: Up to 1900 nits peak brightness.
+                    Protection: Corning Gorilla Glass Victus+.
+                Performance:
+                    Processor: Samsung Exynos 2400e (4nm) deca-core chipset (up to 3.1 GHz).
+                    Memory: 8GB RAM.
+                    Storage: 128GB, 256GB, or 512GB (non-expandable).
+                    OS: Android 14 with One UI 6.1 (supported for 7 generations of upgrades).
+                Cameras:
+                    Main: 50MP Wide (f/1.8) with OIS.
+                    Ultra-Wide: 12MP (f/2.2) with a 123-degree field of view.
+                    Telephoto: 8MP (f/2.4) with 3x optical zoom and OIS.
+                    Front: 10MP (f/2.4).
+                    Video: Supports up to 8K recording at 30fps.
+                Battery & Charging:
+                    Capacity: 4700 mAh (typical).
+                    Wired Charging: 25W fast charging (50% in ~30 minutes).
+                    Wireless: 15W wireless charging and Wireless PowerShare support.
+                Design & Build:
+                    Materials: Aluminum frame with Gorilla Glass Victus+ front and back.
+                    Durability: IP68 water and dust resistance.
+                    Dimensions: 162 x 77.3 x 8 mm.
+                    Weight: 213g.
+    variants:
+      - id: 697
+        color: Gray
+        price: 599.95
+        image: images/182-grey.png
+  - id: 222
+    name: Xiaomi Redmi 14C , 128GB, 6.4in ,Dual SIM , Unlocked, New , Sealed
+    category: Phones
+    description: >-
+      The
+
+      Xiaomi Redmi 14C
+
+      is a budget-oriented smartphone released on August 30, 2024. It features a large 6.88-inch display with a smooth 120Hz refresh rate and is powered by a MediaTek Helio G81-Ultra processor. 
+
+      Core Specifications
+
+          Processor: MediaTek Helio G81-Ultra (Octa-core up to 2.0GHz).
+          Memory & Storage:
+              RAM: 4GB, 6GB, or 8GB LPDDR4X (supports up to 16GB total with memory extension).
+              Storage: 64GB, 128GB, or 256GB eMMC 5.1, expandable via microSD up to 1TB.
+          Display:
+              Size: 6.88-inch IPS LCD "Dot Drop" display.
+              Resolution: HD+ (1640 x 720 pixels), 260 PPI.
+              Brightness: 450 nits typical, 600 nits peak (HBM).
+          Camera System:
+              Rear: 50MP main camera (f/1.8) paired with an auxiliary lens.
+              Front: 13MP selfie camera (f/2.0).
+          Battery & Power:
+              Capacity: 5,160mAh non-removable battery.
+              Charging: Supports 18W fast charging via USB Type-C.
+          Software: Xiaomi HyperOS based on Android 14. 
+
+      Connectivity & Features
+
+          Network: 4G LTE/3G/2G.
+          Sensors: Side-mounted fingerprint sensor, virtual proximity sensor, accelerometer, and electronic compass.
+          Audio: 3.5mm headphone jack and dual speakers with 150% volume boost.
+          Dimensions: 171.88 x 77.8 x 8.22mm; weighs between 204g and 211g depending on the finish. 
+    variants:
+      - id: 699
+        color: Green
+        price: 269.95
+        image: images/redmi_14c_g__01228.jpg
+  - id: 223
+    name: Google Pixel 7A, 128GB, Unlocked , New ,   Sealed
+    category: Phones
+    description: >-
+      The Google Pixel 7a
+
+            , released on May 10, 2023, is a mid-range smartphone that brought flagship features like wireless charging and a 90Hz display to Google's affordable A-series. 
+
+            Key Specifications
+
+                Processor: Google Tensor G2 with Titan M2 security coprocessor.
+                Memory & Storage: 8GB LPDDR5 RAM and 128GB UFS 3.1 internal storage.
+                Display: 6.1-inch OLED with a 90Hz refresh rate and 1080 x 2400 resolution (429 PPI).
+                Camera System:
+                    Main: 64MP wide lens (f/1.89) with Optical Image Stabilization (OIS).
+                    Ultrawide: 13MP lens (f/2.2) with a 120° field of view.
+                    Selfie: 13MP front camera supporting 4K video.
+                Battery: 4,385mAh capacity supporting 18W wired and 7.5W wireless charging.
+                Durability: IP67 rating for dust and water resistance.
+    variants:
+      - id: 700
+        color: Charcoal
+        price: 599.95
+        image: images/138-charcoal.png
+  - id: 224
+    name: Google Pixel 6 , 128GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-2
+       Black. The
+      Google Pixel 6
+
+      was released on October 28, 2021, and served as the debut for Google’s custom Tensor processor. It features a distinctive horizontal "Camera Bar" design and a flat OLED display. 
+
+      Core Technical Specifications
+
+          Processor: Google Tensor (5nm) with Titan M2 security coprocessor.
+          Display: 6.4-inch AMOLED (FHD+) with a 90Hz refresh rate and 1080 x 2400 resolution (411 PPI).
+          Memory & Storage: 8GB LPDDR5 RAM with either 128GB or 256GB of non-expandable UFS 3.1 storage.
+          Camera System:
+              Main: 50MP wide (f/1.85) with Optical Image Stabilization (OIS) and Laser Detection Autofocus.
+              Ultrawide: 12MP (f/2.2) with a 114° field of view.
+              Selfie: 8MP (f/2.0) fixed-focus front camera.
+          Battery & Charging:
+              Capacity: 4,614mAh typical.
+              Charging: Supports up to 21W wired charging (reaches 50% in ~30 mins with a 30W adapter).
+              Wireless: Up to 21W wireless charging with Pixel Stand (2nd gen) or 12W with standard Qi chargers. 
+
+      Design & Connectivity
+
+          Build Materials: Gorilla Glass Victus
+          on the front, Gorilla Glass 6
+          on the back, and a matte aluminum frame.
+          Durability: IP68 rated for dust and water resistance.
+          Connectivity: 5G (Sub-6GHz and mmWave variants), Wi-Fi 6E, Bluetooth 5.2, and NFC.
+          Biometrics: Under-display optical fingerprint sensor. 
+
+      Software Support
+
+      As of April 2026, the Pixel 6
+
+      is in its final year of official support. 
+
+          Final Updates: It is scheduled to receive its last security and OS updates in October 2026.
+    variants:
+      - id: 701
+        color: " Black"
+        price: 449.95
+        image: images/google_pixel_6A_black__44154.jpg
+  - id: 225
+    name: Google Pixel 7 Pro ,128GB, Unlocked ,  New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Obsidian, Snow, Hazel. The Google Pixel 7 Pro (released
+      October 2022) is a 5G Android flagship
+            featuring the Tensor G2 chip, a 6.7-inch QHD+ 120Hz LTPO display, and a
+            powerful triple-camera system. As of 2026, it is highly regarded as a
+            budget-friendly, premium option (approx. $200–$300 for used/refurbished)
+            with excellent camera performance. Key disadvantages include a curved
+            screen, slower charging speeds, and a tendency for battery degradation. 
+
+            Key Features
+
+                Camera: 50 MP wide, 48 MP telephoto (5x optical zoom/30x Super Res Zoom), and 12 MP ultrawide with Macro Focus.
+                Performance: Tensor G2 (5nm) chipset with 12GB RAM, capable of handling daily tasks and AI features.
+                Display: 6.7-inch LTPO AMOLED (1440 x 3120), 120Hz.
+                Battery: 5000 mAh, supports fast wireless charging.
+                Design: Aluminum frame, Corning Gorilla Glass Victus. 
+
+            Disadvantages & Potential Issues
+
+                Build/Hardware: Some users have reported mixed build quality, including potential issues with the volume rocker or microphone.
+                Display: While vibrant, the display can have limited brightness in harsh sunlight compared to newer, high-end models.
+                Performance Constraints: The Tensor G2, while adequate for daily use, may feel less powerful in gaming compared to its modern counterparts, and the device can sometimes run warm.
+                Battery Life: Battery performance can degrade over time, with some users reporting mixed experiences with longevity. 
+
+            Software & Security Support
+
+                OS: Shipped with Android 13, upgradable to Android 16.
+                Support: The device boasts security updates until 2027, making it a sustainable choice for several more years. 
+    variants:
+      - id: 702
+        color: Black
+        price: 569.95
+        image: images/142-black.png
+      - id: 703
+        color: White
+        price: 569.95
+        image: images/138-white.jpg
+      - id: 704
+        image: images/142-hazel.jpeg
+        color: Gray
+        price: 569.95
+  - id: 226
+    name: Google Pixel 7 Pro ,256GB, Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Available Colors Obsidian, Snow, Hazel. The Google Pixel 7 Pro (released
+      October 2022) is a 5G Android
+            flagship featuring the Tensor G2 chip, a 6.7-inch QHD+ 120Hz LTPO display,
+            and a powerful triple-camera system. As of 2026, it is highly regarded as
+            a budget-friendly, premium option (approx. $200–$300 for used/refurbished)
+            with excellent camera performance. Key disadvantages include a curved
+            screen, slower charging speeds, and a tendency for battery degradation.
+            Key Features Camera: 50 MP wide, 48 MP telephoto (5x optical zoom/30x
+            Super Res Zoom), and 12 MP ultrawide with Macro Focus. Performance: Tensor
+            G2 (5nm) chipset with 12GB RAM, capable of handling daily tasks and AI
+            features. Display: 6.7-inch LTPO AMOLED (1440 x 3120), 120Hz. Battery:
+            5000 mAh, supports fast wireless charging. Design: Aluminum frame, Corning
+            Gorilla Glass Victus. Disadvantages & Potential Issues Build/Hardware:
+            Some users have reported mixed build quality, including potential issues
+            with the volume rocker or microphone. Display: While vibrant, the display
+            can have limited brightness in harsh sunlight compared to newer, high-end
+            models. Performance Constraints: The Tensor G2, while adequate for daily
+            use, may feel less powerful in gaming compared to its modern counterparts,
+            and the device can sometimes run warm. Battery Life: Battery performance
+            can degrade over time, with some users reporting mixed experiences with
+            longevity. Software & Security Support OS: Shipped with Android 13,
+            upgradable to Android 16. Support: The device boasts security updates
+            until 2027, making it a sustainable choice for several more years.
+    variants:
+      - id: 705
+        color: Gray
+        price: 579.95
+        image: images/140-hazel.jpeg
+      - id: 706
+        price: 579.95
+        color: Black
+        image: images/138-charcoal.png
+      - id: 707
+        price: 579.95
+        color: White
+        image: images/140-white.png
+  - id: 227
+    name: Google Pixel 7 Pro ,512GB, Unlocked , New , Sealed
+    description: >
+      Available Colors Obsidian, Snow, Hazel. The Google Pixel 7 Pro (released
+      October 2022) is a 5G Android flagship featuring the Tensor G2 chip, a
+      6.7-inch QHD+ 120Hz LTPO display, and a powerful triple-camera system. As
+      of 2026, it is highly regarded as a budget-friendly, premium option
+      (approx. $200–$300 for used/refurbished) with excellent camera
+      performance. Key disadvantages include a curved screen, slower charging
+      speeds, and a tendency for battery degradation. Key Features Camera: 50 MP
+      wide, 48 MP telephoto (5x optical zoom/30x Super Res Zoom), and 12 MP
+      ultrawide with Macro Focus. Performance: Tensor G2 (5nm) chipset with 12GB
+      RAM, capable of handling daily tasks and AI features. Display: 6.7-inch
+      LTPO AMOLED (1440 x 3120), 120Hz. Battery: 5000 mAh, supports fast
+      wireless charging. Design: Aluminum frame, Corning Gorilla Glass Victus.
+      Disadvantages & Potential Issues Build/Hardware: Some users have reported
+      mixed build quality, including potential issues with the volume rocker or
+      microphone. Display: While vibrant, the display can have limited
+      brightness in harsh sunlight compared to newer, high-end models.
+      Performance Constraints: The Tensor G2, while adequate for daily use, may
+      feel less powerful in gaming compared to its modern counterparts, and the
+      device can sometimes run warm. Battery Life: Battery performance can
+      degrade over time, with some users reporting mixed experiences with
+      longevity. Software & Security Support OS: Shipped with Android 13,
+      upgradable to Android 16. Support: The device boasts security updates
+      until 2027, making it a sustainable choice for several more years.
+    category: Phones
+    variants:
+      - id: 708
+        color: Snow
+        price: 599.95
+        image: images/140-white.png
+      - id: 709
+        color: Obsidian
+        price: 599.95
+        image: images/140-black.png
+      - id: 710
+        color: Hazel
+        price: 599.95
+        image: images/141-hazel.jpeg
+  - id: 228
+    category: Phones
+    description: >-
+      Available Colors Starlight, Midnight. The iPhone 13 is a 2021 flagship
+      featuring a 6.1-inch Super Retina XDR
+            OLED display, A15 Bionic chip, and a dual 12MP camera system with
+            Sensor-Shift OIS. It includes 4GB RAM, 128GB–512GB storage, a 3,240mAh
+            battery, and 5G support. Its durable Ceramic Shield design is IP68
+            water-resistant. 
+
+            Core Specifications:
+
+                Display: 6.1-inch OLED, 2532x1170 resolution, 460 ppi, 800 nits max brightness (typical)
+                Processor: A15 Bionic Chip (6-core CPU, 4-core GPU)
+                RAM: 4GB
+                Storage: 128GB, 256GB, 512GB
+                Rear Cameras: Dual 12MP System: Main (
+                ) and Ultra Wide (
+                )
+                Front Camera: 12MP TrueDepth Camera (
+                )
+                Battery: 3,240mAh (approx.), supports fast charging (15W MagSafe)
+                Dimensions: 146.7 x 71.5 x 7.65 mm (174 grams)
+                Durability: IP68 (6 meters for 30 minutes) 
+
+            Key Features:
+
+                Cinematic Mode: Records videos with automatic depth-of-field changes (1080p at 30fps)
+                Camera Features: Sensor-shift optical image stabilization, Smart HDR 4, Night Mode
+                Connectivity: 5G, Wi-Fi 6, Bluetooth 5.0, Lightning port
+                OS: Shipped with iOS 15, upgradable 
+    name: Apple iPhone 13, 128GB, Physical SIM , Unlocked, New , Sealed
+    variants:
+      - id: 711
+        price: 579.95
+        image: images/STA-image-0.jpeg
+        color: White
+      - id: 712
+        color: Black
+        price: 579.95
+        image: images/130-black.webp
+  - id: 229
+    name: Apple iPhone 15 Pro Max, 256GB, E-SIM, Unlocked, New , Sealed
+    category: Phones
+    description: >
+      Available Colors Titanium Blue, Titanium White, Natural Titanium. The
+      Apple iPhone 15 Pro Max boasts a 6.7-inch ProMotion Super Retina XDR
+      display (120Hz), A17 Pro chip, titanium design, and a versatile camera
+      system with advanced features like ProRes video, all powered by iOS 17/18
+      and featuring USB-C connectivity; key upgrades include the Action Button,
+      brighter display, and enhanced camera zoom, making it a premium powerhouse
+      for demanding users. Key Specifications & Features: Design:
+      Aerospace-grade titanium frame, Ceramic Shield front, textured matte glass
+      back, IP68 water resistance. Display: 6.7-inch All-Screen OLED, ProMotion
+      (up to 120Hz), Always-On, Dynamic Island, up to 2000 nits peak outdoor
+      brightness. Performance: A17 Pro chip (3nm), fast CPU/GPU for gaming and
+      professional tasks, 8GB RAM. Cameras: Advanced Pro Camera System: 48MP
+      Main, 12MP Ultra Wide, 12MP Telephoto (5x optical zoom/120mm equivalent).
+      Charging/Port: USB-C port (USB 3 speeds), MagSafe wireless charging.
+      Action Button: Customizable button replacing the mute switch. Storage:
+      Options for 256GB, 512GB, 1TB. Operating System: Launched with iOS 17,
+      supports latest iOS (currently iOS 18). Key Upgrades Over Previous Models:
+      Titanium Build: Lighter and stronger than stainless steel. A17 Pro Chip:
+      Significant performance leap, especially for graphics. 5x Telephoto Zoom:
+      Longer optical zoom for telephoto shots. Action Button: Quick access to
+      camera, flashlight, or other functions. Considerations: Software: Early
+      models experienced some bugs like overheating and battery drain, often
+      addressed by iOS updates. Price: Premium pricing, with newer models
+      sometimes available refurbished.
+    variants:
+      - id: 713
+        color: Blue
+        price: 1119.95
+        image: images/61-k3mduxkl._ac_uf894-1000_ql80_fmwebp_.webp
+      - id: 714
+        color: White
+        price: 1119.95
+        image: images/712TY0NCErL._AC_UF894,1000_QL80_FMwebp_ (1).webp
+      - id: 715
+        color: " Natural Titanium"
+        price: 1119.95
+        image: images/616mzzm8-7l._ac_uf894-1000_ql80_fmwebp_.webp
+  - id: 230
+    name: Apple iPhone 16 Pro , 512GB , E-Sim ,Unlocked , New , Sealed
+    category: Phones
+    description: >
+      Available Colors Black Titanium ,Natural Titanium , Desert Titanium. Key
+      features Built for Apple Intelligence: The iPhone 16 Pro runs on the A18
+      Pro chip, which is optimized to handle Apple's new suite of personal AI
+      features in iOS 18. Enhanced Camera System: The pro-level camera array
+      includes an upgraded 48-megapixel Ultra Wide lens and a 5x Telephoto zoom
+      lens, bringing more creative possibilities to both the smaller Pro model
+      and the Pro Max. A new hardware Camera Control button on the side allows
+      for quick access to camera settings and shooting options. ProMotion
+      Display: A 6.3-inch OLED Super Retina XDR display offers adaptive refresh
+      rates up to 120Hz for smoother scrolling and a minimum brightness of 1 nit
+      for an always-on feature. Titanium Design: The phone has a Grade 5
+      titanium frame, making it lightweight and durable. It comes in four matte
+      titanium finishes: Black, White, Natural, and the new Desert Titanium.
+      Superior Video Recording: The iPhone 16 Pro can capture 4K video at 120
+      fps with Dolby Vision, offering high-resolution and high-frame-rate
+      options for filmmakers and content creators.
+    variants:
+      - id: 716
+        color: Natural Titanium
+        price: 1399.95
+        image: images/iPhone-16-Pro-128GB-E-Sim-Pre-ownednatural-titanium-hero-zoom.webp
+      - id: 717
+        color: Black
+        price: 1399.95
+        image: images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp
