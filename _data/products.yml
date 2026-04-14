@@ -178,12 +178,17 @@ products:
   - id: 13
     name: Samsung Galaxy A03S ,32GB , 4G LTE , 6.5in , Unlocked ,New , Sealed
     category: Phones
-    price: 209.95
+    price: ""
     description: >-
       Colors Black According to Samsung's official website and other sources,
       the Samsung Galaxy A03s has the following specifications:
             Display: 6.5-inch HD+ PLS LCD (1600 x 720 resolution) with a standard 60Hz refresh rate. Processor: MediaTek Helio P35 Octa-Core clocked at 2.3 GHz. Memory and storage: 3GB or 4GB of RAM and 32GB or 64GB of internal storage, expandable up to 1TB via a microSD card. Battery: 5,000mAh with 15W wired charging support. Rear cameras: Triple camera system with a 13MP main lens, a 2MP macro lens, and a 2MP depth sensor. Front camera: 5MP front-facing camera. Connectivity: 4G LTE, Wi-Fi 802.11 b/g/n, and Bluetooth 5.0. It also includes a 3.5mm headphone jack. Operating system: Launched with Android 11 and was upgradable to Android 13, but is no longer receiving major OS updates. Security: Side-mounted fingerprint sensor and facial recognition
-    image: images/51m45B3Yy+L.jpg
+    image: ""
+    variants:
+      - id: 739
+        color: Black
+        price: 209.95
+        image: images/51m45B3Yy+L.jpg
   - id: 14
     name: ZTE Nubia Focus 6.5inch , 5G LTE 4GB+256GB ,Dual Sim , New , Sealed
     category: Phones
@@ -640,12 +645,29 @@ products:
   - id: 46
     name: Apple iPhone 16 Plus ,128GB , E-Sim ,Unlocked , New , Sealed
     category: Phones
-    price: 899.95
+    price: ""
     description: >-
       Black. Key specs of the iPhone 16 Plus
 
             Display: 6.7-inch OLED Super Retina XDR with Dynamic Island. Processor: A18 chip. Camera System: Dual-camera system with a 48MP main camera and an improved Ultra Wide camera with autofocus. Connectivity: 5G support, Wi-Fi 7, and USB-C port. SIM Compatibility: Exclusively uses eSIM (no physical SIM card tray in US models). Operating System: iOS 18. Features: Includes the new Action button and is built for Apple Intelligence. Storage: 128GB. Colors: Available in black, ultramarine blue, pink, teal, and white.
-    image: images/iPhone-16-Plus-Ultramarine-1.webp
+    image: ""
+    variants:
+      - id: 735
+        color: Pink
+        price: 979.95
+        image: images/apple-iphone-16(pink-USED).jpg
+      - id: 736
+        color: Black
+        price: 979.95
+        image: images/apple-iphone-16(black-USED).jpg
+      - id: 737
+        color: Blue
+        price: 979.95
+        image: images/apple-iphone-16(blue-USED).jpg
+      - id: 738
+        color: White
+        price: 979.95
+        image: images/apple-iphone-16(white-USED).jpg
   - id: 47
     name: Apple iPhone 16 Pro , 256GB , E-Sim ,Unlocked , New , Sealed
     category: Phones
@@ -8035,7 +8057,7 @@ products:
         price: 1119.95
         image: images/712TY0NCErL._AC_UF894,1000_QL80_FMwebp_ (1).webp
       - id: 715
-        color: " Natural Titanium"
+        color: Natural Titanium
         price: 1119.95
         image: images/616mzzm8-7l._ac_uf894-1000_ql80_fmwebp_.webp
   - id: 230
@@ -8067,3 +8089,215 @@ products:
         color: Black
         price: 1399.95
         image: images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp
+  - id: 231
+    name: Apple iPhone 16 Pro , 128GB , E-Sim ,Unlocked , New , Sealed
+    description: "Available Colors Black Titanium ,Natural Titanium , Desert
+      Titanium. Key features Built for Apple Intelligence: The iPhone 16 Pro
+      runs on the A18 Pro chip, which is optimized to handle Apple's new suite
+      of personal AI features in iOS 18. Enhanced Camera System: The pro-level
+      camera array includes an upgraded 48-megapixel Ultra Wide lens and a 5x
+      Telephoto zoom lens, bringing more creative possibilities to both the
+      smaller Pro model and the Pro Max. A new hardware Camera Control button on
+      the side allows for quick access to camera settings and shooting options.
+      ProMotion Display: A 6.3-inch OLED Super Retina XDR display offers
+      adaptive refresh rates up to 120Hz for smoother scrolling and a minimum
+      brightness of 1 nit for an always-on feature. Titanium Design: The phone
+      has a Grade 5 titanium frame, making it lightweight and durable. It comes
+      in four matte titanium finishes: Black, White, Natural, and the new Desert
+      Titanium. Superior Video Recording: The iPhone 16 Pro can capture 4K video
+      at 120 fps with Dolby Vision, offering high-resolution and high-frame-rate
+      options for filmmakers and content creators. "
+    category: Phones
+    variants:
+      - id: 718
+        color: Black
+        price: 1069.95
+        image: images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp
+      - id: 719
+        image: images/iPhone-16-Pro-128GB-E-Sim-Pre-ownednatural-titanium-hero-zoom.webp
+        color: Natural Titanium
+        price: 1069.95
+  - name: Apple iPhone 16 Pro , 1TB , E-Sim ,Unlocked , New , Sealed
+    category: Phones
+    description: "Available Colors Black Titanium ,Natural Titanium , Desert
+      Titanium. Key features Built for Apple Intelligence: The iPhone 16 Pro
+      runs on the A18 Pro chip, which is optimized to handle Apple's new suite
+      of personal AI features in iOS 18. Enhanced Camera System: The pro-level
+      camera array includes an upgraded 48-megapixel Ultra Wide lens and a 5x
+      Telephoto zoom lens, bringing more creative possibilities to both the
+      smaller Pro model and the Pro Max. A new hardware Camera Control button on
+      the side allows for quick access to camera settings and shooting options.
+      ProMotion Display: A 6.3-inch OLED Super Retina XDR display offers
+      adaptive refresh rates up to 120Hz for smoother scrolling and a minimum
+      brightness of 1 nit for an always-on feature. Titanium Design: The phone
+      has a Grade 5 titanium frame, making it lightweight and durable. It comes
+      in four matte titanium finishes: Black, White, Natural, and the new Desert
+      Titanium. Superior Video Recording: The iPhone 16 Pro can capture 4K video
+      at 120 fps with Dolby Vision, offering high-resolution and high-frame-rate
+      options for filmmakers and content creators. "
+    id: 232
+    variants:
+      - id: 720
+        color: Natural Titanium
+        price: 1629.95
+        image: images/iPhone-16-Pro-128GB-E-Sim-Pre-ownednatural-titanium-hero-zoom.webp
+      - id: 721
+        color: " Black"
+        price: 1629.95
+        image: images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp
+  - description: >+
+      The iPhone 16 Pro Max
+
+      features a 6.9-inch Super Retina XDR display, the largest ever on an iPhone, with a resolution of 2868 x 1320 pixels. It is powered by the A18 Pro chip, which includes a new 6-core GPU and a 16-core Neural Engine designed for enhanced performance and efficiency. The device introduces a new Camera Control button on the right side, allowing users to quickly access camera tools and adjust settings like zoom or exposure with a slide of a finger. 
+
+      Key Specifications
+
+          Display: 6.9" OLED with ProMotion (up to 120Hz), 2,000 nits peak outdoor brightness, and a resolution of 460 ppi.
+          Dimensions & Build: 163 mm (H) x 77.6 mm (W) x 8.25 mm (D) with a Grade 5 titanium design and textured matte glass back; weighs 227 grams.
+          Pro Camera System:
+              48MP Fusion: ƒ/1.78 aperture with second-generation sensor-shift OIS.
+              48MP Ultra Wide: ƒ/2.2 aperture, 120° field of view, and 48MP macro photography support.
+              12MP Telephoto: 5x optical zoom (120mm focal length) and up to 25x digital zoom.
+              Video: 4K Dolby Vision at 120 fps for high-resolution slow motion.
+          Battery & Charging:
+              Battery Life: Up to 33 hours of video playback.
+              Wired Charging: Fast-charge capable up to 50% in 35 minutes with a 20W or higher adapter; real-world peaks at 27-30W.
+              Wireless Charging: Up to 25W MagSafe (with 30W+ adapter) and 15W Qi2 support.
+          Connectivity & Storage:
+              Storage: 256GB, 512GB, or 1TB options.
+              Ports: USB-C with USB 3 speeds (up to 10Gb/s).
+              Wireless: Wi-Fi 7, Bluetooth 5.3, and second-generation Ultra Wideband chip. 
+
+    category: Phones
+    name: Apple iPhone 16 Pro Max , 256GB , E-Sim ,Unlocked , New , Sealed
+    id: 233
+    variants:
+      - id: 722
+        color: Black
+        price: 1279.95
+        image: images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp
+      - id: 723
+        color: Natural Titanium
+        price: 1279.95
+        image: images/iPhone-16-Pro-128GB-E-Sim-Pre-ownednatural-titanium-hero-zoom.webp
+  - id: 234
+    name: Apple iPhone 16 Pro Max , 1TB , E-Sim ,Unlocked , New , Sealed
+    category: Phones
+    description: >
+      The iPhone 16 Pro Max features a 6.9-inch Super Retina XDR display, the
+      largest ever on an iPhone, with a resolution of 2868 x 1320 pixels. It is
+      powered by the A18 Pro chip, which includes a new 6-core GPU and a 16-core
+      Neural Engine designed for enhanced performance and efficiency. The device
+      introduces a new Camera Control button on the right side, allowing users
+      to quickly access camera tools and adjust settings like zoom or exposure
+      with a slide of a finger. Key Specifications Display: 6.9" OLED with
+      ProMotion (up to 120Hz), 2,000 nits peak outdoor brightness, and a
+      resolution of 460 ppi. Dimensions & Build: 163 mm (H) x 77.6 mm (W) x 8.25
+      mm (D) with a Grade 5 titanium design and textured matte glass back;
+      weighs 227 grams. Pro Camera System: 48MP Fusion: ƒ/1.78 aperture with
+      second-generation sensor-shift OIS. 48MP Ultra Wide: ƒ/2.2 aperture, 120°
+      field of view, and 48MP macro photography support. 12MP Telephoto: 5x
+      optical zoom (120mm focal length) and up to 25x digital zoom. Video: 4K
+      Dolby Vision at 120 fps for high-resolution slow motion. Battery &
+      Charging: Battery Life: Up to 33 hours of video playback. Wired Charging:
+      Fast-charge capable up to 50% in 35 minutes with a 20W or higher adapter;
+      real-world peaks at 27-30W. Wireless Charging: Up to 25W MagSafe (with
+      30W+ adapter) and 15W Qi2 support. Connectivity & Storage: Storage: 256GB,
+      512GB, or 1TB options. Ports: USB-C with USB 3 speeds (up to 10Gb/s).
+      Wireless: Wi-Fi 7, Bluetooth 5.3, and second-generation Ultra Wideband
+      chip.
+    variants:
+      - id: 724
+        color: Black
+        price: 1639.95
+        image: images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp
+      - id: 725
+        color: Natural Titanium
+        price: 1639.95
+        image: images/iPhone-16-Pro-128GB-E-Sim-Pre-ownednatural-titanium-hero-zoom.webp
+  - name: Apple iPhone 16 ,128GB , E-Sim ,Unlocked , New , Sealed
+    id: 235
+    category: Phones
+    description: >-
+      The iPhone 16
+
+      is the base model in Apple's latest smartphone lineup, featuring a 6.1-inch Super Retina XDR OLED display with a resolution of 2556 x 1179 pixels. It is the first standard iPhone model built specifically for Apple Intelligence, powered by the new A18 chip with a 6-core CPU, 5-core GPU, and an upgraded 16-core Neural Engine. 
+
+      Key Specifications
+
+          Design & Display: 6.1" all-screen OLED display with Dynamic Island and peak outdoor brightness of 2,000 nits. It features a Ceramic Shield front that is twice as tough as previous glass and an aerospace-grade aluminum enclosure.
+          A18 Chip: Optimized for generative AI, delivering up to 30% higher sustained performance for gaming thanks to an improved thermal design.
+          Advanced Camera System:
+              48MP Fusion Main: ƒ/1.6 aperture with sensor-shift optical image stabilization.
+              12MP Ultra Wide: ƒ/2.2 aperture with a 120° field of view, supporting macro photography and spatial photo/video capture.
+              Optical Zoom: 2x optical-quality Telephoto via the Fusion sensor, providing a 4x total optical zoom range.
+          New Physical Controls:
+              Camera Control Button: A new tactile side button that allows for quick access to camera tools like zoom, exposure, and depth of field with simple slides and presses.
+              Action Button: Replaces the traditional silent switch, customizable to launch features like the flashlight, voice memos, or Focus modes.
+          Battery & Power: Up to 22 hours of video playback. Supports fast charging (50% in ~30 minutes) and up to 25W MagSafe wireless charging with a 30W adapter.
+          Connectivity: Wi-Fi 7 support, USB-C (USB 2 speeds), and second-generation Ultra Wideband chip.
+    variants:
+      - id: 726
+        color: Black
+        price: 899.95
+        image: images/apple-iphone-16(black-USED).jpg
+      - id: 727
+        color: Pink
+        price: 899.95
+        image: images/apple-iphone-16(pink-USED).jpg
+      - id: 728
+        color: White
+        price: 899.95
+        image: images/apple-iphone-16(white-USED).jpg
+      - id: 729
+        color: Blue
+        price: 899.95
+        image: images/apple-iphone-16(blue-USED).jpg
+  - name: Apple iPhone 16 , 256GB , E-Sim ,Unlocked , New , Sealed
+    category: Phones
+    id: 236
+    description: >
+      The iPhone 16 is the base model in Apple's latest smartphone lineup,
+      featuring a 6.1-inch Super Retina XDR OLED display with a resolution of
+      2556 x 1179 pixels. It is the first standard iPhone model built
+      specifically for Apple Intelligence, powered by the new A18 chip with a
+      6-core CPU, 5-core GPU, and an upgraded 16-core Neural Engine. Key
+      Specifications Design & Display: 6.1" all-screen OLED display with Dynamic
+      Island and peak outdoor brightness of 2,000 nits. It features a Ceramic
+      Shield front that is twice as tough as previous glass and an
+      aerospace-grade aluminum enclosure. A18 Chip: Optimized for generative AI,
+      delivering up to 30% higher sustained performance for gaming thanks to an
+      improved thermal design. Advanced Camera System: 48MP Fusion Main: ƒ/1.6
+      aperture with sensor-shift optical image stabilization. 12MP Ultra Wide:
+      ƒ/2.2 aperture with a 120° field of view, supporting macro photography and
+      spatial photo/video capture. Optical Zoom: 2x optical-quality Telephoto
+      via the Fusion sensor, providing a 4x total optical zoom range. New
+      Physical Controls: Camera Control Button: A new tactile side button that
+      allows for quick access to camera tools like zoom, exposure, and depth of
+      field with simple slides and presses. Action Button: Replaces the
+      traditional silent switch, customizable to launch features like the
+      flashlight, voice memos, or Focus modes. Battery & Power: Up to 22 hours
+      of video playback. Supports fast charging (50% in ~30 minutes) and up to
+      25W MagSafe wireless charging with a 30W adapter. Connectivity: Wi-Fi 7
+      support, USB-C (USB 2 speeds), and second-generation Ultra Wideband chip.
+    variants:
+      - id: 730
+        color: Pink
+        price: 1039.95
+        image: images/apple-iphone-16(pink-USED).jpg
+      - id: 731
+        color: Blue
+        price: 1039.95
+        image: images/apple-iphone-16(blue-USED).jpg
+      - id: 732
+        color: White
+        price: 1039.95
+        image: images/apple-iphone-16(white-USED).jpg
+      - id: 733
+        color: Black
+        price: 1039.95
+        image: images/apple-iphone-16(black-USED).jpg
+      - id: 734
+        color: Teal
+        price: 1039.95
+        image: images/apple-iphone-16(teal-USED).jpg
