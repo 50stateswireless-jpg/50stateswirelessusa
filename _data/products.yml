@@ -3038,15 +3038,15 @@ products:
     variants:
       - id: 382
         color: Black
-        price: 369.95
+        price: 389.95
         image: images/google_pixel_7_white__62439.jpg
       - id: 383
         color: White
-        price: 369.95
+        price: 389.95
         image: images/google_pixel_7_white__62439.jpg
       - id: 384
         color: Lime Green
-        price: 369.95
+        price: 389.95
         image: images/google_pixel_7_white__62439.jpg
   - id: 108
     name: Apple iPhone 13, 128GB, Physical SIM ,  Unlocked, A+ Grade , Pre-owned
