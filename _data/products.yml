@@ -20,15 +20,48 @@ products:
             third-party services.
     image: images/71M1Kxq7HHL.jpg
   - id: 2
-    name: Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB Cellular, New, Sealed
+    name: Samsung Galaxy Tab A9 , 8.7inch , 64GB ,Cellular, New, Sealed
     category: Tablets
-    price: 249.95
+    price: ""
     description: >-
-      Dark Blue , Silver ,Gray .New Sealed 4GB of Ram Cellular Unlocked
-            8.7 inches Android 13 with One UI 5.1 Rear camera is 8MP Front Camera is
-            2MP 5100 mAh Battery.
-    image: images/Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB Cellular, New,
-      Sealed.jpg
+      The Samsung Galaxy Tab A9 (Sm-x115)
+
+      is a compact, entry-level 8.7-inch tablet released in late 2023. It features a smooth metal unibody design and is currently available from retailers 
+
+      Technical Specifications
+
+      Based on official data from Samsung and technical listings from GSMArena, the A9
+
+      's core specs include:
+
+          Display: 8.7-inch TFT LCD with 800 x 1340 (WXGA+) resolution and a standard 60Hz refresh rate.
+          Processor: MediaTek Helio G99 octa-core chipset (2.2GHz performance cores).
+          Memory & Storage: Available in configurations of 4GB/64GB or 8GB/128GB, with microSD support up to 1TB.
+          Battery & Power: 5,100 mAh capacity with 15W wired charging support via USB-C.
+          Cameras: 8.0 MP rear camera with autofocus and a 2.0 MP front-facing camera.
+          Audio: Dual stereo speakers (1.0W) with Dolby Atmos support.
+          Connectivity: Supports Wi-Fi 5 (802.11ac), Bluetooth 5.3, and is available in both Wi-Fi only and 4G LTE versions.
+          Operating System: Originally shipped with Android 13 and Samsung One UI 5.1.1. 
+
+      Key Features & Performance
+
+      Reviewers from Tech Advisor and GSMArena highlight several practical aspects:
+
+          Portability: Weighing approximately 333g and measuring 8mm thick, it is designed for easy one-handed use and travel.
+          Multitasking: The A9
+          supports split-screen mode, allowing users to run up to two apps simultaneously.
+          Build Quality: Unlike many budget competitors, it uses an aluminum alloy body for a more durable and premium feel.
+    image: ""
+    variants:
+      - id: 818
+        color: Gray
+        price: 249.95
+        image: images/Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB Cellular, New,
+          Sealed.jpg
+      - id: 819
+        color: Silver
+        price: 249.95
+        image: images/galaxytab11-siver.webp
   - id: 3
     name: Samsung Galaxy S25 Plus, 256GB 5G . Unlocked, Dual Sim , New , Sealed
     category: Phones
@@ -100,7 +133,7 @@ products:
   - id: 7
     name: Tecno Spark Go 1S , 64GB , Dual Sim , 6.67-inch , Unlocked , New , Sealed
     category: Phones
-    price: 219.95
+    price: ""
     description: >-
       Colors Black ,White  Processor: MediaTek Helio G50 octa-core
             chipset RAM and storage: 3GB RAM and 64GB of internal storage. The storage
@@ -112,7 +145,16 @@ products:
             Operating system: Android 14 (Go edition) with Tecno's HiOS 14. Other
             features: Dual SIM support, IPX4 water resistance, rear-mounted
             fingerprint sensor, and facial recognition for security
-    image: images/tecno_spark_go_1s_black__76702.jpg
+    image: ""
+    variants:
+      - id: 742
+        price: 219.95
+        color: Black
+        image: images/tecno_spark_go_1s_black__76702.jpg
+      - id: 834
+        color: White
+        price: 219.95
+        image: images/tecno1S-white.jpg
   - id: 8
     name: XNET WIFI Xplorer Hotspot 100GB X Data Plan
     category: WiFi
@@ -168,13 +210,18 @@ products:
           Network: Access to nationwide 5G coverage. 
     image: images/galaxy-a36-black-11321.jpg
   - id: 12
-    name: TECNO Spark 30C , 256GB , 4G , 6.67 inches , Unlocked ,New , Sealed
+    name: Tecno Spark 30C , 256GB , 4G , 6.67 inches , Unlocked ,New , Sealed
     category: Phones
-    price: 279.95
+    price: ""
     description: >-
       Colors Black  Key features
             Display: A 6.67-inch IPS LCD with a 720p HD+ resolution and a smooth 120Hz refresh rate. Some variants may have a 6.6-inch screen with a 90Hz refresh rate and a 720p resolution. Performance: Powered by a MediaTek Helio G81 chipset (or G70 for some variants) and comes with up to 8GB of RAM, depending on the model. Virtual RAM expansion is also a feature. Camera: It has a dual-camera system on the back with a 50MP main sensor and an auxiliary lens. The front camera is 8MP and can shoot video at 1080p@30fps. Battery and charging: The device is powered by a large 5,000mAh non-removable battery and supports 18W wired charging. A full charge may take around 2 hours. Storage: The Spark 30C is available with different storage options, including 128GB and 256GB of internal storage, which is expandable via a microSDXC card. Audio: Includes a 3.5mm headphone jack and stereo speakers. Operating system: It runs on Android 14 with Tecno's HiOS skin. Some variants are specified with Android 12 and HiOS 8.6. Other features: The phone has a side-mounted fingerprint sensor, an IR blaster for controlling appliances, and an IP54 rating for dust and splash resistance
-    image: images/tecno_spark_30c_white__64972.jpg
+    image: ""
+    variants:
+      - id: 741
+        price: 279.95
+        color: Black
+        image: images/tecno_spark_30c_black__28400.jpg
   - id: 13
     name: Samsung Galaxy A03S ,32GB , 4G LTE , 6.5in , Unlocked ,New , Sealed
     category: Phones
@@ -192,23 +239,37 @@ products:
   - id: 14
     name: ZTE Nubia Focus 6.5inch , 5G LTE 4GB+256GB ,Dual Sim , New , Sealed
     category: Phones
-    price: 289.95
+    price: ""
     description: >-
       Colors Black   According to ZTE and GSMArena, the Nubia Focus 5G, released
             in early 2024, has the following specifications:
 
             Dimensions: 163.6 x 74.9 x 8.6 mm. Weight: 205.5 g. Display: 6.6-inch IPS LCD with a 120Hz refresh rate and 1612 x 720 HD+ resolution. Processor: Unisoc T760 (6nm). RAM: Up to 16GB dynamic RAM (6GB + 10GB extended). Storage: 256GB UFS 3.1. Rear Camera: Dual 108MP (wide) + 2MP (depth). Front Camera: 5MP (software-enhanced to 8MP). Battery: 5,000mAh with 22.5W fast charging. Operating System: Android 13 or 14, depending on the region. Connectivity: 5G, Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0, NFC. Ports: USB Type-C, 3.5mm audio jack. Other features: Side fingerprint sensor, Live Island interactive notification display.
-    image: images/nabia_focus__55629.jpg
+    image: ""
+    variants:
+      - id: 743
+        color: Black
+        price: 289.95
+        image: images/nabia_focus__55629.jpg
   - id: 15
     name: ZTE Nubia Focus Pro, 6.7inch , 5G LTE ,256GB , Unlocked , New , Sealed
     category: Phones
-    price: 369.95
+    price: ""
     description: >-
       Colors Black,Cream  Here is a detailed breakdown of the specifications for
       the nubia Focus Pro 5G, according to ZTE's official website and sources
       like GSMArena.
             Dimensions: 166 x 76.1 x 8.5 mm. Weight: 206 g. Display: 6.72-inch IPS LCD with a 120Hz refresh rate and 1080 x 2400 FHD+ resolution. Processor: Unisoc T760 (6nm). Memory and storage: 8GB of LPDDR4X RAM with up to 12GB of additional dynamic RAM, and 256GB of UFS 3.1 storage. Rear cameras: Main: 108MP with f/1.7 aperture, Phase Detection Autofocus (PDAF), and Optical Image Stabilization (OIS). Ultrawide: 5MP. Depth: 2MP. Front camera: 32MP. Battery: 5,000mAh non-removable. Charging: 33W wired fast charging. Operating system: Launched with Android 13 and MyOS 13. Connectivity: 5G, Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.2, and NFC. Ports: USB Type-C, but no 3.5mm headphone jack. Additional features: Camera controls: A physical sliding shortcut key for quick access to camera functions and a capacitive capture button. Live Island: Interactive notification area for important alerts. Biometrics: Side-mounted fingerprint sensor
-    image: images/612Q5004-IL.jpg
+    image: ""
+    variants:
+      - id: 824
+        color: Cream
+        price: 369.95
+        image: images/ztefocuspro-cream.webp
+      - id: 825
+        color: Black
+        price: 369.95
+        image: images/ztefocuspro-black.png
   - id: 16
     name: JBL Tune Flex Active Noise Cancelling Wireless Earbuds
     category: Headsets & Earbuds
@@ -224,7 +285,7 @@ products:
             a quick chat without having to remove your headphones.
     image: images/0-1.jpeg
   - id: 17
-    name: Apple iPad A16 !1th Generation 128GB, WiFi Only
+    name: Apple iPad A16 11th Generation , 128GB , WiFi Only , New , Sealed
     category: Tablets
     description: >-
       11-INCH LIQUID RETINA DISPLAY—The gorgeous Liquid Retina display is
@@ -279,20 +340,38 @@ products:
   - id: 20
     name: Maxwest Vice 4G Flip Phone , Unlocked , New , Sealed
     category: Phones
-    price: 129.95
+    price: ""
     description: >-
       Black, Blue, silver
             Design: Flip-style phone with a durable plastic body. Displays: Main Display: 2.8-inch TFT screen. External Display: 1.8-inch screen for viewing notifications, incoming calls, and messages without opening the phone. Camera: 2MP rear camera with flash. Memory: 64MB RAM and 128MB internal memory, expandable via a microSD card. Connectivity: Network: 4G LTE and VoLTE technology for clear calls. Wireless: Bluetooth. Ports: USB-C for charging. Special features: SOS button: A dedicated button for emergencies. Dual SIM: Supports two nano-SIM cards. Other features: FM radio. Compatibility: Works with GSM networks like T-Mobile and AT&T but is not compatible with the Verizon network.
-    image: images/maxwest_vice_black__53943.jpg
+    image: ""
+    variants:
+      - id: 826
+        color: Black
+        price: 129.95
+        image: images/maxwest_vice_black__53943.jpg
+      - id: 827
+        color: Blue
+        price: 129.95
+        image: images/viceflip-blue.jpg
+      - id: 828
+        color: Silver
+        price: 129.95
+        image: images/viceflip-silver.jpg
   - id: 21
     name: Maxwest Ranger , 4G ,32GB , Unlocked , New , Sealed
     category: Phones
-    price: 129.95
+    price: ""
     description: >-
       Black. This feature phone is built for durability and includes a number of
       basic communication  features.
             Design and display: It features a 2.4-inch color display and a physical keypad. Durability: The phone is rugged, with a build that is resistant to water, dust, and shocks. It is designed for outdoor use or demanding job site conditions. Connectivity: This is a 4G LTE-enabled unlocked phone compatible with GSM carriers like T-Mobile and AT&T. Storage: The phone has only 128MB of internal storage, but can hold a microSD card of up to 32GB to store files. Special features: A standout feature is its 4000mAh battery that can be used as a power bank to charge other devices. It also includes a flashlight
-    image: images/maxwest_ranger_black__72703.jpg
+    image: ""
+    variants:
+      - id: 829
+        color: Black
+        price: 129.95
+        image: images/maxwest_ranger_black__72703.jpg
   - id: 22
     name: Maxwest NEO M1 Candy Bar Phone ,Unlocked ,New , Sealed
     category: Phones
@@ -302,6 +381,19 @@ products:
             Dual sim Camera Fm radio GSM quad band Unlocked Overseas Here works with
             H2O and Ultra
     image: images/maxwest-NEO-M1-Mobile-aPhone-User-Manual_1-185x300.jpg
+    variants:
+      - id: 830
+        color: Black
+        price: 119.95
+        image: images/maxwest-NEO-M1-Mobile-aPhone-User-Manual_1-185x300.jpg
+      - id: 831
+        color: Blue
+        price: 119.95
+        image: images/maxwestneo-blue.png
+      - id: 832
+        color: Gray
+        price: 119.95
+        image: images/maxwest_neo_m1__87766.jpg
   - id: 23
     name: Maxwest Uno Clam X1, 1.8'inch ,Unlocked , New, Sealed
     category: Phones
@@ -319,7 +411,7 @@ products:
   - id: 24
     name: Orbic Myra , 5G , 64GB ,Unlocked , New , Sealed
     category: Phones
-    price: 199.95
+    price: ""
     description: >-
       Black. 5G smartphone: Features a larger 6.78” screen and fast speeds.
             Triple rear camera: Includes a 48MP main camera, 8MP, and 2MP cameras.
@@ -330,11 +422,16 @@ products:
             Specifications:
 
             Display: 6.78” HD+ TFT LCD, 20:9 aspect ratio, scratch-resistant glass. Network: 4G and 5G support. Battery: 5000mAh, non-removable, Quick Charge 3.0. Connectivity: Wi-Fi (2.4GHz and 5GHz), Bluetooth 5.0. Camera: Main: 48MP + 8MP + 2MP with flash. Front: 16MP. Speed & Power: Qualcomm Snapdragon® 750G. Memory: 6GB RAM, 64GB internal storage, Micro SD support up to 512GB.
-    image: images/orbic_myra_5g__43224.jpg
+    image: ""
+    variants:
+      - id: 833
+        color: Black
+        price: 199.95
+        image: images/orbic_myra_5g__43224.jpg
   - id: 25
     name: Orbic Tabet 10R , 5G , 128GB , WIFI , New , Sealed
     category: Tablets
-    price: 219.95
+    price: ""
     description: >-
       Black. The Orbic TAB10R 5G UW is a 10-inch ruggedized tablet designed for
             both everyday use and demanding environments
@@ -342,7 +439,12 @@ products:
             . It features 5G Ultra Wideband connectivity, primarily through Verizon. Here are some of its key features: Durability: The TAB10R 5G UW is built to MIL-810 and IP65 standards, making it resistant to drops, bumps, water, and other environmental factors. Connectivity: It supports Verizon’s 5G Ultra Wideband (including C-band and mmWave), and also has 4G and 3G capabilities. Performance: The tablet is powered by a Qualcomm® Snapdragon™ 480 5G Octa-core 2.4GHz processor, coupled with 6GB of RAM and 128GB of internal storage (expandable up to 1TB with a Micro SD card). Battery: It includes a 6000 mAh battery with Quick Charge 3.0 technology for faster recharging. Display: The 10-inch HD TFT display is scratch-resistant and supports stylus input. Operating System: It runs on Android 12, with ongoing security and OS updates. Cameras: The tablet has an 8MP front-facing camera and a 13MP rear camera with flash.
 
             User Experience Reviews of the Orbic TAB10R 5G UW (and the related Orbic Speed 5G hotspot) suggest a mixed user experience: Positive: Some users praise the fast 5G speeds, portability, and ease of setup. It’s seen as a reliable solution for those who need constant high-speed internet on the go. Negative: Other users report issues with battery life, random shutdowns, and connectivity problems, particularly in areas with competing Wi-Fi 6 devices. There have also been complaints about faulty batteries and difficulty obtaining replacements
-    image: images/Tab10_new_2520x.jpg
+    image: ""
+    variants:
+      - id: 820
+        color: Black
+        price: 219.95
+        image: images/Orbic-Tab-10R-5G-Tablet-PRODUCT.webp
   - id: 26
     name: Logic Z1L Flip Phone , 4G , Dual Sim , Unlocked , New , Sealed
     category: Phones
@@ -387,18 +489,47 @@ products:
             variants may offer dual SIM support. Battery: 4000mAh battery. Cameras:
             5MP rear camera and a 2MP front camera. Accessories: Often bundled with a
             protective silicone case and screen protector
-    image: images/sky_elite_oxtax_tab_wtihout_case__97220.jpg
+    image: ""
+    variants:
+      - id: 821
+        color: Black
+        price: 179.95
+        image: images/sky_elite_oxtax_tab_wtihout_case__97220.jpg
   - id: 28
-    name: Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB , WiFi, New, Sealed
+    name: Samsung Galaxy Tab A9 , 8.7inch  ,64GB , WiFi Only , New, Sealed
     category: Tablets
-    price: 249.95
-    description: >-
-      Silver. 4GB of Ram Unlocked 8.7 inches Android 13 with One UI 5.1 Rear
-            camera is 8MP Front Camera is 2MP 5100 mAh Battery
-
-            The Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB , WiFi, New, Sealed, like our other offerings comes with the consistant quality our customers have come to expect, another great product from NewRock Wireless.
-    image: images/Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB Cellular, New,
-      Sealed.jpg
+    price: ""
+    description: "The Samsung Galaxy Tab A9 (Sm-x115) is a compact, entry-level
+      8.7-inch tablet released in late 2023. It features a smooth metal unibody
+      design and is currently available from retailers Technical Specifications
+      Based on official data from Samsung and technical listings from GSMArena,
+      the A9 's core specs include: Display: 8.7-inch TFT LCD with 800 x 1340
+      (WXGA+) resolution and a standard 60Hz refresh rate. Processor: MediaTek
+      Helio G99 octa-core chipset (2.2GHz performance cores). Memory & Storage:
+      Available in configurations of 4GB/64GB or 8GB/128GB, with microSD support
+      up to 1TB. Battery & Power: 5,100 mAh capacity with 15W wired charging
+      support via USB-C. Cameras: 8.0 MP rear camera with autofocus and a 2.0 MP
+      front-facing camera. Audio: Dual stereo speakers (1.0W) with Dolby Atmos
+      support. Connectivity: Supports Wi-Fi 5 (802.11ac), Bluetooth 5.3, and is
+      available in both Wi-Fi only and 4G LTE versions. Operating System:
+      Originally shipped with Android 13 and Samsung One UI 5.1.1. Key Features
+      & Performance Reviewers from Tech Advisor and GSMArena highlight several
+      practical aspects: Portability: Weighing approximately 333g and measuring
+      8mm thick, it is designed for easy one-handed use and travel.
+      Multitasking: The A9 supports split-screen mode, allowing users to run up
+      to two apps simultaneously. Build Quality: Unlike many budget competitors,
+      it uses an aluminum alloy body for a more durable and premium feel. "
+    image: ""
+    variants:
+      - price: 249.95
+        color: Gray
+        id: 822
+        image: images/Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB Cellular, New,
+          Sealed.jpg
+      - id: 823
+        color: Silver
+        price: 249.95
+        image: images/galaxytab11-siver.webp
   - id: 29
     name: Motorola Moto Buds 085 , New , Sealed
     category: Headsets & Earbuds
@@ -3038,15 +3169,15 @@ products:
     variants:
       - id: 382
         color: Black
-        price: 389.95
+        price: 369.95
         image: images/google_pixel_7_white__62439.jpg
       - id: 383
         color: White
-        price: 389.95
+        price: 369.95
         image: images/google_pixel_7_white__62439.jpg
       - id: 384
         color: Lime Green
-        price: 389.95
+        price: 369.95
         image: images/google_pixel_7_white__62439.jpg
   - id: 108
     name: Apple iPhone 13, 128GB, Physical SIM ,  Unlocked, A+ Grade , Pre-owned
@@ -8301,3 +8432,1929 @@ products:
         color: Teal
         price: 1039.95
         image: images/apple-iphone-16(teal-USED).jpg
+  - id: 237
+    name: Apple iPhone 17 Air ,5G, 256GB , Unlocked , New , Sealed
+    category: Phones
+    description: "The iPhone 17 Air  Colors: Space Black, Cloud White, Light Gold,
+      and Sky Blue.
+
+      (released September 19, 2025) is a specialized ultra-thin model in
+      Apple's lineup, designed to prioritize a slim form factor over high-end
+      camera hardware. It measures just 5.6 mm thick and weighs 165 grams,
+      making it the thinnest iPhone ever.\ 
+
+      Core Specifications
+
+
+      \    Design: Features a Grade 5 titanium frame and a Ceramic Shield
+      2 front for improved scratch resistance.
+
+      \    Display: A 6.5-inch Super Retina XDR OLED display with 120Hz
+      ProMotion and Always-On functionality. It reaches a peak outdoor
+      brightness of 3,000 nits.
+
+      \    Processor: Powered by the A19 Pro chip (a slightly modified
+      version with a 5-core GPU compared to the Pro's 6-core version) and 12GB
+      of RAM.
+
+      \    Camera System:
+
+      \        Rear: A single 48MP Fusion Main camera. While it lacks
+      ultra-wide and telephoto lenses, it supports 2x optical-quality zoom
+      through sensor cropping.
+
+      \        Front: An upgraded 18MP Center Stage camera with support
+      for 4K Dolby Vision video recording.
+
+      \    Battery: A 3,149 mAh battery designed to fit the slim chassis.
+      It offers up to 27 hours of video playback and supports 20W wireless
+      charging via MagSafe or Qi2.
+
+      \    Connectivity: Equipped with Apple's custom C1X modem and N1
+      networking chip, supporting Wi-Fi 7 and Bluetooth 6.0. The device is eSIM
+      only worldwide.\ 
+
+      Pricing and Variants
+
+      The iPhone 17 Air
+
+      \   Storage Options: 256GB, 512GB, and 1TB.
+
+      \    "
+    variants:
+      - id: 744
+        color: Black
+        price: 1039.95
+        image: images/237-black.webp
+      - id: 745
+        color: Gold
+        price: 1039.95
+        image: images/237-gold.webp
+      - id: 746
+        color: White
+        price: 1039.95
+        image: images/237-white.webp
+      - id: 747
+        price: 1039.95
+        color: Blue
+        image: images/237-blue.webp
+  - id: 238
+    name: Apple iPhone 17 Air ,5G, 512GB , Unlocked , New , Sealed
+    category: Phones
+    description: "The iPhone 17 Air Colors: Space Black, Cloud White, Light Gold,
+      and Sky Blue. (released September 19, 2025) is a specialized ultra-thin
+      model in Apple's lineup, designed to prioritize a slim form factor over
+      high-end camera hardware. It measures just 5.6 mm thick and weighs 165
+      grams, making it the thinnest iPhone ever. Core Specifications Design:
+      Features a Grade 5 titanium frame and a Ceramic Shield 2 front for
+      improved scratch resistance. Display: A 6.5-inch Super Retina XDR OLED
+      display with 120Hz ProMotion and Always-On functionality. It reaches a
+      peak outdoor brightness of 3,000 nits. Processor: Powered by the A19 Pro
+      chip (a slightly modified version with a 5-core GPU compared to the Pro's
+      6-core version) and 12GB of RAM. Camera System: Rear: A single 48MP Fusion
+      Main camera. While it lacks ultra-wide and telephoto lenses, it supports
+      2x optical-quality zoom through sensor cropping. Front: An upgraded 18MP
+      Center Stage camera with support for 4K Dolby Vision video recording.
+      Battery: A 3,149 mAh battery designed to fit the slim chassis. It offers
+      up to 27 hours of video playback and supports 20W wireless charging via
+      MagSafe or Qi2. Connectivity: Equipped with Apple's custom C1X modem and
+      N1 networking chip, supporting Wi-Fi 7 and Bluetooth 6.0. The device is
+      eSIM only worldwide. Pricing and Variants The iPhone 17 Air Storage
+      Options: 256GB, 512GB, and 1TB. "
+    variants:
+      - id: 748
+        color: Black
+        price: 1579.95
+        image: images/237-black.webp
+      - id: 749
+        price: 1579.95
+        color: Blue
+        image: images/237-blue.webp
+      - id: 750
+        color: Gold
+        price: 1579.95
+        image: images/237-gold.webp
+      - price: 1579.95
+        color: White
+        id: 751
+        image: images/237-white.webp
+  - id: 239
+    name: Apple iPhone 17 Air ,5G, 1TB , Unlocked , New , Sealed
+    category: Phones
+    description: "The iPhone 17 Air Colors: Space Black, Cloud White, Light Gold,
+      and Sky Blue. (released September 19, 2025) is a specialized ultra-thin
+      model in Apple's lineup, designed to prioritize a slim form factor over
+      high-end camera hardware. It measures just 5.6 mm thick and weighs 165
+      grams, making it the thinnest iPhone ever. Core Specifications Design:
+      Features a Grade 5 titanium frame and a Ceramic Shield 2 front for
+      improved scratch resistance. Display: A 6.5-inch Super Retina XDR OLED
+      display with 120Hz ProMotion and Always-On functionality. It reaches a
+      peak outdoor brightness of 3,000 nits. Processor: Powered by the A19 Pro
+      chip (a slightly modified version with a 5-core GPU compared to the Pro's
+      6-core version) and 12GB of RAM. Camera System: Rear: A single 48MP Fusion
+      Main camera. While it lacks ultra-wide and telephoto lenses, it supports
+      2x optical-quality zoom through sensor cropping. Front: An upgraded 18MP
+      Center Stage camera with support for 4K Dolby Vision video recording.
+      Battery: A 3,149 mAh battery designed to fit the slim chassis. It offers
+      up to 27 hours of video playback and supports 20W wireless charging via
+      MagSafe or Qi2. Connectivity: Equipped with Apple's custom C1X modem and
+      N1 networking chip, supporting Wi-Fi 7 and Bluetooth 6.0. The device is
+      eSIM only worldwide. Pricing and Variants The iPhone 17 Air Storage
+      Options: 256GB, 512GB, and 1TB. "
+    variants:
+      - id: 752
+        color: Black
+        price: 1789.95
+        image: images/237-black.webp
+      - id: 753
+        color: White
+        price: 1789.95
+        image: images/237-white.webp
+      - price: 1789.95
+        id: 754
+        color: Blue
+        image: images/237-blue.webp
+      - id: 755
+        color: Gold
+        price: 1789.95
+        image: images/237-gold.webp
+  - id: 240
+    name: Apple iPhone 17,5G, 512GB , Unlocked , New , Sealed
+    category: Phones
+    description: "Colors available lavender, white, black, Sage - Key Specs Screen
+      Size 6.3 inches Built-in Storage 256 gigabytes General Brand Apple Model
+      Number MG474LL/A Product Name iPhone 17 256GB iPhone 17 Year of Release
+      2025 Display Screen Size 6.3 inches Screen Resolution 2622 x 1206 Display
+      Type LED Screen Type Super Retina XDR display Brightness 3000 nits Network
+      Connectivity 5G Connectivity Wireless Connectivity Bluetooth, Thread,
+      Wi-Fi Wireless Networking Standard Wi-Fi 7 Power Battery Chemistry
+      Lithium-ion Features Model Family Apple iPhone 17 GPS Enabled Yes Global
+      Positioning GPS Protective Qualities Water resistant Maximum Depth Of
+      Water Resistance 19.68 feet Built-in Storage 256 gigabytes Performance
+      Operating System Apple iOS Processor Brand Apple Dimensions Product Height
+      5.89 inches Product Width 2.81 inches Product Depth 0.31 inches Product
+      Weight 6.24 ounces "
+    variants:
+      - id: 756
+        price: 1249.95
+        color: White
+        image: images/iphone-17-finish-select-202509-white_GEO_US.webp
+      - id: 757
+        color: " Lavender"
+        price: 1249.95
+        image: images/iphone-17-finish-select-202509-lavender_GEO_US.webp
+      - id: 758
+        color: Black
+        price: 1249.95
+        image: images/iphone-17-finish-select-202509-black_GEO_US.webp
+  - id: 241
+    name: Apple iPhone 17 Pro , 5G, 256GB, 6.3.inch , Unlocked, New , Sealed
+    category: Phones
+    description: >-
+      Three colors: Cosmic Orange, Deep Blue, and Silver.  The Apple iPhone 17
+      Pro
+
+      was released on September 19, 2025. It features a significant design shift with a heat-forged aluminum unibody and a horizontal "camera plateau" that replaces the traditional square camera bump. 
+
+      Key Features & Specifications
+
+          Performance: Powered by the A19 Pro chip with a new vapor chamber cooling system for up to 40% better sustained performance. It includes 12GB of RAM to better support local AI models.
+          Camera System: For the first time, all three rear lenses are 48MP. The telephoto lens now offers 4x and 8x optical zoom.
+          Front Camera: A new 18MP Center Stage selfie camera with a square sensor allows you to take landscape or portrait shots while holding the phone vertically.
+          Display: The 6.3-inch Super Retina XDR display reaches a peak outdoor brightness of 3,000 nits and features Ceramic Shield 2 for 3x better scratch resistance.
+          Battery & Charging: Offers up to 33 hours of video playback. Fast charging can reach 50% in roughly 20 minutes with a 40W adapter.
+    variants:
+      - id: 759
+        color: Deep Blue
+        price: 1299.95
+        image: images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp
+      - id: 760
+        color: Cosmic Orange
+        price: 1299.95
+        image: images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg
+      - id: 761
+        color: Silver
+        price: 1299.95
+        image: images/apple-iphone-17-pro-max-1tb-nano-sim-and-esim.webp
+  - id: 242
+    name: Apple iPhone 17 Pro , 5G, 512GB, 6.3.inch , Unlocked, New , Sealed
+    category: Phones
+    description: 'Three colors: Cosmic Orange, Deep Blue, and Silver. The Apple
+      iPhone 17 Pro was released on September 19, 2025. It features a
+      significant design shift with a heat-forged aluminum unibody and a
+      horizontal "camera plateau" that replaces the traditional square camera
+      bump. Key Features & Specifications Performance: Powered by the A19 Pro
+      chip with a new vapor chamber cooling system for up to 40% better
+      sustained performance. It includes 12GB of RAM to better support local AI
+      models. Camera System: For the first time, all three rear lenses are 48MP.
+      The telephoto lens now offers 4x and 8x optical zoom. Front Camera: A new
+      18MP Center Stage selfie camera with a square sensor allows you to take
+      landscape or portrait shots while holding the phone vertically. Display:
+      The 6.3-inch Super Retina XDR display reaches a peak outdoor brightness of
+      3,000 nits and features Ceramic Shield 2 for 3x better scratch resistance.
+      Battery & Charging: Offers up to 33 hours of video playback. Fast charging
+      can reach 50% in roughly 20 minutes with a 40W adapter. '
+    variants:
+      - id: 762
+        color: Cosmic Orange
+        price: 1529.95
+        image: images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg
+      - id: 763
+        price: 1529.95
+        color: Deep Blue
+        image: images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp
+      - id: 764
+        color: Silver
+        price: 1529.95
+        image: images/apple-iphone-17-pro-max-1tb-nano-sim-and-esim.webp
+  - name: Apple iPhone 17 Pro , 5G, 1TB , 6.3.inch , Unlocked, New , Sealed
+    category: Phones
+    description: 'Three colors: Cosmic Orange, Deep Blue, and Silver. The Apple
+      iPhone 17 Pro was released on September 19, 2025. It features a
+      significant design shift with a heat-forged aluminum unibody and a
+      horizontal "camera plateau" that replaces the traditional square camera
+      bump. Key Features & Specifications Performance: Powered by the A19 Pro
+      chip with a new vapor chamber cooling system for up to 40% better
+      sustained performance. It includes 12GB of RAM to better support local AI
+      models. Camera System: For the first time, all three rear lenses are 48MP.
+      The telephoto lens now offers 4x and 8x optical zoom. Front Camera: A new
+      18MP Center Stage selfie camera with a square sensor allows you to take
+      landscape or portrait shots while holding the phone vertically. Display:
+      The 6.3-inch Super Retina XDR display reaches a peak outdoor brightness of
+      3,000 nits and features Ceramic Shield 2 for 3x better scratch resistance.
+      Battery & Charging: Offers up to 33 hours of video playback. Fast charging
+      can reach 50% in roughly 20 minutes with a 40W adapter. '
+    id: 243
+    variants:
+      - id: 765
+        color: Cosmic Orange
+        price: 1739.95
+        image: images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg
+      - id: 766
+        color: Deep Blue
+        price: 1739.95
+        image: images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp
+      - id: 767
+        color: Silver
+        price: 1739.95
+        image: images/apple-iphone-17-pro-max-1tb-nano-sim-and-esim.webp
+  - id: 244
+    category: Tablets
+    description: >-
+      The Samsung Galaxy Tab A9+  (SM-X218U)
+
+      is a mid-range Android tablet featuring an 11-inch TFT LCD display with a smooth 90Hz refresh rate and 1920 x 1200 resolution. Released in late 2023, it is powered by the Qualcomm Snapdragon 695 5G chipset, making it a capable device for multitasking and entertainment. 
+
+      Core Specifications
+
+          Display: 11.0-inch TFT LCD, 1920 x 1200 (WUXGA), 90Hz refresh rate.
+          Processor: Qualcomm Snapdragon 695 5G (Octa-core up to 2.2 GHz).
+          Memory & Storage: Available in 4GB RAM / 64GB storage or 8GB RAM / 128GB storage configurations.
+          Expandable Storage: Supports microSD cards up to 1TB.
+          Battery: 7,040 mAh battery with 15W wired charging support.
+          Cameras: 8MP rear camera with autofocus and a 5MP front camera.
+          Audio: Quad speakers with Dolby Atmos support.
+          Dimensions & Weight: 257.1 x 168.7 x 6.9 mm; weighs approximately 480g (Wi-Fi) or 491g (5G). 
+
+      Software & Connectivity
+
+          Operating System: Originally launched with Android 13 (One UI 5.1.1) and is upgradable to Android 16.
+          Special Features: Supports Samsung DeX for a PC-like experience and multi-active window for up to three split-screen apps.
+          Connectivity: Available in Wi-Fi and 5G models; includes a 3.5mm headphone jack, Bluetooth 5.1, and Wi-Fi 5. 
+    name: Samsung Galaxy Tab A9 Plus, 64GB, 11inch , Unlocked ,  WiFi Only, New ,
+      Sealed
+    variants:
+      - id: 768
+        color: Gray
+        price: 269.95
+        image: images/244-gray.webp
+  - id: 245
+    name: Samsung Galaxy Tab A9 Plus, 64GB, 11inch , Unlocked , Cellular, New ,
+      Sealed
+    description: "The Samsung Galaxy Tab A9+ (Sm-x218U) is a mid-range Android
+      tablet featuring an 11-inch TFT LCD display with a smooth 90Hz refresh
+      rate and 1920 x 1200 resolution. Released in late 2023, it is powered by
+      the Qualcomm Snapdragon 695 5G chipset, making it a capable device for
+      multitasking and entertainment. Core Specifications Display: 11.0-inch TFT
+      LCD, 1920 x 1200 (WUXGA), 90Hz refresh rate. Processor: Qualcomm
+      Snapdragon 695 5G (Octa-core up to 2.2 GHz). Memory & Storage: Available
+      in 4GB RAM / 64GB storage or 8GB RAM / 128GB storage configurations.
+      Expandable Storage: Supports microSD cards up to 1TB. Battery: 7,040 mAh
+      battery with 15W wired charging support. Cameras: 8MP rear camera with
+      autofocus and a 5MP front camera. Audio: Quad speakers with Dolby Atmos
+      support. Dimensions & Weight: 257.1 x 168.7 x 6.9 mm; weighs approximately
+      480g (Wi-Fi) or 491g (5G). Software & Connectivity Operating System:
+      Originally launched with Android 13 (One UI 5.1.1) and is upgradable to
+      Android 16. Special Features: Supports Samsung DeX for a PC-like
+      experience and multi-active window for up to three split-screen apps.
+      Connectivity: Available in Wi-Fi and 5G models; includes a 3.5mm headphone
+      jack, Bluetooth 5.1, and Wi-Fi 5. "
+    category: Tablets
+    variants:
+      - id: 769
+        color: Gray
+        price: 319.95
+        image: images/244-gray.webp
+  - id: 246
+    name: Apple iPhone 14, 128GB,  E-SIM , Unlocked, New , Sealed
+    category: Phones
+    description: "The iPhone 14 and 14 Plus are available in six colors: Midnight
+      (black), Starlight (white/silver), Product RED, Blue, Purple, and a
+      special spring 2023 addition, Yellow. The iPhone 14 features a 6.1-inch
+      Super Retina XDR (OLED) display, the A15 Bionic chip with 5-core GPU, dual
+      12MP (Wide & Ultra Wide) rear cameras, 12MP TrueDepth front camera, 6GB
+      RAM, IP68 water resistance, and supports 5G, all powered by a 3279mAh
+      battery for all-day life, running iOS (originally 16). It comes with
+      128/256/512GB storage, a Lightning port (last of its kind for standard
+      models), and introduced features like Cinematic Mode and Emergency SOS via
+      Satellite. Display & Design Screen: 6.1-inch Super Retina XDR (OLED).
+      Resolution: 1170x2532 pixels. Refresh Rate: Standard 60Hz. Durability:
+      Ceramic Shield front, aluminum design, IP68 water/dust resistant. Colors:
+      Blue, Midnight, Starlight, Purple, Product Red, Yellow. Performance Chip:
+      A15 Bionic (6-core CPU, 5-core GPU). RAM: 6GB. Storage: 128GB, 256GB, or
+      512GB. Cameras Rear: Advanced Dual-Camera System (12MP Wide + 12MP Ultra
+      Wide). Front: 12MP TrueDepth with Autofocus. Video: 4K Dolby Vision HDR
+      recording, Cinematic Mode. Battery & Charging Battery: Up to 20 hours
+      video playback. Charging: MagSafe (up to 15W) & Qi wireless charging,
+      USB-C (Lightning port). Connectivity & Features Network: 5G. Security:
+      Face ID. New Features: Emergency SOS via Satellite, Crash Detection. Other
+      Specs OS: Launched with iOS 16, upgradable. Dimensions: 146.7 x 71.5 x 7.8
+      mm. Weight: 172g. "
+    variants:
+      - id: 770
+        color: Yellow
+        price: 759.95
+        image: images/iphone-14-plus-yellow__15396.jpg
+      - id: 771
+        color: Black
+        price: 759.95
+        image: images/iphoneblack.webp
+      - id: 772
+        color: Red
+        price: 759.95
+        image: images/Restored-Apple-iPhone-14-Carrier-Unlocked-128-GB-Red-Refurbished_fce73123-996f-402c-8e03-e6f75be55929.3af24aa35da9056417433d557b154a09.jpeg
+      - id: 773
+        color: Blue
+        price: 759.95
+        image: images/iphone-14-4.jpg
+      - id: 774
+        color: Purple
+        price: 759.95
+        image: images/619f09kk7tl._ac_uf894-1000_ql80_fmwebp_.webp
+      - id: 775
+        color: White
+        price: 759.95
+        image: images/refurb-iphone-14-starlight-202404 (copy).jpeg
+  - name: Apple iPhone 14 Plus , 128GB, E-SIM , Unlocked, New , Sealed
+    category: Phones
+    id: 247
+    description: "Available Colors Black, Yellow, Purple, Blue Details The iPhone 14
+      Plus features a large 6.7-inch Super Retina XDR (OLED) display, powered by
+      the A15 Bionic chip with a 5-core GPU, dual 12MP main and ultrawide
+      cameras, and 6GB of RAM with 128GB, 256GB, or 512GB storage options, all
+      housed in an aluminum body with Ceramic Shield front, offering excellent
+      battery life and MagSafe, but lacks the ProMotion display and telephoto
+      lens of the Pro models. Here are the key specs: Display: 6.7-inch
+      (diagonal) Super Retina XDR (OLED) Chip: A15 Bionic (6-core CPU, 5-core
+      GPU, 16-core Neural Engine) Cameras: Dual 12MP system (Wide & Ultra Wide)
+      RAM: 6GB Storage: 128GB, 256GB, 512GB Design: Aluminum frame, Ceramic
+      Shield front, Glass back Water Resistance: IP68 Connectivity: 5G, MagSafe
+      Key Highlights: Large Screen: Offers the big 6.7-inch display size
+      previously only on Pro Max models. Great Battery: Known for excellent
+      battery performance. Solid Performance: Fast A15 chip handles daily tasks
+      and gaming well. No Pro Features: Lacks the high refresh rate (ProMotion)
+      display and 48MP main camera of the iPhone 14 Pro series. "
+    variants:
+      - id: 776
+        color: Purple
+        price: 929.95
+        image: images/619f09kK7tL._AC_UF894,1000_QL80_FMwebp_.webp
+      - id: 777
+        color: Black
+        price: 929.95
+        image: images/iphoneblack.webp
+      - id: 778
+        color: Red
+        price: 929.95
+        image: images/Restored-Apple-iPhone-14-Carrier-Unlocked-128-GB-Red-Refurbished_fce73123-996f-402c-8e03-e6f75be55929.3af24aa35da9056417433d557b154a09.jpeg
+      - id: 779
+        color: White
+        price: 929.95
+        image: images/refurb-iphone-14-starlight-202404.jpeg
+      - color: Blue
+        price: 929.95
+        id: 780
+        image: images/iphone-14-4 (copy).jpg
+  - name: Apple iPhone 14 Plus , 256GB, E-SIM , Unlocked, New , Sealed
+    id: 248
+    category: Phones
+    description: "Available Colors Black, Yellow, Purple, Blue Details The iPhone 14
+      Plus features a large 6.7-inch Super Retina XDR (OLED) display, powered by
+      the A15 Bionic chip with a 5-core GPU, dual 12MP main and ultrawide
+      cameras, and 6GB of RAM with 128GB, 256GB, or 512GB storage options, all
+      housed in an aluminum body with Ceramic Shield front, offering excellent
+      battery life and MagSafe, but lacks the ProMotion display and telephoto
+      lens of the Pro models. Here are the key specs: Display: 6.7-inch
+      (diagonal) Super Retina XDR (OLED) Chip: A15 Bionic (6-core CPU, 5-core
+      GPU, 16-core Neural Engine) Cameras: Dual 12MP system (Wide & Ultra Wide)
+      RAM: 6GB Storage: 128GB, 256GB, 512GB Design: Aluminum frame, Ceramic
+      Shield front, Glass back Water Resistance: IP68 Connectivity: 5G, MagSafe
+      Key Highlights: Large Screen: Offers the big 6.7-inch display size
+      previously only on Pro Max models. Great Battery: Known for excellent
+      battery performance. Solid Performance: Fast A15 chip handles daily tasks
+      and gaming well. No Pro Features: Lacks the high refresh rate (ProMotion)
+      display and 48MP main camera of the iPhone 14 Pro series. "
+    variants:
+      - id: 781
+        color: Black
+        price: 1029.95
+        image: images/iphoneblack.webp
+  - name: Apple iPhone 14 Plus , 512GB , E-SIM , Unlocked, New , Sealed
+    category: Phones
+    description: "Available Colors Black, Yellow, Purple, Blue Details The iPhone 14
+      Plus features a large 6.7-inch Super Retina XDR (OLED) display, powered by
+      the A15 Bionic chip with a 5-core GPU, dual 12MP main and ultrawide
+      cameras, and 6GB of RAM with 128GB, 256GB, or 512GB storage options, all
+      housed in an aluminum body with Ceramic Shield front, offering excellent
+      battery life and MagSafe, but lacks the ProMotion display and telephoto
+      lens of the Pro models. Here are the key specs: Display: 6.7-inch
+      (diagonal) Super Retina XDR (OLED) Chip: A15 Bionic (6-core CPU, 5-core
+      GPU, 16-core Neural Engine) Cameras: Dual 12MP system (Wide & Ultra Wide)
+      RAM: 6GB Storage: 128GB, 256GB, 512GB Design: Aluminum frame, Ceramic
+      Shield front, Glass back Water Resistance: IP68 Connectivity: 5G, MagSafe
+      Key Highlights: Large Screen: Offers the big 6.7-inch display size
+      previously only on Pro Max models. Great Battery: Known for excellent
+      battery performance. Solid Performance: Fast A15 chip handles daily tasks
+      and gaming well. No Pro Features: Lacks the high refresh rate (ProMotion)
+      display and 48MP main camera of the iPhone 14 Pro series. "
+    id: 249
+    variants:
+      - id: 783
+        color: Red
+        price: 1199.95
+        image: images/Restored-Apple-iPhone-14-Carrier-Unlocked-128-GB-Red-Refurbished_fce73123-996f-402c-8e03-e6f75be55929.3af24aa35da9056417433d557b154a09.jpeg
+      - id: 784
+        color: Purple
+        price: 1199.95
+        image: images/619f09kk7tl._ac_uf894-1000_ql80_fmwebp_.webp
+      - id: 785
+        price: 1199.95
+        color: Blue
+        image: images/iphone-14-4.jpg
+      - id: 786
+        color: White
+        price: 1199.95
+        image: images/STA-image-0.jpeg
+  - description: >-
+      The Apple iPhone 14 Pro Max
+
+      was released in 2022 as Apple's top-tier flagship, introducing the Dynamic Island and a significant jump to a 48MP main camera. 
+
+      Core Technical Specifications
+
+          Processor: Powered by the Apple A16 Bionic chip with a 6-core CPU, 5-core GPU, and 16-core Neural Engine.
+          Display: Features a 6.7-inch Super Retina XDR OLED display with a resolution of 2796 x 1290 pixels at 460 ppi.
+              ProMotion: Adaptive refresh rates up to 120Hz.
+              Brightness: Peak brightness of 2,000 nits outdoors and 1,600 nits for HDR content.
+              Always-On: Supports the Always-On display feature.
+          Pro Camera System:
+              Main: 48MP (24mm, ƒ/1.78) with second-generation sensor-shift optical image stabilization.
+              Ultra Wide: 12MP (13mm, ƒ/2.2) with a 120° field of view and support for macro photography.
+              Telephoto: 12MP (77mm, ƒ/2.8) offering 3x optical zoom in.
+              Video: Supports 4K Cinematic mode at 30 fps and Action mode for stabilization up to 2.8K at 60 fps.
+          Battery & Power:
+              Endurance: Up to 29 hours of video playback or 95 hours of audio playback.
+              Charging: Fast-charge capable (up to 50% in 35 minutes with a 20W adapter), plus support for 15W MagSafe and 7.5W Qi wireless charging.
+          Design & Build:
+              Materials: Surgical-grade stainless steel frame with a Ceramic Shield front and textured matte glass back.
+              Durability: IP68 rating for water and dust resistance (up to 6 meters for 30 minutes).
+              Colors: Available in Space Black, Silver, Gold, and Deep Purple.
+          Storage: Options include 128GB, 256GB, 512GB, and 1TB. 
+    name: Apple iPhone 14 Pro Max , 128GB,  E- SIM , Unlocked, New , Sealed
+    category: Phones
+    id: 250
+    variants:
+      - id: 782
+        color: Purple
+        price: 929.95
+        image: images/iphone14pro-purple.jpg
+      - id: 787
+        color: Black
+        price: 929.95
+        image: images/iphone14pro-gray.avif
+  - name: Apple iPhone 14 Pro , 1TB  , E-SIM , Unlocked, New , Sealed
+    category: Phones
+    description: "The Apple iPhone 14 Pro Max was released in 2022 as Apple's
+      top-tier flagship, introducing the Dynamic Island and a significant jump
+      to a 48MP main camera. Core Technical Specifications Processor: Powered by
+      the Apple A16 Bionic chip with a 6-core CPU, 5-core GPU, and 16-core
+      Neural Engine. Display: Features a 6.7-inch Super Retina XDR OLED display
+      with a resolution of 2796 x 1290 pixels at 460 ppi. ProMotion: Adaptive
+      refresh rates up to 120Hz. Brightness: Peak brightness of 2,000 nits
+      outdoors and 1,600 nits for HDR content. Always-On: Supports the Always-On
+      display feature. Pro Camera System: Main: 48MP (24mm, ƒ/1.78) with
+      second-generation sensor-shift optical image stabilization. Ultra Wide:
+      12MP (13mm, ƒ/2.2) with a 120° field of view and support for macro
+      photography. Telephoto: 12MP (77mm, ƒ/2.8) offering 3x optical zoom in.
+      Video: Supports 4K Cinematic mode at 30 fps and Action mode for
+      stabilization up to 2.8K at 60 fps. Battery & Power: Endurance: Up to 29
+      hours of video playback or 95 hours of audio playback. Charging:
+      Fast-charge capable (up to 50% in 35 minutes with a 20W adapter), plus
+      support for 15W MagSafe and 7.5W Qi wireless charging. Design & Build:
+      Materials: Surgical-grade stainless steel frame with a Ceramic Shield
+      front and textured matte glass back. Durability: IP68 rating for water and
+      dust resistance (up to 6 meters for 30 minutes). Colors: Available in
+      Space Black, Silver, Gold, and Deep Purple. Storage: Options include
+      128GB, 256GB, 512GB, and 1TB. "
+    id: 251
+    variants:
+      - id: 788
+        color: Purple
+        price: 1439.95
+        image: images/iphone14pro-purple.jpg
+  - id: 252
+    name: Apple iPhone 14 Pro Max , 256GB , Physical SIM , Unlocked, New , Sealed
+    category: Phones
+    description: "The Apple iPhone 14 Pro Max was released in 2022 as Apple's
+      top-tier flagship, introducing the Dynamic Island and a significant jump
+      to a 48MP main camera. Core Technical Specifications Processor: Powered by
+      the Apple A16 Bionic chip with a 6-core CPU, 5-core GPU, and 16-core
+      Neural Engine. Display: Features a 6.7-inch Super Retina XDR OLED display
+      with a resolution of 2796 x 1290 pixels at 460 ppi. ProMotion: Adaptive
+      refresh rates up to 120Hz. Brightness: Peak brightness of 2,000 nits
+      outdoors and 1,600 nits for HDR content. Always-On: Supports the Always-On
+      display feature. Pro Camera System: Main: 48MP (24mm, ƒ/1.78) with
+      second-generation sensor-shift optical image stabilization. Ultra Wide:
+      12MP (13mm, ƒ/2.2) with a 120° field of view and support for macro
+      photography. Telephoto: 12MP (77mm, ƒ/2.8) offering 3x optical zoom in.
+      Video: Supports 4K Cinematic mode at 30 fps and Action mode for
+      stabilization up to 2.8K at 60 fps. Battery & Power: Endurance: Up to 29
+      hours of video playback or 95 hours of audio playback. Charging:
+      Fast-charge capable (up to 50% in 35 minutes with a 20W adapter), plus
+      support for 15W MagSafe and 7.5W Qi wireless charging. Design & Build:
+      Materials: Surgical-grade stainless steel frame with a Ceramic Shield
+      front and textured matte glass back. Durability: IP68 rating for water and
+      dust resistance (up to 6 meters for 30 minutes). Colors: Available in
+      Space Black, Silver, Gold, and Deep Purple. Storage: Options include
+      128GB, 256GB, 512GB, and 1TB. "
+    variants:
+      - id: 789
+        color: Purple
+        price: 1419.95
+        image: images/iphone14pro-purple.jpg
+  - description: >-2
+       Burgundy Only.  The Samsung Galaxy S22 Ultra 5G
+      was released in early 2022 as a hybrid that merged the "S" series' camera prowess with the "Note" series' productivity, featuring a built-in S Pen. 
+
+      Key Technical Specifications
+
+          Processor: Features the 4nm Snapdragon 8 Gen 1 (USA/China/India) or the Exynos 2200 (Europe/parts of Africa).
+          Display: A massive 6.8-inch Dynamic AMOLED 2X screen with a 1440 x 3088 (QHD+) resolution.
+              Refresh Rate: Adaptive 120Hz (ranging from 1Hz to 120Hz for efficiency).
+              Brightness: Peak outdoor brightness of 1,750 nits.
+          Versatile Quad Camera System:
+              Main: 108MP (ƒ/1.8) sensor designed for high detail and improved "Nightography" low-light performance.
+              Zoom: Dual telephoto lenses—10MP with 3x optical zoom and a 10MP periscope lens with 10x optical zoom. Supports up to 100x "Space Zoom."
+              Ultra Wide: 12MP (ƒ/2.2) with a 120-degree field of view.
+              Selfie: High-resolution 40MP front camera.
+              Video: Supports up to 8K recording at 24fps.
+          Battery & Charging:
+              Capacity: 5,000mAh battery designed for all-day use.
+              Wired: Supports up to 45W fast charging (charger sold separately), reaching 50% in roughly 30 minutes.
+              Wireless: 15W wireless charging and 4.5W Reverse Wireless PowerShare.
+          Design & Durability:
+              Build: Features an "Armor Aluminum" frame and Corning Gorilla Glass Victus+ on both sides.
+              S Pen: First S-series phone with an integrated S Pen slot, featuring ultra-low 2.8ms latency.
+              Protection: IP68 rated for water and dust resistance.
+          Memory & Storage:
+          Storage: Available in 128GB, 256GB, 512GB, and 1TB (no microSD slot)
+    name: Samsung Galaxy S22 Ultra , 5G , 128GB , Unlocked , New , Sealed
+    category: Phones
+    id: 253
+    variants:
+      - id: 790
+        color: Burgundy
+        price: 579.95
+        image: images/galaxy22-bur.jpg
+  - description: >-
+      The Samsung Galaxy A23 5G is a budget-friendly phone that stands out for
+      its high-refresh-rate screen and stabilized camera. 
+
+      Technical Specifications
+
+          Display: 6.6-inch PLS LCD, FHD+ resolution (1080 x 2408), featuring a 120Hz refresh rate.
+          Processor: Qualcomm Snapdragon 695 5G (6nm octa-core).
+          Memory/Storage: 4GB RAM paired with 64GB internal storage, expandable via microSD up to 1TB.
+          Main Camera: Quad-lens setup:
+              50MP Main with Optical Image Stabilization (OIS).
+              5MP Ultrawide.
+              2MP Macro.
+              2MP Depth.
+          Front Camera: 8MP wide lens.
+          Battery: 5,000mAh with support for 25W Super Fast Charging.
+          Software: Originally launched with Android 12 (One UI 4.1), typically upgradeable to newer versions.
+          Connectivity: 5G, Wi-Fi 5, Bluetooth 5.1, and includes a 3.5mm headphone jack.
+          Security: Side-mounted fingerprint sensor and Face Recognition. 
+    name: Samsung Galaxy A23 , 5G ,  64GB , Unlocked , New , Sealed
+    id: 254
+    category: Phones
+    variants:
+      - id: 791
+        color: Black
+        price: 299.95
+        image: images/samsung_a23_black__87823.jpg
+  - description: 'The AT&T Maestro 3 is an affordable, entry-level prepaid
+      smartphone running Android 12, featuring a large 6.5" HD+ screen, dual
+      rear cameras (13MP+5MP wide), a 5MP selfie cam, a 4000mAh battery, 3GB
+      RAM, 32GB storage (expandable), and a fingerprint sensor, designed for
+      basic users wanting a dependable device without premium features, often
+      available free with specific AT&T prepaid plans. Key Features: Display:
+      6.5-inch HD+ with protective glass. Camera: Dual rear (13MP Main + 5MP
+      Wide) & 5MP Front. Battery: 4000 mAh. Security: Fingerprint reader.
+      Storage: 32GB internal, expandable via microSD. Available Color Green '
+    category: Phones
+    name: " Maestro 3 ,32GB , 4G , Unlocked   , New , Sealed"
+    id: 255
+    variants:
+      - id: 792
+        color: Green
+        price: 189.95
+        image: images/att_maestro_3__99827.jpg
+  - id: 256
+    name: Xiaomi Redmi 9A , 32GB, Unlocked , New , Sealed
+    category: Phones
+    description: >
+      Primary colors: Carbon Gray (Midnight Black), Sky Blue (Sea Blue), and
+      Ocean Green (Nature Green) The Xiaomi Redmi 9A is an entry-level
+      smartphone designed for essential tasks. Below are its primary technical
+      specifications:
+
+      Core Specifications
+
+          Display: 6.53-inch HD+ Dot Drop display (1600 x 720 resolution, 269 ppi) [1, 2].
+          Processor: MediaTek Helio G25 (12nm octa-core, up to 2.0GHz) [1, 2].
+          Battery: 5,000mAh with 10W charging via micro-USB [1, 2].
+          Memory: Options of 2GB, 3GB, 4GB, or 6GB LPDDR4X RAM [2].
+          Storage: 32GB, 64GB, or 128GB eMMC 5.1, expandable via dedicated microSD slot up to 512GB [2].
+
+      Camera System
+
+          Rear Camera: 13MP main sensor with f/2.2 aperture, LED flash, and 1080p video recording at 30/60fps [2, 3].
+          Front Camera: 5MP selfie camera with f/2.2 aperture [2, 3].
+
+      Connectivity & Features
+
+          Network: 4G LTE, Dual Nano-SIM support [2, 3].
+          Other: 3.5mm headphone jack, Bluetooth 5.0, Wi-Fi 802.11 b/g/n, and AI Face Unlock [1, 2].
+          Dimensions: 164.9 x 77.07 x 9.0 mm; weight is 194g [1, 2].
+
+      Would you like to see how this compares to the newer Redmi 10A or a similar budget phone like the Samsung Galaxy A04?
+    variants:
+      - id: 793
+        color: Blue
+        price: 209.95
+        image: images/redmi9a-blue.jpg
+      - id: 794
+        color: Green
+        price: 209.95
+        image: images/redmi9a-green.jpg
+      - id: 795
+        color: Gray
+        price: 209.95
+        image: images/redmi9a-gray.jpg
+  - id: 257
+    name: Xiaomi Redmi 13C, 128GB, Unlocked, New, Sealed
+    category: Phones
+    description: >-
+      Specification:
+
+
+      Processor:
+
+      The MediaTek Helio G85 processor, manufactured using a 12nm process, boasts an octa-core configuration with Arm Cortex-A75 running at 2.0GHz and Arm Cortex-A55 at 1.8GHz. The graphics processing is handled by the Arm Mali-G52 MC2 GPU.
+
+
+      Storage & RAM:
+
+      Available in configurations of 4GB+128GB, 6GB+128GB, and 8GB+256GB, the device utilizes LPDDR4X and eMMC 5.1 technologies. Note that configurations may vary across regions, and the actual available storage and RAM are less than the total memory due to the pre-installed operating system and software.
+
+
+      Dimensions:
+
+      The device measures 168mm in height, 78mm in width, and has a thickness of 8.09mm, weighing 192g. Data provided by Xiaomi Internal Labs, with potential variations in industry measurement methods.
+
+
+      Display:
+
+      Featuring a 6.74" Dot Drop display with a resolution of 1600x720 and a pixel density of 260 ppi, the screen supports a brightness of 450 nits (typ) and 600 nits HBM. The refresh rate can reach up to 90Hz, complemented by features like Reading mode, DC dimming, and Corning® Gorilla® Glass. TÜV Rheinland Low Blue Light and Flicker-Free certifications are also included.
+
+
+      Rear Camera:
+
+      Equipped with a 50MP main camera, a 2MP macro camera, and an auxiliary lens, the rear camera supports various modes, including filmCamera, HDR mode, Night mode, Portrait mode, and Time-lapse. Video recording capabilities include 1080P at 30fps and 720P at 30fps.
+
+
+      Front Camera:
+
+      The front camera is an 8MP sensor with features such as filmCamera, HDR mode, Soft-light ring, Portrait mode, and Time-lapse. Video recording options include 1080P at 30fps and 720P at 30fps.
+
+
+      Battery & Charging:
+
+      Powered by a 5000mAh (typ) battery, the device supports 18W PD charging. A 10W power adapter is included in the package, and it is recommended to use 18W or above power adapters that support PD charging. The device charges via a USB Type-C port.
+
+
+      Security:
+
+      Security features include a side fingerprint sensor and AI face unlock.
+
+
+      NFC:
+
+      The device supports NFC, with availability varying between markets.
+
+
+      Network & Connectivity:
+
+      It offers dual SIM + microSD support and covers various network bands, including 4G, 3G, and 2G. Wireless connectivity includes Wi-Fi at 2.4GHz and 5GHz, as well as Bluetooth 5.3. The device supports AAC/SBC and features an FM radio with a headphone jack.
+
+
+      Navigation & Positioning:
+
+      Navigation capabilities include GPS, Glonass, Galileo, and Beidou.
+
+
+      Audio:
+
+      The device includes a 3.5mm headphone jack.
+
+
+      Sensors:
+
+      Equipped with virtual proximity sensor, ambient light sensor, accelerometer, and electronic compass.
+
+
+      Operating System:
+
+      The device runs on MIUI 14 based on Android 13, with the availability of MIUI features, apps, and services subject to software version and phone model.
+
+
+      Package Contents:
+
+      The package includes the mobile phone, adapter, USB Type-C cable, SIM eject tool, quick start guide, warranty card, and safety information.
+    variants:
+      - id: 796
+        color: Blue
+        price: 269.95
+        image: images/redmi13c-blue.jpeg
+      - id: 797
+        color: Black
+        price: 269.95
+        image: images/redmi13c-black.jpg
+      - id: 798
+        color: White
+        price: 269.95
+        image: images/redmi13c-white.jpg
+      - id: 799
+        color: Green
+        price: 269.95
+        image: images/redmi13c-green.webp
+  - id: 258
+    name: Samsung Galaxy Tab A11 , 8.7inch , 64GB , WiFi , Unlocked , New , Sealed
+    description: >
+      The Samsung Galaxy Tab A11  (X133)
+
+      is an entry-level 8.7-inch tablet released in September 2025. It features a lightweight design and is geared toward basic tasks like reading, web browsing, and light streaming. 
+
+      Key Specifications
+
+          Display: 8.7-inch TFT LCD with a resolution of
+          pixels (WXGA+) and a 90Hz refresh rate for smoother scrolling.
+          Processor: MediaTek Helio G99 Octa-core chipset (2.2GHz + 2GHz).
+          Memory & Storage:
+              RAM: Options for 4GB or 8GB.
+              Internal Storage: 64GB or 128GB, expandable up to 2TB via microSD card.
+          Battery: 5,100 mAh capacity with 15W wired charging support.
+          Cameras: 8MP rear camera with autofocus and a 5MP front-facing camera.
+          Audio: Dual stereo speakers with Dolby Atmos and a 3.5mm headphone jack.
+          Software: Originally launched with Android 15 (One UI 7.0) with a promise of 7 years of software and security updates.
+          Connectivity: Available in Wi-Fi only and 4G LTE variants; features Bluetooth 5.3 and USB Type-C 2.0. 
+
+      Physical Details
+
+          Dimensions: 211.0 x 124.7 x 8.0 mm.
+          Weight: Approximately 335g to 337g depending on the model.
+          Colors: Available in Gray and Silver. 
+
+      Notable Features
+
+      Reviewers from sites like Gadgets 360 and PhoneArena note that while it is an affordable "mini" tablet, it lacks premium features such as a fingerprint reader, S Pen support, or Samsung DeX. 
+    category: Tablets
+    variants:
+      - id: 800
+        color: Silver
+        price: 289.95
+        image: images/galaxytab11-siver.webp
+      - id: 801
+        color: Gray
+        price: 289.95
+        image: images/galaxytab11-gray.webp
+  - name: Samsung Galaxy Tab A11 , 8.7inch , 64GB , WiFi + Cellular , Unlocked ,
+      New, Sealed
+    category: Tablets
+    description: 'The Samsung Galaxy Tab A11 (X135) is an entry-level 8.7-inch
+      tablet released in September 2025. It features a lightweight design and is
+      geared toward basic tasks like reading, web browsing, and light streaming.
+      Key Specifications Display: 8.7-inch TFT LCD with a resolution of pixels
+      (WXGA+) and a 90Hz refresh rate for smoother scrolling. Processor:
+      MediaTek Helio G99 Octa-core chipset (2.2GHz + 2GHz). Memory & Storage:
+      RAM: Options for 4GB or 8GB. Internal Storage: 64GB or 128GB, expandable
+      up to 2TB via microSD card. Battery: 5,100 mAh capacity with 15W wired
+      charging support. Cameras: 8MP rear camera with autofocus and a 5MP
+      front-facing camera. Audio: Dual stereo speakers with Dolby Atmos and a
+      3.5mm headphone jack. Software: Originally launched with Android 15 (One
+      UI 7.0) with a promise of 7 years of software and security updates.
+      Connectivity: Available in Wi-Fi only and 4G LTE variants; features
+      Bluetooth 5.3 and USB Type-C 2.0. Physical Details Dimensions: 211.0 x
+      124.7 x 8.0 mm. Weight: Approximately 335g to 337g depending on the model.
+      Colors: Available in Gray and Silver. Notable Features Reviewers from
+      sites like Gadgets 360 and PhoneArena note that while it is an affordable
+      "mini" tablet, it lacks premium features such as a fingerprint reader, S
+      Pen support, or Samsung DeX. '
+    id: 259
+    variants:
+      - id: 802
+        color: Silver
+        price: 309.95
+        image: images/galaxytab11-siver.webp
+      - id: 803
+        color: Gray
+        price: 309.95
+        image: images/galaxytab11-gray.webp
+  - id: 260
+    name: " Samsung Galaxy Tab A9 Plus, 64GB, 11inch , Unlocked , WiFi + Cellular ,
+      New , Sealed"
+    description: "The Samsung Galaxy Tab A9+ (Sm-x216) is a mid-range Android tablet
+      featuring an 11-inch TFT LCD display with a smooth 90Hz refresh rate and
+      1920 x 1200 resolution. Released in late 2023, it is powered by the
+      Qualcomm Snapdragon 695 5G chipset, making it a capable device for
+      multitasking and entertainment. Core Specifications Display: 11.0-inch TFT
+      LCD, 1920 x 1200 (WUXGA), 90Hz refresh rate. Processor: Qualcomm
+      Snapdragon 695 5G (Octa-core up to 2.2 GHz). Memory & Storage: Available
+      in 4GB RAM / 64GB storage or 8GB RAM / 128GB storage configurations.
+      Expandable Storage: Supports microSD cards up to 1TB. Battery: 7,040 mAh
+      battery with 15W wired charging support. Cameras: 8MP rear camera with
+      autofocus and a 5MP front camera. Audio: Quad speakers with Dolby Atmos
+      support. Dimensions & Weight: 257.1 x 168.7 x 6.9 mm; weighs approximately
+      480g (Wi-Fi) or 491g (5G). Software & Connectivity Operating System:
+      Originally launched with Android 13 (One UI 5.1.1) and is upgradable to
+      Android 16. Special Features: Supports Samsung DeX for a PC-like
+      experience and multi-active window for up to three split-screen apps.
+      Connectivity: Available in Wi-Fi and 5G models; includes a 3.5mm headphone
+      jack, Bluetooth 5.1, and Wi-Fi 5. "
+    category: Tablets
+    variants:
+      - id: 804
+        color: Gray
+        price: 325.95
+        image: images/244-gray.webp
+  - id: 261
+    name: Amazon Fire Tab HD10 , 32GB , 10.1-inch , 13th Gen 2023 , WiFi Only , New
+      , Sealed
+    description: >-
+      The Amazon Fire HD 10 (13th Gen, 2023) is a budget-friendly 10.1-inch
+      tablet optimized for Amazon services like Prime Video, Kindle, and
+      Audible. Compared to the previous model, it is lighter and features a
+      faster processor and an improved front camera. 
+
+      Technical Specifications
+
+          Display: 10.1-inch 1080p Full HD (
+          ) with a pixel density of 224 PPI.
+          Performance:
+              Processor: MediaTek MT8186A Octa-core (2.05 GHz).
+              RAM: 3 GB.
+          Storage: Available in 32 GB or 64 GB, expandable up to 1 TB via microSD.
+          Battery: Up to 13 hours of mixed use; fully charges in ~4 hours with the included 9W adapter.
+          Cameras: 5 MP front-facing camera (landscape orientation) and 5 MP rear-facing camera; 1080p HD video recording.
+          Audio: Dual stereo speakers with Dolby Atmos and a 3.5 mm headphone jack.
+          Connectivity: Dual-band Wi-Fi 5, Bluetooth 5.3, and USB-C (2.0).
+          Operating System: Fire OS 8 (based on Android 11). 
+
+      Physical Details
+
+          Dimensions: 246 mm
+          164.8 mm
+          8.6 mm.
+          Weight: 434g (0.96 lbs).
+          Colors: Black, Lilac, and Ocean. 
+
+      Notable Features
+
+          Stylus Support: Compatible with "Made for Amazon" USI 2.0 stylus pens for drawing or note-taking.
+          App Ecosystem: Restricted to the Amazon Appstore (no Google Play Store by default).
+          Lockscreen Ads: Standard models include "Special Offers" (ads) on the lock screen unless you pay a fee to remove them. 
+    category: Tablets
+    variants:
+      - id: 805
+        color: Blue
+        price: 299.95
+        image: images/amazonfirehd10-blue.jpg
+      - id: 806
+        color: Black
+        price: 299.95
+        image: images/amazonfirehc10-black.jpg
+  - name: Amazon Fire Tab HD 8 , 64GB ,  8-inch , 12th Gen, 2024 , WiFi Only , New ,
+      Sealed
+    id: 262
+    category: Tablets
+    description: >-
+      The latest Amazon Fire HD 8 (12th Gen, 2024 Refresh)
+
+      is an upgraded version of the 2022 model, now featuring more RAM and an improved rear camera. It remains a budget-focused 8-inch tablet designed for portable entertainment, reading, and light multitasking. 
+
+      Core Specifications
+
+          Display: 8-inch IPS LCD touchscreen with
+          resolution (189 PPI). It features strengthened aluminosilicate glass for added durability.
+          Performance:
+              Processor: 2.0 GHz Hexa-core MediaTek MT8169A.
+              RAM: Upgraded to 3 GB (for the 32 GB model) or 4 GB (for the 64 GB model).
+          Storage: 32 GB or 64 GB internal storage, expandable up to 1 TB via microSD card.
+          Cameras:
+              Rear: Upgraded 5 MP camera with 1080p HD video recording.
+              Front: 2 MP camera with 720p HD video recording, positioned for landscape video calls.
+          Battery: Up to 13 hours of mixed-use battery life. It fully recharges in about 5 hours using the included 5W power adapter via USB-C. 
+
+      Connectivity & Features
+
+          Audio: Dual stereo speakers with Dolby Atmos support and a 3.5 mm headphone jack.
+          Wireless: Dual-band Wi-Fi 5 and Bluetooth 5.2.
+          Software: Runs Fire OS 8 (based on Android 11). Note that it uses the Amazon Appstore and does not officially support the Google Play Store.
+          AI Tools: Includes new built-in tools for summarizing webpages and helping with writing. 
+
+      Design Details
+
+          Dimensions:
+          mm (
+          inches).
+          Weight: 337 grams (11.88 ounces).
+          Colors: Available in Black, Hibiscus (pink), and Emerald (green). 
+    variants:
+      - id: 807
+        color: Black
+        price: 199.95
+        image: images/amazonfire8-black.jpeg
+  - name: "Amazon Fire HD 10 Kids Pro Tab , 32GB , 10.1-inch , WiFi , New , Sealed "
+    description: >+
+      The Amazon Fire HD 10 Kids Pro (13th Generation, 2023 release)
+
+      features a 10.1-inch Full HD display, an octa-core processor, and 3 GB of RAM. This model is designed for older children ages 6–12 and includes a slimmer protective case compared to the standard "Kids" edition. 
+
+      Detailed Specifications
+
+      Feature 	Specification
+
+      Display	10.1-inch 1080p Full HD (1920 x 1200) IPS
+
+      Processor	MediaTek MT8186A octa-core (2x 2.05 GHz, 6x 2.0 GHz)
+
+      Memory (RAM)	3 GB LPDDR4x
+
+      Storage	32 GB internal (expandable up to 1 TB via microSD)
+
+      Battery Life	Up to 13 hours
+
+      Charging	USB-C (2.0); fully charges in ~4 hours with included 9W adapter
+
+      Cameras	5 MP front and 5 MP rear-facing cameras; 1080p HD video recording
+
+      Audio	Dual integrated speakers with Dolby Atmos support; 3.5 mm stereo jack
+
+      Connectivity	Dual-band Wi-Fi 5 (802.11ac); Bluetooth 5.3 LE
+
+      Operating System	Fire OS 8
+
+      Weight	~23.21 oz (658.1 g) with kid-friendly case
+
+      Dimensions	7.5 x 10.1 x 0.7 inches (with included case)
+
+      Key Performance Improvements
+
+      According to Amazon Developer documentation, this 13th Gen model offers 25% faster performance than the previous generation. It also introduces active stylus support, which allows for 4,096 levels of pressure sensitivity when used with a "Made for Amazon" stylus (sold separately). 
+
+      Availability and Merchants
+
+      You can find the Amazon Fire HD 10 Kids Pro
+
+      at several retailers .  Available in various colors such as Mint and Nebula. 
+
+    category: Tablets
+    id: 263
+    variants:
+      - id: 808
+        color: Purple
+        price: 219.95
+        image: images/amazonfire10-purple.jpg
+      - id: 809
+        color: Green
+        price: 219.95
+        image: images/amazonfire10-mint.jpg
+      - id: 810
+        color: Blue
+        price: 219.95
+        image: images/amazonfire10-blue.jpg
+  - id: 264
+    name: Amazon Fire 7 Kids  Tab , 16GB , 7.0-inch , WiFi , New , Sealed
+    category: Tablets
+    description: >-
+      The Amazon Fire 7 Kids (12th Generation, 2022 release)
+
+      is the most compact and affordable tablet in the line, designed specifically for children aged 3–7. It features a durable, kid-proof case with an integrated kickstand and is often praised by reviewers at Best Buy for its durability against drops and spills. 
+
+      Detailed Specifications
+
+      Feature 	Specification
+
+      Display	7-inch touchscreen, 1024 x 600 resolution at 171 ppi
+
+      Processor	MediaTek MT8168V/B quad-core (2.0 GHz)
+
+      Memory (RAM)	2 GB
+
+      Storage	16 GB or 32 GB internal (expandable up to 1 TB via microSD)
+
+      Battery Life	Up to 10 hours of mixed use
+
+      Charging	USB-C (2.0); full charge in ~4 hours with included 5W adapter
+
+      Cameras	2 MP front and rear-facing cameras; 720p HD video recording
+
+      Connectivity	Dual-band Wi-Fi 5 (802.11ac); Bluetooth 5.0 LE
+
+      Dimensions	6.4" x 7.9" x 1.1" (with included case)
+
+      Weight	15.01 oz (429 g) with kid-proof case
+
+      Comparison to Previous Generation
+
+      This 12th Gen model offers significant upgrades over the 2019 version, including a 30% faster processor and double the RAM (2 GB vs 1 GB). It also increased the battery life from 7 hours to 10 hours and moved to a USB-C charging port
+    variants:
+      - id: 811
+        color: Red
+        price: 189.95
+        image: images/amazonfire7-red.jpg
+      - id: 812
+        color: Blue
+        price: 189.95
+        image: images/amazonfire7-blue.jpg
+      - id: 813
+        color: Purple
+        price: 189.95
+        image: images/amazonfire7-purple.jpg
+  - id: 265
+    name: Apple iPad 10th Generation ,  10.2inch ,   64GB , WiFi + Cellular , New
+      ,Sealed
+    category: Tablets
+    description: >-
+      The iPad (10th Generation), released in 2022, serves as the modern
+      entry-level iPad. It features a major design overhaul compared to the 9th
+      Gen, moving to a larger, all-screen display and replacing the Lightning
+      port with USB-C.
+
+      Detailed Specifications
+
+      Feature	Specification
+
+      Display	10.9-inch Liquid Retina (2360 x 1640) at 264 ppi; 500 nits brightness
+
+      Chipset	A14 Bionic (6-core CPU, 4-core GPU, 16-core Neural Engine)
+
+      Storage	64 GB or 256 GB
+
+      Front Camera	Landscape 12 MP Ultra Wide; Center Stage support
+
+      Rear Camera	12 MP Wide; 4K video recording at up to 60 fps
+
+      Audio	Landscape stereo speakers; dual microphones
+
+      Battery	Up to 10 hours (Wi-Fi) or 9 hours (Cellular)
+
+      Authentication	Touch ID integrated into the top power button
+
+      Connectivity	Wi-Fi 6 (802.11ax); Optional 5G (sub-6 GHz); Bluetooth 5.2
+
+      Dimensions	9.79 x 7.07 x 0.28 inches (248.6 x 179.5 x 7 mm)
+
+      Weight	1.05 lbs (477 g) for Wi-Fi; 1.06 lbs (481 g) for Cellular
+
+      Key Hardware Notes
+
+          Pencil Support: It supports the Apple Pencil (USB-C) and Apple Pencil (1st Gen). Note that the 1st Gen Pencil requires a USB-C to Apple Pencil Adapter to charge and pair.
+          Keyboard Support: Specifically designed to work with the Magic Keyboard Folio, which features a two-piece design and a full row of function keys.
+          Color Options: Available in four bold finishes: Silver, Blue, Pink, and Yellow.
+    variants:
+      - id: 814
+        color: Silver
+        price: 569.95
+        image: images/Apple-iPad-A16-11th-Gen-Silver.jpg
+      - id: 815
+        color: Pink
+        price: 569.95
+        image: images/Apple-iPad-A16-11th-Gen-Pink.jpeg
+      - id: 816
+        color: Blue
+        price: 569.95
+        image: images/Apple-iPad-A16-11th-Gen-Blue.jpg
+  - description: >-
+      The TCL Tab 8 LE is a budget-friendly 8-inch Android tablet (often sold
+      via carriers like T-Mobile/Metro) designed for basic tasks, media
+      consumption, and children. It features an 8-inch HD (1280 x 800) IPS
+      display, 3GB RAM, 32GB storage (expandable), and a
+
+      battery. It is powered by a quad-core processor and is generally suited for light, simple use. 
+
+      TCL Tab 8 LE Key Specifications
+
+          Display: 8-inch IPS LCD, 1280 x 800 resolution, 60Hz refresh rate.
+          Performance: Quad-core CPU (MediaTek MT8766) and 3GB RAM.
+          Storage: 32GB internal storage, expandable via microSD card up to 512GB.
+          Cameras: 5MP rear camera and 5MP front-facing camera.
+          Battery: 4080mAh battery (approx. 15.5Wh).
+          Connectivity: Wi-Fi 5 (802.11ac), Bluetooth 5.0, USB Type-C, and 4G LTE/3G/2G cellular support.
+          OS: Android 12 (or 11 depending on carrier version).
+          Audio: Dual speakers. 
+
+      Main Features & Considerations
+
+          Compact Design: Lightweight (approx. 310g) and compact for portability.
+          Performance Note: Suited for streaming (Netflix, YouTube), web browsing, and simple kids' games, but may lag with intense multitasking.
+          Expansion: microSD slot allows for storing more videos/photos, useful for offline viewing.
+          Alternatives: Similar to the Amazon Fire HD 8, but provides access to Google Play Services. 
+
+      The TCL Tab 8 LE is known for being a very affordable option, frequently found refurbished or bundled with data plans, and is considered a solid, simple tablet for kids or casual users. 
+    category: Tablets
+    id: 266
+    name: " TCL Tablet 8 LE , 32GB , 8-inch , WiFi , New , Sealed"
+    variants:
+      - id: 817
+        color: Black
+        price: 179.95
+        image: images/tcltab-black.jpg
+  - id: 267
+    name: Samsung Galaxy A15 , 64GB , A+Grade , Unlocked , Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      The Samsung Galaxy A15 comes in two versions (4G and 5G) that share the
+      same body and screen but use different internal processors. 
+
+      Core Hardware & Display
+
+          Display: 6.5-inch Super AMOLED, 90Hz refresh rate, 1080 x 2340 (FHD+) resolution.
+          Processor (4G Model): MediaTek Helio G99.
+          Processor (5G Model): MediaTek Dimensity 6100+.
+          Battery: 5,000 mAh with 25W fast charging (wired).
+          Audio: Includes a 3.5mm headphone jack. 
+
+      Camera System
+
+          Main: 50 MP (f/1.8) with autofocus.
+          Ultra-Wide: 5 MP (f/2.2).
+          Macro: 2 MP (f/2.4).
+          Selfie: 13 MP (f/2.0) front-facing camera.
+          Video: Supports up to 1080p recording at 30fps. 
+
+      Memory & Storage
+
+          RAM: 4GB, 6GB, or 8GB options.
+          Storage: 128GB or 256GB internal.
+          Expandable: Dedicated microSD slot for up to 1TB of extra space. 
+
+      Software & Connectivity
+
+          OS: Android 14 with Samsung One UI 6.
+          Security: Side-mounted fingerprint sensor and Samsung Knox Vault.
+          Updates: 4 years of Android OS upgrades and 5 years of security patches.
+          Bluetooth: Version 5.3. 
+    variants:
+      - id: 835
+        color: Blue
+        price: 269.95
+        image: images/galaxya15-blue.webp
+      - id: 836
+        color: " Black"
+        price: 269.95
+        image: images/galaxya15black.webp
+  - id: 268
+    name: Samsung Galaxy A15 , 128GB , A+Grade , Unlocked , Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >
+      The Samsung Galaxy A15 comes in two versions (4G and 5G) that share the
+      same body and screen but use different internal processors. Core Hardware
+      & Display Display: 6.5-inch Super AMOLED, 90Hz refresh rate, 1080 x 2340
+      (FHD+) resolution. Processor (4G Model): MediaTek Helio G99. Processor (5G
+      Model): MediaTek Dimensity 6100+. Battery: 5,000 mAh with 25W fast
+      charging (wired). Audio: Includes a 3.5mm headphone jack. Camera System
+      Main: 50 MP (f/1.8) with autofocus. Ultra-Wide: 5 MP (f/2.2). Macro: 2 MP
+      (f/2.4). Selfie: 13 MP (f/2.0) front-facing camera. Video: Supports up to
+      1080p recording at 30fps. Memory & Storage RAM: 4GB, 6GB, or 8GB options.
+      Storage: 128GB or 256GB internal. Expandable: Dedicated microSD slot for
+      up to 1TB of extra space. Software & Connectivity OS: Android 14 with
+      Samsung One UI 6. Security: Side-mounted fingerprint sensor and Samsung
+      Knox Vault. Updates: 4 years of Android OS upgrades and 5 years of
+      security patches. Bluetooth: Version 5.3.
+    variants:
+      - id: 837
+        color: Blue
+        price: 279.95
+        image: images/galaxya15-blue.webp
+      - id: 838
+        color: Black
+        price: 279.95
+        image: images/galaxya15black.webp
+  - name: Samsung Galaxy A03S ,32GB , A+Grade , Unlocked , Pre-owned
+    id: 269
+    category: Pre-Owned Phones & Tablets
+    description: "Colors Black According to Samsung's official website and other
+      sources, the Samsung Galaxy A03s has the following specifications:
+      Display: 6.5-inch HD+ PLS LCD (1600 x 720 resolution) with a standard 60Hz
+      refresh rate. Processor: MediaTek Helio P35 Octa-Core clocked at 2.3 GHz.
+      Memory and storage: 3GB or 4GB of RAM and 32GB or 64GB of internal
+      storage, expandable up to 1TB via a microSD card. Battery: 5,000mAh with
+      15W wired charging support. Rear cameras: Triple camera system with a 13MP
+      main lens, a 2MP macro lens, and a 2MP depth sensor. Front camera: 5MP
+      front-facing camera. Connectivity: 4G LTE, Wi-Fi 802.11 b/g/n, and
+      Bluetooth 5.0. It also includes a 3.5mm headphone jack. Operating system:
+      Launched with Android 11 and was upgradable to Android 13, but is no
+      longer receiving major OS updates. Security: Side-mounted fingerprint
+      sensor and facial recognition "
+    variants:
+      - id: 839
+        color: Black
+        price: 179.95
+        image: images/51m45B3Yy+L.jpg
+  - name: "   Samsung Galaxy Z Flip 4 , 128GB , A+Grade , Unlocked , Pre-owned"
+    id: 270
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      The Samsung Galaxy Z Flip 4
+
+      features a 6.7-inch foldable Dynamic AMOLED 2X main display with a 120Hz refresh rate and a smaller 1.9-inch Super AMOLED cover display. It is powered by the Qualcomm Snapdragon 8+ Gen 1 chipset and includes a 3,700mAh battery that supports 25W fast charging. 
+
+      Detailed Specifications
+
+          Display:
+              Main Display: 6.7-inch FHD+ (2640 x 1080) Dynamic AMOLED 2X, adaptive 1-120Hz refresh rate, HDR10+, 1200 nits peak brightness.
+              Cover Display: 1.9-inch Super AMOLED (260 x 512), protected by Corning Gorilla Glass Victus+.
+          Performance & Storage:
+              Processor: Qualcomm Snapdragon 8+ Gen 1 (4nm Octa-core).
+              RAM: 8GB LPDDR5.
+              Storage: 128GB, 256GB, or 512GB UFS 3.1 (no microSD card slot for expansion).
+          Camera System:
+              Rear Cameras: Dual 12MP setup featuring a 12MP Wide (f/1.8, OIS, Dual Pixel PDAF) and a 12MP Ultra-wide (f/2.2, 123° FOV).
+              Front Camera: 10MP (f/2.4) selfie camera located on the inner display.
+              Video: Supports up to 4K recording at 60fps.
+          Battery & Charging:
+              Capacity: 3,700mAh dual-cell battery.
+              Charging: 25W wired fast charging (50% in ~30 minutes), 15W wireless charging, and 4.5W reverse wireless charging (Wireless PowerShare).
+          Design & Durability:
+              Dimensions: Unfolded: 165.2 x 71.9 x 6.9 mm; Folded: 84.9 x 71.9 x 15.9–17.1 mm.
+              Weight: 187g.
+              Build: Armor Aluminum frame with Corning Gorilla Glass Victus+ on the exterior panels.
+              Water Resistance: IPX8 rating (submersion up to 1.5m in freshwater for 30 minutes).
+          Connectivity:
+              Network: 5G (Sub-6 and mmWave), Wi-Fi 6, Bluetooth 5.2, NFC.
+              SIM: Support for one Nano-SIM and one eSIM. 
+    variants:
+      - color: Black
+        id: 840
+        price: 399.95
+        image: images/samsungflip4-black.jpg
+  - name: Samsung Galaxy Z Fold 6 , 256GB ,6.7inch  ,  Unlocked , Latin Spec , A+
+      Grade Open Box , Pre-owned
+    category: Pre-Owned Phones & Tablets
+    id: 271
+    description: >+
+      The Samsung Galaxy Z Fold 6
+
+      is characterized by a refined, squared-off design and a more usable 6.3-inch cover display. It runs on the high-performance Snapdragon 8 Gen 3 for Galaxy
+
+      chipset, paired with 12GB of RAM across all storage tiers. 
+
+      Key Specifications
+
+          Display:
+              Main Screen: 7.6-inch Dynamic AMOLED 2X, 120Hz adaptive refresh rate, 2160 x 1856 resolution, and a peak brightness of 2,600 nits.
+              Cover Screen: 6.3-inch Dynamic AMOLED 2X, 120Hz, with a slightly wider 22.1:9 aspect ratio for improved typing.
+          Performance & Storage:
+              Processor: Qualcomm Snapdragon 8 Gen 3 for Galaxy (4nm).
+              RAM: 12GB LPDDR5X.
+              Storage: 256GB, 512GB, or 1TB UFS 4.0 (no microSD expansion).
+          Camera System:
+              Rear: 50MP Wide (f/1.8, OIS), 12MP Ultra-wide (f/2.2), and 10MP Telephoto (f/2.4) with 3x optical zoom.
+              Front/Selfie: 10MP on the cover screen and a 4MP under-display camera (UDC) on the main internal display.
+          Battery & Power:
+              Capacity: 4,400mAh dual-battery system.
+              Charging: 25W wired fast charging, 15W wireless charging, and 4.5W reverse wireless charging.
+          Durability & Build:
+              Weight: 239g (lighter than the Fold 5's 253g).
+              Protection: IP48 rating for water and basic dust resistance; exterior protected by Corning Gorilla Glass Victus 2.
+          Software & AI:
+              OS: Android 14 with One UI 6.1.1.
+              Features: Includes Galaxy AI capabilities like Note Assist, Circle to Search, and Interpreter Mode. 
+
+    variants:
+      - id: 841
+        color: Gray
+        price: 1189.95
+        image: images/samsungzfold-gray.jpg
+      - price: 1189.95
+        color: Blue
+        id: 842
+        image: images/samsungzfold6-navy.jpg
+  - name: Samsung Galaxy Z Fold 3 , 256GB , Unlocked , A+ Grade, Open Box , Pre-owned
+    id: 272
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      The Samsung Galaxy Z Fold 3 was the first in the series to introduce S Pen
+      support and an IPX8 water resistance rating. It features a 7.6-inch
+      foldable display and is powered by the Snapdragon 888 chipset. 
+
+      Key Specifications
+
+          Display:
+              Main Screen: 7.6-inch Dynamic AMOLED 2X, 120Hz adaptive refresh rate, 2208 x 1768 resolution. Features an Under Display Camera (UDC).
+              Cover Screen: 6.2-inch Dynamic AMOLED 2X, 120Hz, 2268 x 832 resolution.
+          Performance & Storage:
+              Processor: Qualcomm Snapdragon 888 5G (5nm).
+              RAM: 12GB LPDDR5.
+              Storage: 256GB or 512GB UFS 3.1 (non-expandable).
+          Camera System:
+              Rear: Triple 12MP setup — 12MP Wide (f/1.8, OIS), 12MP Ultra-wide (f/2.2), and 12MP Telephoto (f/2.4) with 2x optical zoom.
+              Front: 10MP cover camera and a 4MP under-display camera on the main screen.
+          Battery & Charging:
+              Capacity: 4,400mAh.
+              Charging: 25W wired, 11W wireless, and 4.5W reverse wireless charging.
+          Design & Durability:
+              Weight: 271g.
+              Durability: IPX8 water resistance; Armor Aluminum frame and Gorilla Glass Victus on the exterior.
+          Special Features:
+              S Pen Support: Compatible with S Pen Fold Edition and S Pen Pro (sold separately). 
+    variants:
+      - id: 843
+        color: Black
+        price: 709.95
+        image: images/galaxyzford3-black.jpg
+  - name: Samsung Galaxy Z Fold 4 , 256GB , Unlocked , A+ Grade, Open Box , Pre-owned
+    id: 273
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      The Samsung Galaxy Z Fold 4
+
+      features a 7.6-inch foldable Dynamic AMOLED 2X main display and a 6.2-inch cover display, both supporting a 120Hz adaptive refresh rate. It is powered by the Qualcomm Snapdragon 8+ Gen 1
+
+      chipset and includes a 4,400mAh battery. 
+
+      Key Specifications
+
+          Display:
+              Main Display: 7.6-inch QXGA+ (2176 x 1812) Dynamic AMOLED 2X, 120Hz adaptive refresh rate, HDR10+, and 1200 nits peak brightness.
+              Cover Display: 6.2-inch HD+ (2316 x 904) Dynamic AMOLED 2X, 120Hz, protected by Corning Gorilla Glass Victus+.
+          Performance & Storage:
+              Processor: Qualcomm Snapdragon 8+ Gen 1 (4nm Octa-core).
+              RAM: 12GB LPDDR5.
+              Storage: 256GB, 512GB, or 1TB UFS 3.1 (no microSD card slot).
+          Camera System:
+              Rear Cameras: Triple setup with a 50MP Wide (f/1.8, OIS), 12MP Ultra-wide (f/2.2, 123° FOV), and 10MP Telephoto (f/2.4, OIS) with 3x optical zoom and 30x Space Zoom.
+              Front Cameras: 10MP (f/2.2) on the cover display and a 4MP (f/1.8) Under Display Camera (UDC) on the main screen.
+          Battery & Charging:
+              Capacity: 4,400mAh dual-cell battery.
+              Charging: 25W wired fast charging (50% in ~30 mins), 15W wireless, and 4.5W reverse wireless charging (Wireless PowerShare).
+          Design & Durability:
+              Dimensions: Unfolded: 155.1 x 130.1 x 6.3 mm; Folded: 155.1 x 67.1 x 14.2–15.8 mm.
+              Weight: 263g.
+              Build: Armor Aluminum frame with Gorilla Glass Victus+ exterior.
+              Water Resistance: IPX8 rating (submersion up to 1.5m in freshwater for 30 minutes).
+          Connectivity:
+              Network: 5G, Wi-Fi 6E, Bluetooth 5.2, NFC, and Ultra-Wideband (UWB) support. 
+    variants:
+      - id: 844
+        color: Black
+        price: 719.95
+        image: images/samsungzfold4-black.jpg
+  - name: Samsung Galaxy Z Fold 4 , 512GB , Unlocked , A+ Grade, Open Box , Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: "The Samsung Galaxy Z Fold 4 features a 7.6-inch foldable Dynamic
+      AMOLED 2X main display and a 6.2-inch cover display, both supporting a
+      120Hz adaptive refresh rate. It is powered by the Qualcomm Snapdragon 8+
+      Gen 1 chipset and includes a 4,400mAh battery. Key Specifications Display:
+      Main Display: 7.6-inch QXGA+ (2176 x 1812) Dynamic AMOLED 2X, 120Hz
+      adaptive refresh rate, HDR10+, and 1200 nits peak brightness. Cover
+      Display: 6.2-inch HD+ (2316 x 904) Dynamic AMOLED 2X, 120Hz, protected by
+      Corning Gorilla Glass Victus+. Performance & Storage: Processor: Qualcomm
+      Snapdragon 8+ Gen 1 (4nm Octa-core). RAM: 12GB LPDDR5. Storage: 256GB,
+      512GB, or 1TB UFS 3.1 (no microSD card slot). Camera System: Rear Cameras:
+      Triple setup with a 50MP Wide (f/1.8, OIS), 12MP Ultra-wide (f/2.2, 123°
+      FOV), and 10MP Telephoto (f/2.4, OIS) with 3x optical zoom and 30x Space
+      Zoom. Front Cameras: 10MP (f/2.2) on the cover display and a 4MP (f/1.8)
+      Under Display Camera (UDC) on the main screen. Battery & Charging:
+      Capacity: 4,400mAh dual-cell battery. Charging: 25W wired fast charging
+      (50% in ~30 mins), 15W wireless, and 4.5W reverse wireless charging
+      (Wireless PowerShare). Design & Durability: Dimensions: Unfolded: 155.1 x
+      130.1 x 6.3 mm; Folded: 155.1 x 67.1 x 14.2–15.8 mm. Weight: 263g. Build:
+      Armor Aluminum frame with Gorilla Glass Victus+ exterior. Water
+      Resistance: IPX8 rating (submersion up to 1.5m in freshwater for 30
+      minutes). Connectivity: Network: 5G, Wi-Fi 6E, Bluetooth 5.2, NFC, and
+      Ultra-Wideband (UWB) support. "
+    id: 274
+    variants:
+      - id: 845
+        color: Black
+        price: 769.95
+        image: images/samsungzfold4-black.jpg
+  - name: Moto G Play , 32GB ,6.5inch ,  A+Grade , Unlocked , Pre-owned
+    id: 275
+    category: Pre-Owned Phones & Tablets
+    description: >
+      The Motorola Moto G Play (2023)
+
+      is a budget-focused 4G smartphone featuring a 6.5-inch 90Hz display, a triple camera system, and a 5,000mAh battery designed for multi-day use. 
+
+      Detailed Specifications
+
+          Display: 6.5-inch IPS TFT LCD with HD+ resolution (
+          ), 90Hz refresh rate, and 269 ppi.
+          Performance & Storage:
+              Processor: MediaTek Helio G37 octa-core CPU.
+              RAM: 3GB.
+              Internal Storage: 32GB (eMMC 5.1), with roughly 21.4GB available to the user.
+              Expandable Storage: Supports microSD cards up to 512GB.
+          Camera System:
+              Rear Triple Camera: 16MP main sensor (
+              ), 2MP macro lens (
+              ), and a 2MP depth sensor (
+              ).
+              Front Camera: 5MP selfie camera (
+              ).
+              Video: Captures 1080p video at 30fps for both front and rear cameras.
+          Battery & Charging:
+              Capacity: 5,000mAh non-removable battery.
+              Battery Life: Up to three days of mixed usage or roughly 46 hours of talk time.
+              Charging: Includes a 10W rapid charger in the box.
+          Design & Connectivity:
+              Build: Plastic body with a water-repellent design (IP52 rating).
+              Dimensions & Weight:
+              mm; weighs 203g.
+              Ports: USB Type-C (USB 2.0) and a 3.5mm headphone jack.
+              Security: Rear-mounted fingerprint reader.
+              Software: Originally released with Android 12. 
+
+      Find the right Moto G for you
+
+          What is your primary reason for choosing the 2023 model over the 2024 model?
+          The 2024 model offers a significantly better processor and a higher-resolution 50MP camera. 
+    variants:
+      - id: 846
+        color: Blue
+        price: 209.95
+        image: images/motog-blue.jpg
+  - description: >-
+      The Motorola Edge (2022)
+
+      is a mid-range 5G smartphone that launched in August 2022. It stands out for its 144Hz OLED display and its long-lasting 5,000mAh battery. As of April 2026, it is supported by Motorola with security updates through August 2026. 
+
+      Key Specifications
+
+          Display: 6.6-inch FHD+ OLED (
+          ), featuring a 144Hz refresh rate, 10-bit color, and HDR10+ support.
+          Performance:
+              Processor: MediaTek Dimensity 1050 (6nm).
+              RAM: Available in 6GB or 8GB LPDDR5 variants.
+              Storage: 128GB or 256GB internal storage (no microSD expansion).
+          Camera System:
+              Rear Triple Setup: 50MP Wide (
+              , OIS), 13MP Ultrawide (
+              or
+              ) with Macro Vision, and a 2MP Depth sensor.
+              Front Camera: 32MP (
+              or
+              ) for high-resolution selfies.
+              Video: Supports 4K recording at 30fps on the main rear camera.
+          Battery & Charging:
+              Capacity: 5,000mAh battery with up to two days of mixed-use life.
+              Charging: 30W TurboPower wired charging, 15W wireless charging, and 5W reverse wireless charging.
+          Build & Connectivity:
+              Durability: IP52 water-repellent design; weight is approximately 170g.
+              Software: Originally shipped with Android 12, it is upgradable to Android 14.
+              Networking: Supports 5G (Sub-6 and mmWave), Wi-Fi 6E, Bluetooth 5.2, and NFC. 
+    id: 276
+    name: Motorola Edge 2022, 256G , 6.6-inch , A+Grade , Unlocked , Pre-owned
+    category: Pre-Owned Phones & Tablets
+    variants:
+      - id: 847
+        color: Gray
+        price: 279.95
+        image: images/motoegde-gray.jpg
+  - description: >-
+      Coolpad offers several 4G LTE flip phones designed for simplicity, with
+      the Coolpad Snap
+
+      (models 3311A
+
+      and 3312A
+
+      ) and the Coolpad Belleza
+
+      (CP3321AT
+
+      ) being the most common models. These devices typically feature 2.8-inch main displays, basic 2MP cameras, and 4GB to 8GB of internal storage. 
+
+      Coolpad Snap (3311A / 3312A)
+
+      This model was a standard choice for carriers like T-Mobile and Sprint, focusing on basic calling and texting with Extended Range 4G LTE. 
+
+          Display: 2.8-inch QVGA (320 x 240) main internal display; 1.7-inch monochrome external display for notifications.
+          Processor: 1.1 GHz Quad-core Qualcomm Snapdragon 210.
+          Memory & Storage: 512MB RAM and 4GB internal storage (expandable up to 32GB via microSD).
+          Camera: 2MP rear-facing camera with a dedicated side button; supports video recording.
+          Battery: 1390mAh or 1400mAh removable battery providing up to 6 hours of talk time and 16 days of standby.
+          Connectivity: 4G LTE, Wi-Fi (802.11 b/g/n), Bluetooth 4.2, and a 3.5mm headphone jack.
+          Operating System: Custom Android-based (AOSP) or Linux-based software depending on the version. 
+
+      Coolpad Belleza (CP3321AT)
+
+      The Belleza
+
+      offers slightly updated internal hardware compared to the Snap
+
+      , such as a Type-C charging port and more internal storage. 
+
+          Display: 2.8-inch main LCD and a 1.77-inch external LCD.
+          Processor: 1.3 GHz Quad-core Qualcomm QM215.
+          Memory & Storage: 1GB RAM and 8GB internal storage (expandable up to 32GB).
+          Camera: 2MP rear camera.
+          Battery: 1500mAh removable battery.
+          Connectivity: 4G LTE, Wi-Fi, Bluetooth 4.0, and GPS.
+          Port: Uses a USB Type-C connector for charging. 
+    name: Coolpad Snap Flip  3312A ,  4GB , Unlocked , A+ Grade, Open Box , Pre-owned
+    id: 277
+    category: Pre-Owned Phones & Tablets
+    variants:
+      - id: 848
+        color: Black
+        price: 119.95
+        image: images/coolpad-black.jpg
+  - name: Samsung Galaxy A15 , 64GB , 6.5-inch ( AT&T Locked )  New , Sealed
+    description: "The Samsung Galaxy A15 comes in two versions (4G and 5G) that
+      share the same body and screen but use different internal processors. Core
+      Hardware & Display Display: 6.5-inch Super AMOLED, 90Hz refresh rate, 1080
+      x 2340 (FHD+) resolution. Processor (4G Model): MediaTek Helio G99.
+      Processor (5G Model): MediaTek Dimensity 6100+. Battery: 5,000 mAh with
+      25W fast charging (wired). Audio: Includes a 3.5mm headphone jack. Camera
+      System Main: 50 MP (f/1.8) with autofocus. Ultra-Wide: 5 MP (f/2.2).
+      Macro: 2 MP (f/2.4). Selfie: 13 MP (f/2.0) front-facing camera. Video:
+      Supports up to 1080p recording at 30fps. Memory & Storage RAM: 4GB, 6GB,
+      or 8GB options. Storage: 128GB or 256GB internal. Expandable: Dedicated
+      microSD slot for up to 1TB of extra space. Software & Connectivity OS:
+      Android 14 with Samsung One UI 6. Security: Side-mounted fingerprint
+      sensor and Samsung Knox Vault. Updates: 4 years of Android OS upgrades and
+      5 years of security patches. Bluetooth: Version 5.3. "
+    category: Phones
+    id: 278
+    variants:
+      - id: 849
+        color: Blue
+        price: 189.95
+        image: images/galaxya15-blue.webp
+  - name: Samsung Galaxy A05s ,128GB , 6.7-inch , Unlocked, New, Sealed
+    description: >-
+      The Samsung Galaxy A05s
+
+      is an entry-level smartphone featuring a large 6.7-inch FHD+ display with a 90Hz refresh rate. It is powered by the Qualcomm Snapdragon 680 4G processor and equipped with a 5,000mAh battery that supports 25W fast charging. 
+
+      Core Specifications
+
+      Feature 	Details
+
+      Display	6.7-inch PLS LCD, 1080 x 2400 (FHD+), 90Hz refresh rate
+
+      Processor	Qualcomm Snapdragon 680 4G (Octa-core up to 2.4 GHz)
+
+      Memory (RAM)	4GB or 6GB options
+
+      Internal Storage	64GB or 128GB, expandable up to 1TB via microSD
+
+      Battery	5,000mAh (non-removable) with 25W wired fast charging
+
+      OS	Originally launched with Android 13 (One UI Core 5.1), upgradable to Android 14+
+
+      Camera System
+
+          Rear Triple Camera:
+              50MP Main (f/1.8) with autofocus.
+              2MP Macro (f/2.4) for close-up shots.
+              2MP Depth (f/2.4) for portrait effects.
+          Front Selfie Camera: 13MP (f/2.0).
+          Video Recording: Supports up to 1080p at 30/60fps. 
+
+      Connectivity & Features
+
+          Network: 4G LTE (No 5G support).
+          Ports: USB Type-C 2.0 and a 3.5mm headphone jack.
+          Security: Side-mounted fingerprint sensor and 2D face recognition.
+          Colors: Available in colors like Black, Silver, Light Green, and Light Violet depending on the region. 
+    id: 279
+    category: Phones
+    variants:
+      - id: 850
+        color: Silver
+        price: 309.95
+        image: images/galaxy05s-silver.webp
+      - id: 851
+        color: Black
+        price: 309.95
+        image: images/galaxya05s-black.webp
+      - id: 852
+        color: Purple
+        price: 309.95
+        image: images/galaxy05s-purple.webp
+    image: ""
+  - name: Samsung Galaxy A15 ,128GB , 6.5-inch , Unlocked, New, Sealed
+    description: "The Samsung Galaxy A15 comes in two versions (4G and 5G) that
+      share the same body and screen but use different internal processors. Core
+      Hardware & Display Display: 6.5-inch Super AMOLED, 90Hz refresh rate, 1080
+      x 2340 (FHD+) resolution. Processor (4G Model): MediaTek Helio G99.
+      Processor (5G Model): MediaTek Dimensity 6100+. Battery: 5,000 mAh with
+      25W fast charging (wired). Audio: Includes a 3.5mm headphone jack. Camera
+      System Main: 50 MP (f/1.8) with autofocus. Ultra-Wide: 5 MP (f/2.2).
+      Macro: 2 MP (f/2.4). Selfie: 13 MP (f/2.0) front-facing camera. Video:
+      Supports up to 1080p recording at 30fps. Memory & Storage RAM: 4GB, 6GB,
+      or 8GB options. Storage: 128GB or 256GB internal. Expandable: Dedicated
+      microSD slot for up to 1TB of extra space. Software & Connectivity OS:
+      Android 14 with Samsung One UI 6. Security: Side-mounted fingerprint
+      sensor and Samsung Knox Vault. Updates: 4 years of Android OS upgrades and
+      5 years of security patches. Bluetooth: Version 5.3. "
+    category: Phones
+    id: 280
+    variants:
+      - id: 853
+        color: Blue
+        price: 309.95
+        image: images/galaxya15-blue.webp
+  - id: 281
+    name: HK10 Pro+ Multi-functional Smart Watch , New , Sealed
+    category: Smart Watches
+    description: >-
+      The HK10 Pro+
+
+      (also known as the HK10 Pro Plus
+
+      ) is a high-end replica smartwatch designed to mimic the aesthetics of the Apple Watch Series 10. It features a premium 2.02-inch AMOLED display and advanced AI integration, including built-in ChatGPT and AI-generated watch faces. 
+
+      Core Specifications
+
+          Display: 2.02-inch AMOLED screen with a resolution of 410 x 494 pixels.
+          Processor: Powered by the SF32LB525 high-performance dual-core processor.
+          Storage: Features 1GB to 2GB of local ROM, allowing for local music storage and photo viewing.
+          Battery: 270mAh high-voltage battery providing approximately 3–7 days of use depending on intensity.
+          Connectivity: Bluetooth 5.3 support for calls and TWS earbud pairing.
+          Durability: IP67 water resistance, making it splash-proof but not recommended for swimming. 
+
+      Key Features and AI Capabilities
+
+          AI Integration: Includes Wearfit GPT 2.0 and AI translation tools.
+          Smart Interface: Features a "Dynamic Island" notification bar and a 3D "waterfall" menu system for smooth navigation.
+          Health Suite: Tracks heart rate, blood pressure, blood oxygen (SpO2), sleep, and sedentary habits.
+          Advanced Tools: Built-in compass, local recording, e-book reader (.txt files), and an application market for downloading mini-games.
+          Customization: Supports AI-generated dials where users can create custom watch faces via voice commands
+    variants:
+      - id: 854
+        color: Black
+        price: 119.95
+        image: images/hk10proplus-black.jpg
+  - id: 282
+    name: SW-550 Smart Watch Fitness Tracking , New , Sealed
+    category: Smart Watches
+    description: >-
+      The Smart Watch Fitness Tracking SW-550
+
+      (distributed by brands like Slide Innovations) is a durable, entry-level smartwatch focused on basic activity tracking and seamless phone connectivity. It is characterized by its large display and on-wrist calling capabilities. 
+
+      Key Specifications
+
+          Display: Features a 1.85-inch Hi-Res touchscreen for clear navigation and interaction.
+          Frame & Build: Constructed with a reinforced zinc-alloy frame designed for added durability during active use.
+          Fitness Tracking: Supports over 50 sports modes to monitor various physical activities.
+          Health Monitoring: Includes sensors for tracking heart rate, blood pressure, and sleep quality.
+          Connectivity: Equipped with Bluetooth for on-wrist calling and push notifications from both iPhone and Android devices.
+          Battery: Typically features a 130mAh battery that supports multi-day use on a single charge.
+          Customization: Offers over 50 watch face options to personalize the interface
+    variants:
+      - id: 855
+        color: Black
+        price: 119.95
+        image: images/watchfitness-black.jpg
+      - id: 856
+        color: White
+        price: 119.95
+        image: images/watchfitness-white.png
+      - id: 857
+        color: Pink
+        price: 119.95
+        image: images/watchfitness-pink.jpeg
+  - name: High Performance Smart Watch 475BKGR , New , Sealed
+    id: 283
+    category: Smart Watches
+    description: >-
+      The Slide Innovations High-Performance Smart Watch (475BKGR)
+
+      is a rugged, multi-functional wearable built with a zinc-alloy frame that is both shock- and water-resistant. It is designed for users seeking a durable device for health monitoring and active fitness tracking. 
+
+      Core Technical Specifications
+
+          Display: Features a large 2.01-inch HD touchscreen designed for easy navigation and visual clarity.
+          Body Construction: Built with a lightweight, shock-resistant zinc-alloy frame to protect against drops and impact.
+          Battery & Charging:
+              Usage Time: Up to 2 days of active use on a single charge.
+              Charging Type: Uses a magnetic wireless charger for convenient and fast power-ups.
+          Connectivity: Equipped with Bluetooth to sync with smartphones for call and text management.
+          Compatibility: Pairs with both iPhone and Android devices and works with the FitPro app. 
+    variants:
+      - id: 858
+        color: Black
+        price: 119.95
+        image: images/high475-black.webp
+  - id: 284
+    description: >-
+      The Smart Watch 9 (MVP-100)
+
+      is a budget-friendly wearable designed to emulate the look of modern high-end smartwatches. It features a large high-definition display and dual-mode Bluetooth for calling and health tracking. 
+
+      Full Technical Specifications
+
+          Display: Large 2.3-inch HD touchscreen.
+          Design & Case: Built with a 49mm Space Aluminum case and features a sleek, rugged design.
+          Processor & Sensors:
+              Master Chip: MVP-100.
+              G-Sensor: JQ7011.
+              Motherboard Model: LJ736.
+          Connectivity: Dual-mode Bluetooth (3.0 + 5.3), supporting Bluetooth calling and music control.
+          Battery & Power:
+              Capacity: 200mAh.
+              Charging: Supports wireless magnetic charging.
+          Compatibility: Works with iOS 9.0+ and Android 5.0+ systems via the FitPro or Laxasfit Pro apps.
+          Build Durability: Often rated IP67 waterproof, making it resistant to daily splashes. 
+
+      Key Features
+
+          Health Tracking: Includes monitoring for heart rate, blood pressure, blood glucose, and ECG testing.
+          Activity Monitoring: Features multi-sport modes, a step counter (pedometer), and "Three Rings of Health" tracking.
+          Smart Tools: Built-in AI voice assistant (Siri support), calendar, calculator, remote photography, and built-in mini-games.
+          Customization: Comes with various strap options (Black, White, Green, Pink, Blue, Red) and multiple customizable watch faces
+    name: " Smart Watch 9 (MVP-100)  New , Sealed"
+    category: Smart Watches
+    variants:
+      - id: 859
+        color: Green
+        price: 119.95
+        image: images/mvp100-green.png
+      - id: 860
+        color: White
+        price: 119.95
+        image: images/ mvp100-white.png
+      - id: 861
+        color: Black
+        price: 119.95
+        image: images/mvp100-black.png
+  - id: 285
+    name: Apple Watch SE , 2nd Generation , 44MM ,New , Sealed
+    description: >+
+      The Apple Watch SE (2nd Generation)
+
+      , released in 2022, is designed as a value-focused smartwatch that provides core Apple Watch features. It uses the S8 SiP (System in Package), which is the same chip found in the Apple Watch Series 8, making it up to 20% faster than the original SE. 
+
+      Core Technical Specifications
+
+          Case Sizes: Available in 40mm and 44mm aluminum cases.
+          Display: Retina LTPO OLED display with up to 1,000 nits peak brightness and Ion-X front glass.
+              44mm: 368 x 448 pixels (977 sq mm display area).
+              40mm: 324 x 394 pixels (759 sq mm display area).
+          Processor: S8 SiP with 64-bit dual-core processor and 2-core Neural Engine.
+          Storage: 32GB capacity.
+          Battery Life: Up to 18 hours of normal use; supports wireless charging via magnetic cable.
+          Connectivity: Bluetooth 5.3, Wi-Fi 4 (802.11n), and L1 GPS. Cellular models are available with LTE support.
+          Durability: Water-resistant up to 50 meters (swimproof). 
+
+      Key Features and Sensors
+
+          Health Sensors: Second-generation optical heart sensor, compass, and an always-on altimeter.
+          Safety Features: Includes Crash Detection, Fall Detection, and Emergency SOS.
+          Redesigned Back: Features a new color-matched back case made of a nylon composite material, which reduces the device's overall weight.
+          Software: Compatible with the latest watchOS updates, including health insights like sleep stages and irregular heart rhythm notifications. 
+
+    category: Smart Watches
+    variants:
+      - id: 862
+        color: Black
+        price: 309.95
+        image: images/applewatchse3-black.webp
+  - id: 286
+    name: Smart Watch i8 Pro Max , New , Sealed
+    category: Smart Watches
+    description: >-
+      The i8 Pro Max
+
+      is a budget-friendly smartwatch designed to mimic the appearance of the Apple Watch Series 8. It is primarily marketed for its calling capabilities and fitness tracking features. 
+
+      Core Specifications
+
+          Display: Features a 1.75-inch to 2-inch IPS HD touchscreen with a resolution typically listed between 320 x 380 pixels and 325 x 380 pixels.
+          Build: Constructed with an alloy case and a silicone strap. It has a 44mm surface diameter.
+          Water Resistance: Rated as IP67 or IP68. While some sources claim IP68, retailers often warn against swimming or diving with the device.
+          Connectivity: Uses Bluetooth 4.2 or 5.0 to sync with smartphones. It is compatible with Android 5.0+ and iOS 9.0+. 
+
+      Key Features
+
+          Bluetooth Calling: Built-in microphone and loudspeaker allow you to answer and dial calls directly from the watch.
+          Health Monitoring: Includes sensors for heart rate tracking, blood oxygen (SpO2), blood pressure, and sleep monitoring.
+          Fitness Tracking: Tracks steps, calories burned, and distance for activities like walking, running, and cycling.
+          Smart Notifications: Syncs alerts for WhatsApp, Facebook, Twitter, and SMS.
+          Utility Tools: Features include a remote camera shutter ("remote selfie"), music control, alarm clock, stopwatch, and find-your-phone function. 
+
+      Battery and Charging
+
+          Capacity: Models vary between 220mAh, 280mAh, and 380mAh.
+          Battery Life: Typically offers 1–2 days of active use and up to 3–7 days on standby.
+          Charging: Uses a magnetic charger. 
+    variants:
+      - id: 863
+        color: Green
+        price: 119.95
+        image: images/18PR0MAX-GREEN.avif
+      - id: 864
+        color: Black
+        price: 119.95
+        image: images/18PROMAX-BLACK.avif
+      - id: 865
+        color: Pink
+        price: 119.95
+        image: images/18PROMAX-PINK.png
+      - id: 866
+        color: Red
+        price: 119.95
+        image: images/18PROMAX-RED.webp
+  - description: >-
+      The Amazon Kindle Paperwhite Signature Edition (2024)
+
+      features a 7-inch glare-free display with 300 ppi resolution and a higher contrast ratio for sharper text. As the premium version of the 12th-generation Paperwhite, it includes exclusive hardware upgrades such as 32 GB of storage, wireless charging capability, and an auto-adjusting front light sensor. 
+
+      Key Specifications
+
+      Feature 	Details
+
+      Display	7" glare-free Paperwhite technology; 300 ppi; 16-level grayscale
+
+      Storage	32 GB (stores thousands of books and hundreds of audiobooks)
+
+      Battery Life	Up to 12 weeks on a single charge
+
+      Charging	USB-C wired charging; compatible with Qi wireless chargers
+
+      Durability	IPX8 waterproof (tested to withstand immersion in 2 meters of fresh water)
+
+      Performance	Next-gen display with 25% faster page turns than previous models
+
+      Lighting	Adjustable warm light and auto-adjusting front light sensor
+
+      Connectivity	Dual-band Wi-Fi (2.4 GHz and 5.0 GHz) and Bluetooth
+
+      Weight	7.5 oz (214g)
+
+      Dimensions	6.96" x 5.02" x 0.31" (176.7 x 127.6 x 7.8 mm)
+
+      Exclusive Features
+
+      The Signature Edition differs from the standard Paperwhite in three main ways: 
+
+          Larger Storage: Comes standard with 32 GB instead of the 16 GB found on the base model.
+          Wireless Charging: Only the Signature Edition can be charged using a Qi wireless charging dock.
+          Ambient Light Sensor: Automatically adjusts screen brightness based on your surroundings, a feature missing from the standard Paperwhite.
+          Ad-Free Experience: Includes no lockscreen advertisements as part of the standard price. 
+
+      Available Colors for the Signature Edition (2024)
+
+          Metallic Black: A classic, professional deep grey/black with a subtle metallic sheen.
+          Metallic Raspberry: A vibrant, modern pinkish-red metallic finish.
+          Metallic Jade: A soft, elegant green metallic shade
+    name: Amazon Kindle Paperwhite Signature Edition, 32GB , WIFI ,New , Sealed
+    category: Tablets
+    variants:
+      - id: 867
+        color: Green
+        price: 289.95
+        image: images/kindle-green.png
+      - id: 868
+        color: Raspberry
+        price: 289.95
+        image: images/kindle-pink.png
+    id: 287
