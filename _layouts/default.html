@@ -224,34 +224,8 @@ html = bannerHtml;
       <a href="https://www.att.com/buy/phones/samsung-galaxy-s25.html?cjevent=75e01c5abac911f080b7010b0a82b82a&source=EC1NAT10600aff12A&wtExtndSource=2639103 " target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 ml-2">
         Shop Now →
       </a>
-    </p>
-  </div>
-  <div class="my-8 bg-gradient-to-r from-amber-50 to-orange-100 border border-amber-200 rounded-xl p-0 text-center">
-  <p class="text-amber-800 font-medium">
-    🔥 <strong>Try Xfinity Mobile for a year</strong> Get an Unlimited mobile line on us</code>
-    <a href="https://www.xfinity.com/mobile/learn/deals?cjdata=MXxOfDB8WXwxNzY5MzEzMjIwNzIw&cjevent=2ea1ebdbbac411f083e9011c0a82b82c&cmp=aff__2639103" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 ml-2">
-      Shop Now →
-    </a>
-  </p>
-</div>
-  <div class="my-8 bg-gradient-to-r from-amber-50 to-orange-100 border border-red-200 rounded-xl p-0 text-center">
-  <p class="text-amber-800 font-medium">
-    🔥 <strong>AKKO the #1 Rated Phone & Device Protection</strong> First Month Free!</code>
-    <a href="https://o.getakko.com/akko-phone-protection-plans-first-month-free-2/" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 ml-2">
-      Shop Now →
-    </a>
-  </p>
-</div>
-  <div class="my-8 bg-gradient-to-r from-amber-50 to-orange-100 border border-red-200 rounded-xl p-0 text-center">
-  <p class="text-amber-800 font-medium">
-    🔥 <strong>Gen Mobile Plans</strong> Get up to 25% off + free activation with a 3-month plan*</code>
-    <a href="https://www.genmobile.com/?cjdata=MXxOfDB8WXwxNzY2MzUxMjU1Njk1&cjevent=9e5bdeaebb5411f081fd01b40a82b832&utm_source=CJ&utm_medium=Yazing&utm_campaign=Gen+Mobile+%2410+Plan&utm_content=2639103&utm_CID=2179451" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 ml-2">
-      Shop Now →
-    </a>
-  </p>
-</div>
   `;
- */
+*/
   // Works with Promotional or affiliate banner (above)
   
   const filteredProducts = app.filterCategory 
@@ -457,7 +431,7 @@ container.innerHTML = `
           <div class="relative">
             <p id="product-description" class="text-gray-600 leading-relaxed" data-state="truncated">
               ${baseProduct.description}
-              <br><br>The ${baseProduct.name}, like our other offerings comes with the consistent quality our customers have come to expect, another great product from NewRock Wireless.
+              <br><br>The ${baseProduct.name}, like our other offerings comes with the consistent quality our customers have come to expect, another great product from 50stateswirelessusa.
             </p>
             
             <!-- "More Details" Button -->
@@ -623,6 +597,17 @@ renderCart: () => {
               <span class="text-xl font-extrabold nrw-text-red">Order Total:</span>
               <span class="text-xl font-extrabold nrw-text-red">${app.formatCurrency(total)}</span>
             </div>
+
+<div id="paypal-paylater-message" class="paypal-messaging"></div>
+<div
+    data-pp-message
+    data-pp-style-layout="text"
+    data-pp-style-logo-type="inline"
+    data-pp-style-text-color="black"
+    data-pp-amount="${total.toFixed(2)}"
+    data-pp-language="">
+</div>
+
           </div>
         <div class="mt-111 p-111 nrw-bg-white rounded-xl shadow-xl text-center text-green">
           <p class="text-lg font-light">Secure Checkout With PayPal, Debit Or Credit Card</p>
@@ -639,6 +624,7 @@ renderCart: () => {
     </div>
   `;
 // --- NEW: Initialize PayPal Button AFTER container.innerHTML is set ---
+
 if (typeof paypal !== 'undefined') { // Check if SDK loaded
   const paypalContainer = document.getElementById('paypal-button-container');
   if (paypalContainer) { // Check if container exists
@@ -912,6 +898,24 @@ window.onload = () => {
   app.render();
 };
 
+</script>
+<script>
+  // Dynamically update the price based on your cart total
+  // Adjust this selector to match your site's cart total element
+  function updatePayPalMessage() {
+    const cartTotal = document.querySelector('.cart-total-price'); // Replace with your actual price selector
+    if (cartTotal) {
+      const amount = parseFloat(cartTotal.textContent.replace(/[^0-9.]/g, ''));
+      const messageDiv = document.getElementById('paypal-messaging-container');
+      if (messageDiv && !isNaN(amount) && amount > 0) {
+        messageDiv.setAttribute('data-pp-amount', amount.toFixed(2));
+      }
+    }
+  }
+
+  // Run on load and listen for cart updates
+  document.addEventListener('DOMContentLoaded', updatePayPalMessage);
+  // If your cart updates via AJAX/JS without reload, call updatePayPalMessage() after price changes
 </script>
 <!-- Policy Modal / Inline Pages -->
 <div id="policy-overlay" class="fixed top-[70px] left-0 right-0 bottom-0 bg-white p-6 overflow-y-auto hidden z-50">
