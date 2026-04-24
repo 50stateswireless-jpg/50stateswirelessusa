@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Content Manager</title>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <style>
+    /* Custom Add Product button */
+    #custom-add-product-btn {
+      position: fixed;
+      top: 20px;
+      right: 260px;
+      z-index: 1000;
+      background: #3b82f6;
+      color: white;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-weight: 600;
+      cursor: pointer;
+      border: none;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      transition: all 0.2s;
+      display: none; /* Hidden by default */
+    }
+    
+    #custom-add-product-btn:hover {
+      background: #2563eb;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 8px rgba(0,0,0,0.15);
+    }
+  </style>
+</head>
+<body>
+  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  <script>
+    window.addEventListener('load', function() {
+      // 1. Create the button once
+      const customBtn = document.createElement('button');
+      customBtn.id = 'custom-add-product-btn';
+      customBtn.innerHTML = '+ Add Product';
+      document.body.appendChild(customBtn);
+
+      // 2. Visibility Logic: Only show on the Product Inventory page
+      const handleVisibility = () => {
+        // Checks if the URL hash contains the product collection name
+        if (window.location.hash.includes('all_products')) {
+          customBtn.style.display = 'block';
+        } else {
+          customBtn.style.display = 'none';
+        }
+      };
+
+      // Check visibility on hash change and every 500ms (to catch SPA transitions)
+      window.addEventListener('hashchange', handleVisibility);
+      setInterval(handleVisibility, 500);
+
+      // 3. Robust Scroll Logic
+      const scrollToNewProduct = () => {
+        let attempts = 0;
+        const checkExist = setInterval(() => {
+          // Find all labels that say "ID"
+          const labels = Array.from(document.querySelectorAll('label'));
+          const idLabels = labels.filter(el => el.textContent.trim() === 'ID');
+          
+          if (idLabels.length > 0) {
+            // Because 'Add' appends to the bottom, the newest product is the LAST ID label
+            const newestIdField = idLabels[idLabels.length - 1];
+            newestIdField.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            
+            // Adjust scroll slightly so it's not tucked under the top bar
+            setTimeout(() => window.scrollBy(0, -150), 300);
+            
+            clearInterval(checkExist);
+          }
+
+          attempts++;
+          if (attempts > 20) clearInterval(checkExist);
+        }, 100);
+      };
+
+      customBtn.onclick = function() {
+        // Find the "Add products list +" button at the bottom of the list
+        // We look for the button containing the text from your config
+        const buttons = Array.from(document.querySelectorAll('button'));
+        const addBtn = buttons.find(b => b.textContent.includes('Add products list'));
+
+        if (addBtn) {
+          addBtn.click();
+          scrollToNewProduct();
+        } else {
+          // Fallback if the button is missing
+          console.log("Original Add button not found on page.");
+        }
+      };
+    });
+  </script>
+</body>
+</html>
