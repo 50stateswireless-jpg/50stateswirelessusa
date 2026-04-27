@@ -692,7 +692,7 @@ products:
             Connectivity: Class 1 Bluetooth provides a strong, reliable wireless connection. The Apple W1 chip   allows for quick, one-touch pairing with iOS devices and integration with Siri. As of 2025, Android users can also use a fast-pair feature. A 3.5mm RemoteTalk cable is also included for wired listening. Battery life: A single charge provides up to 40 hours of playback time. The Fast Fuel feature provides 3 hours of playback from just a 5-minute charge. Audio: The headphones offer award-winning Beats sound, with fine-tuned acoustics emphasizing strong bass. They do not feature active noise cancellation (ANC), but their on-ear cushions provide passive noise isolation. Design: The adjustable, cushioned earcups are designed for all-day comfort, and the headphones foldable design makes them highly portable. Controls: Integrated on-ear controls allow you to take calls, control music, and activate Siri.
     image: images/beats_solo_3_headphones__95779.jpg
   - id: 40
-    name: Adata Power Bank Charger ,20000 Mah , New , Sealed
+    name: Adata Power Bank Charger , 20000 Mah , New , Sealed
     category: Charger
     price: 119.95
     description: >-
@@ -707,55 +707,130 @@ products:
             The USB-C port can be used to charge both the power bank and other USB-C
             devices. Recharge input: The power bank can be recharged via the USB-C
             port or a micro-USB port.
-    image: images/P20000QCD_Power_Bank_b__39361.jpg
+    image: ""
+    variants:
+      - id: 964
+        color: Black
+        price: 109.95
+        image: images/P20000QCD_Power_Bank_b__39361.jpg
+      - id: 965
+        color: Red
+        price: 109.95
+        image: images/adata-red.jpg
+      - id: 966
+        color: Blue
+        price: 109.95
+        image: images/adata-blue.webp
   - id: 41
-    name: Zone One Power Bank , 5000MAH , New , Sealed
+    name: Chargeworx Portable Power , 5000 Mah , New , Sealed
     category: Charger
-    price: 79.95
+    price: ""
     description: >-
-      Colors black , blue Zone One 5000MAH Power Bank is limited, but a
-            similar product called the Trend Zone Portable Charger Power Bank is
-            available from sellers on eBay. Its basic features include dual-port
-            output, an LED indicator for battery life, and a compact size for
-            portability. For a more comprehensive option, the Anker Nano Power Bank
-            offers 5,000mAh capacity along with enhanced features like a built-in
-            USB-C connector for convenience
-    image: images/m_wp_6903d13c9f19e231f9911ba8.webp
+      The Chargeworx 5000mAh Mini Capsule Power Bank (CX6895)
+
+      is a pocket-sized, cord-free charger designed to plug directly into your phone. The CX6895
+
+      model specifically features a built-in Lightning connector, making it compatible with iPhone 14 and earlier models. 
+
+      Key Features
+
+          Built-in Connector: Plugs directly into your device's charging port, eliminating the need for carrying extra cables.
+          LCD Display: Provides real-time battery percentage updates so you know exactly how much power remains.
+          Fast Charging: Delivers up to 10W output (5V/A), which is roughly 40% faster than standard conventional chargers.
+          Passthrough Charging: Supports simultaneous charging for both the power bank and your connected phone when plugged into a power source.
+          Compact Design: Extremely portable and "pocket-sized," often referred to as a "capsule" or "mini" power bank. 
+    image: ""
+    variants:
+      - id: 962
+        color: Black
+        price: 89.95
+        image: images/chargewox.webp
   - id: 42
-    name: Chargeworx Power Bank charger Slim 10000 Mah , new , Sealed
+    name: Chargeworx Solar Power Bank 16,000  Mah , New , Sealed
     category: Charger
-    price: 109.95
+    price: ""
     description: >-
-      Colors , black , blue Chargeworx Power Bank Slim 10000 mAh Dual
-            USB Charge 2 devices at once Up to 75 extra hours Battery life indicator
-    image: images/Chargeworx-Power-Bank-charger-Slim-10000-Mah.jpeg
+      Chargeworx solar power banks
+
+      are designed primarily for outdoor and emergency use, offering a way to maintain battery levels when away from traditional power outlets. They are generally characterized by rugged, IPX4 splashproof designs and built-in utility features like LED flashlights and compasses. 
+
+      Core Functionality
+
+          Solar Charging: These devices automatically begin charging when exposed to direct sunlight, which is indicated by a green light.
+          Dual Charging Methods: While solar panels provide emergency "top-ups," the primary and fastest way to recharge the bank is via a standard USB wall outlet using the included cable.
+          Capacity Options: Most models offer either 10,000mAh (providing up to 75 extra device hours) or 15,000mAh (up to 90 extra hours).
+          Durability: Built with impact-resistant or rubberized materials, they are designed to survive drops and light rain during activities like camping or hiking.
+    image: ""
+    variants:
+      - id: 963
+        color: Black
+        price: 109.95
+        image: images/chargewox-100.webp
   - id: 43
-    name: Power Bank Solar charger Roc16
-    category: Charger
-    price: 119.95
-    description: |-
-      Tough Tested 16000mAh Wireless Charger Waterproof 3 charging ports
-            High output multi-mode flashlight New , Sealed
-    image: images/power_bank_solar_roc16__42691.jpg
-  - id: 44
-    name: Verizon Wireless charger combo pack , 6,000mAh , New ,Sealed
+    name: Power Bank Solar charger Roc16 , New , Sealed
     category: Charger
     price: 109.95
     description: >-
-      Black, Verizon Wireless Charger USB-C Combo Pack This modern bundle is
-            compatible with newer smartphones, including Apple iPhone 15/16 and
-            Samsung Galaxy models. What's included: VERIZON Wireless charger combo
-            pack 6,000mAh Car charger: Features a fixed coiled 6-ft cable and a USB-C
-            connector. Qi wireless charger: Comes with a fast-charge wall adapter and
-            a 5-ft charge/sync cable. Portable power bank: Includes a 1.6-ft USB-A to
-            USB-C charging cable. USB-C cable: An 8-in charge/sync cable with a USB-C
-            to USB-C connector. This modern bundle is compatible with newer
-            smartphones, including Apple iPhone 15/16 and Samsung Galaxy models.
+      The ToughTested ROC16
 
-            What's included:
+      is a high-capacity, 16,000mAh solar power bank designed for rugged outdoor use, featuring built-in wireless charging and a multi-mode emergency flashlight. 
 
-            Car charger: Features a fixed coiled 6-ft cable and a USB-C connector. Qi wireless charger: Comes with a fast-charge wall adapter and a 5-ft charge/sync cable. Portable power bank: Includes a 1.6-ft USB-A to USB-C charging cable. USB-C cable: An 8-in charge/sync cable with a USB-C to USB-C connector
-    image: images/verizon-ACCS-722828-Portable-Charger-PRODUCT.webp
+      Key Specifications
+
+          Battery Capacity: 16,000 mAh (approx. 59.2Wh), capable of charging a smartphone up to 6–8 times on a single full charge.
+          Solar Recharging: Features a 280mA high-efficiency solar panel for supplemental charging in sunlight.
+          Charging Outputs:
+              Wireless: 10W to 15W Qi-compatible wireless charging pad.
+              USB-C: 18W Power Delivery (PD) for fast charging newer devices.
+              USB-A: Two 2.4A ports (Quick Charge 3.0 supported).
+          Durability: IP65 or IP67 rated (depending on the batch) for water, dust, and shock resistance.
+          Flashlight: Built-in high-output LED panel with standard, strobe, and SOS modes. 
+    image: ""
+    variants:
+      - id: 967
+        color: Black
+        price: 109.95
+        image: images/power_bank_solar_roc16__42691.jpg
+  - id: 44
+    name: Adata Power Bank  , 20000 Mah ( C20) , New ,Sealed
+    category: Charger
+    price: ""
+    description: >+
+      The ADATA C20 (20,000mAh)
+
+      is a high-capacity, minimalist power bank designed for simultaneous charging of up to three devices. It is part of ADATA's simplified exterior line, featuring a streamlined shape that matches various mobile devices. 
+
+      Key Specifications
+
+          Capacity: 20,000mAh (74Wh).
+          Rated Capacity: 12,600mAh at 5V.
+          Battery Type: Rechargeable Li-Polymer.
+          Charging Output:
+              USB-C: 5V / 3A (15W Max).
+              2x USB-A: 5V / 2.4A each (12W Max each).
+              Total Max Output: 15W shared across all three ports.
+          Charging Input:
+              USB-C: 5V / 3A (15W Max).
+              Micro-USB: 5V / 2A (10W Max).
+          Dimensions & Weight: 140 x 69 x 28 mm; 418g. 
+
+      Features
+
+          3-Device Charging: Supports charging three devices at once via two USB-A ports and one USB-C port.
+          Pass-Through Charging: Allows you to charge the power bank and connected devices simultaneously.
+          LED Indicators: Uses four LED lights to display real-time battery status and provides a flashing warning when the battery is low.
+          Multiple Circuit Protections: Intelligent circuitry protects against over-charge, over-discharge, over-temperature, short-circuit, over-voltage, and over-current. 
+
+    image: ""
+    variants:
+      - id: 968
+        color: Black
+        price: 109.95
+        image: images/adata-black.jpg
+      - id: 969
+        color: White
+        price: 109.95
+        image: images/adata3white.webp
   - id: 45
     name: Apple iPhone 15 ,128GB , E-Sim ,Unlocked , New , Sealed
     category: Phones
@@ -2590,25 +2665,39 @@ products:
         price: 359.95
         image: images/jbl_xtreme_4_speaker_b__45977Black.jpg
   - id: 81
-    name: "JBL Charge 6 Bluetooth Wireless, New, Sealed "
+    name: "JBL Flip 7 Speaker Bluetooth Wireless , New, Sealed "
     category: Wireless Speakers
     description: >-
-      Details  The JBL Charge 6 is a rugged, waterproof (IP68) portable
-            speaker with 45W power, Bluetooth 5.4, a built-in power bank (USB-C
-            in/out), 24-hour battery life (up to 28 with boost), and features like
-            Auracast and stereo pairing, boasting a new racetrack driver for enhanced
-            JBL Original Pro Sound. It offers upgraded durability (1m drop-proof), a
-            modern USB-C port for all charging, and supports the JBL One App for
-            customization, but comes without a charging cable in the box. Color Black.
+      The JBL Flip 7
+
+      is a rugged, portable Bluetooth speaker that launched in 2025 as an upgrade to the popular Flip 6. It introduced several next-gen features, including AI Sound Boost for cleaner audio at high volumes, a tougher IP68 durability rating, and the new Auracast™ wireless standard. 
+
+      Key Specifications & Performance
+
+          Audio Output: Delivers 35W RMS total power, consisting of a 25W woofer and a 10W tweeter.
+          AI Sound Boost: Uses real-time algorithms to maximize acoustic performance and reduce distortion during heavy playback.
+          Battery Life: Offers up to 14 hours of standard playtime, extendable to 16 hours via the "Playtime Boost" feature (which conserves energy by reducing bass).
+          Durability: Features an IP68 rating, making it fully dustproof and waterproof (submersible up to 1.5 meters for 30 minutes). It is also certifiably drop-proof from heights up to 1 meter.
+          Connectivity: Uses Bluetooth 5.4 for stable connections. It supports lossless audio playback when connected via its USB-C port to a compatible source.
+          New Design Features: Replaces the standard carry loop with a PushLock system, allowing you to easily swap between a fabric loop and a carabiner (both included). 
     variants:
       - id: 349
-        color: Black
-        price: 299.95
-        image: images/jbl_charge_6_black__54187 (1).jpg
+        color: " Camo"
+        price: 199.95
+        image: images/jbl6-green.webp
+      - id: 890
+        color: Blue
+        price: 199.95
+        image: images/jbl6-blue.jpeg
+      - id: 891
+        color: Red
+        price: 199.95
+        image: images/jbl6-red.jpeg
+    price: ""
   - id: 82
     name: "JBL Charge Essential Bluetooth speaker, New, Sealed: Color Black"
     category: Wireless Speakers
-    price: 229.95
+    price: ""
     description: >-
       Details: Color Black Extend your adventures with the JBL Charge Essential,
             a portable Bluetooth speaker that delivers powerful Original JBL Pro Sound
@@ -2622,11 +2711,16 @@ products:
             General Specifications: Output power (W): 5
 
             Audio Specifications: Dynamic frequency response range (Hz): 65 Hz
-    image: images/jbl_charge_essential__25874 (1).jpg
+    image: ""
+    variants:
+      - id: 888
+        color: Black
+        price: 229.95
+        image: images/jbl_charge_essential__25874 (1).jpg
   - id: 83
     name: JBL Boom box 3 Bluetooth Speaker, New, Sealed
     category: Wireless Speakers
-    price: 499.95
+    price: ""
     description: >-
       Product info: two 3/4in tweeters, two 2-3/4in midrange drivers, one
             3-3/16in subwoofer, and dual side-firing passive bass    radiators
@@ -2640,7 +2734,12 @@ products:
             General features-
 
             solid aluminum handle with silicone grips IP67-rated waterproof down to 3 feet for up to 30 minutes USB charging port for portable devices stereo minijack auxiliary input 10,000mAh built-in rechargeable lithium-ion battery lasts up to 24 hours AC power cable included
-    image: images/jbl_boombox_3__86581.jpg
+    image: ""
+    variants:
+      - id: 889
+        color: Black
+        price: 499.95
+        image: images/jbl_boombox_3__86581.jpg
   - id: 84
     name: Google Pixel 6A , 128GB, A+Grade, Unlocked
     category: Pre-Owned Phones & Tablets
@@ -10358,3 +10457,1834 @@ products:
         price: 289.95
         image: images/kindle-pink.png
     id: 287
+  - name: JBL Partybox Ultimate - Multi Purpose Party Speaker , 1100 Watts , New ,
+      Sealed
+    description: >+
+      Brand 	JBL
+
+      Speaker Maximum Output Power 	1100 Watts
+
+      Frequency Response 	20000 Hz
+
+      Connectivity Technology 	Auxiliary, Bluetooth, Dual Guitar/Mic input, USB, Wi-Fi
+
+      Audio Output Mode 	Stereo
+
+      About this item
+
+          All the superior Original JBL Pro Sound you can handle
+          The JBL PartyBox Ultimate can cover a massive space—we're talking two basketball courts—with superior Original JBL Pro Sound. Featuring two drivers and mid range speaker to deliver louder sound. Dual tweeters and a pair of subwoofers means there's going to be more than enough bass for even the most dedicated fans, while Dolby Atmos provides immersive 3D spatial effects. This is the kind of thunderous sound you'll not just hear, but feel. A subscription to a high definition music service is required in order to listen to immersive music in Dolby Atmos. Please check subscription fees in your region.
+          A multi-dimensional, dynamic lightshow
+          Lights, color, party. Transform your space into a captivating,full sensory experience with the biggest multi-dimensional lightshow of any party speaker. It's got a unique starry night effect, cool light trails, strobes, and even lights that project onto any surface it's sitting on. All of it syncs to your music and can be easily controlled via the streamlined, user-friendly dials on the top panel or through the JBL One app.
+          Wi-Fi and Bluetooth connectivity
+          Stream high definition music anywhere with the JBL PartyBox Ultimate, including 3D Dolby Atmos over Wi-Fi. Taking a call or scrolling your feed? Go ahead—it won't interrupt your music. Switch easily to Bluetooth and keep enjoying seamless audio experiences whether you're indoors or outside.
+          Handle and sturdy wheels
+
+          Get the party rolling with wide, sturdy wheels and an easy-to-grip handle that makes this big speaker surprisingly easy to transport. A simple but effective cable management setup makes sure the cords never get in your way. AC input required
+          IPx4 Splashproof
+          Whether you are partying with friends in your backyard or sipping drinks by the pool, the JBL PartyBox Ultimate is IPX4 splashproof so you never have to worry about the party getting too wet and wild.
+
+    category: Wireless Speakers
+    id: 288
+    variants:
+      - id: 869
+        color: Black
+        price: 1479.95
+        image: images/jbl106.webp
+  - name: JBL PartyBox 1000 - High Power Wireless Bluetooth Party Speaker , 1100
+      Watts , New  ,  Sealed
+    id: 289
+    category: Wireless Speakers
+    description: >-
+      The JBL PartyBox 1000
+
+      is a high-power wired party speaker featuring an 1100W maximum output and a 3-way driver configuration, including a 12-inch down-firing subwoofer. 
+
+      Key Technical Specifications
+
+      Feature 	Specification
+
+      Output Power	1100W Max
+
+      Frequency Response	30Hz – 20kHz (-6dB)
+
+      Driver Configuration	1x Compression Driver, 2x 7" Mid-range, 1x 12" Down-firing Subwoofer
+
+      Signal-to-Noise Ratio	80 dB
+
+      Connectivity	Bluetooth 4.2, USB playback, 3.5mm Aux-in
+
+      Inputs/Outputs	Mic/Guitar with volume control, RCA L/R In/Out
+
+      Wireless Pairing	True Wireless Stereo (TWS) for up to 2 speakers
+
+      Dimensions (WxHxD)	39.7 x 105 x 39 cm (approx. 15.6 x 41.3 x 15.3 in)
+
+      Weight	34.7 kg (76.5 lbs)
+
+      Top Features
+
+          Integrated DJ Pad: Allows users to play drums, keyboard, and piano sounds, as well as record and loop samples on the fly.
+          Full Panel Lighting: A dynamic RGB light show that covers the entire front panel and responds to the beat of the music.
+          Air Gesture Wristband: Included wristband that controls sound effects and light patterns through hand motions.
+          Karaoke Mode: Features dedicated mic and guitar inputs with gain control and a "voice cancel" function.
+          Portability: While it is wired-only (no internal battery), it features an integrated handle and concealed wheels for easier movement.
+    variants:
+      - id: 870
+        color: Black
+        price: 1099.95
+        image: images/jbl1000-black.JPG
+  - name: JBL Partybox 110 Bluetooth Speaker , New ,Sealed
+    id: 290
+    category: Wireless Speakers
+    description: >-
+      The JBL Partybox 110
+
+      is a high-performance portable party speaker known for its powerful 160W sound output and a dynamic, customizable light show that synchronizes to your music's beat. It is designed for both indoor and outdoor use, featuring an IPX4 splashproof rating that protects it from light water exposure near pools or beaches. While it is substantial at approximately 23 lbs, it remains portable via built-in handles. 
+
+      Key Specifications
+
+          Audio Performance: Delivers 160W RMS of JBL Original Pro Sound with two 5.25" woofers and two 2.25" tweeters.
+          Battery Life: Offers up to 12 hours of playtime, though realistic playback at higher volumes or with lights enabled is typically around 6 to 8 hours.
+          Charging: Requires approximately 3.5 hours for a full charge via the included AC power cord.
+          Inputs: Includes dedicated microphone and guitar inputs with individual volume controls, making it suitable for karaoke and live performances. 
+
+      Feature Highlights
+
+          JBL PartyBox App: Allows you to wirelessly control music playback, customize light patterns (such as strobes and colors), and update firmware.
+          Bass Boost: Features two levels of adjustable deep bass to enhance low-frequency performance.
+          Stereo Pairing: You can wirelessly pair two Partybox 110 speakers using True Wireless Stereo (TWS) technology or connect them via an aux cable for a larger soundstage.
+          Versatile Playback: Supports streaming via Bluetooth 5.1, USB drives, or a standard Aux cable. 
+
+      Expert & User Insights
+
+          Sound Quality: Reviewers from AVForums and PopSci note that it maintains a clear sound profile even at high volumes, though some compression may occur at maximum output.
+          Portability vs. Power: Users often compare it to the more powerful PartyBox 310 or 710, noting that the 110 is a "sweet spot" for small to medium gatherings of about 10–20 people.
+          Sturdiness: While generally sturdy, the plastic body can be susceptible to scratches if dropped, though the front is protected by a metal grille. 
+    variants:
+      - id: 871
+        color: Black
+        price: 429.95
+        image: images/jbl104.webp
+  - id: 291
+    name: JBL Partybox Club 120 Speaker ,  New ,  Sealed
+    category: Wireless Speakers
+    description: >-
+      The JBL PartyBox Club 120
+
+      is an upgraded portable party speaker that delivers 160W RMS of JBL Pro Sound, designed to replace the popular PartyBox 110. It features a refined design with a folding ergonomic handle and a significant shift to a replaceable battery system, allowing for extended playtime beyond its standard 12-hour rating. 
+
+      Key Specifications
+
+          Audio Output: 160 Watts RMS via two 5.25" woofers and two 2.25" tweeters.
+          Battery & Charging: Offers up to 12 hours of playtime with a 3.5-hour full charge time. A 10-minute fast charge provides an additional 80 minutes of playback.
+          Connectivity: Features Bluetooth 5.4 for improved range and stability, plus Auracast technology for wirelessly linking multiple compatible JBL speakers.
+          Durability: Rated IPX4 splashproof, making it resistant to light rain or splashes from a poolside. 
+
+      Notable Upgrades over the PartyBox 110
+
+          AI Sound Boost: Uses an AI algorithm to analyze the incoming audio signal in real-time to maximize loudness and reduce distortion at high volumes.
+          Swappable Battery: Unlike the fixed battery in the 110, the Club 120's battery can be easily swapped for a fresh one (sold separately) to keep the music playing indefinitely.
+          Enhanced Lightshow: Features a more "futuristic" light show with starry lights, light trails, and strobes that sync more dynamically to the music.
+          Inputs: Includes dual microphone and guitar inputs with dedicated gain and volume controls on the rear panel. 
+    variants:
+      - id: 872
+        color: Black
+        price: 469.95
+        image: images/jbl100black.webp
+  - name: JBL PartyBox Encore Essential Speaker ,  New , Sealed
+    category: Wireless Speakers
+    id: 292
+    description: >+
+      The JBL PartyBox Encore Essential
+
+      is a compact, cubic party speaker that delivers 100W RMS of JBL Original Pro Sound. It is designed for maximum portability with an integrated "grab-and-go" handle and an IPX4 splashproof rating, making it suitable for pool parties or beach outings. 
+
+      Key Specifications
+
+          Audio Performance: Features one 5.25" woofer and two 1.75" tweeters to provide deep bass and clear highs.
+          Battery Life: Provides up to 6 hours of playtime, though real-world use at high volumes with lights active may reduce this to approximately 5 hours.
+          Connectivity: Supports Bluetooth 5.1, USB playback, and a 3.5mm Aux input.
+          Karaoke Ready: Includes a 1/4" wired microphone input with dedicated volume controls. 
+
+      Core Features
+
+          Dynamic Light Show: A built-in RGB ring light around the woofer and strobes synchronize to the music beat, customizable via the JBL PartyBox App.
+          True Wireless Stereo (TWS): Allows you to wirelessly pair two Encore Essential speakers for a wider stereo soundstage.
+          Bass Boost: Offers "Deep" and "Punchy" presets to enhance low-frequency impact depending on the environment. 
+
+      Comparison: Encore Essential vs. PartyBox Encore
+
+      While they share the same 100W sound architecture, the standard JBL PartyBox Encore
+
+      (non-Essential) typically includes: 
+
+          Longer Battery: Up to 10 hours of playtime.
+          Wireless Mics: Usually bundled with two digital wireless microphones.
+          Enhanced Controls: Physical knobs on the top panel for microphone echo, bass, and treble adjustments. 
+
+    variants:
+      - id: 873
+        color: Black
+        price: 389.95
+        image: images/jbl2000-black.webp
+  - id: 293
+    name: JBL Partybox on the Go Essential Speaker , New , Sealed
+    category: Wireless Speakers
+    description: >-
+      The JBL PartyBox On-The-Go Essential
+
+      is a portable 100W party speaker that includes a wireless microphone in the box. It is an updated version of the original On-The-Go model, maintaining the same power output and signature features like a built-in bottle opener on the shoulder strap. 
+
+      Key Specifications
+
+          Audio Power: Delivers 100W RMS of JBL Pro Sound through one 5.25" woofer and two 1.75" tweeters.
+          Battery Life: Offers up to 6 hours of playtime on a single charge. A full recharge takes approximately 3.5 hours via the included AC power cord.
+          Karaoke Features: Comes with one wireless microphone (some regional variations may include two) that has a 10-meter range. It also features a dedicated guitar input and knobs to adjust echo, treble, and bass for vocals.
+          Durability: Rated IPX4 splashproof, making it safe for use near pools or in light rain. 
+
+      Top Features
+
+          Dynamic Light Show: The lighting on the woofer synchronizes to the beat of your music and can be customized with various preset patterns.
+          Portability: Weighs approximately 13.4 lbs and includes a padded shoulder strap for easy transport.
+          True Wireless Stereo (TWS): You can wirelessly link two compatible PartyBox speakers to create a larger stereo sound system. 
+    variants:
+      - id: 874
+        color: Black
+        price: 379.95
+        image: images/jbl2002-black.jpg
+  - id: 294
+    name: JBL Charge 6 Speaker, New , Sealed
+    category: Wireless Speakers
+    description: >-
+      The JBL Charge 6
+
+      is a portable, rugged Bluetooth speaker released in early 2025. It builds on the popular Charge 5
+
+      by introducing several key upgrades, including Auracast™ for multi-speaker pairing, a detachable carry strap, and an improved IP68 waterproof and dustproof rating that now includes 1-meter drop protection. 
+
+      Key Specifications
+
+          Audio Performance: Delivers 45W of peak power (30W RMS woofer + 15W RMS tweeter) using a two-way driver system and AI Sound Boost to minimize distortion at high volumes.
+          Battery Life: Offers up to 24 hours of standard playtime, which can be extended to 28 hours using the "Playtime Boost" feature in the JBL Portable app.
+          Charging: Features a 3-hour full charge time via USB-C and a quick-charge function providing 2.5 hours of playback from just 10 minutes of charging.
+          Connectivity: Uses Bluetooth 5.4 for stable wireless streaming and supports lossless audio playback when connected via its USB-C port to a compatible source. 
+
+      Notable Features
+
+          Built-in Powerbank: True to the "Charge" name, it can use its battery to charge smartphones and other mobile devices via its USB-C port.
+          Sturdy Design: Features a redesigned, flatter base for better stability and beefed-up rubber bumpers on the passive radiators for enhanced durability.
+          Advanced Customization: The companion app now offers a 7-band equalizer, a significant upgrade over the 3-band EQ found on the previous model. 
+    variants:
+      - id: 875
+        color: Red
+        price: 269.95
+        image: images/jbl2002-red.jpg
+      - id: 876
+        color: Blue
+        price: 269.95
+        image: images/jbl2002-blue.webp
+  - name: JBL FLIP 6 Bluetooth Speaker , New , Sealed
+    category: Wireless Speakers
+    id: 295
+    description: >-
+      The JBL Flip 6
+
+      is a portable Bluetooth speaker featuring a 2-way speaker system designed for powerful "JBL Original Pro Sound" with high clarity and deep bass. 
+
+      Audio & Performance Specs
+
+          Transducers: Features a 45 x 80mm racetrack-shaped woofer (1.75 x 3 inches) and a separate 16mm tweeter (0.6 inches).
+          Output Power: Total of 30W RMS, split between 20W for the woofer and 10W for the tweeter.
+          Frequency Response: 63 Hz – 20k Hz.
+          Signal-to-Noise Ratio: >80 dB.
+          Bass Radiators: Optimized dual passive radiators fine-tuned with Harman's advanced algorithm for deep low-end. 
+
+      Battery & Connectivity
+
+          Battery Life: Up to 12 hours of playtime (varies by volume and content).
+          Charging: Uses a USB-C port with a 2.5-hour full recharge time (at 5V/3A).
+          Bluetooth Version: 5.1 supporting A2DP 1.3 and AVRCP 1.6 profiles.
+          PartyBoost: Allows you to pair two compatible speakers for stereo sound or link multiple speakers for a larger party experience. 
+
+      Design & Build
+
+          Durability: IP67 rated, meaning it is fully dustproof and waterproof (can be submerged in up to 1 meter of water for 30 minutes).
+          Dimensions: Approximately 7.0 x 2.6 x 2.8 inches (17.8 x 6.8 x 7.2 cm).
+          Weight: 1.21 lbs (0.55 kg).
+          Charging Protection: Includes a USB-C charging protection alert that sounds if water, salt, or chemicals are detected in the connector. 
+
+      According to the official JBL Flip 6
+
+      Product Page, the device is compatible with the JBL Portable app, which offers firmware updates and a basic 3-band equalizer for custom sound tuning. 
+    variants:
+      - id: 877
+        color: Blue
+        price: 169.95
+        image: images/jbl6-blue.jpeg
+      - id: 878
+        color: Gray
+        price: 169.95
+        image: images/jbl6-gray.webp
+      - id: 879
+        color: Teal
+        price: 169.95
+        image: images/jbl6-teal.webp
+      - id: 880
+        color: Cano
+        price: 169.95
+        image: images/jbl6-green.webp
+      - id: 881
+        color: Black
+        price: 169.95
+        image: images/jbl6-black.jpg
+      - id: 882
+        color: Red
+        price: 169.95
+        image: images/jbl6-red.jpeg
+  - name: JBL Grip Bluetooth Speaker ,  New , Sealed
+    id: 296
+    category: Wireless Speakers
+    description: >+
+      The JBL Grip
+
+      (released in late 2025) is an ultra-portable Bluetooth speaker designed with a "seltzer can" shape for easy handling. It sits between the JBL Go 4 and the Flip series, offering a more rugged build and built-in mood lighting. 
+
+      Key Specifications
+
+          Audio Performance: Features a 16W RMS racetrack-shaped full-range driver (43 x 80 mm) and dual passive radiators. It uses AI Sound Boost to optimize audio in real time and reduce distortion at high volumes.
+          Durability: Rated IP68, making it fully dustproof and waterproof (submersible up to 1.5 meters for 30 minutes). It is also "drop-proof," tested to survive a 1-meter fall onto concrete.
+          Battery Life: Delivers 12 hours of standard playtime, which can be extended to 14 hours using the "Playtime Boost" feature. A full recharge takes approximately 3 hours via USB-C.
+          Connectivity: Equipped with Bluetooth 5.4 and supports Auracast™ for stereo pairing or connecting an unlimited number of compatible JBL speakers.
+          Unique Features: Includes a customizable ambient light strip on the back panel and an integrated utility loop for clipping to bags or gear. 
+
+      Physical Design
+
+          Dimensions: Approximately 6 x 2.5 x 2.6 inches (15.3 x 6.4 x 6.5 cm).
+          Weight: Extremely lightweight at 0.849 lbs (385 grams).
+          Materials: Constructed using post-consumer recycled plastic and fabric with sustainable FSC-certified packaging. 
+
+    variants:
+      - id: 883
+        color: " Squad "
+        price: 165.95
+        image: images/jblgrip-green.jpg
+      - id: 884
+        color: Purple
+        price: 165.95
+        image: images/jbl_grip_speaker_purple__62834.jpg
+      - id: 885
+        color: Black
+        price: 165.95
+        image: images/jblgrip-black.jpg
+      - id: 886
+        color: Blue
+        price: 165.95
+        image: images/jblgrip-blue.jpg
+      - id: 887
+        color: Red
+        price: 165.95
+        image: images/jblgrip-red.jpg
+  - id: 297
+    name: JBL Go 3 Speaker ,  New , Sealed
+    category: Wireless Speakers
+    description: >+
+      The JBL Go 3
+
+      is an ultra-portable, pocket-sized Bluetooth speaker known for its rugged design and "JBL Pro Sound" that delivers surprisingly punchy bass for its small form factor. 
+
+      Audio & Technical Specifications
+
+          Output Power: 4.2W RMS from a single 1.5-inch (43 x 47mm) full-range driver.
+          Frequency Response: 110 Hz – 20 kHz.
+          Connectivity: Uses Bluetooth 5.1 for wireless streaming; it does not have an auxiliary (3.5mm) input or microphone for speakerphone use.
+          Battery Life: Provides up to 5 hours of playtime on a single charge.
+          Charging: Recharges via USB-C in approximately 2.5 hours. 
+
+      Design & Build Quality
+
+          Durability: Carries an IP67 rating, making it completely dustproof and waterproof (capable of being submerged in up to 1 meter of water for 30 minutes).
+          Dimensions: Approximately 3.4 x 2.7 x 1.6 inches (8.6 x 6.9 x 4.0 cm).
+          Weight: Extremely light at 0.46 lbs (0.209 kg).
+          Features: Includes an integrated fabric loop for portability and rubberized feet for stability when placed on surfaces. 
+
+    variants:
+      - id: 892
+        color: Black
+        price: 109.95
+        image: images/jbl101.webp
+      - id: 893
+        color: Red
+        price: 109.95
+        image: images/jbl105-red.jpg
+      - id: 894
+        color: White
+        price: 109.95
+        image: images/jbl106-white.webp
+      - id: 895
+        color: Gray
+        price: 109.95
+        image: images/jbl104-gray.jpg
+      - id: 896
+        color: Blue
+        price: 109.95
+        image: images/jbl107-blue.webp
+  - id: 298
+    name: "JBL Wind 3 Speaker ,  New , Sealed "
+    category: Wireless Speakers
+    description: >-
+      The JBL Wind 3
+
+      is a portable Bluetooth speaker specifically designed for cyclists and outdoor enthusiasts, featuring a dedicated handlebar mount for secure attachment to bikes or scooters. 
+
+      Key Features and Specifications
+
+          Versatile Playback: Unlike many ultra-portable speakers, it includes a built-in FM radio, a micro SD card slot (TF card) for phone-free listening, and a 3.5mm AUX input.
+          Durability: It carries an IP67 rating, making it fully waterproof and dustproof for use in all weather conditions.
+          Display & Controls: Features a small LED display to show the current radio frequency and battery level. It also has large, tactile buttons on the front for easy operation while riding.
+          Battery Life: Offers up to 5 hours of playtime on a single charge.
+          Audio Performance: Equipped with a 5W RMS driver and two EQ modes: "Sport" for enhanced clarity outdoors and "Bass" for indoor listening. 
+
+      Expert and User Insights
+
+          Mounting Concerns: While the bike mount is the speaker's main selling point, many users on JBL.com and Crutchfield have reported that the plastic mounting clip is fragile and prone to breaking during rides.
+          Audio Quality: Reviewers generally praise the sound quality for its size, noting it is clear enough for cycling, though the "Sport" mode can lack bass.
+          FM Reception: Some users have noted that the internal FM antenna is relatively weak, which may lead to static in areas with poor signal. 
+
+      JBL Wind 3 vs. Wind 3S (Slim)
+
+      There are two versions in this series. The standard Wind 3 includes the FM radio, LED display, and micro SD slot, whereas the Wind 3S
+
+      (Slim) is a Bluetooth-only model without those extra playback features.
+    variants:
+      - id: 897
+        color: Black
+        price: 139.95
+        image: images/jbl107wind_3__60487.webp
+  - name: "JBL GO 4 Bluetooth Speaker  ,  New , Sealed "
+    category: Wireless Speakers
+    description: >-
+      The JBL Go 4
+
+      is an ultra-portable Bluetooth speaker that delivers 4.2W RMS output power through a 45mm (1.75") driver. It is designed for durability with an IP67 waterproof and dustproof rating, allowing it to be submerged in up to 1 meter of water for 30 minutes. 
+
+      Detailed Technical Specifications
+
+      Category 	Specification
+
+      Audio	90 Hz – 20 kHz frequency response; > 85 dB signal-to-noise ratio
+
+      Connectivity	Bluetooth 5.3; supports A2DP V1.4 and AVRCP V1.6
+
+      Battery	Up to 7 hours playtime (+2 hours with Playtime Boost); 3-hour full charge time
+
+      Dimensions	3.7 x 3.0 x 1.7 inches (94.3 x 75.7 x 42.2 mm)
+
+      Weight	0.42 lbs (0.19 kg)
+
+      Materials	80% post-consumer recycled plastic; 100% recycled fabric grille
+
+      Features and Connectivity
+
+          Auracast™ Support: Allows you to pair two Go 4 speakers for stereo sound or wirelessly link multiple compatible JBL speakers.
+          App Control: Compatible with the JBL Portable app, which offers customizable 5-band EQ settings and firmware updates.
+          Charging: Features a USB-C port for charging; a USB-C cable is included in the box.
+          Multi-Point Connection: Supports pairing with two devices simultaneously for easy switching.
+    variants:
+      - id: 898
+        color: Red
+        price: 129.95
+        image: images/jblgo4-red.png
+      - id: 899
+        color: Black
+        price: 129.95
+        image: images/jbl102.webp
+      - id: 900
+        color: White
+        price: 129.95
+        image: images/jblgo4-white.webp
+      - id: 901
+        color: Camo
+        price: 129.95
+        image: images/jblgo4-camo.jpeg
+      - id: 902
+        color: Blue
+        price: 129.95
+        image: images/jblgo4-blue.webp
+    id: 299
+  - name: "JBL CLIP 5 Speaker  ,  New , Sealed "
+    category: Wireless Speakers
+    id: 300
+    description: >-
+      The JBL Clip 5
+
+      is an ultra-portable speaker designed for durability and outdoor use, featuring a 7W RMS output and an IP67 rating. 
+
+      Technical Specifications
+
+          Audio Performance:
+              Output Power: 7W RMS.
+              Frequency Response: 95 Hz – 20 kHz.
+              Signal-to-Noise Ratio: > 85 dB.
+              Transducer: 45 mm (1.75 inches) driver.
+          Battery and Charging:
+              Playtime: Up to 12 hours, extendable to 15 hours with "Playtime Boost".
+              Charge Time: 3 hours via USB-C (5V/1A).
+              Battery Type: Li-ion polymer 5.32 Wh (equivalent to 3.8V / 1400 mAh).
+          Connectivity:
+              Bluetooth Version: 5.3.
+              Bluetooth Profiles: A2DP 1.4, AVRCP 1.6.
+              Special Features: Supports Auracast™ for multi-speaker connection and app-based EQ customization via the JBL Portable App.
+          Physical Specs:
+              Dimensions: 3.4" x 5.3" x 1.8" (86.3 x 134.5 x 46.0 mm).
+              Weight: 0.628 lbs (0.285 kg).
+              Durability: IP67 waterproof and dustproof (submersible up to 1m for 30 min). 
+    variants:
+      - id: 903
+        color: Purple
+        price: 149.95
+        image: images/jblclip-purple.jpg
+      - id: 904
+        color: Red
+        price: 149.95
+        image: images/jblclip-red.jpg
+      - price: 149.95
+        color: Camo
+        id: 905
+        image: images/jblclip-camo-.jpeg
+      - id: 906
+        color: Black
+        price: 149.95
+        image: images/jblclip-black.png
+      - id: 907
+        color: Blue
+        price: 149.95
+        image: images/jblclip-blue.jpg
+      - id: 908
+        color: White
+        price: 149.95
+        image: images/jblclip-white.jpg
+  - id: 301
+    name: 'Professional 12" Wireless Speaker Ch-12216   ,  New , Sealed '
+    description: >+
+      The Professional 12" Wireless Speaker Ch-12216
+
+      is a high-power, portable PA system designed for events, outdoor parties, and karaoke. It is often marketed as an all-in-one solution featuring a rechargeable 12V/5Ah battery and integrated RGB LED lighting. 
+
+      Key Specifications
+
+          Audio Output: 80W power with a dual 12" speaker unit for full-range sound.
+          Battery & Power: Built-in rechargeable 12V / 5Ah battery for cordless operation.
+          Connectivity:
+              Bluetooth: Standard wireless streaming from mobile devices.
+              True Wireless Stereo (TWS): Allows you to pair two identical speakers wirelessly for a wider soundstage.
+              Inputs: Supports USB, TF (micro SD) card, AUX (3.5mm), and includes an FM radio mode.
+          Karaoke Features: Equipped with a built-in microphone input, dedicated echo control, and a remote control for long-distance operation.
+          Visuals: Sound-activated or customizable RGB LED party lights built into the woofer.
+          Portability: Typically designed as a "trolley" speaker with a telescoping handle and wheels for easy transport. 
+
+    category: Wireless Speakers
+    variants:
+      - id: 909
+        color: Black
+        price: 369.95
+        image: images/prospeaker100.jpg
+  - id: 302
+    name: "Subwoofer Party Box Speaker DR-1229 ,  New , Sealed "
+    category: Wireless Speakers
+    price: ""
+    description: >-
+      The Subwoofer Party Box Speaker DR-1229
+
+      (also marketed as the BK-1229) is an outdoor, high-power "trolley" speaker system. It features dual 12-inch subwoofers and is designed with wheels and a telescoping handle for mobility at parties or karaoke events. 
+
+      Key Specifications
+
+          Audio Output: Delivering 100W RMS power, it includes two 12-inch woofers and a treble horn.
+          Battery: Built-in rechargeable 12V / 7Ah battery providing cordless playtime, typically lasting up to 4 hours depending on volume levels.
+          Connectivity: Features Bluetooth 5.0, FM radio, and inputs for USB, TF cards, and AUX.
+          Special Functions: Supports TWS (True Wireless Stereo) pairing to connect two speakers for stereo sound, an LED screen, and an integrated RGB light show.
+          Durability: Rated IPX4 splashproof, making it suitable for light outdoor exposure. 
+
+      Included Accessories 
+
+      The speaker typically ships with:
+
+          Two wireless microphones
+          Remote control
+          Power charging line
+          User manual 
+    variants:
+      - price: 359.95
+        color: Black
+        id: 910
+        image: images/prospeaker-107.jpg
+  - name: "Portable Woofer Home Karaoke Speaker Yr-2200 ,  New , Sealed "
+    description: >-
+      The YR-2200 Portable Karaoke Speaker
+
+      is a professional-grade audio system designed for home theater, outdoor parties, and stage performances. It features a powerful 12-inch woofer and delivers an output power of 100W, providing a deep bass and high-quality audio experience. 
+
+      Key Specifications and Features
+
+          Audio Performance: Equipped with a 12" woofer/full-range driver and 100W output for clear, loud sound even in outdoor settings.
+          Connectivity: Supports wireless streaming via Bluetooth and includes ports for USB, TF cards, and AUX inputs.
+          Karaoke Functions: Often comes as a "trolley" speaker with wheels and a handle, making it highly portable. It typically includes wireless microphones and features like microphone priority and echo control.
+          Battery: Features a built-in rechargeable battery designed for long-lasting playtime without a direct power source.
+          Visuals: Integrated LED party lights and an LED display for tracking settings. 
+    id: 338
+    category: Wireless Speakers
+    variants:
+      - id: 911
+        color: Black
+        price: 389.95
+        image: images/prosteaker111.webp
+  - description: >-
+      he Maxpower MPD128TS-BK
+
+      is a professional-grade "all-in-one" entertainment station. Its standout feature is the integrated WiFi-enabled touchscreen, which eliminates the need for external devices to display lyrics or stream music. 
+
+      Core Specifications
+
+          Audio Components: Features a powerful 12-inch "DJ Woofer" designed for high-volume output and deep bass response.
+          Display & Interface: Equipped with a built-in touchscreen with WiFi connectivity, allowing direct streaming from apps like YouTube or Spotify.
+          Operating System: Typically runs on Android (similar models like the MPD1236TS use Android 11 with 2GB RAM and 32GB storage) to support various multimedia applications.
+          Connectivity:
+              Wireless: Bluetooth for mobile streaming and WiFi for internet access.
+              Wired: Supports USB and SD card inputs for local media playback.
+          Visuals: Integrated full RGB LED lights that dance to the rhythm of the music.
+          Portability: Designed as a trolley-style speaker with a built-in handle and wheels for easier transport. 
+    id: 303
+    name: " Maxpower Kraoke System Speaker  ,  New , Sealed "
+    category: Wireless Speakers
+    variants:
+      - id: 912
+        color: Black
+        price: 539.95
+        image: images/max102.jpg
+  - description: >-
+      The Maxpower Pulse M1 (MPD668)
+
+      is a compact, rugged portable speaker designed for outdoor use. Unlike the larger trolley-style karaoke systems we discussed earlier, this model focuses on durability and portability, featuring a splash-proof and dust-proof design. 
+
+      Key Specifications
+
+          Audio Output: Equipped with dual 52mm speaker drivers and a frequency response of 120Hz - 18KHz.
+          Connectivity: Uses Bluetooth 5.3 for a stable wireless connection up to 10 meters, and includes FM Radio, AUX, and USB inputs.
+          Battery & Charging: Features a rechargeable battery (typically 1500mAh to 2400mAh) with Type-C fast charging, providing roughly 2 hours of playtime at normal volume.
+          Design: A lightweight "cube-shaped" unit (approx. 0.4 lbs) with an integrated handle and built-in LED lights.
+          Smart Features: Some variants support voice assistants like Alexa, Google Assistant, and Siri when paired with a smartphone. 
+    id: 304
+    name: " Maxpower Pulse M1 ,  New , Sealed "
+    category: Wireless Speakers
+    variants:
+      - id: 913
+        price: 99.95
+        image: images/max100.webp
+        color: Black
+      - id: 914
+        color: Red
+        price: 99.95
+        image: images/max1090red.jpeg
+      - id: 915
+        color: Blue
+        price: 99.95
+        image: images/max110-blue.webp
+  - description: >-
+      The Maxpower Rock On (MPD-321)
+
+      is an ultra-portable, clip-on Bluetooth speaker built for on-the-go activities like hiking, camping, or poolside use. Unlike the larger karaoke systems, it features a rugged, water-resistant design with a built-in carabiner-style clip for easy attachment to gear. 
+
+      Technical Specifications
+
+          Audio Power: 5 Watts of peak audio power handling.
+          Connectivity:
+              Bluetooth 5.3 for wireless streaming.
+              TWS Function: Allows you to pair two MPD-321 speakers together for stereo sound.
+              Inputs: Supports USB and AUX inputs.
+          Battery & Charging:
+              500 mAh integrated rechargeable battery.
+              Type-C charging input (charging wire included).
+    name: "Maxpower Rock On Speaker  ,  New , Sealed "
+    category: Wireless Speakers
+    id: 305
+    variants:
+      - id: 916
+        color: Red
+        price: 99.95
+        image: images/rock101-red.jpg
+      - id: 917
+        color: Black
+        price: 99.95
+        image: images/rock100-black.webp
+      - price: 99.95
+        color: Gray
+        id: 918
+        image: images/rock102-gray.jpg
+      - id: 919
+        color: Blue
+        price: 99.95
+        image: images/rock104-blue.jpg
+  - name: "Maxpower Atom Speaker  ,  New , Sealed "
+    category: Wireless Speakers
+    id: 306
+    description: >-
+      The Maxpower MPD375 ATOM is a compact, cylindrical portable speaker built
+      for both indoor and outdoor use. Its design emphasizes durability,
+      featuring a splash-proof and dust-proof exterior. 
+
+      Key Technical Specifications
+
+          Audio Performance: Delivers loud and clear stereo sound with a focus on deep bass.
+          Connectivity:
+              Equipped with Bluetooth 5.3 for stable wireless connections.
+              Includes a built-in FM radio tuner.
+              Features a built-in microphone for hands-free calling with Caller ID support.
+          Battery & Power:
+              Uses a 1200 mAh rechargeable battery.
+              Charges via a modern Type-C port (charging cable included).
+          Visuals & Size: Integrated LED light effects sync with your music. The unit measures approximately 8" x 3" x 2.8".
+    variants:
+      - id: 920
+        color: Black
+        price: 99.95
+        image: images/max101.webp
+      - id: 921
+        color: Red
+        price: 99.95
+        image: images/max111-red.webp
+  - name: " Maxpower Portable Speaker   ,  New , Sealed        "
+    description: >-
+      The Maxpower MC591
+
+      is a compact portable speaker designed for outdoor and travel use, featuring an 8W output and diverse connectivity options. 
+
+      Technical Specifications
+
+          Audio Output: 8W power.
+          Connectivity: Bluetooth wireless streaming, AUX (3.5mm) external audio input, and built-in FM Radio.
+          Sound Features: "Clear and loud" sound profile with TWS (True Wireless Stereo) function for pairing two units.
+          Smart Integration: Some models listed on eBay are described as Alexa Compatible smart speakers.
+          Power: Powered via DC 5V input; includes a charging wire.
+          Dimensions: 9.5” x 4” x 4.5”.
+          Available Colors: Black, Blue, and Red. 
+
+      Design Variations
+
+      In addition to the standard portable box design available at MaxPower, there is a discontinued Silver SUV replica version of the MC591
+
+      . This specialty model includes: 
+
+          Automotive-inspired design with luxury styling.
+          Rare LED headlights and taillights.
+          Built-in MP3 player (USB/SD) and FM radio. 
+    category: Wireless Speakers
+    id: 307
+    variants:
+      - id: 922
+        color: Black
+        price: 109.95
+        image: images/bluetoothsuv-black.webp
+      - id: 923
+        color: Red
+        price: 109.95
+        image: images/bluetoothtruck-red.webp
+  - name: Audiobox Retro Ride Truck Speaker , New ,Sealed
+    category: Wireless Speakers
+    description: >-
+      The Audiobox Retro Ride TKR-6500BT
+
+      is a multifunctional Bluetooth speaker designed as a 1965 classic muscle car replica. It features moving wheels, LED headlights/taillights, and a sound-enhancing bass radiator. 
+
+      Key Specifications
+
+          Audio Output: 10 watts RMS power with a 3-inch full-range driver.
+          Connectivity: Bluetooth wireless streaming (30-ft range), USB port, microSD (TF) card slot, and a 3.5 mm auxiliary input.
+          WaveSync™ Technology: Allows you to pair two speakers together for true wireless stereo sound.
+          Battery: Built-in 3.7V 1,500-mAh rechargeable lithium-ion battery.
+          Radio: Includes a built-in FM radio receiver.
+          Dimensions & Weight: Approximately 10.25" x 3.75" x 3" and weighing about 1.5 lbs. 
+    variants:
+      - id: 924
+        color: Black
+        price: 109.95
+        image: images/bluetoothtruck1-black.jpg
+    id: 308
+  - id: 309
+    name: Wooof Bulldog Style Bluetooth Speaker , New ,  Sealed
+    description: |-
+      Portable Speaker
+      FM Radio
+      Ready to connect to any smart device
+      Dog collar chain included
+      Input: DC 5V
+      Ready to Connect to any Smart device
+      Use indoors or outdoors
+      Clear & loud Sound
+      Comes along with a charging wire
+      Dog collar chain included
+      Dimensions: 14. 
+    category: Wireless Speakers
+    variants:
+      - id: 925
+        color: Black
+        price: 109.95
+        image: images/prolspeaker102.webp
+  - description: >-
+      The BT Speaker AN-A7 is a specialty portable speaker characterized by its
+      Tesla Cybertruck car-shaped design and integrated utility features like a
+      wireless charger. 
+
+      Technical Specifications
+
+      Based on documentation from Alibaba, the AN-A7 features:
+
+          Audio Output: 10W total power (often delivered via dual 5W drivers).
+          Wireless Charging: Built-in 15W Qi-compatible wireless charging pad located on the "roof" of the truck.
+          Battery: 2000mAh rechargeable battery (3.7V).
+          Playtime: Approximately 4 to 5 hours, depending on volume and use of LED lights.
+          Connectivity: Bluetooth 5.2, USB drive support, TF (MicroSD) card slot, 3.5mm AUX input, and FM radio.
+          Design Details:
+              Dimensions: Roughly 280 x 100 x 98 mm.
+              Weight: Approximately 610g.
+              Lighting: Built-in RGB LED lights. 
+
+      Special Functions
+
+          TWS (True Wireless Stereo): Allows you to pair two AN-A7 speakers together to create a left/right stereo channel setup.
+          Hands-free Calling: Includes a built-in microphone for answering phone calls directly through the speaker. 
+    name: BT Speaker AN-A7  , New ,  Sealed
+    category: Wireless Speakers
+    id: 310
+    variants:
+      - id: 926
+        color: Pink
+        price: 99.95
+        image: images/suv-pink.webp
+      - color: Silver
+        id: 927
+        price: 99.95
+        image: images/bluetoothtruck-silver.jpg
+      - price: 99.95
+        color: Black
+        id: 928
+        image: images/suv-black.webp
+  - name: YE-2820 Bass Party Speaker , New , Sealed
+    id: 311
+    category: Wireless Speakers
+    description: >+
+      The YE-2820
+
+      is a high-power, portable trolley speaker system designed for outdoor events and karaoke. It typically features a 100W output power and a dual-woofer configuration for enhanced bass. 
+
+      Technical Specifications
+
+      According to Alibaba, the YE-2820 specifications include:
+
+          Output Power: 100 Watts.
+          Speaker Units: Dual 8-inch woofers with a dedicated tweeter.
+          Frequency Range: 20Hz – 58Hz.
+          Battery: 7.4V 4500mAh rechargeable lithium battery.
+          Cabinet Material: Constructed from a combination of plastic and wood for improved sound resonance.
+          Connectivity: Bluetooth, USB, SD card, FM radio, and digital display. 
+
+      Key Features
+
+          Karaoke Ready: Includes a wired or wireless microphone and a dedicated 1/4" microphone jack.
+          Portable Design: Built with a trolley handle and wheels for easy transport to outdoor parties or stages.
+          Audio Recording: Features a REC (Recording) function to save audio directly to a USB or SD card.
+          Visual Effects: Built-in RGB LED lights for a synchronized party atmosphere. 
+
+    variants:
+      - id: 929
+        color: Black
+        price: 299.95
+        image: images/prospeaker101.webp
+  - id: 312
+    description: >-
+      The GY-8821
+
+      (often branded as Baoend) is a powerful dual-woofer portable trolley speaker designed for karaoke and outdoor parties. 
+
+      Technical Specifications
+
+      According to manufacturer listings on Alibaba and retailer sites like Lazada, the key specs include:
+
+          Audio Output: 20W to 30W RMS (advertised as 6000W P.M.P.O. peak power).
+          Speaker Units: Dual 8.5-inch woofers.
+          Frequency Response: 100Hz – 20KHz.
+          Battery: 3.7V rechargeable lithium battery with capacities ranging from 2400mAh to 4500mAh depending on the specific sub-model.
+          Playtime: Approximately 3 to 4 hours on a single charge.
+          Connectivity: Bluetooth 5.0/5.3, USB port, TF (MicroSD) card slot, 3.5mm AUX input, and FM radio.
+          Dimensions: Roughly 280 x 282 x 815 mm.
+          Weight: Approximately 4.7 kg to 5.85 kg. 
+
+      Key Features
+
+          Karaoke Support: Includes a dedicated microphone input; many models come bundled with a wireless microphone and a remote control.
+          TWS (True Wireless Stereo): Allows pairing with a second GY-8821 unit for a dual-speaker stereo setup.
+          Visuals: Integrated RGB LED lights on the front grille for a "disco" effect.
+          Portability: Features a trolley handle and wheels for easier transport despite its large size. 
+    name: " Portable Audio Speaker GY-8821s , New , Sealed"
+    category: Wireless Speakers
+    variants:
+      - id: 930
+        color: " Black"
+        price: 239.95
+        image: images/jbl103.webp
+  - name: WGY-868 Portable Speakers , New , Sealed
+    id: 313
+    description: >-
+      WGAOYANG WGY-868 Bluetooth Speakers
+
+      Battery: Yes
+
+      Number of Loudspeaker Enclosures: 1
+
+      Output Power: 30W
+
+      Cabinet Material: Plastic
+
+      Microphone Support: Wireless connection support
+
+      Bluetooth Standard: Bluetooth v5.0
+
+      Channels: 2 (2.0)
+
+      Other Features:
+
+      App Support: No
+
+      Remote Control: Yes
+
+      Built-in Microphone: No
+
+      LED Lighting: RGB
+
+      Power Source: Battery, AC
+
+      Woofer/Full-Range Size: 8"
+
+      Special Feature: Colorful LED lights
+
+      Connectivity: AUX, USB, Bluetooth
+
+      PMPO: >1000W
+
+      Memory Card Support: Yes
+
+      Frequency Range: 100Hz - 20kHz
+
+      Display Screen: Yes
+
+      Voice Control: No
+
+      Tweeter Type: Horn Tweeter
+
+      Custom Mold: Yes
+
+      Battery Charging Time: 5-7 hours
+
+      Estimated Battery Life: 5-10 hours
+
+      Supported Audio Codecs: MP3
+
+      Includes Handheld Microphone: Yes, 1 microphone included
+
+      Product Details:
+
+      Brand: OEM
+
+      Model: WGY-868
+
+      Intended Use: Home Theatre, Portable Audio Player, Mobile Phone, Karaoke Player, Computer, Stage, Outdoor, Party
+
+      Feature: Super Bass Stereo Sound
+
+      Product Name: Wooden Party Speaker
+
+      Function: Wireless Microphone
+
+      Keyword: Loudspeaker
+
+      Supported Formats: FM, USB, SD, MMC, DVD, PC, MP3, MP4, Mobile Phone
+
+      Recommended Usage: Outdoor Activities
+
+      Design Style: Fashion Portable Wireless Speaker
+
+      Item Name: DJ Power Amplifier
+
+      Application: Party Disco
+
+      Packaging Details:
+
+      Units per Sale: Single item
+
+      Package Size: 55 x 43 x 58 cm
+
+      Gross Weight per Unit: 14 kg
+    category: Wireless Speakers
+    variants:
+      - id: 931
+        color: Black
+        price: 259.95
+        image: images/prospeaker103.webp
+  - name: WGY-5058 Karaoke Trolley Speaker , New , Sealed
+    category: Wireless Speakers
+    description: >+
+      WGAOYANG Super Bass 8" x2 Woofer
+
+
+      App Support: No
+
+      Remote Control: Yes
+
+      Built-in Microphone: No
+
+      LED Lighting: RGB
+
+      Power Source: Battery, DC
+
+      Woofer/Full-Range Size: 8 inches
+
+      Special Feature: Colorful LED lights
+
+      Connectivity: AUX, USB, Bluetooth
+
+      PMPO: >1000W
+
+      Supports Memory Card: Yes
+
+      Frequency Range: 100Hz - 20kHz
+
+      Display Screen: Yes
+
+      Voice Control: No
+
+      Tweeter Type: Horn Tweeter
+
+      Custom Design: Yes
+
+      Brand: OEM
+
+      Model: WGY5058
+
+      Intended Use: Home Theatre, Portable Audio Player, Mobile Phone, Karaoke Player, Computer, Stage, Outdoor, Party
+
+      Audio Crossover: Two-Way
+
+      Product Name: Portable Bluetooth Speaker
+
+      Main Function: Music Playback
+
+      Keyword: Loudspeaker
+
+      Supports: FM, USB, SD Card, MMC, DVD, PC, MP3, MP4, Mobile Phone
+
+      Recommended Use: Outdoor Activities
+
+      Usage: Outdoor
+
+      Design Style: Portable Outdoor Party Speaker
+
+      Special Feature: Compatible with Mobile Phones
+
+      Product Name: Portable Outdoor Karaoke Speaker
+
+      Item Type: DJ Sound Box
+
+      Packaging Details:
+
+      Units per Sale: Single item
+
+      Package Size: 41 x 41 x 83cm
+
+       
+    id: 314
+    variants:
+      - id: 932
+        color: Black
+        price: 279.95
+        image: images/prospeaker10.webp
+  - name: Maxpower  DJ Wooper Speaker , New , Sealed
+    description: >+
+      The MAXPOWER MPD1234B DJ Wooper
+
+      is a high-powered, portable Bluetooth karaoke speaker featuring dual 12-inch woofers and dual 1-inch tweeters. It is primarily designed for high-energy entertainment, highlighted by its signature dancing disco ball and LED digital display. 
+
+      Key Specifications
+
+          Audio Setup: Dual 12" woofers and dual 1" tweeters with an impedance of 4 OHM.
+          Connectivity: Supports Bluetooth, USB and SD card slots, FM radio, and MP3/WMA playback.
+          Inputs: Includes two microphone inputs and one guitar input for live performances.
+          Portability: Built as a trolley-style speaker with wheels and a weight of approximately 48.4 lbs.
+          Power: Features a built-in rechargeable battery and high-power output capability. 
+
+      Included Accessories 
+
+      The system typically comes as a complete kit for immediate use, including: 
+
+          One wired microphone.
+          A remote control for easy adjustments from a distance.
+          Integrated dancing disco ball for visual party effects. 
+
+    category: Wireless Speakers
+    id: 315
+    variants:
+      - id: 933
+        color: Black
+        price: 319.95
+        image: images/prospeaker-106.jpg
+  - description: >-
+      The Ultimate Ears (UE) Boom 3
+
+      is a rugged, cylindrical portable Bluetooth speaker designed for high-intensity outdoor use. It is well-regarded for its 360-degree immersive sound, extreme durability, and the fact that it floats in water. 
+
+      Key Specifications
+
+          Audio Output: 90 dB maximum sound level with two 2" full-range drivers and two 2" x 4" passive radiators.
+          Battery Life: Up to 15 hours on a single charge.
+          Durability: IP67 rating (waterproof and dustproof); can be submerged in 1 meter of water for 30 minutes.
+          Wireless Range: Up to 150 feet (45 meters) via Bluetooth.
+          Charging: Uses Micro-USB; also compatible with the POWER UP charging dock (sold separately). 
+
+      Standout Features
+
+          Magic Button: A top-mounted button for one-touch control to play, pause, and skip tracks directly on the speaker.
+          PartyUp: Allows you to pair over 150 speakers (any generation of Boom or Megaboom) through the Ultimate Ears App.
+          Indestructible Build: Wrapped in a high-performance, two-tone fabric engineered for extreme use, such as motorcycle jackets and fire equipment
+    name: Ultimate Ears Boom 3 Speaker , New , Sealed
+    category: Wireless Speakers
+    id: 316
+    variants:
+      - id: 934
+        color: Black
+        price: 199.95
+        image: images/uespeaker-black.jpg
+      - id: 935
+        color: Blue
+        price: 199.95
+        image: images/uespeaker-blue.webp
+  - id: 317
+    name: Ultimate Ears Megaboom 3 Speaker  , New , Sealed
+    category: Wireless Speakers
+    description: >-
+      The Ultimate Ears (UE) Megaboom 3
+
+      is a larger, more powerful version of the Boom 3, specifically engineered for "thundering bass" and higher volume levels. It maintains the same rugged, IP67 waterproof and dustproof rating—and it even floats in water—making it a popular choice for pool parties and outdoor adventures. 
+
+      Key Specifications
+
+          Audio Output: 90 dBC maximum sound level with two 2" full-range drivers and two 2.2" x 3.4" passive radiators.
+          Battery Life: Up to 20 hours of playback on a single charge.
+          Dimensions: Approximately 8.9" tall and 3.4" wide, weighing about 2.04 lbs.
+          Connectivity: Bluetooth with a range of up to 150 feet (45 meters). 
+
+      Notable Features
+
+          The Magic Button: A top-mounted button for one-touch play, pause, and skipping. You can also program it to launch specific playlists from services like Apple Music or Spotify via the app.
+          PartyUp Mode: Allows you to pair over 150 speakers (including any generation of Boom or Megaboom
+          ) for massive surround sound.
+          Charging Options: Charges via Micro-USB or the optional POWER UP charging dock.
+          Durability: Built to survive drops from up to 1 meter and withstand 25+ rigorous durability tests. 
+
+      Pricing & Retailers
+    variants:
+      - id: 936
+        color: Black
+        price: 209.95
+        image: images/uespeaker-black.jpg
+  - name: " Dolphin Diver Sport Speaker  , New , Sealed"
+    category: Wireless Speakers
+    description: >-
+      The Dolphin Diver Sport (DR-60)
+
+      is a 30-watt waterproof portable Bluetooth speaker specifically designed for outdoor activities like hiking, pool parties, or beach trips. It is frequently praised for its rugged, IPX6-rated waterproof build and built-in WaveSync technology, which allows you to pair two units for a stereo sound experience. 
+
+      Key Specifications
+
+          Audio Power: 30W RMS output through dual 3-inch full-range drivers.
+          Battery: 4,500 mAh rechargeable lithium-ion battery, providing up to 12 hours of playtime.
+          Durability: IPX6 waterproof rating (resistant to high-pressure water streams and splashes).
+          Connectivity: Bluetooth, USB, microSD (TF) card, FM Radio, and 3.5mm AUX input.
+          Dimensions: Approximately 9.1" W x 4.3" H x 4" D; weighs about 1.5 lbs. 
+
+      Main Features
+
+          Visual Flair: Features flashing RGB LED lights on the sides with a dedicated on/off switch.
+          Elastic Carry Handle: A flexible handle integrated into the design for easy portability during adventures.
+          USB-C Charging: Modern charging port that typically fully recharges the device in about 2 hours. 
+    id: 318
+    variants:
+      - id: 937
+        color: Black
+        price: 99.95
+        image: images/dol101.jpg
+  - description: >+
+      The Dolphin Diver Sport Mini (DR-30)
+
+      is a compact, 15-watt waterproof Bluetooth speaker designed for portability and outdoor use. It is a smaller, more budget-friendly alternative to the DR-60, offering similar rugged features in a handheld size. 
+
+      Key Specifications
+
+          Audio Power: 15W RMS output from a single 3-inch full-range driver.
+          Battery Life: Up to 7 hours of playtime at medium volume.
+          Durability: IPX6 waterproof rating, making it safe for use by the pool or at the beach.
+          Dimensions: Roughly 6.5" H x 3.5" W x 3.5" D; weighs approximately 1.1 to 1.2 lbs.
+          Connectivity: Bluetooth 5.3, USB, microSD card (up to 64GB), FM radio, and 3.5mm AUX input. 
+
+      Standout Features
+
+          WaveSync Technology: Allows you to wirelessly pair two DR-30 speakers for a true stereo experience.
+          Visual Atmosphere: Includes flashing side RGB LED lights with a dedicated physical switch to turn them off.
+          Portability: Equipped with a built-in flexible elastic handle for carrying or hanging on a backpack.
+          Fast Charging: Uses a modern USB-C port for recharging. 
+
+    name: Dolphin Diver Sport Mini  , New , Sealed
+    id: 319
+    category: Wireless Speakers
+    variants:
+      - id: 938
+        color: Black
+        price: 95.95
+        image: images/dol102.webp
+  - name: " Dolphin Diver Mini  , New , Sealed"
+    id: 320
+    category: Wireless Speakers
+    price: 95.95
+    description: >-
+      The Dolphin Diver Mini (DR-20)
+
+      is an ultra-compact, 20-watt waterproof Bluetooth speaker designed for maximum portability in wet environments like showers, pools, or beaches. It is the smallest entry in the Diver series, offering a simplified, lightweight design compared to the larger DR-30 and DR-60 models. 
+
+      Key Specifications
+
+          Audio Output: 20W RMS power delivered via a 52mm dynamic driver.
+          Battery Life: Up to 10 hours of continuous playtime from an 1800mAh or 1200mAh lithium-ion battery (depending on the specific production batch).
+          Durability: IPX7 waterproof rating, meaning it can be submerged in up to 1 meter of water for 30 minutes.
+          Connectivity: Bluetooth 5.3 for stable wireless streaming, plus support for USB, microSD card, and 3.5mm AUX input.
+          Dimensions: Approximately 6.5" H x 3" W x 2" D; weighs about 0.8 to 0.9 lbs. 
+
+      Main Features
+
+          WaveSync Technology: Allows you to wirelessly pair two DR-20
+          units to create a wider stereo soundstage.
+          Hands-Free Calling: Includes a built-in HD microphone, letting you answer calls directly from the speaker while in the shower or pool.
+          Tough Exterior: Encased in a durable, rubber-coated silicone cover that helps it float and protects against drops.
+          Portable Extras: Typically comes with a hand strap or wrist strap for easy attachment to gear. 
+    variants:
+      - id: 939
+        color: Black
+        price: 95.95
+        image: images/dol100.webp
+  - description: >+
+      The Skullcandy Kilo
+
+      is a compact, ultra-portable Bluetooth speaker designed for rugged outdoor use. It is known for its exceptionally long battery life and integrated clip-on design, making it a direct competitor to travel speakers like the JBL Clip series. 
+
+      Key Specifications
+
+          Audio Output: 7-watt output with a 1.75-inch full-range driver and a downward-firing passive radiator for enhanced bass.
+          Battery Life: Up to 24 hours on a single charge—significantly higher than many competitors in its size class.
+          Durability: IPX7 waterproof rating, allowing it to be submerged in 1 meter of water for 30 minutes.
+          Connectivity: Uses Bluetooth 5.3 for stable wireless streaming up to 33 feet.
+          Weight: Approximately 0.6 lbs (274g), making it easy to carry. 
+
+      Main Features
+
+          Integrated Carabiner: Includes an aluminum anodized carabiner and built-in nylon strap to easily attach to backpacks, bikes, or shower hooks.
+          True Wireless Stereo (TWS): You can pair two Kilo speakers together to create a full stereo sound experience.
+          Impact Resistance: Features a rugged, drop-resistant housing suitable for hiking, camping, and beach trips.
+          Simple Controls: Front-facing buttons for power, pairing, volume, and track skipping. 
+
+    name: Skull candy Kilo Speaker , New , Sealed
+    id: 321
+    category: Wireless Speakers
+    variants:
+      - id: 940
+        color: Black
+        price: 139.95
+        image: images/skull100-black.jpg
+  - name: Skullcandy Ounce+ Speaker, New , Sealed
+    category: Wireless Speakers
+    description: >-
+      The Skullcandy Ounce+
+
+      is an ultra-portable, weather-resistant mini speaker released as an upgraded version of the standard Ounce. The primary "plus" feature is the wireless linking system, which allows you to sync two Ounce+ speakers for a true stereo sound experience. 
+
+      Key Specifications
+
+          Audio Output: 20W peak power (5W RMS) with a 1.75-inch full-range driver and a downward-firing passive radiator for surprisingly deep bass for its size.
+          Battery Life: Up to 16 hours on a single charge.
+          Durability: IPX7 waterproof rating (can be submerged in up to 1 meter of water for 30 minutes) and impact-resistant construction.
+          Connectivity: Bluetooth 5.3 with a range of up to 33 feet (10 meters).
+          Charging: Modern USB-C charging port. 
+
+      Main Features
+
+          Ultra-Portable Design: Weighing only ~184g, it includes a built-in ballistic nylon carry strap to easily attach to backpacks, bikes, or golf bags.
+          True Wireless Stereo (TWS): Connect two Ounce+ speakers wirelessly to play music in full stereo.
+          Simple Controls: Features classic physical buttons for power, volume adjustment, and track control. 
+    id: 322
+    variants:
+      - id: 941
+        color: Blue
+        price: 99.95
+        image: images/skull101-blue.webp
+      - id: 942
+        color: Pink
+        price: 99.95
+        image: images/skull102-pink.webp
+      - id: 943
+        color: Black
+        price: 99.95
+        image: images/skull1001-black.webp
+  - id: 323
+    name: Motorola Moto Razr XT2323-2 , 128GB ,  Unlocked , A+ Grade Open Box ,
+      Preowned
+    category: Pre-Owned Phones & Tablets
+    description: >+
+      The Motorola razr (2023)
+
+      , model XT2323-2
+
+      , is a mid-range foldable phone featuring a large inner display and a smaller "ticker" style outer screen. Its core specifications include the Snapdragon 7 Gen 1 chipset and a 4200mAh battery, which is larger than the battery found in its "plus" sibling. 
+
+      Core Specifications
+
+      Feature 	Details
+
+      Main Display	6.9" pOLED, FHD+ (2640 x 1080), 144Hz refresh rate
+
+      External Display	1.5" OLED, 194 x 368 resolution
+
+      Processor	Qualcomm Snapdragon 7 Gen 1
+
+      Memory/Storage	8GB RAM with 128GB or 256GB internal storage
+
+      Main Camera	Dual: 64MP (wide) with OIS + 13MP (ultrawide/macro)
+
+      Front Camera	32MP (wide)
+
+      Battery & Charging	4200mAh; 30W wired, 5W wireless charging
+
+      Durability	IP52 water-repellent design; vegan leather finish
+
+      Key Features
+
+          Freestanding Use: The "Flex View" hinge allows the phone to stand on its own at various angles for selfies or video calls.
+          Compact Design: When closed, the device measures approximately 88.42 x 73.95 x 15.8 mm, making it easily pocketable.
+          Audio: Equipped with dual stereo speakers featuring Dolby Atmos for spatial sound.
+          Connectivity: Supports 5G, Wi-Fi 6E, Bluetooth 5.3, and NFC.
+          Security: Side-mounted fingerprint reader and face unlock capabilities. 
+
+    variants:
+      - id: 944
+        color: Green
+        price: 379.95
+        image: images/motog-green.webp
+  - id: 324
+    description: >-
+      The L1BRE H100
+
+      (v3) is a budget-focused 10.1-inch tablet primarily used for basic educational tasks and simple media consumption. 
+
+      Detailed Specifications
+
+      Feature 	Specification
+
+      Display	10.1" HD IPS, 1280 x 800 resolution
+
+      Processor	1.3 GHz Quad-Core, MediaTek MT8163
+
+      RAM	1 GB
+
+      Internal Storage	16 GB
+
+      Expandable Storage	MicroSD slot (up to 32 GB supported)
+
+      Operating System	Android 8.1 Oreo
+
+      Cameras	5 MP Front-facing; No Rear Camera on many units
+
+      Battery	3,000 mAh
+
+      Connectivity	WiFi + Cellular (Standard SIM) or WiFi-only models
+
+      Key Considerations
+
+          Performance: With only 1GB of RAM, this tablet is significantly limited for modern multitasking and may experience lag with current versions of heavy apps like YouTube or Chrome.
+          Target Audience: Its specs align with entry-level needs, such as a starter tablet for children or a dedicated station for a single lightweight application.
+          Charging: The device typically uses a Micro-USB port for charging and data transfer. 
+    name: L1BRE H100  Tablet , 16GB ,  10.1-inch , WIFI Only  ,Handset Only
+      ,   Pre-Owned
+    category: Pre-Owned Phones & Tablets
+    variants:
+      - id: 945
+        color: Black
+        price: 159.95
+        image: images/l1bre_100_tablet__07382.webp
+  - name: Samsung Galaxy A14, 64GB  ,5G ,  Unlocked , New ,  Sealed
+    id: 325
+    category: Phones
+    description: >-
+      The Samsung Galaxy A14 is available in two main versions: 4G (LTE) and 5G.
+      They look nearly identical but have different processors, screen refresh
+      rates, and camera setups. 
+
+      Quick Comparison of Specs
+
+      Feature 	Galaxy A14 (4G)	Galaxy A14 5G
+
+      Display	6.6" FHD+ (60Hz)	6.6" FHD+ (90Hz)
+
+      Processor	Helio G80 or Exynos 850	Dimensity 700 or Exynos 1330
+
+      RAM	4GB / 6GB	4GB / 6GB / 8GB
+
+      Storage	64GB / 128GB (Expandable)	64GB / 128GB (Expandable)
+
+      Main Camera	50MP + 5MP (Ultrawide) + 2MP	50MP + 2MP (Macro) + 2MP (Depth)
+
+      Selfie Camera	13MP	13MP
+
+      Battery	5000mAh (15W charging)	5000mAh (15W charging)
+
+      Biometrics	Side Fingerprint Sensor	Side Fingerprint Sensor
+
+      Key Differences to Note
+
+          The Screen: The 5G model feels smoother when scrolling thanks to its 90Hz refresh rate.
+          The Cameras: If you like taking landscape photos, the 4G model is actually better because it includes an Ultrawide lens, which the 5G model lacks.
+          Performance: The 5G model uses a significantly faster processor, making it much better for gaming and multitasking.
+          Headphone Jack: Both models still include the 3.5mm headphone jack. 
+    variants:
+      - id: 946
+        color: Black
+        price: 279.95
+        image: images/a14_black__08147 (1).jpg
+  - id: 326
+    name: Samsung Galaxy A42 , 5G , 128GB ,  Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      The Samsung Galaxy A42 5G
+
+      is a mid-range smartphone that stands out for its exceptional battery life and strong 5G performance relative to its class. Originally released in late 2020, it remains a capable choice in 2026 for users who prioritize longevity over high-resolution displays. 
+
+      Core Specifications
+
+      Feature 	Details
+
+      Display	6.6" Super AMOLED, HD+ (720 x 1600), 60Hz
+
+      Processor	Qualcomm Snapdragon 750G 5G
+
+      RAM / Storage	4GB, 6GB, or 8GB RAM; 128GB Storage (expandable to 1TB)
+
+      Rear Cameras	48MP Wide, 8MP Ultrawide, 5MP Macro, 5MP Depth
+
+      Selfie Camera	13MP or 20MP (varies by region/carrier)
+
+      Battery	5000mAh with 15W Fast Charging
+
+      Key Highlights
+
+          Battery Performance: One of its strongest features, typically lasting up to two days on a single charge.
+          Design: Features a unique "Prism Dot" finish with four shaded blocks on the back.
+          5G Connectivity: Supports both Sub-6 and mmWave 5G on specific carrier models like Verizon.
+          Utility: In
+    variants:
+      - id: 947
+        color: Black
+        price: 339.95
+        image: images/galaxya42-black.webp
+  - name: Samsung Galaxy A35, 5G , 128GB , Unlocked , New ,Sealed
+    id: 327
+    category: Phones
+    description: >-
+      The Samsung Galaxy A35 5G
+
+      (128GB) is a durable mid-range smartphone released in early 2024, featuring a premium glass back and a vibrant 120Hz Super AMOLED display. 
+
+      Core Specifications
+
+      Feature 	Details
+
+      Display	6.6" FHD+ Super AMOLED, 120Hz, 1,000 nits brightness
+
+      Processor	Exynos 1380 (5nm Octa-core)
+
+      Memory/RAM	6GB or 8GB RAM (varies by model)
+
+      Main Camera	Triple: 50MP (Wide with OIS) + 8MP (Ultrawide) + 5MP (Macro)
+
+      Selfie Camera	13MP
+
+      Battery	5,000mAh with 25W Fast Charging
+
+      Durability	IP67 water and dust resistance; Gorilla Glass Victus+
+    variants:
+      - id: 948
+        color: Black
+        price: 379.95
+        image: images/galaxya35-black.webp
+  - id: 328
+    name: Foxx A56 Smart Phone ,  16GB  ,  4G , 5.5 inches , Unlocked , New , Sealed
+    description: >-
+      The current specifications for the FOXX A56
+
+      (2025/2026 model year) maintain its position as an ultra-budget 4G device, now running on the optimized Android 13 Go Edition. It is widely available in "new and sealed" condition from retailers like Amazon and Walmart. 
+
+      Updated Core Specifications
+
+      Feature 	New Specifications (2025-2026)
+
+      Operating System	Android 13 Go Edition
+
+      Display	5.5" HD Clear Display (720 x 1612), 90Hz refresh rate
+
+      Processor	1.4 GHz Quad-Core (Spreadtrum SC9832E)
+
+      RAM	2GB
+
+      Internal Storage	16GB
+
+      Expandable Storage	Up to 256GB via MicroSD (previously 64GB)
+
+      Cameras	5MP Main + 0.3MP Auxiliary / 2MP Front
+
+      Battery	2,000 mAh
+
+      Charging Port	USB Type-C
+
+      Design & Connectivity Changes
+
+          Tactile Improvements: The latest version features a "90Hz refresh rate" display, which is rare for this price point and provides a smoother visual experience compared to older 60Hz budget models.
+          Dual SIM: It supports Dual Nano-SIM slots, allowing you to manage two lines simultaneously.
+          Modern Port: It has transitioned to USB-C for charging, replacing the older Micro-USB standard seen on earlier budget iterations.
+          Carrier Support: It remains fully unlocked for major U.S. GSM carriers, including T-Mobile, AT&T, Boost Mobile, and Mint Mobile
+    category: Phones
+    variants:
+      - id: 949
+        color: Black
+        price: 169.95
+        image: images/foxx-black.webp
+  - id: 329
+    name: Google Pixel 5 , 128GB , Unlocked , Manufacturer Refurbished , Preowned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      The Google Pixel 5
+
+      , released in late 2020, remains a favorite for users who prefer a compact, lightweight phone with a durable metal build. As of April 2026, it is no longer receiving official software or security updates from Google, which is a critical consideration if you plan to use it for banking or sensitive data. 
+
+      Core Specifications
+
+      Feature 	Details
+
+      Display	6.0" Flexible OLED, FHD+ (1080 x 2340), 90Hz refresh rate
+
+      Processor	Qualcomm Snapdragon 765G 5G
+
+      Memory/Storage	8GB RAM with 128GB internal storage
+
+      Rear Cameras	12.2MP (Dual-pixel wide) + 16MP (Ultrawide)
+
+      Front Camera	8MP
+
+      Battery	4080 mAh; 18W wired, wireless, and reverse wireless charging
+
+      Durability	IP68 water and dust resistance; 100% recycled aluminum enclosure
+
+      Key Highlights in 2026
+
+          Compact Design: At just 151 grams, it is one of the lightest 5G Pixels and features perfectly symmetrical, thin bezels.
+          Biometrics: It features a highly reliable rear-mounted fingerprint sensor (Pixel Imprint), a design element replaced by in-display sensors in newer models.
+          Free Photo Storage: The Pixel 5
+          is the last flagship Pixel to offer unlimited "Storage Saver" backups on Google Photos, a major perk for heavy photographers.
+          Software Status: Its official support ended in October 2023 after receiving Android 14. While it still runs smoothly, it lacks the latest AI features found on Tensor-based chips. 
+    variants:
+      - id: 950
+        color: Green
+        price: 209.95
+        image: images/pixel5-green.webp
+      - id: 951
+        color: Black
+        price: 209.95
+        image: images/pixel5-black.webp
+  - id: 330
+    name: Eseekgo Power Bank , 20000 MAh P-22B , New , Sealed
+    category: Charger
+    description: >-
+      The ESEEKGO P-22B
+
+      is a 20,000mAh high-capacity power bank known for its integrated charging cables and ultra-fast 22.5W output. It is designed as an all-in-one travel companion, eliminating the need to carry separate cords for different devices. 
+
+      Key Specifications & Features
+
+          Capacity: 20,000mAh, capable of charging a standard smartphone approximately 4–6 times.
+          Charging Speed: Supports 22.5W ultra-fast charging and PD 20W Power Delivery for rapid top-ups.
+          Built-in Cables: Includes three integrated cables (typically USB-C, Lightning, and Micro-USB) for universal compatibility.
+          Port Selection: Equipped with a dual-purpose USB-C (input/output) port, plus standard USB-A outputs.
+          Digital Display: Features a precise LED screen that shows the exact remaining battery percentage.
+          Safety: Built with 10 layers of protection, including safeguards against over-charging, over-voltage, and short circuits.
+    variants:
+      - id: 952
+        color: Black
+        price: 99.95
+        image: images/eseekgo2-black.webp
+  - id: 331
+    name: Eseekgo Power Bank , 5000 MAh , New , Sealed
+    category: Charger
+    description: >-
+      The ESEEKGO P-05B
+
+      is a compact 5,000mAh magnetic power bank designed specifically for MagSafe-compatible iPhones (iPhone 12 and newer) and other Qi-enabled devices. Its primary focus is portability, offering a slim profile that snaps directly onto the back of your phone for "no-cable" emergency top-ups. 
+
+      Core Specifications
+
+          Capacity: 5,000mAh, which typically provides about one full charge for most standard smartphones.
+          Wireless Charging: Supports up to 15W super-fast magnetic wireless charging.
+          Dual Charging: Equipped with a bi-directional USB-C port, allowing you to charge one device wirelessly while charging a second device via a cable.
+          Fast Recharging: The power bank can be fully recharged in approximately 2.5 hours.
+          Safety Features: Includes built-in intelligent temperature control, overcharge protection, and short-circuit safeguards.
+    variants:
+      - id: 953
+        color: White
+        price: 89.95
+        image: images/eseekgo1-white.webp
+  - name: Eseekgo Power Bank , 10000 MAh , New , Sealed
+    id: 332
+    category: Charger
+    description: >-
+      The ESEEKGO P-15B
+
+      is a 10,000mAh magnetic wireless power bank designed for efficient, cable-free charging. It is a higher-capacity alternative to the slim P-05B, offering roughly 1.8 to 2 full charges for most smartphones. 
+
+      Key Features of the P-15B
+
+          Magnetic Snap-On: Uses a precise magnetic alignment system to lock onto iPhone 12–16 series and other Qi-compatible devices for consistent 15W wireless charging.
+          Dual Charging: Features a bi-directional USB-C port that supports up to 22.5W PD fast charging. You can charge one device wirelessly while using the cable for a second device.
+          Integrated Stand: Includes a built-in foldable stand that allows you to prop your phone up in portrait or landscape mode while charging.
+          Safety Protocols: Equipped with intelligent temperature control and protection against overcharging and short circuits.
+          Digital Display: A smart LED screen provides real-time updates on the exact battery percentage. 
+    variants:
+      - id: 954
+        color: White
+        price: 95.95
+        image: images/eseekgo1-white.webp
+  - id: 333
+    name: Anker Power Bank 622 Magnetic Battery ,New , Sealed
+    category: Charger
+    description: >-
+      The Anker 622 Magnetic Battery (MagGo)
+
+      is a compact 5,000mAh magnetic portable charger designed for iPhone 12 and newer models. It is widely recognized for its ultra-slim 0.5-inch profile and a built-in foldable kickstand that supports both portrait and landscape viewing. 
+
+      Key Specifications
+
+          Capacity: 5,000mAh, providing approximately 0.8 to 0.95 charges for standard iPhone 12/13 models.
+          Charging Output: Delivers up to 7.5W wireless charging for iPhones. Wired charging via the USB-C port supports up to 12W output.
+          Connectivity: Features a single USB-C (input/output) port located on the side, which allows for pass-through charging.
+          Design: Weighs only 140–142g and is available in multiple colors including Interstellar Gray, Misty Blue, and Lilac Purple.
+          Safety: Built with Anker's MultiProtect technology, providing temperature control and overcharge protection. 
+    variants:
+      - id: 956
+        color: Black
+        price: 109.95
+        image: images/anker-black.webp
+      - id: 957
+        color: White
+        price: 109.95
+        image: images/anker-white.webp
+  - id: 334
+    name: Anker Nano PowerBank 30W , 10,000 MAh , Built-in-USB-C Cable , New , Sealed
+    category: Charger
+    description: >-
+      The Anker Nano Power Bank (30W, A1259)
+
+      is a high-performance 10,000mAh portable charger featuring an integrated USB-C cable that doubles as a carrying strap. It supports 30W bi-directional fast charging, allowing it to charge an iPhone 14 to 50% in approximately 30 minutes. 
+
+      Technical Specifications
+
+          Capacity: 10,000mAh (74Wh).
+          Input (30W Max): USB-C cable or USB-C port: 5V⎓3A / 9V⎓3A / 15V⎓2A / 20V⎓1.5A.
+          Output (30W Max per port):
+              USB-C Cable/Port: 5V⎓3A / 9V⎓3A / 10V⎓2.25A / 12V⎓2.5A / 15V⎓2A / 20V⎓1.5A.
+              USB-A Port: 5V⎓3A / 9V⎓2A / 10V⎓2.25A / 12V⎓1.5A (Max 22.5W).
+              Total Output: 5V⎓4.8A (24W Max) when multiple ports are used simultaneously.
+          Charging Protocols: Power Delivery (PD), PPS, and PowerIQ 3.0.
+          Dimensions: 4.09 × 2.06 × 1.02 inches (104 × 52.3 × 26 mm).
+          Weight: 7.58 oz (215 g). 
+
+      Key Features
+
+          Integrated USB-C Cable: A 7.5-inch fixed cable designed for both charging devices and recharging the power bank.
+          Smart Color Display: Provides a real-time view of remaining battery percentage and full recharge time.
+          Trickle-Charging Mode: Specifically for low-power devices like AirPods; activated by double-pressing the power button.
+          Eco-Friendly Design: The exterior casing is made from 80% post-consumer recycled plastic (PCR). 
+    variants:
+      - id: 958
+        color: Black
+        price: 119.95
+        image: images/anker199-black.jpg
+  - name: Anker Prime Power Bank 200W , 20000 Mah , New , Sealed
+    id: 335
+    category: Charger
+    description: >-
+      The Anker Prime 20,000mAh Power Bank (200W)
+
+      is a premium, high-performance portable charger designed to power demanding devices like laptops and tablets alongside smartphones. It stands out for its massive 200W total output, allowing you to charge two laptops at 100W each simultaneously. 
+
+      Technical Specifications
+
+          Capacity: 20,000mAh (74Wh), which is TSA-approved for air travel.
+          Total Output: 200W combined across three ports.
+              USB-C 1/C 2: Up to 100W each (can output 100W + 100W simultaneously).
+              USB-A: Up to 65W max.
+          Input (Recharge): Supports 100W rapid recharging via USB-C, reaching a full charge in approximately 1 hour and 15 minutes.
+          Physical Specs: Compact at 4.9 × 2.1 × 1.9 inches and weighs roughly 1.19 lbs (540g). 
+
+      Key Features
+
+          Smart Digital Display: Features a vibrant color screen that provides real-time data on battery percentage, current input/output wattage, and estimated time to full recharge or depletion.
+          ActiveShield 2.0: An advanced safety system that monitors temperature millions of times per day to prevent overheating.
+          Magnetic Pogo Pins: Includes specialized pins on the bottom for use with the Anker 100W Charging Base (sold separately), allowing for wireless "drop-and-go" recharging.
+          App Control: Can be managed via the Anker app to check live stats and customize the display (note: some 200W versions may vary on Bluetooth availability).
+    variants:
+      - id: 959
+        color: Black
+        price: 169.95
+        image: images/anker-200-black.jpg
+      - price: 169.95
+        color: Champagne
+        id: 960
+        image: images/anker201-tan.webp
+  - name: Power Bank Ventev Powercell , 5200 Mah , New , Sealed
+    id: 336
+    category: Charger
+    description: >-
+      Ventev Powercell power banks
+
+      are designed as all-in-one travel companions, famously featuring integrated wall prongs and built-in cables so you can recharge both your phone and the battery pack without carrying extra gear. 
+
+      Comparison of Key Ventev Models
+
+      Powercell 10000+
+      	Powercell 6010+
+      	Powercell 5200
+      	Powercell 3015c
+      Capacity
+
+      10,000 mAh	
+
+      Capacity
+
+      6,000 mAh	
+
+      Capacity
+
+      5,200 mAh	
+
+      Capacity
+
+      3,000 mAh
+
+      Hardware
+
+      Folding AC Prongs	
+
+      Hardware
+
+      Folding AC Prongs	
+
+      Hardware
+
+      LED Indicator	
+
+      Hardware
+
+      Aluminum Shell
+
+      Integrated Cables
+
+      Lightning + Micro-USB	
+
+      Integrated Cables
+
+      USB-C or Lightning	
+
+      Integrated Cables
+
+      None (Detachable)	
+
+      Integrated Cables
+
+      Fixed Cable
+
+      Max Output
+
+      5.2A Total	
+
+      Max Output
+
+      12W (2.4A)	
+
+      Max Output
+
+      ~10W (2.1A)	
+
+      Max Output
+
+      7.5W (1.5A)
+
+      Top Features & Details
+
+          Travel Versatility: The 6010+
+          and 10000+
+          models act as both a battery and a wall charger. You can plug them directly into any standard AC outlet to recharge the unit in about 4–5 hours.
+          Integrated Cables: The 10000+
+          is a multi-device hub with built-in Lightning and Micro-USB cables. The 6010+
+          is sold in two versions: one with a built-in Lightning cable for Apple devices and another with USB-C.
+          Rapid Charging: Most models feature Auto Detect Technology, which identifies your device to deliver the fastest safe charging speed.
+          Smart Indicators: High-end models like the 10000+
+          include a digital LED display showing exact battery percentages, while others use 4-LED arrays to indicate charge levels. 
+    variants:
+      - id: 961
+        color: Black
+        price: 89.95
+        image: images/vent01-black.webp
+  - name: "Adata Power Bank  S10000D ,10,000 Mah , New , Sealed        "
+    category: Charger
+    description: >-
+      The ADATA S10000
+
+      is a slim, portable power bank with a 10,000mAh capacity, specifically designed for easy transport with a form factor roughly the same thickness as a smartphone. 
+
+      Key Specifications
+
+          Capacity: 10,000mAh (37Wh) using high-quality lithium polymer batteries.
+          Physical Profile: Ultra-slim at 14.8mm (0.58 inches) thick and weighs only 195g (6.88oz).
+          Dual Charging: Features two USB-A output ports with a combined maximum output of 2.1A, allowing you to charge two devices at once.
+          Input: DC 5V / 2.0A via a Micro-USB port.
+          Unique Feature: Includes an integrated hanging loop/mount built into the casing, making it easy to attach to bags or keychains for storage and carrying. 
+
+      Safety and Durability
+
+      The S10000
+
+      is built with a fire-resistant outer casing and features multiple layers of circuit protection, including: 
+
+          Over-charge and over-discharge protection.
+          Over-voltage and over-current protection.
+          Short-circuit and over-temperature protection. 
+    id: 337
+    variants:
+      - id: 970
+        color: Red
+        price: 99.95
+        image: images/adata100000-red.webp
+      - id: 971
+        color: Green
+        price: 99.95
+        image: images/adata100000-green.avif
