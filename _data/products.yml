@@ -53,12 +53,12 @@ products:
           Build Quality: Unlike many budget competitors, it uses an aluminum alloy body for a more durable and premium feel.
     image: ""
     variants:
-      - id: 818
+      - id: 50818
         color: Gray
         price: 249.95
         image: images/Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB Cellular, New,
           Sealed.jpg
-      - id: 819
+      - id: 50819
         color: Silver
         price: 249.95
         image: images/galaxytab11-siver.webp
@@ -147,11 +147,11 @@ products:
             fingerprint sensor, and facial recognition for security
     image: ""
     variants:
-      - id: 742
+      - id: 50742
         price: 219.95
         color: Black
         image: images/tecno_spark_go_1s_black__76702.jpg
-      - id: 834
+      - id: 50834
         color: White
         price: 219.95
         image: images/tecno1S-white.jpg
@@ -218,7 +218,7 @@ products:
             Display: A 6.67-inch IPS LCD with a 720p HD+ resolution and a smooth 120Hz refresh rate. Some variants may have a 6.6-inch screen with a 90Hz refresh rate and a 720p resolution. Performance: Powered by a MediaTek Helio G81 chipset (or G70 for some variants) and comes with up to 8GB of RAM, depending on the model. Virtual RAM expansion is also a feature. Camera: It has a dual-camera system on the back with a 50MP main sensor and an auxiliary lens. The front camera is 8MP and can shoot video at 1080p@30fps. Battery and charging: The device is powered by a large 5,000mAh non-removable battery and supports 18W wired charging. A full charge may take around 2 hours. Storage: The Spark 30C is available with different storage options, including 128GB and 256GB of internal storage, which is expandable via a microSDXC card. Audio: Includes a 3.5mm headphone jack and stereo speakers. Operating system: It runs on Android 14 with Tecno's HiOS skin. Some variants are specified with Android 12 and HiOS 8.6. Other features: The phone has a side-mounted fingerprint sensor, an IR blaster for controlling appliances, and an IP54 rating for dust and splash resistance
     image: ""
     variants:
-      - id: 741
+      - id: 50741
         price: 279.95
         color: Black
         image: images/tecno_spark_30c_black__28400.jpg
@@ -232,7 +232,7 @@ products:
             Display: 6.5-inch HD+ PLS LCD (1600 x 720 resolution) with a standard 60Hz refresh rate. Processor: MediaTek Helio P35 Octa-Core clocked at 2.3 GHz. Memory and storage: 3GB or 4GB of RAM and 32GB or 64GB of internal storage, expandable up to 1TB via a microSD card. Battery: 5,000mAh with 15W wired charging support. Rear cameras: Triple camera system with a 13MP main lens, a 2MP macro lens, and a 2MP depth sensor. Front camera: 5MP front-facing camera. Connectivity: 4G LTE, Wi-Fi 802.11 b/g/n, and Bluetooth 5.0. It also includes a 3.5mm headphone jack. Operating system: Launched with Android 11 and was upgradable to Android 13, but is no longer receiving major OS updates. Security: Side-mounted fingerprint sensor and facial recognition
     image: ""
     variants:
-      - id: 739
+      - id: 50739
         color: Black
         price: 209.95
         image: images/51m45B3Yy+L.jpg
@@ -247,7 +247,7 @@ products:
             Dimensions: 163.6 x 74.9 x 8.6 mm. Weight: 205.5 g. Display: 6.6-inch IPS LCD with a 120Hz refresh rate and 1612 x 720 HD+ resolution. Processor: Unisoc T760 (6nm). RAM: Up to 16GB dynamic RAM (6GB + 10GB extended). Storage: 256GB UFS 3.1. Rear Camera: Dual 108MP (wide) + 2MP (depth). Front Camera: 5MP (software-enhanced to 8MP). Battery: 5,000mAh with 22.5W fast charging. Operating System: Android 13 or 14, depending on the region. Connectivity: 5G, Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0, NFC. Ports: USB Type-C, 3.5mm audio jack. Other features: Side fingerprint sensor, Live Island interactive notification display.
     image: ""
     variants:
-      - id: 743
+      - id: 50743
         color: Black
         price: 289.95
         image: images/nabia_focus__55629.jpg
@@ -262,11 +262,11 @@ products:
             Dimensions: 166 x 76.1 x 8.5 mm. Weight: 206 g. Display: 6.72-inch IPS LCD with a 120Hz refresh rate and 1080 x 2400 FHD+ resolution. Processor: Unisoc T760 (6nm). Memory and storage: 8GB of LPDDR4X RAM with up to 12GB of additional dynamic RAM, and 256GB of UFS 3.1 storage. Rear cameras: Main: 108MP with f/1.7 aperture, Phase Detection Autofocus (PDAF), and Optical Image Stabilization (OIS). Ultrawide: 5MP. Depth: 2MP. Front camera: 32MP. Battery: 5,000mAh non-removable. Charging: 33W wired fast charging. Operating system: Launched with Android 13 and MyOS 13. Connectivity: 5G, Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.2, and NFC. Ports: USB Type-C, but no 3.5mm headphone jack. Additional features: Camera controls: A physical sliding shortcut key for quick access to camera functions and a capacitive capture button. Live Island: Interactive notification area for important alerts. Biometrics: Side-mounted fingerprint sensor
     image: ""
     variants:
-      - id: 824
+      - id: 50824
         color: Cream
         price: 369.95
         image: images/ztefocuspro-cream.webp
-      - id: 825
+      - id: 50825
         color: Black
         price: 369.95
         image: images/ztefocuspro-black.png
@@ -299,15 +299,15 @@ products:
             With iPadOS, run multiple apps at once, use Apple Pencil to write in any
             text field with Scribble, and edit and share photos.
     variants:
-      - id: 301
+      - id: 50301
         color: Blue
         price: 469.95
         image: images/Apple-iPad-A16-11th-Gen-Blue.jpg
-      - id: 302
+      - id: 50302
         color: Silver
         price: 469.95
         image: images/Apple-iPad-A16-11th-Gen-Silver.jpg
-      - id: 303
+      - id: 50303
         color: Pink
         price: 469.95
         image: images/Apple-iPad-A16-11th-Gen-Pink.jpeg
@@ -346,15 +346,15 @@ products:
             Design: Flip-style phone with a durable plastic body. Displays: Main Display: 2.8-inch TFT screen. External Display: 1.8-inch screen for viewing notifications, incoming calls, and messages without opening the phone. Camera: 2MP rear camera with flash. Memory: 64MB RAM and 128MB internal memory, expandable via a microSD card. Connectivity: Network: 4G LTE and VoLTE technology for clear calls. Wireless: Bluetooth. Ports: USB-C for charging. Special features: SOS button: A dedicated button for emergencies. Dual SIM: Supports two nano-SIM cards. Other features: FM radio. Compatibility: Works with GSM networks like T-Mobile and AT&T but is not compatible with the Verizon network.
     image: ""
     variants:
-      - id: 826
+      - id: 50826
         color: Black
         price: 129.95
         image: images/maxwest_vice_black__53943.jpg
-      - id: 827
+      - id: 50827
         color: Blue
         price: 129.95
         image: images/viceflip-blue.jpg
-      - id: 828
+      - id: 50828
         color: Silver
         price: 129.95
         image: images/viceflip-silver.jpg
@@ -368,7 +368,7 @@ products:
             Design and display: It features a 2.4-inch color display and a physical keypad. Durability: The phone is rugged, with a build that is resistant to water, dust, and shocks. It is designed for outdoor use or demanding job site conditions. Connectivity: This is a 4G LTE-enabled unlocked phone compatible with GSM carriers like T-Mobile and AT&T. Storage: The phone has only 128MB of internal storage, but can hold a microSD card of up to 32GB to store files. Special features: A standout feature is its 4000mAh battery that can be used as a power bank to charge other devices. It also includes a flashlight
     image: ""
     variants:
-      - id: 829
+      - id: 50829
         color: Black
         price: 129.95
         image: images/maxwest_ranger_black__72703.jpg
@@ -382,15 +382,15 @@ products:
             H2O and Ultra
     image: images/maxwest-NEO-M1-Mobile-aPhone-User-Manual_1-185x300.jpg
     variants:
-      - id: 830
+      - id: 50830
         color: Black
         price: 119.95
         image: images/maxwest-NEO-M1-Mobile-aPhone-User-Manual_1-185x300.jpg
-      - id: 831
+      - id: 50831
         color: Blue
         price: 119.95
         image: images/maxwestneo-blue.png
-      - id: 832
+      - id: 50832
         color: Gray
         price: 119.95
         image: images/maxwest_neo_m1__87766.jpg
@@ -424,7 +424,7 @@ products:
             Display: 6.78” HD+ TFT LCD, 20:9 aspect ratio, scratch-resistant glass. Network: 4G and 5G support. Battery: 5000mAh, non-removable, Quick Charge 3.0. Connectivity: Wi-Fi (2.4GHz and 5GHz), Bluetooth 5.0. Camera: Main: 48MP + 8MP + 2MP with flash. Front: 16MP. Speed & Power: Qualcomm Snapdragon® 750G. Memory: 6GB RAM, 64GB internal storage, Micro SD support up to 512GB.
     image: ""
     variants:
-      - id: 833
+      - id: 50833
         color: Black
         price: 199.95
         image: images/orbic_myra_5g__43224.jpg
@@ -441,7 +441,7 @@ products:
             User Experience Reviews of the Orbic TAB10R 5G UW (and the related Orbic Speed 5G hotspot) suggest a mixed user experience: Positive: Some users praise the fast 5G speeds, portability, and ease of setup. It’s seen as a reliable solution for those who need constant high-speed internet on the go. Negative: Other users report issues with battery life, random shutdowns, and connectivity problems, particularly in areas with competing Wi-Fi 6 devices. There have also been complaints about faulty batteries and difficulty obtaining replacements
     image: ""
     variants:
-      - id: 820
+      - id: 50820
         color: Black
         price: 219.95
         image: images/Orbic-Tab-10R-5G-Tablet-PRODUCT.webp
@@ -491,7 +491,7 @@ products:
             protective silicone case and screen protector
     image: ""
     variants:
-      - id: 821
+      - id: 50821
         color: Black
         price: 179.95
         image: images/sky_elite_oxtax_tab_wtihout_case__97220.jpg
@@ -523,10 +523,10 @@ products:
     variants:
       - price: 249.95
         color: Gray
-        id: 822
+        id: 50822
         image: images/Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB Cellular, New,
           Sealed.jpg
-      - id: 823
+      - id: 50823
         color: Silver
         price: 249.95
         image: images/galaxytab11-siver.webp
@@ -709,15 +709,15 @@ products:
             port or a micro-USB port.
     image: ""
     variants:
-      - id: 964
+      - id: 50964
         color: Black
         price: 109.95
         image: images/P20000QCD_Power_Bank_b__39361.jpg
-      - id: 965
+      - id: 50965
         color: Red
         price: 109.95
         image: images/adata-red.jpg
-      - id: 966
+      - id: 50966
         color: Blue
         price: 109.95
         image: images/adata-blue.webp
@@ -741,7 +741,7 @@ products:
           Compact Design: Extremely portable and "pocket-sized," often referred to as a "capsule" or "mini" power bank. 
     image: ""
     variants:
-      - id: 962
+      - id: 50962
         color: Black
         price: 89.95
         image: images/chargewox.webp
@@ -762,7 +762,7 @@ products:
           Durability: Built with impact-resistant or rubberized materials, they are designed to survive drops and light rain during activities like camping or hiking.
     image: ""
     variants:
-      - id: 963
+      - id: 50963
         color: Black
         price: 109.95
         image: images/chargewox-100.webp
@@ -787,7 +787,7 @@ products:
           Flashlight: Built-in high-output LED panel with standard, strobe, and SOS modes. 
     image: ""
     variants:
-      - id: 967
+      - id: 50967
         color: Black
         price: 109.95
         image: images/power_bank_solar_roc16__42691.jpg
@@ -823,11 +823,11 @@ products:
 
     image: ""
     variants:
-      - id: 968
+      - id: 50968
         color: Black
         price: 109.95
         image: images/adata-black.jpg
-      - id: 969
+      - id: 50969
         color: White
         price: 109.95
         image: images/adata3white.webp
@@ -858,19 +858,19 @@ products:
             Display: 6.7-inch OLED Super Retina XDR with Dynamic Island. Processor: A18 chip. Camera System: Dual-camera system with a 48MP main camera and an improved Ultra Wide camera with autofocus. Connectivity: 5G support, Wi-Fi 7, and USB-C port. SIM Compatibility: Exclusively uses eSIM (no physical SIM card tray in US models). Operating System: iOS 18. Features: Includes the new Action button and is built for Apple Intelligence. Storage: 128GB. Colors: Available in black, ultramarine blue, pink, teal, and white.
     image: ""
     variants:
-      - id: 735
+      - id: 50735
         color: Pink
         price: 979.95
         image: images/apple-iphone-16(pink-USED).jpg
-      - id: 736
+      - id: 50736
         color: Black
         price: 979.95
         image: images/apple-iphone-16(black-USED).jpg
-      - id: 737
+      - id: 50737
         color: Blue
         price: 979.95
         image: images/apple-iphone-16(blue-USED).jpg
-      - id: 738
+      - id: 50738
         color: White
         price: 979.95
         image: images/apple-iphone-16(white-USED).jpg
@@ -1210,11 +1210,11 @@ products:
             health features A dual-core 1.4GHz processor 2GB Ram 16GB Internal Storage
             Water and dust resistant
     variants:
-      - id: 309
+      - id: 50309
         color: Silver
         price: 329.95
         image: images/samsung_watch_6__98809.jpg
-      - id: 310
+      - id: 50310
         color: Black
         price: 329.95
         image: images/samsung_watch_6_black__78313.jpg
@@ -1228,11 +1228,11 @@ products:
             GPS, Glonass, Beidou, Galileo Wi-Fi 802.11a/b/g/n 2.4GHz+5GHz NFC Yes
             Bluetooth Version Bluetooth v5.3 Bluetooth Profiles A2DP, AVRCP, HFP, HSP
     variants:
-      - id: 311
+      - id: 50311
         color: Silver
         price: 379.95
         image: images/Galaxy_Watch8_Silver.webp
-      - id: 312
+      - id: 50312
         color: Graphite
         price: 379.95
         image: images/Galaxy_Watch8_graphite.webp
@@ -1463,11 +1463,11 @@ products:
 
             Features are subject to change. Some features, applications, and services may not be available in all regions or all languages.
     variants:
-      - id: 314
+      - id: 50314
         color: Ocean White
         price: 799.95
         image: images/apple-watch-ultra_49mm_WiFi_GPS_Ocean_White.jpg
-      - id: 315
+      - id: 50315
         color: Yellow Beige
         price: 799.95
         image: images/apple-watch-ultra_49mm_WiFi_GPS_Yellow_Beige .jpg
@@ -1476,11 +1476,11 @@ products:
     category: Smart Watches
     description: Available colors are Titan titanium Gray, Titanium silver
     variants:
-      - id: 316
+      - id: 50316
         color: Titanium Gray
         price: 499.95
         image: images/Samsung_Galaxy_Watch_Ultra_47mm_titanium_gray.webp
-      - id: 317
+      - id: 50317
         color: Titanium silver
         price: 499.95
         image: images/Samsung_Galaxy_Watch_Ultra_47mm_titanium_silver.webp
@@ -1515,15 +1515,15 @@ products:
 
             Package Weight One Package Weight: 0.11kgs / 0.25lb One Package Size: 21cm * 6.5cm * 3.5cm / 8.27inch * 2.56inch * 1.38inch Qty per Carton: 100 Carton Weight: 9.80kgs / 21.61lb Carton Size: 33cm * 44cm * 33cm / 12.99inch * 17.32inch * 12.99inch Loading Container: 20GP: 556 cartons * 100 pcs = 55600 pcs, 40HQ: 1291 cartons * 100 pcs = 129100 pcs
     variants:
-      - id: 320
+      - id: 50320
         color: White
         price: 119.95
         image: images/t900-pro-max-171-inch-lcd-screen-smart-watch-support-bluetooth-call-multiple-sports-modes-white-t900-pro-max-white-plusbuyer.jpg
-      - id: 321
+      - id: 50321
         color: Black
         price: 119.95
         image: images/t900_pro_max_black__29212.jpg
-      - id: 322
+      - id: 50322
         color: Pink
         price: 119.95
         image: images/t900-pro-max-171-inch-lcd-screen-smart-watch-support-bluetooth-call-multiple-sports-modes-pink-t900-pro-max-pink-plusbuyer.jpg
@@ -1542,7 +1542,7 @@ products:
 
             Display: 5.0-inch TFT display with a 480 x 960 pixel resolution. Processor: Quad-core 1.3 GHz Unisoc SC7731E chipset. Memory: 1 GB of RAM and up to 32 GB of internal storage, expandable via a microSD card. Cameras: 8 MP main camera and a 5 MP selfie camera. OS: Android 9.0 Pie (Go edition), a lighter version of Android designed for entry-level devices. Battery: 2000 mAh removable battery. Network: Supports 2G and 3G GSM/HSPA networks. SIM: Dual SIM (Nano-SIM, dual stand-by)
     variants:
-      - id: 319
+      - id: 50319
         color: Black
         price: 159.95
         image: images/ZTE Blade L8_Overseas_32GB_GSM_New_Sealed.JPG
@@ -1627,15 +1627,15 @@ products:
             5.89 inches Product Width 2.81 inches Product Depth 0.31 inches Product
             Weight 6.24 ounces
     variants:
-      - id: 323
+      - id: 50323
         color: Black
         price: 939.95
         image: images/iphone-17-finish-select-202509-black_GEO_US.webp
-      - id: 324
+      - id: 50324
         color: White
         price: 939.95
         image: images/iphone-17-finish-select-202509-white_GEO_US.webp
-      - id: 325
+      - id: 50325
         color: Lavender
         price: 939.95
         image: images/iphone-17-finish-select-202509-lavender_GEO_US.webp
@@ -1671,11 +1671,11 @@ products:
 
             Cosmic Orange- A vibrant new orange color option. Deep Blue- A dark blue finish.
     variants:
-      - id: 326
+      - id: 50326
         color: Deep Blue
         price: 1379.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp
-      - id: 327
+      - id: 50327
         color: Cosmic Orange
         price: 1379.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg
@@ -1711,11 +1711,11 @@ products:
 
             Cosmic Orange- A vibrant new orange color option. Deep Blue- A dark blue finish.
     variants:
-      - id: 328
+      - id: 50328
         color: Deep Blue
         price: 1629.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp
-      - id: 329
+      - id: 50329
         color: Cosmic Orange
         price: 1629.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg
@@ -1751,11 +1751,11 @@ products:
 
             Cosmic Orange- A vibrant new orange color option. Deep Blue- A dark blue finish.
     variants:
-      - id: 330
+      - id: 50330
         color: Deep Blue
         price: 1849.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp
-      - id: 331
+      - id: 50331
         color: Cosmic Orange
         price: 1849.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg
@@ -1804,23 +1804,23 @@ products:
             audio, stereo sound rec. Video \t4K@24/25/30/60fps, 1080p@25/30/60/120fps,
             gyro-EIS
     variants:
-      - id: 332
+      - id: 50332
         color: Blue
         price: 899.95
         image: images/apple-iphone-16(Blue-USED).jpeg
-      - id: 333
+      - id: 50333
         color: Black
         price: 899.95
         image: images/apple-iphone-16(black-USED).jpg
-      - id: 334
+      - id: 50334
         color: Pink
         price: 899.95
         image: images/apple-iphone-16(pink-USED).jpg
-      - id: 335
+      - id: 50335
         color: White
         price: 899.95
         image: images/apple-iphone-16(white-USED).jpg
-      - id: 336
+      - id: 50336
         color: Teal
         price: 899.95
         image: images/apple-iphone-16(teal-USED).jpg
@@ -1984,19 +1984,19 @@ products:
 
             Stereo recording
     variants:
-      - id: 337
+      - id: 50337
         color: White
         price: 739.95
         image: images/Apple-iphone-15-128GB-E-Sim(White).png
-      - id: 338
+      - id: 50338
         color: Yellow
         price: 739.95
         image: images/Apple-iphone-15-128GB-E-Sim(Yellow).jpg
-      - id: 339
+      - id: 50339
         color: Pink
         price: 739.95
         image: images/Apple-iphone-15-128GB-E-Sim(Pink).png
-      - id: 340
+      - id: 50340
         color: Blue
         price: 739.95
         image: images/Apple-iphone-15-128GB-E-Sim(Blue).jpg
@@ -2307,7 +2307,7 @@ products:
 
             GSM/EDGE (850, 900, 1800, 1900 MHz)
     variants:
-      - id: 341
+      - id: 50341
         color: Black
         price: 1219.95
         image: images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp
@@ -2603,7 +2603,7 @@ products:
 
             Find My via satellite7
     variants:
-      - id: 342
+      - id: 50342
         color: Natural Titanium
         price: 1099.95
         image: images/iPhone-16-Pro-128GB-E-Sim-Pre-ownednatural-titanium-hero-zoom.webp
@@ -2619,7 +2619,7 @@ products:
             It includes a carrying strap with a bottle opener and offers powerful
             audio performance with durable construction for on-the-go use.
     variants:
-      - id: 343
+      - id: 50343
         color: Black
         price: 339.95
         image: images/JBL-Xtreme-2-portable-Bluetooth-speaker.jpeg
@@ -2634,15 +2634,15 @@ products:
             USB-C/USB-A/Aux-in ports for versatile connectivity.   Colors are Blue,
             Black, Green
     variants:
-      - id: 344
+      - id: 50344
         color: Blue
         price: 339.95
         image: images/JBL-Xtreme-3-IP67-Bluetooth-speaker--Blue.webp
-      - id: 345
+      - id: 50345
         color: Black
         price: 339.95
         image: images/JBL-Xtreme-3-IP67-Bluetooth-speaker-Black.jpg
-      - id: 346
+      - id: 50346
         color: Green
         price: 339.95
         image: images/JBL-Xtreme-3-IP67-Bluetooth-speaker-Green.jpg
@@ -2656,11 +2656,11 @@ products:
             bank, and powerful sound up to 180W (AC power) or 70W (battery), with AI
             Sound Boost and a shoulder strap for portability. Colors Black & Dark Blue
     variants:
-      - id: 347
+      - id: 50347
         color: Blue
         price: 359.95
         image: images/JBL_XTREME_4_speaker_BLUE_47139_X4_1.webp
-      - id: 348
+      - id: 50348
         color: Black
         price: 359.95
         image: images/jbl_xtreme_4_speaker_b__45977Black.jpg
@@ -2681,15 +2681,15 @@ products:
           Connectivity: Uses Bluetooth 5.4 for stable connections. It supports lossless audio playback when connected via its USB-C port to a compatible source.
           New Design Features: Replaces the standard carry loop with a PushLock system, allowing you to easily swap between a fabric loop and a carabiner (both included). 
     variants:
-      - id: 349
+      - id: 50349
         color: " Camo"
         price: 199.95
         image: images/jbl6-green.webp
-      - id: 890
+      - id: 50890
         color: Blue
         price: 199.95
         image: images/jbl6-blue.jpeg
-      - id: 891
+      - id: 50891
         color: Red
         price: 199.95
         image: images/jbl6-red.jpeg
@@ -2713,7 +2713,7 @@ products:
             Audio Specifications: Dynamic frequency response range (Hz): 65 Hz
     image: ""
     variants:
-      - id: 888
+      - id: 50888
         color: Black
         price: 229.95
         image: images/jbl_charge_essential__25874 (1).jpg
@@ -2736,7 +2736,7 @@ products:
             solid aluminum handle with silicone grips IP67-rated waterproof down to 3 feet for up to 30 minutes USB charging port for portable devices stereo minijack auxiliary input 10,000mAh built-in rechargeable lithium-ion battery lasts up to 24 hours AC power cable included
     image: ""
     variants:
-      - id: 889
+      - id: 50889
         color: Black
         price: 499.95
         image: images/jbl_boombox_3__86581.jpg
@@ -2754,7 +2754,7 @@ products:
             performance for daily tasks and even some gaming, making it a strong
             choice in 2025, especially refurbished, notes Available Color White
     variants:
-      - id: 350
+      - id: 50350
         color: White
         price: 299.95
         image: images/google_pixel_6A_black__44154.jpg
@@ -2782,7 +2782,7 @@ products:
 
             A+ Grade,  Available Color Gray 
     variants:
-      - id: 351
+      - id: 50351
         color: Gray
         price: 219.95
         image: images/revvl_6x__98742.jpg
@@ -2803,7 +2803,7 @@ products:
                 Processor: Powered by a 1.3GHz processor.
                 Connectivity: Supports 4G LTE networks and has Bluetooth 5.1. Available Color RED
     variants:
-      - id: 352
+      - id: 50352
         color: Red
         price: 119.95
         image: images/ZTE-Verve-Snap-Flip-2-8in.jpg
@@ -2826,7 +2826,7 @@ products:
             Open box
             Available Color Blue
     variants:
-      - id: 353
+      - id: 50353
         color: Blue
         price: 129.95
         image: images/verve_connect__48949.jpg
@@ -2848,7 +2848,7 @@ products:
             A+ Grade, Open box 
             Available Color is Gray
     variants:
-      - id: 354
+      - id: 50354
         color: Gray
         price: 209.95
         image: images/motivate_3___71647.jpg
@@ -2872,7 +2872,7 @@ products:
 
             Expandable Storage: microSD up to 128GB.     Available color Black
     variants:
-      - id: 355
+      - id: 50355
         color: Black
         price: 169.95
         image: images/alcatel_glimpse_1__95189.jpg
@@ -2895,7 +2895,7 @@ products:
                 Security: Fingerprint reader.
                 Storage: 32GB internal, expandable via microSD.  Available Color Green 
     variants:
-      - id: 356
+      - id: 50356
         color: Green
         price: 169.95
         image: images/att_maestro_3__99827.jpg
@@ -2917,7 +2917,7 @@ products:
                     Display: 6.7-inch FHD+ (2400x1080) LCD.
                     Processor: Qualcomm Snapdragon 750G 5G. Available Color Black 
     variants:
-      - id: 357
+      - id: 50357
         color: Black
         price: 209.95
         image: images/Moto_One_5G_Ace__94110.jpg
@@ -2958,15 +2958,15 @@ products:
 
             Weight: 197 grams  Available Colors Black, White, Blue
     variants:
-      - id: 358
+      - id: 50358
         color: Black
         price: 259.95
         image: images/samsung_a23_black__87823.jpg
-      - id: 359
+      - id: 50359
         color: White
         price: 259.95
         image: images/samsung_a23_black__87823.jpg
-      - id: 360
+      - id: 50360
         color: Blue
         price: 259.95
         image: images/samsung_a23_black__87823.jpg
@@ -2989,7 +2989,7 @@ products:
                     Weight: Around 177g (6.24 oz). 
                     Build: Plastic back, rear-mounted Available Color Black 
     variants:
-      - id: 361
+      - id: 50361
         color: Black
         price: 219.95
         image: images/galaxy_A11_Black__90211.jpg
@@ -3010,7 +3010,7 @@ products:
                 Equipped with USB Type-C interface, Bluetooth v5.2, NFC, and various location technologies.
                 Powered by a 5000mAh non-removable battery, providing up to 36 hours of 4G LTE Color Available Black
     variants:
-      - id: 362
+      - id: 50362
         color: Black
         price: 229.95
         image: images/a13_black__66177.jpg
@@ -3037,7 +3037,7 @@ products:
 
             It comes with 64GB of internal memory and supports expandable storage up to a massive 1000GB via a microSD card slot, allowing you to store more photos, music, and apps.Powered  Available Color Black
     variants:
-      - id: 363
+      - id: 50363
         color: Black
         price: 239.95
         image: images/a14_black__08147 (1).jpg
@@ -3053,7 +3053,7 @@ products:
             strong all-rounder for most users seeking performance and features without
             breaking the bank. colors available Gray
     variants:
-      - id: 366
+      - id: 50366
         color: Gray
         price: 379.95
         image: images/note-12-pro__64347.jpg
@@ -3068,11 +3068,11 @@ products:
             in a design with a side fingerprint sensor, making it a solid entry-level
             device for everyday use. Colors available Black / white
     variants:
-      - id: 367
+      - id: 50367
         color: Black
         price: 259.95
         image: images/redmi-note-10__07894.jpg
-      - id: 368
+      - id: 50368
         color: White
         price: 259.95
         image: images/redmi-note-10__07894.jpg
@@ -3087,7 +3087,7 @@ products:
             basic use but with some compromises like a budget display
             resolution.  Colors Green 
     variants:
-      - id: 369
+      - id: 50369
         color: Green
         price: 279.95
         image: images/redmi_14c_g__01228.jpg
@@ -3103,11 +3103,11 @@ products:
             a macro lens instead of an ultrawide camera. Available Colors Black and
             Blue
     variants:
-      - id: 370
+      - id: 50370
         color: Black
         price: 289.95
         image: images/redmi_13_blue__32847.jpg
-      - id: 371
+      - id: 50371
         color: Blue
         price: 289.95
         image: images/redmi_13_blue__32847.jpg
@@ -3122,7 +3122,7 @@ products:
             3.5mm jack, and side fingerprint sensor for an affordable price.  Colors
             available Blue
     variants:
-      - id: 372
+      - id: 50372
         color: Blue
         price: 249.95
         image: images/redmi_a5__11503.jpg
@@ -3138,7 +3138,7 @@ products:
             (IP54, reinforced frame) and large screen experience, with features like
             extended RAM and AI camera software. Color Available Gray 
     variants:
-      - id: 372
+      - id: 50372
         color: Gray
         price: 269.95
         image: images/zte_blade_v70_max__41601.jpg
@@ -3164,7 +3164,7 @@ products:
 
              One attachment  •  Scanned by Gmail
     variants:
-      - id: 373
+      - id: 50373
         color: Gray
         price: 219.95
         image: images/zte_blade_a35e_gray__39574.jpg
@@ -3179,7 +3179,7 @@ products:
             it a solid, affordable choice for first-time users or as a backup phone.
             Color Available green 
     variants:
-      - id: 374
+      - id: 50374
         color: Green
         price: 219.95
         image: images/zte_a35_c__53576.jpg
@@ -3195,15 +3195,15 @@ products:
             Unisoc processor, offering features like a headphone jack and USB-C.
             Colors Available  Violet, Blue, Gold 
     variants:
-      - id: 375
+      - id: 50375
         color: Violet
         price: 269.95
         image: images/zte_blade_v60_g__86680-1-.jpg
-      - id: 376
+      - id: 50376
         color: Blue
         price: 269.95
         image: images/zte_blade_v60_g__86680-1-.jpg
-      - id: 377
+      - id: 50377
         color: Gold
         price: 269.95
         image: images/zte_blade_v60_g__86680-1-.jpg
@@ -3218,7 +3218,7 @@ products:
             with ample storage for everyday use, social media, and light gaming,
             including features like NFC and dual SIM support. Colors Available purple
     variants:
-      - id: 378
+      - id: 50378
         color: Purple
         price: 259.95
         image: images/zte_blade_v50__73519-1-.jpg
@@ -3236,15 +3236,15 @@ products:
             intensive gaming or high-end camera performance.  Colors Available Orange,
             Black Blue 
     variants:
-      - id: 379
+      - id: 50379
         color: Orange
         price: 219.95
         image: images/zte_blade_a55_black__86362.jpg
-      - id: 380
+      - id: 50380
         color: Black
         price: 219.95
         image: images/zte_blade_a55_black__86362.jpg
-      - id: 381
+      - id: 50381
         color: Blue
         price: 219.95
         image: images/zte_blade_a55_black__86362.jpg
@@ -3266,15 +3266,15 @@ products:
                 Display: 6.3-inch OLED, 1080x2400 resolution, 90Hz refresh rate
                 Cameras: 50MP main rear camera, 10.8MP front camera, with AI features Color Available Black, White, Lime green
     variants:
-      - id: 382
+      - id: 50382
         color: Black
         price: 369.95
         image: images/google_pixel_7_white__62439.jpg
-      - id: 383
+      - id: 50383
         color: White
         price: 369.95
         image: images/google_pixel_7_white__62439.jpg
-      - id: 384
+      - id: 50384
         color: Lime Green
         price: 369.95
         image: images/google_pixel_7_white__62439.jpg
@@ -3304,11 +3304,11 @@ products:
 
           Available in various storage options (e.g., 128GB, 256GB, 512GB
     variants:
-      - id: 385
+      - id: 50385
         color: White
         price: 519.95
         image: images/sta-image-0.jpeg
-      - id: 386
+      - id: 50386
         color: Black
         price: 519.95
         image: images/61mxivwdp5l._ac_uf894-1000_ql80_fmwebp_.webp
@@ -3338,11 +3338,11 @@ products:
 
           Available in various storage options (e.g., 128GB, 256GB, 512GB
     variants:
-      - id: 387
+      - id: 50387
         color: White
         price: 619.95
         image: images/sta-image-0.jpeg
-      - id: 389
+      - id: 50389
         color: Black
         price: 619.95
         image: images/61MXivWDp5L._AC_UF894,1000_QL80_FMwebp_.webp
@@ -3380,15 +3380,15 @@ products:
 
       Availability     Although discontinued by Apple for new sales, it remains available as renewed or refurbished from various retailers. 
     variants:
-      - id: 390
+      - id: 50390
         color: Black
         price: 649.95
         image: images/iphone-13-pro-max-color-series-skins-slickwraps-1.jpg
-      - id: 391
+      - id: 50391
         color: Green
         price: 649.95
         image: images/13promaxalpinegreen_dual_1_05d80a91-0098-4006-b112-b1b96cfbc0cb.png
-      - id: 392
+      - id: 50392
         color: Graphite
         price: 649.95
         image: images/untitled-design-60__86520.png
@@ -3426,15 +3426,15 @@ products:
 
       Availability     Although discontinued by Apple for new sales, it remains available as renewed or refurbished from various retailers. 
     variants:
-      - id: 393
+      - id: 50393
         color: Black
         price: 699.95
         image: images/iphone-13-pro-max-color-series-skins-slickwraps-1.jpg
-      - id: 394
+      - id: 50394
         color: Green
         price: 699.95
         image: images/13promaxalpinegreen_dual_1_05d80a91-0098-4006-b112-b1b96cfbc0cb.png
-      - id: 395
+      - id: 50395
         color: Graphite
         price: 699.95
         image: images/untitled-design-60__86520.png
@@ -3487,11 +3487,11 @@ products:
               Dimensions: 146.7 x 71.5 x 7.8 mm.
               Weight: 172g. 
     variants:
-      - id: 396
+      - id: 50396
         color: Black
         price: 559.95
         image: images/aag-ip14128mdn_new.jpg
-      - id: 397
+      - id: 50397
         color: White
         price: 559.95
         image: images/refurb-iphone-14-starlight-202404.jpeg
@@ -3525,19 +3525,19 @@ products:
               Solid Performance: Fast A15 chip handles daily tasks and gaming well. 
               No Pro Features: Lacks the high refresh rate (ProMotion) display and 48MP main camera of the iPhone 14 Pro series. 
     variants:
-      - id: 398
+      - id: 50398
         color: Black
         price: 599.95
         image: images/aag-ip14128mdn_new.jpg
-      - id: 399
+      - id: 50399
         color: Yellow
         price: 599.95
         image: images/iphone-14-plus-yellow__15396.jpg
-      - id: 400
+      - id: 50400
         color: Purple
         price: 599.95
         image: images/619f09kk7tl._ac_uf894-1000_ql80_fmwebp_.webp
-      - id: 401
+      - id: 50401
         color: Blue
         price: 599.95
         image: images/iphone-14-4.jpg
@@ -3570,19 +3570,19 @@ products:
               Solid Performance: Fast A15 chip handles daily tasks and gaming well. 
               No Pro Features: Lacks the high refresh rate (ProMotion) display and 48MP main camera of the iPhone 14 Pro series. 
     variants:
-      - id: 402
+      - id: 50402
         color: Black
         price: 649.95
         image: images/refurb-iphone-14-starlight-202404.jpeg
-      - id: 403
+      - id: 50403
         color: Yellow
         price: 649.95
         image: images/refurb-iphone-14-starlight-202404.jpeg
-      - id: 404
+      - id: 50404
         color: Purple
         price: 649.95
         image: images/refurb-iphone-14-starlight-202404.jpeg
-      - id: 405
+      - id: 50405
         color: Blue
         price: 649.95
         image: images/refurb-iphone-14-starlight-202404.jpeg
@@ -3653,15 +3653,15 @@ products:
           Crash Detection
           Runs iOS (originally iOS 16) 
     variants:
-      - id: 406
+      - id: 50406
         color: White
         price: 649.95
         image: images/sta-image-0.jpeg
-      - id: 407
+      - id: 50407
         color: Gold
         price: 649.95
         image: images/64fefcbc-cafa-4964-842c-788fefc5a837-1_a0f89d9b-5eb7-4848-ac8e-cf3d0aebcaca.jpg
-      - id: 408
+      - id: 50408
         color: Purple
         price: 649.95
         image: images/619f09kK7tL._AC_UF894,1000_QL80_FMwebp_.webp
@@ -3700,15 +3700,15 @@ products:
               Software: Early models experienced some bugs like overheating and battery drain, often addressed by iOS updates. 
               Price: Premium pricing, with newer models sometimes available refurbished. 
     variants:
-      - id: 409
+      - id: 50409
         color: White
         price: 959.95
         image: images/712ty0ncerl._ac_uf894-1000_ql80_fmwebp_-1-.webp
-      - id: 410
+      - id: 50410
         color: Blue
         price: 959.95
         image: images/61-k3mduxkl._ac_uf894-1000_ql80_fmwebp_.webp
-      - id: 411
+      - id: 50411
         color: Natural
         price: 959.95
         image: images/616mzzm8-7l._ac_uf894-1000_ql80_fmwebp_.webp
@@ -3748,11 +3748,11 @@ products:
           mmWave 5G: US models lack mmWave support, relying on sub-6GHz 5G.
           Ultra-Wideband: Does not include the U2 chip for UWB features.
     variants:
-      - id: 412
+      - id: 50412
         color: White
         price: 629.95
         image: images/iphone_16e_whi_1.webp
-      - id: 413
+      - id: 50413
         color: Black
         price: 629.95
         image: images/iphone_16e_black__55227.jpg
@@ -3790,15 +3790,15 @@ products:
               Software: Early models experienced some bugs like overheating and battery drain, often addressed by iOS updates. 
               Price: Premium pricing, with newer models sometimes available refurbished.
     variants:
-      - id: 414
+      - id: 50414
         color: White
         price: 969.95
         image: images/712TY0NCErL._AC_UF894,1000_QL80_FMwebp_.webp
-      - id: 415
+      - id: 50415
         color: Blue
         price: 969.95
         image: images/61+K3MDUXkL._AC_UF894,1000_QL80_FMwebp_.webp
-      - id: 416
+      - id: 50416
         color: Natural
         price: 969.95
         image: images/616mZZm8-7L._AC_UF894,1000_QL80_FMwebp_.webp
@@ -3831,15 +3831,15 @@ products:
           Operating System: Launched with iOS 11, upgradable. 
 
     variants:
-      - id: 417
+      - id: 50417
         color: Red
         price: 249.95
         image: images/Restored-iPhone-8-Plus-64GB-Red-Boost-Mobile-Refurbished_6121196d-950c-4d68-8bda-6e86c0ca7e78_1.b12506390df0ebb4abc39c45e3e0589b.jpeg
-      - id: 418
+      - id: 50418
         color: Black
         price: 249.95
         image: images/iphone_8_plus_b__88206.jpg
-      - id: 419
+      - id: 50419
         color: Silver
         price: 249.95
         image: images/8psvr_017819ac-8059-44d4-97e9-a303a61c5e4e.jpg
@@ -3885,11 +3885,11 @@ products:
 
       Operating System     Launched with iOS 11, upgradable to newer versions (e.g., iOS 16). 
     variants:
-      - id: 420
+      - id: 50420
         color: Black
         price: 219.95
         image: images/iphone-8-black__58079.jpg
-      - id: 421
+      - id: 50421
         color: Silver
         price: 219.95
         image: images/8psvr_017819ac-8059-44d4-97e9-a303a61c5e4e.jpg
@@ -3943,11 +3943,11 @@ products:
           Audio: Stereo speakers, no 3.5mm headphone jack
           Wireless: Wi-Fi 6, Bluetooth 5.0
     variants:
-      - id: 422
+      - id: 50422
         color: Black
         price: 229.95
         image: images/apple-iphone-se-2-fully-unlockediphse2-64bk-ap60-252368.jpg
-      - id: 423
+      - id: 50423
         color: White
         price: 229.95
         image: images/apple-iphone-se-2-fully-unlockediphse2-64wh-ap60-740364.jpg
@@ -3981,27 +3981,27 @@ products:
               Still functional as a daily driver or backup phone.
               Expected to continue receiving security updates, though major iOS support may end soon. 
     variants:
-      - id: 424
+      - id: 50424
         color: Black
         price: 299.95
         image: images/s-l1600_17_ed0b6f34-a513-4103-9187-11e71504e425.jpg
-      - id: 425
+      - id: 50425
         color: Blue
         price: 299.95
         image: images/BLU-image-0.jpeg
-      - id: 426
+      - id: 50426
         color: Coral
         price: 299.95
         image: images/COR-image-0.jpeg
-      - id: 427
+      - id: 50427
         color: Yellow
         price: 299.95
         image: images/apple-iphone-xr-3357600.jpg
-      - id: 428
+      - id: 50428
         color: Red
         price: 299.95
         image: images/7c3944f8-b539-458f-8506-b914b595b19d_1.6dbc3b1fa1ff5260e0af2a2b0678b7fe.jpeg
-      - id: 429
+      - id: 50429
         color: White
         price: 299.95
         image: images/WHI-image-0.jpeg
@@ -4051,15 +4051,15 @@ products:
 
       Operating System     OS: Launched with iOS 13 Version 
     variants:
-      - id: 430
+      - id: 50430
         price: 389.95
         color: Black
         image: images/iphone_11_black__72095.jpg
-      - id: 431
+      - id: 50431
         color: Red
         price: 389.95
         image: images/apple-iphone-11-7268295.jpg
-      - id: 432
+      - id: 50432
         color: White
         price: 389.95
         image: images/WHI-image-0.jpeg
@@ -4113,11 +4113,11 @@ products:
           Materials: Stainless steel frame, textured matte glass back.
           OS: Shipped with iOS 13, upgradable. 
     variants:
-      - id: 433
+      - id: 50433
         color: Gray
         price: 399.95
         image: images/apple-iphone-11-pro-max-fully-unlocked-space-gray-64-gbiph11mx-64sg-cp60-5183417.jpg
-      - id: 434
+      - id: 50434
         color: Green
         price: 399.95
         image: images/1981ca84-370d-4ab8-a153-159cef2ffd52-1_400b4e8c-ac07-4fc6-8fee-42372441e83f.jpg
@@ -4171,11 +4171,11 @@ products:
           Materials: Stainless steel frame, textured matte glass back.
           OS: Shipped with iOS 13, upgradable. 
     variants:
-      - id: 435
+      - id: 50435
         color: Gray
         price: 419.95
         image: images/apple-iphone-11-pro-max-fully-unlocked-space-gray-64-gbiph11mx-64sg-cp60-5183417.jpg
-      - id: 436
+      - id: 50436
         color: Green
         price: 419.95
         image: images/1981ca84-370d-4ab8-a153-159cef2ffd52-1_400b4e8c-ac07-4fc6-8fee-42372441e83f.jpg
@@ -4227,17 +4227,17 @@ products:
     variants:
       - price: 579.95
         color: Blue
-        id: 437
+        id: 50437
         image: images/PAC-image-0.jpeg
       - color: Graphite
-        id: 438
+        id: 50438
         price: 579.95
         image: images/GRA-image-0.jpeg
       - color: Silver
-        id: 439
+        id: 50439
         price: 579.95
         image: images/apple-iphone-12-pro-3250140.jpg
-      - id: 440
+      - id: 50440
         color: Gold
         price: 579.95
         image: images/apple-iphone-12-pro-4595755.jpg
@@ -4286,19 +4286,19 @@ products:
               OS: Launched with iOS 14, upgradable
               Water Resistance: IP68 (max depth of 6 meters up to 30 mins) 
     variants:
-      - id: 441
+      - id: 50441
         color: Blue
         price: 609.95
         image: images/PAC-image-0.jpeg
-      - id: 442
+      - id: 50442
         color: Graphite
         price: 609.95
         image: images/GRA-image-0.jpeg
-      - id: 443
+      - id: 50443
         color: Silver
         price: 609.95
         image: images/apple-iphone-12-pro-3250140.jpg
-      - id: 443
+      - id: 50443
         color: Gold
         price: 609.95
         image: images/apple-iphone-12-pro-4595755.jpg
@@ -4336,15 +4336,15 @@ products:
           Connectivity: 5G (Sub-6 GHz and mmWave), Wi-Fi 6, Bluetooth 5.0, NFC.
           Durability: IP68 (6 meters for 30 minutes), Ceramic Shield front. 
     variants:
-      - id: 444
+      - id: 50444
         color: Black
         price: 349.95
         image: images/128-black.webp
-      - id: 445
+      - id: 50445
         color: Red
         price: 349.95
         image: images/128-red.jpeg
-      - id: 446
+      - id: 50446
         color: White
         price: 349.95
         image: images/128-white.jpeg
@@ -4386,7 +4386,7 @@ products:
           Security: Face ID
           Other: MagSafe accessories, Wi-Fi 6, Bluetooth 5.0, Ceramic Shield
     variants:
-      - id: 447
+      - id: 50447
         color: Black
         price: 369.95
         image: images/129-black.jpeg
@@ -4421,7 +4421,7 @@ products:
           Weight: 4.97 ounces (141 grams).
           Colors: (PRODUCT)RED, Starlight, Midnight, Blue, Pink, Green.
     variants:
-      - id: 448
+      - id: 50448
         color: Black
         price: 379.95
         image: images/130-black.webp
@@ -4450,7 +4450,7 @@ products:
 
       The iPhone XS was originally released with iOS 12 and supports up to iOS 18.
     variants:
-      - id: 449
+      - id: 50449
         price: 299.95
         color: Black
         image: images/131-black.jpeg
@@ -4481,7 +4481,7 @@ products:
           Sensors: Face ID, barometer, three-axis gyro, accelerometer, proximity sensor, ambient light sensor
     price: ""
     variants:
-      - id: 450
+      - id: 50450
         price: 389.95
         color: Black
         image: images/132-black.png
@@ -4511,7 +4511,7 @@ products:
           Connectivity: Lightning connector, Bluetooth 5.0, Wi-Fi 802.11ac, NFC
           Sensors: Face ID, barometer, three-axis gyro, accelerometer, proximity sensor, ambient light sensor 
     variants:
-      - id: 451
+      - id: 50451
         price: 379.95
         color: Black
         image: images/133-black.png
@@ -4554,11 +4554,11 @@ products:
           Dimensions: 138.3 mm x 67.1 mm x 7.1 mm; 138 grams.
           Connectivity: Lightning connector, Bluetooth 4.2, NFC (for Apple Pay), Wi-Fi 802.11ac. 
     variants:
-      - id: 452
+      - id: 50452
         color: Sliver
         price: 169.95
         image: images/134-silver.png
-      - id: 453
+      - id: 50453
         price: 169.95
         color: Black
         image: images/134-black.png
@@ -4605,19 +4605,19 @@ products:
 
       The device, typically priced from $999 at launch but often found for less, represents a significant focus on AI-driven capabilities for imaging and daily usage. 
     variants:
-      - id: 454
+      - id: 50454
         color: Black
         image: images/135-black.png
         price: 539.95
-      - id: 455
+      - id: 50455
         color: White
         image: images/135-white.jpeg
         price: 539.95
-      - id: 456
+      - id: 50456
         color: Blue
         image: images/135-blue.jpeg
         price: 539.95
-      - id: 457
+      - id: 50457
         color: Green
         image: images/135-green.png
         price: 539.95
@@ -4661,19 +4661,19 @@ products:
           Security: Under-display fingerprint sensor and face unlock.
           Design: Distinctive rear camera bar with a polished aluminum frame and matte glass back.
     variants:
-      - id: 458
+      - id: 50458
         color: Black
         price: 589.95
         image: images/136-black.jpeg
-      - id: 459
+      - id: 50459
         color: White
         price: 589.95
         image: images/136-white.png
-      - id: 460
+      - id: 50460
         color: Blue
         price: 589.95
         image: images/136-blue.png
-      - id: 461
+      - id: 50461
         color: Green
         price: 589.95
         image: images/136-green.webp
@@ -4700,15 +4700,15 @@ products:
           Software: Android 14 (7 years of updates).
           Features: IP68 dust/water resistance, under-display fingerprint sensor, Face Unlock, Gorilla Glass Victus. 
     variants:
-      - id: 462
+      - id: 50462
         color: Green
         price: 469.95
         image: images/137-green.jpeg
-      - id: 463
+      - id: 50463
         color: Rose
         price: 469.95
         image: images/137-rose.png
-      - id: 464
+      - id: 50464
         color: Black
         price: 469.95
         image: images/137-black.png
@@ -4756,15 +4756,15 @@ products:
               SIM: Dual SIM (Nano-SIM + eSIM)
               Durability: IP67 dust/water resistant (not IP68 like the flagship)
     variants:
-      - id: 465
+      - id: 50465
         color: White
         price: 409.95
         image: images/138-white.jpg
-      - id: 466
+      - id: 50466
         price: 409.95
         color: Coral
         image: images/138-coral.jpeg
-      - id: 467
+      - id: 50467
         color: Black
         price: 409.95
         image: images/138-charcoal.png
@@ -4794,10 +4794,10 @@ products:
       The Pixel 7 provides a compact, high-performance experience with advanced AI capabilities, aiming for efficient daily use, though it may run warm under heavy tasks like gaming.
     variants:
       - color: White
-        id: 468
+        id: 50468
         price: 359.95
         image: images/139-white.webp
-      - id: 469
+      - id: 50469
         color: Black
         price: 359.95
         image: images/139-black.png
@@ -4834,15 +4834,15 @@ products:
 
       The device features Gorilla Glass Victus front and back, with a polished aluminum frame.
     variants:
-      - id: 470
+      - id: 50470
         color: Black
         price: 399.95
         image: images/140-black.png
-      - id: 471
+      - id: 50471
         color: Hazel
         price: 399.95
         image: images/140-hazel.jpeg
-      - id: 472
+      - id: 50472
         color: White
         price: 399.95
         image: images/140-white.png
@@ -4879,15 +4879,15 @@ products:
 
       The device features Gorilla Glass Victus front and back, with a polished aluminum frame
     variants:
-      - id: 473
+      - id: 50473
         color: Black
         image: images/141-black.png
         price: 449.95
-      - id: 474
+      - id: 50474
         price: 449.95
         color: Hazel
         image: images/141-hazel.jpeg
-      - id: 475
+      - id: 50475
         color: White
         price: 449.95
         image: images/141-white.png
@@ -4924,15 +4924,15 @@ products:
 
       The device features Gorilla Glass Victus front and back, with a polished aluminum frame
     variants:
-      - id: 476
+      - id: 50476
         price: 499.95
         color: Black
         image: images/142-black.png
-      - id: 477
+      - id: 50477
         color: Hazel
         price: 499.95
         image: images/142-hazel.jpeg
-      - id: 478
+      - id: 50478
         color: White
         price: 499.95
         image: images/142-white.png
@@ -4967,19 +4967,19 @@ products:
           Connectivity: 5G, Wi-Fi 7, Bluetooth 5.3, UWB.
           Security: Face unlock and under-display fingerprint sensor. 
     variants:
-      - id: 479
+      - id: 50479
         price: 729.95
         color: Black
         image: images/143-black.webp
-      - id: 480
+      - id: 50480
         color: Rose
         price: 729.95
         image: images/143-rose.png
-      - id: 481
+      - id: 50481
         color: Hazel
         price: 729.95
         image: images/143-hazel.jpeg
-      - id: 482
+      - id: 50482
         color: White
         price: 729.95
         image: images/143-white.png
@@ -5020,7 +5020,7 @@ products:
 
       The device launched with Android 11 and is supported up to Android 14 with One UI 6.1. As of 2025, it is considered retired from receiving new major updates.
     variants:
-      - id: 483
+      - id: 50483
         color: Black
         price: 349.95
         image: images/144-black.jpeg
@@ -5049,7 +5049,7 @@ products:
               Features: IP67 Dust/Water Resistant, Stereo Speakers, Under-display Fingerprint Sensor
               Weight: 202g 
     variants:
-      - id: 484
+      - id: 50484
         color: Black
         price: 329.95
         image: images/145-black.jpeg
@@ -5090,7 +5090,7 @@ products:
     name: Samsung Galaxy S21 Ultra,128GB, Unlocked, A+Grade, Pre-owned
     category: Pre-Owned Phones & Tablets
     variants:
-      - id: 485
+      - id: 50485
         color: Black
         price: 399.95
         image: images/146-black.jpeg
@@ -5121,11 +5121,11 @@ products:
        2 Attachments
         •  Scanned by Gmail
     variants:
-      - id: 486
+      - id: 50486
         color: Green
         price: 649.95
         image: images/147-green.jpeg
-      - id: 487
+      - id: 50487
         color: Gray
         price: 649.95
         image: images/147-gray.webp
@@ -5153,15 +5153,15 @@ products:
               Features: Included S Pen (26ms latency), IP68 water resistance, Plastic back ("Glasstic")
               Dimensions: 161.6 x 75.2 x 8.3 mm (192g - 194g) 
     variants:
-      - id: 488
+      - id: 50488
         color: Black
         price: 399.95
         image: images/148-black.jpeg
-      - id: 489
+      - id: 50489
         color: Bronze
         price: 399.95
         image: images/148-bronze.jpeg
-      - id: 490
+      - id: 50490
         color: Gray
         price: 399.95
         image: images/148-gray.jpeg
@@ -5189,24 +5189,24 @@ products:
           Connectivity: 5G, 4G LTE, Bluetooth, USB Type-C, Wi-Fi
           Dimensions & Weight: 176.3 x 78.6 x 9.6 mm; 222g (7.83 oz) 
     variants:
-      - id: 491
+      - id: 50491
         color: Blue
         price: 199.95
         image: images/149-blue.jpeg
   - variants:
-      - id: 492
+      - id: 50492
         color: Black
         price: 1329.95
         image: images/150-black.jpg
-      - id: 493
+      - id: 50493
         color: Blue
         price: 1329.95
         image: images/150-blue.webp
-      - id: 494
+      - id: 50494
         color: Gray
         price: 1329.95
         image: images/150-gray.webp
-      - id: 495
+      - id: 50495
         color: Silver
         price: 1329.95
         image: images/150-silver.webp
@@ -5266,19 +5266,19 @@ products:
               Dimensions: 158.4 x 75.8 x 7.3 mm (6.24 x 2.98 x 0.29 in), 190g (6.70 oz).
               Features: Ultra-wideband (UWB) support, AI-driven capabilities, 5G, stereo speakers with Dolby Atmos. 
     variants:
-      - id: 496
+      - id: 50496
         color: Blue
         price: 1069.95
         image: images/151-blue.jpeg
-      - id: 497
+      - id: 50497
         color: Green
         price: 1069.95
         image: images/151-green.jpg
-      - id: 498
+      - id: 50498
         color: Blue
         price: 1069.95
         image: images/151-navyblue.webp
-      - id: 499
+      - id: 50499
         color: Silver
         price: 1069.95
         image: images/151-silver.webp
@@ -5317,19 +5317,19 @@ products:
           ) with a new camera lens design, weighing approx 
           .
     variants:
-      - id: 500
+      - id: 50500
         color: Black
         price: 1129.95
         image: images/152-black.jpeg
-      - id: 501
+      - id: 50501
         color: Blue
         price: 1129.95
         image: images/152-blue.png
-      - id: 502
+      - id: 50502
         color: Violet
         price: 1129.95
         image: images/152-violet.jpg
-      - id: 503
+      - id: 50503
         color: White
         price: 1129.95
         image: images/152-white.png
@@ -5367,19 +5367,19 @@ products:
           Display Privacy: A new "privacy display" feature can be toggled to make the screen invisible from side angles, according to
           Battery Life: Despite maintaining a 5,000 mAh capacity, optimized efficiency allows for improved screen-on time, as shown in
     variants:
-      - id: 504
+      - id: 50504
         color: Violet
         price: 1799.95
         image: images/153-violet.jpg
-      - id: 505
+      - id: 50505
         color: Black
         price: 1799.95
         image: images/153-black.jpeg
-      - id: 506
+      - id: 50506
         color: Blue
         price: 1799.95
         image: images/153-blue.png
-      - id: 507
+      - id: 50507
         color: White
         price: 1799.95
         image: images/153-white.png
@@ -5418,19 +5418,19 @@ products:
           ) with a new camera lens design, weighing approx 
           . 
     variants:
-      - id: 508
+      - id: 50508
         color: Black
         price: 1299.95
         image: images/154-black.jpeg
-      - id: 509
+      - id: 50509
         color: Blue
         price: 1299.95
         image: images/154-blue.png
-      - id: 510
+      - id: 50510
         color: Violet
         price: 1299.95
         image: images/154-violet.jpg
-      - id: 511
+      - id: 50511
         color: White
         price: 1299.95
         image: images/154-white.png
@@ -5463,19 +5463,19 @@ products:
           S26+: 158.4 x 75.8 x 7.3 mm, 190 g.
           S26: 149.6 x 71.7 x 7.2 mm, 167 g. 
     variants:
-      - id: 512
+      - id: 50512
         color: Blue
         price: 1119.95
         image: images/155-blue.png
-      - id: 513
+      - id: 50513
         color: Violet
         price: 1119.95
         image: images/155-violet.jpg
-      - id: 514
+      - id: 50514
         color: Black
         price: 1119.95
         image: images/155-black.jpeg
-      - id: 515
+      - id: 50515
         color: White
         price: 1119.95
         image: images/155-white.png
@@ -5514,19 +5514,19 @@ products:
           Display Privacy: A new "privacy display" feature can be toggled to make the screen invisible from side angles, according to this
           Battery Life: Despite maintaining a 5,000 mAh capacity, optimized efficiency allows for improved screen-on time, as shown in
     variants:
-      - id: 516
+      - id: 50516
         color: Violet
         price: 1499.95
         image: images/156-violet.jpg
-      - id: 517
+      - id: 50517
         color: Black
         price: 1499.95
         image: images/156-black.jpeg
-      - id: 518
+      - id: 50518
         color: Blue
         price: 1499.95
         image: images/156-blue.png
-      - id: 519
+      - id: 50519
         color: White
         price: 1499.95
         image: images/156-white.png
@@ -5569,19 +5569,19 @@ products:
           Display Privacy: A new "privacy display" feature can be toggled to make the screen invisible from side angles, according to this YouTube video.
           Battery Life: Despite maintaining a 5,000 mAh capacity, optimized efficiency allows for improved screen-on time, as shown in
     variants:
-      - id: 520
+      - id: 50520
         color: Blue
         price: 1299.95
         image: images/157-blue.png
-      - id: 521
+      - id: 50521
         color: Black
         price: 1299.95
         image: images/157-black.jpeg
-      - id: 522
+      - id: 50522
         color: White
         price: 1299.95
         image: images/157-white.png
-      - id: 523
+      - id: 50523
         color: Violet
         price: 1299.95
         image: images/157-violet.jpg
@@ -5614,19 +5614,19 @@ products:
           S26+: 158.4 x 75.8 x 7.3 mm, 190 g.
           S26: 149.6 x 71.7 x 7.2 mm, 167 g.
     variants:
-      - id: 524
+      - id: 50524
         color: Black
         price: 919.95
         image: images/158-black.jpeg
-      - id: 525
+      - id: 50525
         color: Blue
         price: 919.95
         image: images/158-blue.png
-      - id: 526
+      - id: 50526
         color: Violet
         price: 919.95
         image: images/158-violet.jpg
-      - id: 527
+      - id: 50527
         color: White
         price: 919.95
         image: images/158-white.png
@@ -5654,7 +5654,7 @@ products:
           Durability: IP54 dust and splash resistant.
           Security: Side-mounted fingerprint sensor. 
     variants:
-      - id: 528
+      - id: 50528
         color: Black
         price: 309.95
         image: images/159-black.jpeg
@@ -5689,11 +5689,11 @@ products:
           Camera Stability: 50MP sensor features Optical Image Stabilization (OIS) for better photos.
           Design: Slim 7.5mm profile with a slightly refreshed, thinner design compared to its predecessor
     variants:
-      - id: 529
+      - id: 50529
         color: Blue
         price: 369.95
         image: images/160-blue.jpeg
-      - id: 530
+      - id: 50530
         color: Black
         price: 369.95
         image: images/160-black.jpeg
@@ -5728,11 +5728,11 @@ products:
           Camera Stability: 50MP sensor features Optical Image Stabilization (OIS) for better photos.
           Design: Slim 7.5mm profile with a slightly refreshed, thinner design compared to its predecessor
     variants:
-      - id: 531
+      - id: 50531
         color: Black
         price: 319.95
         image: images/161-black.jpeg
-      - id: 532
+      - id: 50532
         color: Blue
         price: 319.95
         image: images/161-blue.jpeg
@@ -5759,11 +5759,11 @@ products:
               Software: Android 16, One UI 8.
               Features: Side-mounted fingerprint sensor, IP54 dust/splash resistance, USB Type-C.
     variants:
-      - id: 533
+      - id: 50533
         color: Black
         price: 289.95
         image: images/162-black.jpeg
-      - id: 534
+      - id: 50534
         color: Green
         price: 289.95
         image: images/162-green.webp
@@ -5795,15 +5795,15 @@ products:
           Battery: Large 5,000mAh battery capacity offers all-day usage with 25W charging, though no charger is included in the box in many regions.
           Software: Supports multiple years of security updates and OS upgrades, starting with Android 13
     variants:
-      - id: 535
+      - id: 50535
         color: Black
         price: 249.95
         image: images/163-black.jpeg
-      - id: 536
+      - id: 50536
         color: Silver
         price: 249.95
         image: images/163-silver.jpeg
-      - id: 537
+      - id: 50537
         color: Green
         price: 249.95
         image: images/163-green.jpeg
@@ -5836,7 +5836,7 @@ products:
           Display: The 60Hz screen is lower than some competitors (90Hz).
           Value: It is highly praised for its affordability and reliable core features.
     variants:
-      - id: 538
+      - id: 50538
         color: Black
         price: 229.95
         image: images/164-black.jpg
@@ -5865,7 +5865,7 @@ products:
           Display: The 60Hz screen is lower than some competitors (90Hz).
           Value: It is highly praised for its affordability and reliable core features
     variants:
-      - id: 539
+      - id: 50539
         color: Black
         price: 249.95
         image: images/165-Black.jpg
@@ -5902,15 +5902,15 @@ products:
           Support: 7 years of OS upgrades and security patches. 
 
     variants:
-      - id: 540
+      - id: 50540
         color: Black
         price: 2099.95
         image: images/166-black.jpeg
-      - id: 541
+      - id: 50541
         color: Blue
         price: 2099.95
         image: images/166-blue.jpg
-      - id: 542
+      - id: 50542
         color: Silver
         price: 2099.95
         image: images/166-silver.jpg
@@ -5946,15 +5946,15 @@ products:
           Performance: High-performance AP, though it can experience thermal throttling under heavy load.
           Support: 7 years of OS upgrades and security patches. 
     variants:
-      - id: 543
+      - id: 50543
         color: Black
         price: 1989.95
         image: images/167-black.jpeg
-      - id: 544
+      - id: 50544
         color: Silver
         price: 1989.95
         image: images/167-silver.jpg
-      - id: 545
+      - id: 50545
         color: Blue
         price: 1989.95
         image: images/167-blue.jpg
@@ -5981,11 +5981,11 @@ products:
           Durability: IP48 water/dust resistance.
           Dimensions (Folded): 3.35" x 2.83" x 0.59". 
     variants:
-      - id: 546
+      - id: 50546
         color: Black
         price: 959.95
         image: images/168-black.jpeg
-      - id: 547
+      - id: 50547
         price: 959.95
         color: White
         image: images/168-white.jpg
@@ -6022,15 +6022,15 @@ products:
           Performance: High-performance AP, though it can experience thermal throttling under heavy load.
           Support: 7 years of OS upgrades and security patches. 
     variants:
-      - id: 548
+      - id: 50548
         color: Black
         price: 2409.95
         image: images/169-black.jpeg
-      - id: 549
+      - id: 50549
         color: Silver
         price: 2409.95
         image: images/169-silver.jpg
-      - id: 550
+      - id: 50550
         color: Blue
         price: 2409.95
         image: images/169-blue.jpg
@@ -6056,11 +6056,11 @@ products:
           Durability: IP48 water/dust resistance.
           Dimensions (Folded): 3.35" x 2.83" x 0.59". 
     variants:
-      - id: 551
+      - id: 50551
         color: Black
         price: 899.95
         image: images/170-black.jpeg
-      - id: 552
+      - id: 50552
         color: White
         price: 899.95
         image: images/170-white.jpg
@@ -6094,15 +6094,15 @@ products:
           Camera Capabilities: 4K video recording, enhanced low-light, and improved AI auto-zoom via the flex window.
           Display Quality: Brighter, more responsive cover screen, and reduced crease
     variants:
-      - id: 553
+      - id: 50553
         color: Black
         price: 1099.95
         image: images/171-black.webp
-      - id: 554
+      - id: 50554
         color: Blue
         price: 1099.95
         image: images/171-blue.webp
-      - id: 555
+      - id: 50555
         color: Red
         price: 1099.95
         image: images/171-red.webp
@@ -6136,15 +6136,15 @@ products:
           Camera Capabilities: 4K video recording, enhanced low-light, and improved AI auto-zoom via the flex window.
           Display Quality: Brighter, more responsive cover screen, and reduced crease
     variants:
-      - id: 556
+      - id: 50556
         color: Black
         price: 1219.95
         image: images/172-black.webp
-      - id: 557
+      - id: 50557
         color: Blue
         price: 1219.95
         image: images/172-blue.webp
-      - id: 558
+      - id: 50558
         color: Red
         price: 1219.95
         image: images/172-red.webp
@@ -6172,19 +6172,19 @@ products:
           Connectivity/Security: 5G, Wi-Fi 5, Bluetooth 5.3, NFC, Dual SIM, Fingerprint Sensor.
           Build/Features: IP67 dust/water resistance, slim 7.7mm design, no headphone jack, TracFone. K
     variants:
-      - id: 559
+      - id: 50559
         color: Black
         price: 359.95
         image: images/173-black.jpg
-      - id: 560
+      - id: 50560
         color: White
         price: 359.95
         image: images/173-white.jpeg
-      - id: 561
+      - id: 50561
         color: Pink
         price: 359.95
         image: images/173-pink.jpg
-      - id: 562
+      - id: 50562
         color: Green
         price: 359.95
         image: images/173-green.jpg
@@ -6193,18 +6193,18 @@ products:
     category: Phones
     variants:
       - price: 349.95
-        id: 563
+        id: 50563
         color: Black
         image: images/174-black.jpg
-      - id: 564
+      - id: 50564
         color: Green
         price: 349.95
         image: images/174-green.jpg
-      - id: 565
+      - id: 50565
         color: White
         price: 349.95
         image: images/174-white.jpeg
-      - id: 566
+      - id: 50566
         color: Pink
         price: 349.95
         image: images/174-pink.jpg
@@ -6253,19 +6253,19 @@ products:
 
       The Samsung Galaxy A56 5G is designed to look similar to flagship Samsung models, featuring a slim aluminum frame and a revised camera layout.
     variants:
-      - id: 567
+      - id: 50567
         color: Gray
         price: 499.95
         image: images/175gray.jpg
-      - id: 568
+      - id: 50568
         color: Green
         price: 499.95
         image: images/175-green.jpeg
-      - id: 569
+      - id: 50569
         color: White
         price: 499.95
         image: images/175-white.jpg
-      - id: 570
+      - id: 50570
         color: Pink
         price: 499.95
         image: images/175-pink.jpg
@@ -6294,19 +6294,19 @@ products:
 
       The Samsung Galaxy A56 5G is designed to look similar to flagship Samsung models, featuring a slim aluminum frame and a revised camera layout.
     variants:
-      - id: 571
+      - id: 50571
         color: Gray
         price: 449.95
         image: images/176-gray.jpg
-      - id: 572
+      - id: 50572
         color: Green
         price: 449.95
         image: images/176-green.jpeg
-      - id: 573
+      - id: 50573
         color: White
         price: 449.95
         image: images/176-white.jpg
-      - id: 574
+      - id: 50574
         color: Pink
         price: 449.95
         image: images/176-pink.jpg
@@ -6334,19 +6334,19 @@ products:
               Features: In-display fingerprint sensor, 5G Sub6, NFC, Stereo speakers, AI features (Circle to Search). 
 
     variants:
-      - id: 575
+      - id: 50575
         color: Black
         price: 439.95
         image: images/177-black.jpeg
-      - id: 576
+      - id: 50576
         color: Lavender
         price: 439.95
         image: images/177-lavender.jpg
-      - id: 577
+      - id: 50577
         color: White
         price: 439.95
         image: images/177-white.jpg
-      - id: 578
+      - id: 50578
         color: Lime
         price: 439.95
         image: images/177-lime.jpg
@@ -6375,19 +6375,19 @@ products:
               Durability & Design: IP54 water and dust resistance, 3.5mm headphone jack, Side-mounted fingerprint sensor.
               Dimensions & Weight: 164.4 x 77.9 x 7.9 mm (6.47 x 3.07 x 0.31 in); Approx. 200g.
     variants:
-      - id: 579
+      - id: 50579
         color: Blue
         price: 289.95
         image: images/178-blue.jpeg
-      - id: 580
+      - id: 50580
         color: Gold
         price: 289.95
         image: images/178-gold.jpg
-      - id: 581
+      - id: 50581
         color: Gray
         price: 289.95
         image: images/178-gray.jpg
-      - id: 582
+      - id: 50582
         color: Green
         price: 289.95
         image: images/178-green.jpeg
@@ -6414,19 +6414,19 @@ products:
               Dimensions: 162.9 x 78.2 x 7.4 mm (0.29-inch thin design).
               Features: In-display fingerprint sensor, 5G Sub6, NFC, Stereo speakers, AI features (Circle to Search). 
     variants:
-      - id: 583
+      - id: 50583
         color: Black
         price: 399.95
         image: images/179-black.jpeg
-      - id: 584
+      - id: 50584
         color: Lavender
         price: 399.95
         image: images/179-lavender.jpg
-      - id: 585
+      - id: 50585
         color: White
         price: 399.95
         image: images/179-white.jpg
-      - id: 586
+      - id: 50586
         color: Lime
         price: 399.95
         image: images/179-lime.jpg
@@ -6455,19 +6455,19 @@ products:
               Durability & Design: IP54 water and dust resistance, 3.5mm headphone jack, Side-mounted fingerprint sensor.
               Dimensions & Weight: 164.4 x 77.9 x 7.9 mm (6.47 x 3.07 x 0.31 in); Approx. 200g
     variants:
-      - id: 587
+      - id: 50587
         color: Black
         price: 319.95
         image: images/180-black.jpeg
-      - id: 588
+      - id: 50588
         color: Gold
         price: 319.95
         image: images/180-gold.jpg
-      - id: 589
+      - id: 50589
         color: Gray
         price: 319.95
         image: images/180-gray.jpg
-      - id: 590
+      - id: 50590
         color: Green
         price: 319.95
         image: images/180-green.jpeg
@@ -6493,11 +6493,11 @@ products:
           Dimensions: 7.8 mm thin, ~180g.
           Connectivity: 5G, Wi-Fi 6, Bluetooth 5.2, Dual SIM. 
     variants:
-      - id: 591
+      - id: 50591
         color: Black
         price: 419.95
         image: images/181-black.jpeg
-      - id: 592
+      - id: 50592
         color: Green
         price: 419.95
         image: images/181-green.jpg
@@ -6536,11 +6536,11 @@ products:
           4,700mAh battery supports up to 46 hours of talk time (per AT&T).
           The device provides good battery life, lasting a full day on a single charge based on normal usage, as seen in this YouTube video review
     variants:
-      - id: 593
+      - id: 50593
         color: Graphite
         price: 659.95
         image: images/182-graphite.png
-      - id: 594
+      - id: 50594
         color: Gray
         price: 659.95
         image: images/182-grey.png
@@ -6576,11 +6576,11 @@ products:
           Build: Glass back (Gorilla Glass 5) and plastic frame.
           Support: Promised 5 years of security updates and 4 generations of Android OS upgrades.
     variants:
-      - id: 595
+      - id: 50595
         color: Black
         price: 339.95
         image: images/183-black.jpeg
-      - id: 596
+      - id: 50596
         color: Violet
         price: 339.95
         image: images/183-Violet.jpg
@@ -6607,7 +6607,7 @@ products:
           Other: Dual speakers, under-display fingerprint sensor, X-axis linear motor, IP65 rating
     image: ""
     variants:
-      - id: 599
+      - id: 50599
         color: Blue
         price: 299.95
         image: images/185-blue.jpeg
@@ -6637,7 +6637,7 @@ products:
           The camera supports 1080P video recording.
           The design features thin bezels and a flat-edge, premium-feeling finish.
     variants:
-      - id: 600
+      - id: 50600
         color: Blue
         price: 299.95
         image: images/186-blue.jpeg
@@ -6661,11 +6661,11 @@ products:
           Display & Battery: 6.6-inch HD+ display with 90Hz refresh rate and a 5000mAh battery with 10W slow charging.
           Camera: 50MP main camera. 
     variants:
-      - id: 601
+      - id: 50601
         color: Orange
         price: 269.95
         image: images/187-orange.jpeg
-      - id: 602
+      - id: 50602
         color: Pop-art
         price: 269.95
         image: images/187-pop-art.jpeg
@@ -6702,19 +6702,19 @@ products:
           Software/AI: Android 14 with One UI 6.1; Galaxy AI features.
           Connectivity: 5G, Wi-Fi 6E, Bluetooth 5.3, NFC. 
     variants:
-      - id: 603
+      - id: 50603
         color: Gray
         price: 829.95
         image: images/188-gray.png
-      - id: 604
+      - id: 50604
         color: Black
         price: 829.95
         image: images/188-black.jpeg
-      - id: 605
+      - id: 50605
         color: Orange
         price: 829.95
         image: images/188-orange.webp
-      - id: 606
+      - id: 50606
         price: 829.95
         color: Yellow
         image: images/188-yellow.png
@@ -6742,7 +6742,7 @@ products:
           Weight/Dimensions: 208g / 166 x 76.1 x 8.5 mm
           Connectivity: 5G, Dual SIM, Wi-Fi, Bluetooth, USB Type-C
     variants:
-      - id: 607
+      - id: 50607
         color: Gray
         price: 359.95
         image: images/189-gray.jpeg
@@ -6768,11 +6768,11 @@ products:
           OS: Xiaomi HyperOS based on Android 14.
           Other Features: Side-mounted fingerprint sensor, AI face unlock, 3.5mm headphone jack, IP52 splash resistance, Bluetooth 5.4, NFC (region dependent).The device including green and black, with a, premium "starry" design aesthetic on certain models. Note that a 5G version exists in some markets (e.g., India) featuring the Snapdragon 4s Gen 2 chip, 5MP front camera, and a 204g weight.
     variants:
-      - id: 608
+      - id: 50608
         color: Green
         price: 299.95
         image: images/190-green.jpg
-      - id: 609
+      - id: 50609
         color: Black
         price: 299.95
         image: images/190-black.jpeg
@@ -6801,7 +6801,7 @@ products:
           Weight: 180g
           Other: Dedicated Google Assistant button, Face Unlock 
     variants:
-      - id: 610
+      - id: 50610
         color: Blue
         price: 179.95
         image: images/191-blue.jpeg
@@ -6835,11 +6835,11 @@ products:
           Weight: ~199 g
           Build: Glass front, plastic back/frame 
     variants:
-      - id: 611
+      - id: 50611
         color: Blue
         price: 369.95
         image: images/192-blue.jpeg
-      - id: 612
+      - id: 50612
         color: Black
         price: 369.95
         image: images/192-black.jpeg
@@ -6865,7 +6865,7 @@ products:
               Security: Side-mounted fingerprint sensor, Facial recognition
               Other: 5G connectivity, 3.5mm headphone jack, BoostMax Audio, IPX2 water resistance 
     variants:
-      - id: 613
+      - id: 50613
         color: Silver
         price: 249.95
         image: images/193-silver.jpeg
@@ -6889,19 +6889,19 @@ products:
           Features: SOS Function, FM Radio, Bluetooth, Music Player, Flashlight.
           Dimensions: Approximately 106 x 52 x 13.6 mm.
     variants:
-      - id: 614
+      - id: 50614
         color: Black
         price: 119.95
         image: images/194-black.png
-      - id: 615
+      - id: 50615
         color: Red
         price: 119.95
         image: images/194-red.png
-      - id: 616
+      - id: 50616
         color: Blue
         price: 119.95
         image: images/194-blue.jpeg
-      - id: 617
+      - id: 50617
         color: Gold
         price: 119.95
         image: images/194-gold.jpeg
@@ -6939,19 +6939,19 @@ products:
           Qi2/Pixelsnap: Features magnetic wireless charging (15W).
           AI Integration: Deeply integrated AI tools for camera and daily tasks.
     variants:
-      - id: 618
+      - id: 50618
         color: Green
         price: 989.95
         image: images/195-green.jpeg
-      - id: 619
+      - id: 50619
         color: Gray
         price: 989.95
         image: images/195-gray.jpeg
-      - id: 620
+      - id: 50620
         color: White
         price: 989.95
         image: images/195-white.webp
-      - id: 621
+      - id: 50621
         color: Black
         price: 989.95
         image: images/195-black.png
@@ -6989,19 +6989,19 @@ products:
           Qi2/Pixelsnap: Features magnetic wireless charging (15W).
           AI Integration: Deeply integrated AI tools for camera and daily tasks.
     variants:
-      - id: 622
+      - id: 50622
         color: Black
         price: 1089.95
         image: images/196-black.png
-      - id: 623
+      - id: 50623
         color: White
         price: 1089.95
         image: images/196-white.webp
-      - id: 624
+      - id: 50624
         color: Green
         price: 1089.95
         image: images/196-green.jpeg
-      - id: 625
+      - id: 50625
         color: Gray
         price: 1089.95
         image: images/196-gray.jpeg
@@ -7039,19 +7039,19 @@ products:
           Qi2/Pixelsnap: Features magnetic wireless charging (15W).
           AI Integration: Deeply integrated AI tools for camera and daily tasks.
     variants:
-      - id: 626
+      - id: 50626
         color: Black
         price: 1209.95
         image: images/197-black.png
-      - id: 627
+      - id: 50627
         color: White
         price: 1209.95
         image: images/197-white.webp
-      - id: 628
+      - id: 50628
         color: Green
         price: 1209.95
         image: images/197-green.jpeg
-      - id: 629
+      - id: 50629
         color: Gray
         price: 1209.95
         image: images/197-gray.jpeg
@@ -7089,20 +7089,20 @@ products:
           Qi2/Pixelsnap: Features magnetic wireless charging (15W).
           AI Integration: Deeply integrated AI tools for camera and daily tasks.
     variants:
-      - id: 630
+      - id: 50630
         color: Black
         price: 1599.95
         image: images/198-black.png
-      - id: 631
+      - id: 50631
         color: Gray
         price: 1599.95
         image: images/198-gray.jpeg
-      - id: 632
+      - id: 50632
         color: White
         price: 1599.95
         image: images/198-white.webp
       - color: Green
-        id: 633
+        id: 50633
         price: 1599.95
         image: images/198-green.jpeg
   - id: 199
@@ -7133,19 +7133,19 @@ products:
           Superior Zoom: Up to 100x Pro Res Zoom with 5x optical zoom.
           Design: Large-screen design with narrow bezels, roughly 6.4 x 3.0 x 0.3 inches. 
     variants:
-      - id: 634
+      - id: 50634
         color: Black
         price: 1189.95
         image: images/199-black.png
-      - id: 635
+      - id: 50635
         color: Gray
         price: 1189.95
         image: images/199-gray.jpeg
-      - id: 636
+      - id: 50636
         color: White
         price: 1189.95
         image: images/199-white.webp
-      - id: 637
+      - id: 50637
         color: Green
         price: 1189.95
         image: images/199-green.jpeg
@@ -7177,19 +7177,19 @@ products:
           Superior Zoom: Up to 100x Pro Res Zoom with 5x optical zoom.
           Design: Large-screen design with narrow bezels, roughly 6.4 x 3.0 x 0.3 inches
     variants:
-      - id: 638
+      - id: 50638
         color: Black
         price: 1309.95
         image: images/200-black.png
-      - id: 639
+      - id: 50639
         color: Green
         price: 1309.95
         image: images/200-green.jpeg
-      - id: 640
+      - id: 50640
         color: White
         price: 1309.95
         image: images/200-white.webp
-      - id: 641
+      - id: 50641
         color: Gray
         price: 1309.95
         image: images/200-gray.jpeg
@@ -7221,19 +7221,19 @@ products:
           Superior Zoom: Up to 100x Pro Res Zoom with 5x optical zoom.
           Design: Large-screen design with narrow bezels, roughly 6.4 x 3.0 x 0.3 inches
     variants:
-      - id: 642
+      - id: 50642
         color: Black
         price: 1589.95
         image: images/201-black.png
-      - id: 643
+      - id: 50643
         color: White
         price: 1589.95
         image: images/201-white.webp
-      - id: 644
+      - id: 50644
         color: Green
         price: 1589.95
         image: images/201-green.jpeg
-      - id: 645
+      - id: 50645
         color: Gray
         price: 1589.95
         image: images/201-gray.jpeg
@@ -7259,19 +7259,19 @@ products:
           Software/Support: Android 16 with 7 years of OS and security updates.
           Build: IP68 water/dust resistance, aluminum frame, glossy back, builtin magnets for accessories.
     variants:
-      - id: 646
+      - id: 50646
         color: Black
         price: 839.95
         image: images/202-black.webp
-      - id: 647
+      - id: 50647
         color: White
         price: 839.95
         image: images/202-white.png
-      - id: 648
+      - id: 50648
         color: Blue
         price: 839.95
         image: images/202-blue.png
-      - id: 649
+      - id: 50649
         color: Yellow
         price: 839.95
         image: images/202-yellow.png
@@ -7297,19 +7297,19 @@ products:
           Software/Support: Android 16 with 7 years of OS and security updates.
           Build: IP68 water/dust resistance, aluminum frame, glossy back, builtin magnets for accessories.
     variants:
-      - id: 650
+      - id: 50650
         color: Black
         price: 939.95
         image: images/203-black.webp
-      - id: 651
+      - id: 50651
         color: Blue
         price: 939.95
         image: images/203-blue.png
-      - id: 652
+      - id: 50652
         color: White
         price: 939.95
         image: images/203-white.png
-      - id: 653
+      - id: 50653
         color: Yellow
         price: 939.95
         image: images/203-yellow.png
@@ -7344,7 +7344,7 @@ products:
           Durability: It is the first A-series Pixel with an IP68 rating, meaning it has superior water resistance compared to the IP67-rated 8a, explains this YouTube review and Wikipedia.
           Software: Includes 7 years of Android OS and security updates, reports this YouTube review.
     variants:
-      - id: 654
+      - id: 50654
         color: Black
         price: 589.95
         image: images/204-black.jpg
@@ -7372,7 +7372,7 @@ products:
 
       The standard Pixel 9 lacks the 16GB of RAM, dedicated periscope telephoto camera, and matte finish found on the 9 Pro and 9 Pro XL, but it offers 95% of the same functionality for a lower price.
     variants:
-      - id: 655
+      - id: 50655
         color: Black
         price: 789.95
         image: images/205-black.jpg
@@ -7400,7 +7400,7 @@ products:
 
       The standard Pixel 9 lacks the 16GB of RAM, dedicated periscope telephoto camera, and matte finish found on the 9 Pro and 9 Pro XL, but it offers 95% of the same functionality for a lower price.
     variants:
-      - id: 656
+      - id: 50656
         color: Black
         price: 889.95
         image: images/206-black.jpg
@@ -7427,11 +7427,11 @@ products:
           Durability: IPx8 water rating.
           OS: Android 14. 
     variants:
-      - id: 657
+      - id: 50657
         color: Black
         price: 1499.95
         image: images/207-black.webp
-      - id: 658
+      - id: 50658
         color: White
         price: 1499.95
         image: images/207-white.jpg
@@ -7458,7 +7458,7 @@ products:
           Durability: IPx8 water rating.
           OS: Android 14. 
     variants:
-      - id: 659
+      - id: 50659
         color: Black
         price: 1799.95
         image: images/208-black.webp
@@ -7492,19 +7492,19 @@ products:
 
       The Google Pixel 9 Pro XL is considered a premium, large-screen device with high-end camera capabilities including 8K video boost, notes 
     variants:
-      - id: 660
+      - id: 50660
         color: Black
         price: 1089.95
         image: images/209-black.webp
-      - id: 661
+      - id: 50661
         color: Gray
         price: 1089.95
         image: images/209-gray.webp
-      - id: 662
+      - id: 50662
         color: White
         price: 1089.95
         image: images/209-white.jpeg
-      - id: 663
+      - id: 50663
         color: Pink
         price: 1089.95
         image: images/209-pink.webp
@@ -7538,19 +7538,19 @@ products:
 
       The Google Pixel 9 Pro XL is considered a premium, large-screen device with high-end camera capabilities including 8K video boost, notes 
     variants:
-      - id: 664
+      - id: 50664
         color: Gray
         price: 1199.95
         image: images/210-gray.webp
-      - id: 665
+      - id: 50665
         color: White
         price: 1199.95
         image: images/210-white.jpeg
-      - id: 666
+      - id: 50666
         color: Pink
         price: 1199.95
         image: images/210-pink.webp
-      - id: 667
+      - id: 50667
         color: Black
         price: 1199.95
         image: images/210-black.webp
@@ -7584,19 +7584,19 @@ products:
 
       The Google Pixel 9 Pro XL is considered a premium, large-screen device with high-end camera capabilities including 8K video boost, notes 
     variants:
-      - id: 668
+      - id: 50668
         color: Black
         price: 1429.95
         image: images/211-black.webp
-      - id: 669
+      - id: 50669
         color: Gray
         price: 1429.95
         image: images/211-gray.webp
-      - id: 670
+      - id: 50670
         color: White
         price: 1429.95
         image: images/211-white.jpeg
-      - id: 671
+      - id: 50671
         color: Pink
         price: 1429.95
         image: images/211-pink.webp
@@ -7630,19 +7630,19 @@ products:
 
       The Google Pixel 9 Pro XL is considered a premium, large-screen device with high-end camera capabilities including 8K video boost, notes 
     variants:
-      - id: 672
+      - id: 50672
         color: Black
         price: 1659.95
         image: images/212-black.webp
-      - id: 673
+      - id: 50673
         color: Gray
         price: 1659.95
         image: images/212-gray.webp
-      - id: 674
+      - id: 50674
         color: White
         price: 1659.95
         image: images/212-white.jpeg
-      - id: 675
+      - id: 50675
         color: Pink
         price: 1659.95
         image: images/212-pink.webp
@@ -7672,17 +7672,17 @@ products:
     variants:
       - price: 999.95
         color: Black
-        id: 676
+        id: 50676
         image: images/213-black.webp
-      - id: 677
+      - id: 50677
         color: Gray
         price: 999.95
         image: images/213-gray.webp
-      - id: 678
+      - id: 50678
         color: White
         price: 999.95
         image: images/213-white.jpeg
-      - id: 679
+      - id: 50679
         color: Pink
         price: 999.95
         image: images/213-pink.webp
@@ -7710,19 +7710,19 @@ products:
               Design: Matte glass back, polished metal frame, IP68 rating.
               AI: Built-in Gemini, AI photo editing (Pixel Studio, Add Me). The Pixel 9 Pro provides top-tier camera performance, including 8K30 video recording (with Video Boost) and advanced AI capabilities in a smaller form factor than the Pro XL. 
     variants:
-      - id: 680
+      - id: 50680
         color: Black
         price: 1199.95
         image: images/214-black.webp
-      - id: 681
+      - id: 50681
         color: Gray
         price: 1199.95
         image: images/214-gray.webp
-      - id: 682
+      - id: 50682
         color: White
         price: 1199.95
         image: images/214-white.jpeg
-      - id: 683
+      - id: 50683
         color: Pink
         price: 1199.95
         image: images/214-pink.webp
@@ -7750,19 +7750,19 @@ products:
               Design: Matte glass back, polished metal frame, IP68 rating.
               AI: Built-in Gemini, AI photo editing (Pixel Studio, Add Me). The Pixel 9 Pro provides top-tier camera performance, including 8K30 video recording (with Video Boost) and advanced AI capabilities in a smaller form factor than the Pro XL. 
     variants:
-      - id: 684
+      - id: 50684
         color: Black
         price: 1329.95
         image: images/215-black.webp
-      - id: 685
+      - id: 50685
         color: Gray
         price: 1329.95
         image: images/215-gray.webp
-      - id: 686
+      - id: 50686
         color: White
         price: 1329.95
         image: images/215-white.jpeg
-      - id: 687
+      - id: 50687
         color: Pink
         price: 1329.95
         image: images/215-pink.webp
@@ -7790,19 +7790,19 @@ products:
               Design: Matte glass back, polished metal frame, IP68 rating.
               AI: Built-in Gemini, AI photo editing (Pixel Studio, Add Me). The Pixel 9 Pro provides top-tier camera performance, including 8K30 video recording (with Video Boost) and advanced AI capabilities in a smaller form factor than the Pro XL. 
     variants:
-      - id: 688
+      - id: 50688
         color: Black
         price: 1559.95
         image: images/216-black.webp
-      - id: 689
+      - id: 50689
         color: Gray
         price: 1559.95
         image: images/216-gray.webp
-      - id: 690
+      - id: 50690
         color: White
         price: 1559.95
         image: images/216-white.jpeg
-      - id: 691
+      - id: 50691
         color: Pink
         price: 1559.95
         image: images/216-pink.webp
@@ -7832,7 +7832,7 @@ products:
               Security: Side-mounted fingerprint sensor.
               Dimensions & Weight: 161 x 76.5 x 8.3 mm; 197g. 
     variants:
-      - id: 692
+      - id: 50692
         color: Black
         price: 299.95
         image: images/217-black.jpg
@@ -7872,11 +7872,11 @@ products:
           mmWave 5G: US models lack mmWave support, relying on sub-6GHz 5G.
           Ultra-Wideband: Does not include the U2 chip for UWB features.
     variants:
-      - id: 693
+      - id: 50693
         color: Black
         price: 729.95
         image: images/iphone_16e_Black__55227.jpg
-      - id: 694
+      - id: 50694
         color: White
         price: 729.95
         image: images/iPhone_16e_WHI_1.webp
@@ -7916,11 +7916,11 @@ products:
           mmWave 5G: US models lack mmWave support, relying on sub-6GHz 5G.
           Ultra-Wideband: Does not include the U2 chip for UWB features.
     variants:
-      - id: 695
+      - id: 50695
         color: White
         price: 859.95
         image: images/iPhone_16e_WHI_1.webp
-      - id: 696
+      - id: 50696
         color: Black
         price: 859.95
         image: images/iphone_16e_Black__55227.jpg
@@ -7973,7 +7973,7 @@ products:
                     Dimensions: 162 x 77.3 x 8 mm.
                     Weight: 213g.
     variants:
-      - id: 697
+      - id: 50697
         color: Gray
         price: 599.95
         image: images/182-grey.png
@@ -8012,7 +8012,7 @@ products:
           Audio: 3.5mm headphone jack and dual speakers with 150% volume boost.
           Dimensions: 171.88 x 77.8 x 8.22mm; weighs between 204g and 211g depending on the finish. 
     variants:
-      - id: 699
+      - id: 50699
         color: Green
         price: 269.95
         image: images/redmi_14c_g__01228.jpg
@@ -8036,7 +8036,7 @@ products:
                 Battery: 4,385mAh capacity supporting 18W wired and 7.5W wireless charging.
                 Durability: IP67 rating for dust and water resistance.
     variants:
-      - id: 700
+      - id: 50700
         color: Charcoal
         price: 599.95
         image: images/138-charcoal.png
@@ -8080,7 +8080,7 @@ products:
 
           Final Updates: It is scheduled to receive its last security and OS updates in October 2026.
     variants:
-      - id: 701
+      - id: 50701
         color: " Black"
         price: 449.95
         image: images/google_pixel_6A_black__44154.jpg
@@ -8116,15 +8116,15 @@ products:
                 OS: Shipped with Android 13, upgradable to Android 16.
                 Support: The device boasts security updates until 2027, making it a sustainable choice for several more years. 
     variants:
-      - id: 702
+      - id: 50702
         color: Black
         price: 569.95
         image: images/142-black.png
-      - id: 703
+      - id: 50703
         color: White
         price: 569.95
         image: images/138-white.jpg
-      - id: 704
+      - id: 50704
         image: images/142-hazel.jpeg
         color: Gray
         price: 569.95
@@ -8156,15 +8156,15 @@ products:
             upgradable to Android 16. Support: The device boasts security updates
             until 2027, making it a sustainable choice for several more years.
     variants:
-      - id: 705
+      - id: 50705
         color: Gray
         price: 579.95
         image: images/140-hazel.jpeg
-      - id: 706
+      - id: 50706
         price: 579.95
         color: Black
         image: images/138-charcoal.png
-      - id: 707
+      - id: 50707
         price: 579.95
         color: White
         image: images/140-white.png
@@ -8196,15 +8196,15 @@ products:
       until 2027, making it a sustainable choice for several more years.
     category: Phones
     variants:
-      - id: 708
+      - id: 50708
         color: Snow
         price: 599.95
         image: images/140-white.png
-      - id: 709
+      - id: 50709
         color: Obsidian
         price: 599.95
         image: images/140-black.png
-      - id: 710
+      - id: 50710
         color: Hazel
         price: 599.95
         image: images/141-hazel.jpeg
@@ -8241,11 +8241,11 @@ products:
                 OS: Shipped with iOS 15, upgradable 
     name: Apple iPhone 13, 128GB, Physical SIM , Unlocked, New , Sealed
     variants:
-      - id: 711
+      - id: 50711
         price: 579.95
         image: images/STA-image-0.jpeg
         color: White
-      - id: 712
+      - id: 50712
         color: Black
         price: 579.95
         image: images/130-black.webp
@@ -8278,15 +8278,15 @@ products:
       addressed by iOS updates. Price: Premium pricing, with newer models
       sometimes available refurbished.
     variants:
-      - id: 713
+      - id: 50713
         color: Blue
         price: 1119.95
         image: images/61-k3mduxkl._ac_uf894-1000_ql80_fmwebp_.webp
-      - id: 714
+      - id: 50714
         color: White
         price: 1119.95
         image: images/712TY0NCErL._AC_UF894,1000_QL80_FMwebp_ (1).webp
-      - id: 715
+      - id: 50715
         color: Natural Titanium
         price: 1119.95
         image: images/616mzzm8-7l._ac_uf894-1000_ql80_fmwebp_.webp
@@ -8311,11 +8311,11 @@ products:
       fps with Dolby Vision, offering high-resolution and high-frame-rate
       options for filmmakers and content creators.
     variants:
-      - id: 716
+      - id: 50716
         color: Natural Titanium
         price: 1399.95
         image: images/iPhone-16-Pro-128GB-E-Sim-Pre-ownednatural-titanium-hero-zoom.webp
-      - id: 717
+      - id: 50717
         color: Black
         price: 1399.95
         image: images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp
@@ -8339,11 +8339,11 @@ products:
       options for filmmakers and content creators. "
     category: Phones
     variants:
-      - id: 718
+      - id: 50718
         color: Black
         price: 1069.95
         image: images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp
-      - id: 719
+      - id: 50719
         image: images/iPhone-16-Pro-128GB-E-Sim-Pre-ownednatural-titanium-hero-zoom.webp
         color: Natural Titanium
         price: 1069.95
@@ -8367,11 +8367,11 @@ products:
       options for filmmakers and content creators. "
     id: 232
     variants:
-      - id: 720
+      - id: 50720
         color: Natural Titanium
         price: 1629.95
         image: images/iPhone-16-Pro-128GB-E-Sim-Pre-ownednatural-titanium-hero-zoom.webp
-      - id: 721
+      - id: 50721
         color: " Black"
         price: 1629.95
         image: images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp
@@ -8402,11 +8402,11 @@ products:
     name: Apple iPhone 16 Pro Max , 256GB , E-Sim ,Unlocked , New , Sealed
     id: 233
     variants:
-      - id: 722
+      - id: 50722
         color: Black
         price: 1279.95
         image: images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp
-      - id: 723
+      - id: 50723
         color: Natural Titanium
         price: 1279.95
         image: images/iPhone-16-Pro-128GB-E-Sim-Pre-ownednatural-titanium-hero-zoom.webp
@@ -8437,11 +8437,11 @@ products:
       Wireless: Wi-Fi 7, Bluetooth 5.3, and second-generation Ultra Wideband
       chip.
     variants:
-      - id: 724
+      - id: 50724
         color: Black
         price: 1639.95
         image: images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp
-      - id: 725
+      - id: 50725
         color: Natural Titanium
         price: 1639.95
         image: images/iPhone-16-Pro-128GB-E-Sim-Pre-ownednatural-titanium-hero-zoom.webp
@@ -8467,19 +8467,19 @@ products:
           Battery & Power: Up to 22 hours of video playback. Supports fast charging (50% in ~30 minutes) and up to 25W MagSafe wireless charging with a 30W adapter.
           Connectivity: Wi-Fi 7 support, USB-C (USB 2 speeds), and second-generation Ultra Wideband chip.
     variants:
-      - id: 726
+      - id: 50726
         color: Black
         price: 899.95
         image: images/apple-iphone-16(black-USED).jpg
-      - id: 727
+      - id: 50727
         color: Pink
         price: 899.95
         image: images/apple-iphone-16(pink-USED).jpg
-      - id: 728
+      - id: 50728
         color: White
         price: 899.95
         image: images/apple-iphone-16(white-USED).jpg
-      - id: 729
+      - id: 50729
         color: Blue
         price: 899.95
         image: images/apple-iphone-16(blue-USED).jpg
@@ -8511,23 +8511,23 @@ products:
       25W MagSafe wireless charging with a 30W adapter. Connectivity: Wi-Fi 7
       support, USB-C (USB 2 speeds), and second-generation Ultra Wideband chip.
     variants:
-      - id: 730
+      - id: 50730
         color: Pink
         price: 1039.95
         image: images/apple-iphone-16(pink-USED).jpg
-      - id: 731
+      - id: 50731
         color: Blue
         price: 1039.95
         image: images/apple-iphone-16(blue-USED).jpg
-      - id: 732
+      - id: 50732
         color: White
         price: 1039.95
         image: images/apple-iphone-16(white-USED).jpg
-      - id: 733
+      - id: 50733
         color: Black
         price: 1039.95
         image: images/apple-iphone-16(black-USED).jpg
-      - id: 734
+      - id: 50734
         color: Teal
         price: 1039.95
         image: images/apple-iphone-16(teal-USED).jpg
@@ -8581,19 +8581,19 @@ products:
 
       \    "
     variants:
-      - id: 744
+      - id: 50744
         color: Black
         price: 1039.95
         image: images/237-black.webp
-      - id: 745
+      - id: 50745
         color: Gold
         price: 1039.95
         image: images/237-gold.webp
-      - id: 746
+      - id: 50746
         color: White
         price: 1039.95
         image: images/237-white.webp
-      - id: 747
+      - id: 50747
         price: 1039.95
         color: Blue
         image: images/237-blue.webp
@@ -8621,21 +8621,21 @@ products:
       eSIM only worldwide. Pricing and Variants The iPhone 17 Air Storage
       Options: 256GB, 512GB, and 1TB. "
     variants:
-      - id: 748
+      - id: 50748
         color: Black
         price: 1579.95
         image: images/237-black.webp
-      - id: 749
+      - id: 50749
         price: 1579.95
         color: Blue
         image: images/237-blue.webp
-      - id: 750
+      - id: 50750
         color: Gold
         price: 1579.95
         image: images/237-gold.webp
       - price: 1579.95
         color: White
-        id: 751
+        id: 50751
         image: images/237-white.webp
   - id: 239
     name: Apple iPhone 17 Air ,5G, 1TB , Unlocked , New , Sealed
@@ -8661,19 +8661,19 @@ products:
       eSIM only worldwide. Pricing and Variants The iPhone 17 Air Storage
       Options: 256GB, 512GB, and 1TB. "
     variants:
-      - id: 752
+      - id: 50752
         color: Black
         price: 1789.95
         image: images/237-black.webp
-      - id: 753
+      - id: 50753
         color: White
         price: 1789.95
         image: images/237-white.webp
       - price: 1789.95
-        id: 754
+        id: 50754
         color: Blue
         image: images/237-blue.webp
-      - id: 755
+      - id: 50755
         color: Gold
         price: 1789.95
         image: images/237-gold.webp
@@ -8694,15 +8694,15 @@ products:
       5.89 inches Product Width 2.81 inches Product Depth 0.31 inches Product
       Weight 6.24 ounces "
     variants:
-      - id: 756
+      - id: 50756
         price: 1249.95
         color: White
         image: images/iphone-17-finish-select-202509-white_GEO_US.webp
-      - id: 757
+      - id: 50757
         color: " Lavender"
         price: 1249.95
         image: images/iphone-17-finish-select-202509-lavender_GEO_US.webp
-      - id: 758
+      - id: 50758
         color: Black
         price: 1249.95
         image: images/iphone-17-finish-select-202509-black_GEO_US.webp
@@ -8723,15 +8723,15 @@ products:
           Display: The 6.3-inch Super Retina XDR display reaches a peak outdoor brightness of 3,000 nits and features Ceramic Shield 2 for 3x better scratch resistance.
           Battery & Charging: Offers up to 33 hours of video playback. Fast charging can reach 50% in roughly 20 minutes with a 40W adapter.
     variants:
-      - id: 759
+      - id: 50759
         color: Deep Blue
         price: 1299.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp
-      - id: 760
+      - id: 50760
         color: Cosmic Orange
         price: 1299.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg
-      - id: 761
+      - id: 50761
         color: Silver
         price: 1299.95
         image: images/apple-iphone-17-pro-max-1tb-nano-sim-and-esim.webp
@@ -8754,15 +8754,15 @@ products:
       Battery & Charging: Offers up to 33 hours of video playback. Fast charging
       can reach 50% in roughly 20 minutes with a 40W adapter. '
     variants:
-      - id: 762
+      - id: 50762
         color: Cosmic Orange
         price: 1529.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg
-      - id: 763
+      - id: 50763
         price: 1529.95
         color: Deep Blue
         image: images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp
-      - id: 764
+      - id: 50764
         color: Silver
         price: 1529.95
         image: images/apple-iphone-17-pro-max-1tb-nano-sim-and-esim.webp
@@ -8785,15 +8785,15 @@ products:
       can reach 50% in roughly 20 minutes with a 40W adapter. '
     id: 243
     variants:
-      - id: 765
+      - id: 50765
         color: Cosmic Orange
         price: 1739.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg
-      - id: 766
+      - id: 50766
         color: Deep Blue
         price: 1739.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp
-      - id: 767
+      - id: 50767
         color: Silver
         price: 1739.95
         image: images/apple-iphone-17-pro-max-1tb-nano-sim-and-esim.webp
@@ -8823,7 +8823,7 @@ products:
     name: Samsung Galaxy Tab A9 Plus, 64GB, 11inch , Unlocked ,  WiFi Only, New ,
       Sealed
     variants:
-      - id: 768
+      - id: 50768
         color: Gray
         price: 269.95
         image: images/244-gray.webp
@@ -8850,7 +8850,7 @@ products:
       jack, Bluetooth 5.1, and Wi-Fi 5. "
     category: Tablets
     variants:
-      - id: 769
+      - id: 50769
         color: Gray
         price: 319.95
         image: images/244-gray.webp
@@ -8880,27 +8880,27 @@ products:
       Specs OS: Launched with iOS 16, upgradable. Dimensions: 146.7 x 71.5 x 7.8
       mm. Weight: 172g. "
     variants:
-      - id: 770
+      - id: 50770
         color: Yellow
         price: 759.95
         image: images/iphone-14-plus-yellow__15396.jpg
-      - id: 771
+      - id: 50771
         color: Black
         price: 759.95
         image: images/iphoneblack.webp
-      - id: 772
+      - id: 50772
         color: Red
         price: 759.95
         image: images/Restored-Apple-iPhone-14-Carrier-Unlocked-128-GB-Red-Refurbished_fce73123-996f-402c-8e03-e6f75be55929.3af24aa35da9056417433d557b154a09.jpeg
-      - id: 773
+      - id: 50773
         color: Blue
         price: 759.95
         image: images/iphone-14-4.jpg
-      - id: 774
+      - id: 50774
         color: Purple
         price: 759.95
         image: images/619f09kk7tl._ac_uf894-1000_ql80_fmwebp_.webp
-      - id: 775
+      - id: 50775
         color: White
         price: 759.95
         image: images/refurb-iphone-14-starlight-202404 (copy).jpeg
@@ -8924,25 +8924,25 @@ products:
       and gaming well. No Pro Features: Lacks the high refresh rate (ProMotion)
       display and 48MP main camera of the iPhone 14 Pro series. "
     variants:
-      - id: 776
+      - id: 50776
         color: Purple
         price: 929.95
         image: images/619f09kK7tL._AC_UF894,1000_QL80_FMwebp_.webp
-      - id: 777
+      - id: 50777
         color: Black
         price: 929.95
         image: images/iphoneblack.webp
-      - id: 778
+      - id: 50778
         color: Red
         price: 929.95
         image: images/Restored-Apple-iPhone-14-Carrier-Unlocked-128-GB-Red-Refurbished_fce73123-996f-402c-8e03-e6f75be55929.3af24aa35da9056417433d557b154a09.jpeg
-      - id: 779
+      - id: 50779
         color: White
         price: 929.95
         image: images/refurb-iphone-14-starlight-202404.jpeg
       - color: Blue
         price: 929.95
-        id: 780
+        id: 50780
         image: images/iphone-14-4 (copy).jpg
   - name: Apple iPhone 14 Plus , 256GB, E-SIM , Unlocked, New , Sealed
     id: 248
@@ -8964,7 +8964,7 @@ products:
       and gaming well. No Pro Features: Lacks the high refresh rate (ProMotion)
       display and 48MP main camera of the iPhone 14 Pro series. "
     variants:
-      - id: 781
+      - id: 50781
         color: Black
         price: 1029.95
         image: images/iphoneblack.webp
@@ -8988,19 +8988,19 @@ products:
       display and 48MP main camera of the iPhone 14 Pro series. "
     id: 249
     variants:
-      - id: 783
+      - id: 50783
         color: Red
         price: 1199.95
         image: images/Restored-Apple-iPhone-14-Carrier-Unlocked-128-GB-Red-Refurbished_fce73123-996f-402c-8e03-e6f75be55929.3af24aa35da9056417433d557b154a09.jpeg
-      - id: 784
+      - id: 50784
         color: Purple
         price: 1199.95
         image: images/619f09kk7tl._ac_uf894-1000_ql80_fmwebp_.webp
-      - id: 785
+      - id: 50785
         price: 1199.95
         color: Blue
         image: images/iphone-14-4.jpg
-      - id: 786
+      - id: 50786
         color: White
         price: 1199.95
         image: images/STA-image-0.jpeg
@@ -9033,11 +9033,11 @@ products:
     category: Phones
     id: 250
     variants:
-      - id: 782
+      - id: 50782
         color: Purple
         price: 929.95
         image: images/iphone14pro-purple.jpg
-      - id: 787
+      - id: 50787
         color: Black
         price: 929.95
         image: images/iphone14pro-gray.avif
@@ -9067,7 +9067,7 @@ products:
       128GB, 256GB, 512GB, and 1TB. "
     id: 251
     variants:
-      - id: 788
+      - id: 50788
         color: Purple
         price: 1439.95
         image: images/iphone14pro-purple.jpg
@@ -9097,7 +9097,7 @@ products:
       Space Black, Silver, Gold, and Deep Purple. Storage: Options include
       128GB, 256GB, 512GB, and 1TB. "
     variants:
-      - id: 789
+      - id: 50789
         color: Purple
         price: 1419.95
         image: images/iphone14pro-purple.jpg
@@ -9131,7 +9131,7 @@ products:
     category: Phones
     id: 253
     variants:
-      - id: 790
+      - id: 50790
         color: Burgundy
         price: 579.95
         image: images/galaxy22-bur.jpg
@@ -9158,7 +9158,7 @@ products:
     id: 254
     category: Phones
     variants:
-      - id: 791
+      - id: 50791
         color: Black
         price: 299.95
         image: images/samsung_a23_black__87823.jpg
@@ -9175,7 +9175,7 @@ products:
     name: " Maestro 3 ,32GB , 4G , Unlocked   , New , Sealed"
     id: 255
     variants:
-      - id: 792
+      - id: 50792
         color: Green
         price: 189.95
         image: images/att_maestro_3__99827.jpg
@@ -9209,15 +9209,15 @@ products:
 
       Would you like to see how this compares to the newer Redmi 10A or a similar budget phone like the Samsung Galaxy A04?
     variants:
-      - id: 793
+      - id: 50793
         color: Blue
         price: 209.95
         image: images/redmi9a-blue.jpg
-      - id: 794
+      - id: 50794
         color: Green
         price: 209.95
         image: images/redmi9a-green.jpg
-      - id: 795
+      - id: 50795
         color: Gray
         price: 209.95
         image: images/redmi9a-gray.jpg
@@ -9302,19 +9302,19 @@ products:
 
       The package includes the mobile phone, adapter, USB Type-C cable, SIM eject tool, quick start guide, warranty card, and safety information.
     variants:
-      - id: 796
+      - id: 50796
         color: Blue
         price: 269.95
         image: images/redmi13c-blue.jpeg
-      - id: 797
+      - id: 50797
         color: Black
         price: 269.95
         image: images/redmi13c-black.jpg
-      - id: 798
+      - id: 50798
         color: White
         price: 269.95
         image: images/redmi13c-white.jpg
-      - id: 799
+      - id: 50799
         color: Green
         price: 269.95
         image: images/redmi13c-green.webp
@@ -9350,11 +9350,11 @@ products:
       Reviewers from sites like Gadgets 360 and PhoneArena note that while it is an affordable "mini" tablet, it lacks premium features such as a fingerprint reader, S Pen support, or Samsung DeX. 
     category: Tablets
     variants:
-      - id: 800
+      - id: 50800
         color: Silver
         price: 289.95
         image: images/galaxytab11-siver.webp
-      - id: 801
+      - id: 50801
         color: Gray
         price: 289.95
         image: images/galaxytab11-gray.webp
@@ -9382,11 +9382,11 @@ products:
       Pen support, or Samsung DeX. '
     id: 259
     variants:
-      - id: 802
+      - id: 50802
         color: Silver
         price: 309.95
         image: images/galaxytab11-siver.webp
-      - id: 803
+      - id: 50803
         color: Gray
         price: 309.95
         image: images/galaxytab11-gray.webp
@@ -9413,7 +9413,7 @@ products:
       jack, Bluetooth 5.1, and Wi-Fi 5. "
     category: Tablets
     variants:
-      - id: 804
+      - id: 50804
         color: Gray
         price: 325.95
         image: images/244-gray.webp
@@ -9455,11 +9455,11 @@ products:
           Lockscreen Ads: Standard models include "Special Offers" (ads) on the lock screen unless you pay a fee to remove them. 
     category: Tablets
     variants:
-      - id: 805
+      - id: 50805
         color: Blue
         price: 299.95
         image: images/amazonfirehd10-blue.jpg
-      - id: 806
+      - id: 50806
         color: Black
         price: 299.95
         image: images/amazonfirehc10-black.jpg
@@ -9500,7 +9500,7 @@ products:
           Weight: 337 grams (11.88 ounces).
           Colors: Available in Black, Hibiscus (pink), and Emerald (green). 
     variants:
-      - id: 807
+      - id: 50807
         color: Black
         price: 199.95
         image: images/amazonfire8-black.jpeg
@@ -9551,15 +9551,15 @@ products:
     category: Tablets
     id: 263
     variants:
-      - id: 808
+      - id: 50808
         color: Purple
         price: 219.95
         image: images/amazonfire10-purple.jpg
-      - id: 809
+      - id: 50809
         color: Green
         price: 219.95
         image: images/amazonfire10-mint.jpg
-      - id: 810
+      - id: 50810
         color: Blue
         price: 219.95
         image: images/amazonfire10-blue.jpg
@@ -9599,15 +9599,15 @@ products:
 
       This 12th Gen model offers significant upgrades over the 2019 version, including a 30% faster processor and double the RAM (2 GB vs 1 GB). It also increased the battery life from 7 hours to 10 hours and moved to a USB-C charging port
     variants:
-      - id: 811
+      - id: 50811
         color: Red
         price: 189.95
         image: images/amazonfire7-red.jpg
-      - id: 812
+      - id: 50812
         color: Blue
         price: 189.95
         image: images/amazonfire7-blue.jpg
-      - id: 813
+      - id: 50813
         color: Purple
         price: 189.95
         image: images/amazonfire7-purple.jpg
@@ -9653,15 +9653,15 @@ products:
           Keyboard Support: Specifically designed to work with the Magic Keyboard Folio, which features a two-piece design and a full row of function keys.
           Color Options: Available in four bold finishes: Silver, Blue, Pink, and Yellow.
     variants:
-      - id: 814
+      - id: 50814
         color: Silver
         price: 569.95
         image: images/Apple-iPad-A16-11th-Gen-Silver.jpg
-      - id: 815
+      - id: 50815
         color: Pink
         price: 569.95
         image: images/Apple-iPad-A16-11th-Gen-Pink.jpeg
-      - id: 816
+      - id: 50816
         color: Blue
         price: 569.95
         image: images/Apple-iPad-A16-11th-Gen-Blue.jpg
@@ -9696,7 +9696,7 @@ products:
     id: 266
     name: " TCL Tablet 8 LE , 32GB , 8-inch , WiFi , New , Sealed"
     variants:
-      - id: 817
+      - id: 50817
         color: Black
         price: 179.95
         image: images/tcltab-black.jpg
@@ -9736,11 +9736,11 @@ products:
           Updates: 4 years of Android OS upgrades and 5 years of security patches.
           Bluetooth: Version 5.3. 
     variants:
-      - id: 835
+      - id: 50835
         color: Blue
         price: 269.95
         image: images/galaxya15-blue.webp
-      - id: 836
+      - id: 50836
         color: " Black"
         price: 269.95
         image: images/galaxya15black.webp
@@ -9763,11 +9763,11 @@ products:
       Knox Vault. Updates: 4 years of Android OS upgrades and 5 years of
       security patches. Bluetooth: Version 5.3.
     variants:
-      - id: 837
+      - id: 50837
         color: Blue
         price: 279.95
         image: images/galaxya15-blue.webp
-      - id: 838
+      - id: 50838
         color: Black
         price: 279.95
         image: images/galaxya15black.webp
@@ -9788,7 +9788,7 @@ products:
       longer receiving major OS updates. Security: Side-mounted fingerprint
       sensor and facial recognition "
     variants:
-      - id: 839
+      - id: 50839
         color: Black
         price: 179.95
         image: images/51m45B3Yy+L.jpg
@@ -9826,7 +9826,7 @@ products:
               SIM: Support for one Nano-SIM and one eSIM. 
     variants:
       - color: Black
-        id: 840
+        id: 50840
         price: 399.95
         image: images/samsungflip4-black.jpg
   - name: Samsung Galaxy Z Fold 6 , 256GB ,6.7inch  ,  Unlocked , Latin Spec , A+
@@ -9863,13 +9863,13 @@ products:
               Features: Includes Galaxy AI capabilities like Note Assist, Circle to Search, and Interpreter Mode. 
 
     variants:
-      - id: 841
+      - id: 50841
         color: Gray
         price: 1189.95
         image: images/samsungzfold-gray.jpg
       - price: 1189.95
         color: Blue
-        id: 842
+        id: 50842
         image: images/samsungzfold6-navy.jpg
   - name: Samsung Galaxy Z Fold 3 , 256GB , Unlocked , A+ Grade, Open Box , Pre-owned
     id: 272
@@ -9900,7 +9900,7 @@ products:
           Special Features:
               S Pen Support: Compatible with S Pen Fold Edition and S Pen Pro (sold separately). 
     variants:
-      - id: 843
+      - id: 50843
         color: Black
         price: 709.95
         image: images/galaxyzford3-black.jpg
@@ -9937,7 +9937,7 @@ products:
           Connectivity:
               Network: 5G, Wi-Fi 6E, Bluetooth 5.2, NFC, and Ultra-Wideband (UWB) support. 
     variants:
-      - id: 844
+      - id: 50844
         color: Black
         price: 719.95
         image: images/samsungzfold4-black.jpg
@@ -9967,7 +9967,7 @@ products:
       Ultra-Wideband (UWB) support. "
     id: 274
     variants:
-      - id: 845
+      - id: 50845
         color: Black
         price: 769.95
         image: images/samsungzfold4-black.jpg
@@ -10013,7 +10013,7 @@ products:
           What is your primary reason for choosing the 2023 model over the 2024 model?
           The 2024 model offers a significantly better processor and a higher-resolution 50MP camera. 
     variants:
-      - id: 846
+      - id: 50846
         color: Blue
         price: 209.95
         image: images/motog-blue.jpg
@@ -10050,7 +10050,7 @@ products:
     name: Motorola Edge 2022, 256G , 6.6-inch , A+Grade , Unlocked , Pre-owned
     category: Pre-Owned Phones & Tablets
     variants:
-      - id: 847
+      - id: 50847
         color: Gray
         price: 279.95
         image: images/motoegde-gray.jpg
@@ -10099,7 +10099,7 @@ products:
     id: 277
     category: Pre-Owned Phones & Tablets
     variants:
-      - id: 848
+      - id: 50848
         color: Black
         price: 119.95
         image: images/coolpad-black.jpg
@@ -10121,7 +10121,7 @@ products:
     category: Phones
     id: 278
     variants:
-      - id: 849
+      - id: 50849
         color: Blue
         price: 189.95
         image: images/galaxya15-blue.webp
@@ -10165,15 +10165,15 @@ products:
     id: 279
     category: Phones
     variants:
-      - id: 850
+      - id: 50850
         color: Silver
         price: 309.95
         image: images/galaxy05s-silver.webp
-      - id: 851
+      - id: 50851
         color: Black
         price: 309.95
         image: images/galaxya05s-black.webp
-      - id: 852
+      - id: 50852
         color: Purple
         price: 309.95
         image: images/galaxy05s-purple.webp
@@ -10196,7 +10196,7 @@ products:
     category: Phones
     id: 280
     variants:
-      - id: 853
+      - id: 50853
         color: Blue
         price: 309.95
         image: images/galaxya15-blue.webp
@@ -10227,7 +10227,7 @@ products:
           Advanced Tools: Built-in compass, local recording, e-book reader (.txt files), and an application market for downloading mini-games.
           Customization: Supports AI-generated dials where users can create custom watch faces via voice commands
     variants:
-      - id: 854
+      - id: 50854
         color: Black
         price: 119.95
         image: images/hk10proplus-black.jpg
@@ -10249,15 +10249,15 @@ products:
           Battery: Typically features a 130mAh battery that supports multi-day use on a single charge.
           Customization: Offers over 50 watch face options to personalize the interface
     variants:
-      - id: 855
+      - id: 50855
         color: Black
         price: 119.95
         image: images/watchfitness-black.jpg
-      - id: 856
+      - id: 50856
         color: White
         price: 119.95
         image: images/watchfitness-white.png
-      - id: 857
+      - id: 50857
         color: Pink
         price: 119.95
         image: images/watchfitness-pink.jpeg
@@ -10279,7 +10279,7 @@ products:
           Connectivity: Equipped with Bluetooth to sync with smartphones for call and text management.
           Compatibility: Pairs with both iPhone and Android devices and works with the FitPro app. 
     variants:
-      - id: 858
+      - id: 50858
         color: Black
         price: 119.95
         image: images/high475-black.webp
@@ -10313,15 +10313,15 @@ products:
     name: " Smart Watch 9 (MVP-100)  New , Sealed"
     category: Smart Watches
     variants:
-      - id: 859
+      - id: 50859
         color: Green
         price: 119.95
         image: images/mvp100-green.png
-      - id: 860
+      - id: 50860
         color: White
         price: 119.95
         image: images/ mvp100-white.png
-      - id: 861
+      - id: 50861
         color: Black
         price: 119.95
         image: images/mvp100-black.png
@@ -10353,7 +10353,7 @@ products:
 
     category: Smart Watches
     variants:
-      - id: 862
+      - id: 50862
         color: Black
         price: 309.95
         image: images/applewatchse3-black.webp
@@ -10386,19 +10386,19 @@ products:
           Battery Life: Typically offers 1–2 days of active use and up to 3–7 days on standby.
           Charging: Uses a magnetic charger. 
     variants:
-      - id: 863
+      - id: 50863
         color: Green
         price: 119.95
         image: images/18PR0MAX-GREEN.avif
-      - id: 864
+      - id: 50864
         color: Black
         price: 119.95
         image: images/18PROMAX-BLACK.avif
-      - id: 865
+      - id: 50865
         color: Pink
         price: 119.95
         image: images/18PROMAX-PINK.png
-      - id: 866
+      - id: 50866
         color: Red
         price: 119.95
         image: images/18PROMAX-RED.webp
@@ -10448,11 +10448,11 @@ products:
     name: Amazon Kindle Paperwhite Signature Edition, 32GB , WIFI ,New , Sealed
     category: Tablets
     variants:
-      - id: 867
+      - id: 50867
         color: Green
         price: 289.95
         image: images/kindle-green.png
-      - id: 868
+      - id: 50868
         color: Raspberry
         price: 289.95
         image: images/kindle-pink.png
@@ -10487,7 +10487,7 @@ products:
     category: Wireless Speakers
     id: 288
     variants:
-      - id: 869
+      - id: 50869
         color: Black
         price: 1479.95
         image: images/jbl106.webp
@@ -10530,7 +10530,7 @@ products:
           Karaoke Mode: Features dedicated mic and guitar inputs with gain control and a "voice cancel" function.
           Portability: While it is wired-only (no internal battery), it features an integrated handle and concealed wheels for easier movement.
     variants:
-      - id: 870
+      - id: 50870
         color: Black
         price: 1099.95
         image: images/jbl1000-black.JPG
@@ -10562,7 +10562,7 @@ products:
           Portability vs. Power: Users often compare it to the more powerful PartyBox 310 or 710, noting that the 110 is a "sweet spot" for small to medium gatherings of about 10–20 people.
           Sturdiness: While generally sturdy, the plastic body can be susceptible to scratches if dropped, though the front is protected by a metal grille. 
     variants:
-      - id: 871
+      - id: 50871
         color: Black
         price: 429.95
         image: images/jbl104.webp
@@ -10588,7 +10588,7 @@ products:
           Enhanced Lightshow: Features a more "futuristic" light show with starry lights, light trails, and strobes that sync more dynamically to the music.
           Inputs: Includes dual microphone and guitar inputs with dedicated gain and volume controls on the rear panel. 
     variants:
-      - id: 872
+      - id: 50872
         color: Black
         price: 469.95
         image: images/jbl100black.webp
@@ -10624,7 +10624,7 @@ products:
           Enhanced Controls: Physical knobs on the top panel for microphone echo, bass, and treble adjustments. 
 
     variants:
-      - id: 873
+      - id: 50873
         color: Black
         price: 389.95
         image: images/jbl2000-black.webp
@@ -10649,7 +10649,7 @@ products:
           Portability: Weighs approximately 13.4 lbs and includes a padded shoulder strap for easy transport.
           True Wireless Stereo (TWS): You can wirelessly link two compatible PartyBox speakers to create a larger stereo sound system. 
     variants:
-      - id: 874
+      - id: 50874
         color: Black
         price: 379.95
         image: images/jbl2002-black.jpg
@@ -10676,11 +10676,11 @@ products:
           Sturdy Design: Features a redesigned, flatter base for better stability and beefed-up rubber bumpers on the passive radiators for enhanced durability.
           Advanced Customization: The companion app now offers a 7-band equalizer, a significant upgrade over the 3-band EQ found on the previous model. 
     variants:
-      - id: 875
+      - id: 50875
         color: Red
         price: 269.95
         image: images/jbl2002-red.jpg
-      - id: 876
+      - id: 50876
         color: Blue
         price: 269.95
         image: images/jbl2002-blue.webp
@@ -10718,27 +10718,27 @@ products:
 
       Product Page, the device is compatible with the JBL Portable app, which offers firmware updates and a basic 3-band equalizer for custom sound tuning. 
     variants:
-      - id: 877
+      - id: 50877
         color: Blue
         price: 169.95
         image: images/jbl6-blue.jpeg
-      - id: 878
+      - id: 50878
         color: Gray
         price: 169.95
         image: images/jbl6-gray.webp
-      - id: 879
+      - id: 50879
         color: Teal
         price: 169.95
         image: images/jbl6-teal.webp
-      - id: 880
+      - id: 50880
         color: Cano
         price: 169.95
         image: images/jbl6-green.webp
-      - id: 881
+      - id: 50881
         color: Black
         price: 169.95
         image: images/jbl6-black.jpg
-      - id: 882
+      - id: 50882
         color: Red
         price: 169.95
         image: images/jbl6-red.jpeg
@@ -10765,23 +10765,23 @@ products:
           Materials: Constructed using post-consumer recycled plastic and fabric with sustainable FSC-certified packaging. 
 
     variants:
-      - id: 883
+      - id: 50883
         color: " Squad "
         price: 165.95
         image: images/jblgrip-green.jpg
-      - id: 884
+      - id: 50884
         color: Purple
         price: 165.95
         image: images/jbl_grip_speaker_purple__62834.jpg
-      - id: 885
+      - id: 50885
         color: Black
         price: 165.95
         image: images/jblgrip-black.jpg
-      - id: 886
+      - id: 50886
         color: Blue
         price: 165.95
         image: images/jblgrip-blue.jpg
-      - id: 887
+      - id: 50887
         color: Red
         price: 165.95
         image: images/jblgrip-red.jpg
@@ -10809,23 +10809,23 @@ products:
           Features: Includes an integrated fabric loop for portability and rubberized feet for stability when placed on surfaces. 
 
     variants:
-      - id: 892
+      - id: 50892
         color: Black
         price: 109.95
         image: images/jbl101.webp
-      - id: 893
+      - id: 50893
         color: Red
         price: 109.95
         image: images/jbl105-red.jpg
-      - id: 894
+      - id: 50894
         color: White
         price: 109.95
         image: images/jbl106-white.webp
-      - id: 895
+      - id: 50895
         color: Gray
         price: 109.95
         image: images/jbl104-gray.jpg
-      - id: 896
+      - id: 50896
         color: Blue
         price: 109.95
         image: images/jbl107-blue.webp
@@ -10857,7 +10857,7 @@ products:
 
       (Slim) is a Bluetooth-only model without those extra playback features.
     variants:
-      - id: 897
+      - id: 50897
         color: Black
         price: 139.95
         image: images/jbl107wind_3__60487.webp
@@ -10891,23 +10891,23 @@ products:
           Charging: Features a USB-C port for charging; a USB-C cable is included in the box.
           Multi-Point Connection: Supports pairing with two devices simultaneously for easy switching.
     variants:
-      - id: 898
+      - id: 50898
         color: Red
         price: 129.95
         image: images/jblgo4-red.png
-      - id: 899
+      - id: 50899
         color: Black
         price: 129.95
         image: images/jbl102.webp
-      - id: 900
+      - id: 50900
         color: White
         price: 129.95
         image: images/jblgo4-white.webp
-      - id: 901
+      - id: 50901
         color: Camo
         price: 129.95
         image: images/jblgo4-camo.jpeg
-      - id: 902
+      - id: 50902
         color: Blue
         price: 129.95
         image: images/jblgo4-blue.webp
@@ -10940,27 +10940,27 @@ products:
               Weight: 0.628 lbs (0.285 kg).
               Durability: IP67 waterproof and dustproof (submersible up to 1m for 30 min). 
     variants:
-      - id: 903
+      - id: 50903
         color: Purple
         price: 149.95
         image: images/jblclip-purple.jpg
-      - id: 904
+      - id: 50904
         color: Red
         price: 149.95
         image: images/jblclip-red.jpg
       - price: 149.95
         color: Camo
-        id: 905
+        id: 50905
         image: images/jblclip-camo-.jpeg
-      - id: 906
+      - id: 50906
         color: Black
         price: 149.95
         image: images/jblclip-black.png
-      - id: 907
+      - id: 50907
         color: Blue
         price: 149.95
         image: images/jblclip-blue.jpg
-      - id: 908
+      - id: 50908
         color: White
         price: 149.95
         image: images/jblclip-white.jpg
@@ -10985,7 +10985,7 @@ products:
 
     category: Wireless Speakers
     variants:
-      - id: 909
+      - id: 50909
         color: Black
         price: 369.95
         image: images/prospeaker100.jpg
@@ -11017,7 +11017,7 @@ products:
     variants:
       - price: 359.95
         color: Black
-        id: 910
+        id: 50910
         image: images/prospeaker-107.jpg
   - name: "Portable Woofer Home Karaoke Speaker Yr-2200 ,  New , Sealed "
     description: >-
@@ -11035,7 +11035,7 @@ products:
     id: 338
     category: Wireless Speakers
     variants:
-      - id: 911
+      - id: 50911
         color: Black
         price: 389.95
         image: images/prosteaker111.webp
@@ -11058,7 +11058,7 @@ products:
     name: " Maxpower Kraoke System Speaker  ,  New , Sealed "
     category: Wireless Speakers
     variants:
-      - id: 912
+      - id: 50912
         color: Black
         price: 539.95
         image: images/max102.jpg
@@ -11078,15 +11078,15 @@ products:
     name: " Maxpower Pulse M1 ,  New , Sealed "
     category: Wireless Speakers
     variants:
-      - id: 913
+      - id: 50913
         price: 99.95
         image: images/max100.webp
         color: Black
-      - id: 914
+      - id: 50914
         color: Red
         price: 99.95
         image: images/max1090red.jpeg
-      - id: 915
+      - id: 50915
         color: Blue
         price: 99.95
         image: images/max110-blue.webp
@@ -11109,19 +11109,19 @@ products:
     category: Wireless Speakers
     id: 305
     variants:
-      - id: 916
+      - id: 50916
         color: Red
         price: 99.95
         image: images/rock101-red.jpg
-      - id: 917
+      - id: 50917
         color: Black
         price: 99.95
         image: images/rock100-black.webp
       - price: 99.95
         color: Gray
-        id: 918
+        id: 50918
         image: images/rock102-gray.jpg
-      - id: 919
+      - id: 50919
         color: Blue
         price: 99.95
         image: images/rock104-blue.jpg
@@ -11145,11 +11145,11 @@ products:
               Charges via a modern Type-C port (charging cable included).
           Visuals & Size: Integrated LED light effects sync with your music. The unit measures approximately 8" x 3" x 2.8".
     variants:
-      - id: 920
+      - id: 50920
         color: Black
         price: 99.95
         image: images/max101.webp
-      - id: 921
+      - id: 50921
         color: Red
         price: 99.95
         image: images/max111-red.webp
@@ -11181,11 +11181,11 @@ products:
     category: Wireless Speakers
     id: 307
     variants:
-      - id: 922
+      - id: 50922
         color: Black
         price: 109.95
         image: images/bluetoothsuv-black.webp
-      - id: 923
+      - id: 50923
         color: Red
         price: 109.95
         image: images/bluetoothtruck-red.webp
@@ -11205,7 +11205,7 @@ products:
           Radio: Includes a built-in FM radio receiver.
           Dimensions & Weight: Approximately 10.25" x 3.75" x 3" and weighing about 1.5 lbs. 
     variants:
-      - id: 924
+      - id: 50924
         color: Black
         price: 109.95
         image: images/bluetoothtruck1-black.jpg
@@ -11226,7 +11226,7 @@ products:
       Dimensions: 14. 
     category: Wireless Speakers
     variants:
-      - id: 925
+      - id: 50925
         color: Black
         price: 109.95
         image: images/prolspeaker102.webp
@@ -11257,17 +11257,17 @@ products:
     category: Wireless Speakers
     id: 310
     variants:
-      - id: 926
+      - id: 50926
         color: Pink
         price: 99.95
         image: images/suv-pink.webp
       - color: Silver
-        id: 927
+        id: 50927
         price: 99.95
         image: images/bluetoothtruck-silver.jpg
       - price: 99.95
         color: Black
-        id: 928
+        id: 50928
         image: images/suv-black.webp
   - name: YE-2820 Bass Party Speaker , New , Sealed
     id: 311
@@ -11296,7 +11296,7 @@ products:
           Visual Effects: Built-in RGB LED lights for a synchronized party atmosphere. 
 
     variants:
-      - id: 929
+      - id: 50929
         color: Black
         price: 299.95
         image: images/prospeaker101.webp
@@ -11328,7 +11328,7 @@ products:
     name: " Portable Audio Speaker GY-8821s , New , Sealed"
     category: Wireless Speakers
     variants:
-      - id: 930
+      - id: 50930
         color: " Black"
         price: 239.95
         image: images/jbl103.webp
@@ -11426,7 +11426,7 @@ products:
       Gross Weight per Unit: 14 kg
     category: Wireless Speakers
     variants:
-      - id: 931
+      - id: 50931
         color: Black
         price: 259.95
         image: images/prospeaker103.webp
@@ -11503,7 +11503,7 @@ products:
        
     id: 314
     variants:
-      - id: 932
+      - id: 50932
         color: Black
         price: 279.95
         image: images/prospeaker10.webp
@@ -11532,7 +11532,7 @@ products:
     category: Wireless Speakers
     id: 315
     variants:
-      - id: 933
+      - id: 50933
         color: Black
         price: 319.95
         image: images/prospeaker-106.jpg
@@ -11558,11 +11558,11 @@ products:
     category: Wireless Speakers
     id: 316
     variants:
-      - id: 934
+      - id: 50934
         color: Black
         price: 199.95
         image: images/uespeaker-black.jpg
-      - id: 935
+      - id: 50935
         color: Blue
         price: 199.95
         image: images/uespeaker-blue.webp
@@ -11591,7 +11591,7 @@ products:
 
       Pricing & Retailers
     variants:
-      - id: 936
+      - id: 50936
         color: Black
         price: 209.95
         image: images/uespeaker-black.jpg
@@ -11617,7 +11617,7 @@ products:
           USB-C Charging: Modern charging port that typically fully recharges the device in about 2 hours. 
     id: 318
     variants:
-      - id: 937
+      - id: 50937
         color: Black
         price: 99.95
         image: images/dol101.jpg
@@ -11645,7 +11645,7 @@ products:
     id: 319
     category: Wireless Speakers
     variants:
-      - id: 938
+      - id: 50938
         color: Black
         price: 95.95
         image: images/dol102.webp
@@ -11674,7 +11674,7 @@ products:
           Tough Exterior: Encased in a durable, rubber-coated silicone cover that helps it float and protects against drops.
           Portable Extras: Typically comes with a hand strap or wrist strap for easy attachment to gear. 
     variants:
-      - id: 939
+      - id: 50939
         color: Black
         price: 95.95
         image: images/dol100.webp
@@ -11702,7 +11702,7 @@ products:
     id: 321
     category: Wireless Speakers
     variants:
-      - id: 940
+      - id: 50940
         color: Black
         price: 139.95
         image: images/skull100-black.jpg
@@ -11728,15 +11728,15 @@ products:
           Simple Controls: Features classic physical buttons for power, volume adjustment, and track control. 
     id: 322
     variants:
-      - id: 941
+      - id: 50941
         color: Blue
         price: 99.95
         image: images/skull101-blue.webp
-      - id: 942
+      - id: 50942
         color: Pink
         price: 99.95
         image: images/skull102-pink.webp
-      - id: 943
+      - id: 50943
         color: Black
         price: 99.95
         image: images/skull1001-black.webp
@@ -11780,7 +11780,7 @@ products:
           Security: Side-mounted fingerprint reader and face unlock capabilities. 
 
     variants:
-      - id: 944
+      - id: 50944
         color: Green
         price: 379.95
         image: images/motog-green.webp
@@ -11821,7 +11821,7 @@ products:
       ,   Pre-Owned
     category: Pre-Owned Phones & Tablets
     variants:
-      - id: 945
+      - id: 50945
         color: Black
         price: 159.95
         image: images/l1bre_100_tablet__07382.webp
@@ -11860,7 +11860,7 @@ products:
           Performance: The 5G model uses a significantly faster processor, making it much better for gaming and multitasking.
           Headphone Jack: Both models still include the 3.5mm headphone jack. 
     variants:
-      - id: 946
+      - id: 50946
         color: Black
         price: 279.95
         image: images/a14_black__08147 (1).jpg
@@ -11895,7 +11895,7 @@ products:
           5G Connectivity: Supports both Sub-6 and mmWave 5G on specific carrier models like Verizon.
           Utility: In
     variants:
-      - id: 947
+      - id: 50947
         color: Black
         price: 339.95
         image: images/galaxya42-black.webp
@@ -11925,7 +11925,7 @@ products:
 
       Durability	IP67 water and dust resistance; Gorilla Glass Victus+
     variants:
-      - id: 948
+      - id: 50948
         color: Black
         price: 379.95
         image: images/galaxya35-black.webp
@@ -11966,7 +11966,7 @@ products:
           Carrier Support: It remains fully unlocked for major U.S. GSM carriers, including T-Mobile, AT&T, Boost Mobile, and Mint Mobile
     category: Phones
     variants:
-      - id: 949
+      - id: 50949
         color: Black
         price: 169.95
         image: images/foxx-black.webp
@@ -12004,11 +12004,11 @@ products:
           is the last flagship Pixel to offer unlimited "Storage Saver" backups on Google Photos, a major perk for heavy photographers.
           Software Status: Its official support ended in October 2023 after receiving Android 14. While it still runs smoothly, it lacks the latest AI features found on Tensor-based chips. 
     variants:
-      - id: 950
+      - id: 50950
         color: Green
         price: 209.95
         image: images/pixel5-green.webp
-      - id: 951
+      - id: 50951
         color: Black
         price: 209.95
         image: images/pixel5-black.webp
@@ -12029,7 +12029,7 @@ products:
           Digital Display: Features a precise LED screen that shows the exact remaining battery percentage.
           Safety: Built with 10 layers of protection, including safeguards against over-charging, over-voltage, and short circuits.
     variants:
-      - id: 952
+      - id: 50952
         color: Black
         price: 99.95
         image: images/eseekgo2-black.webp
@@ -12049,7 +12049,7 @@ products:
           Fast Recharging: The power bank can be fully recharged in approximately 2.5 hours.
           Safety Features: Includes built-in intelligent temperature control, overcharge protection, and short-circuit safeguards.
     variants:
-      - id: 953
+      - id: 50953
         color: White
         price: 89.95
         image: images/eseekgo1-white.webp
@@ -12069,7 +12069,7 @@ products:
           Safety Protocols: Equipped with intelligent temperature control and protection against overcharging and short circuits.
           Digital Display: A smart LED screen provides real-time updates on the exact battery percentage. 
     variants:
-      - id: 954
+      - id: 50954
         color: White
         price: 95.95
         image: images/eseekgo1-white.webp
@@ -12089,11 +12089,11 @@ products:
           Design: Weighs only 140–142g and is available in multiple colors including Interstellar Gray, Misty Blue, and Lilac Purple.
           Safety: Built with Anker's MultiProtect technology, providing temperature control and overcharge protection. 
     variants:
-      - id: 956
+      - id: 50956
         color: Black
         price: 109.95
         image: images/anker-black.webp
-      - id: 957
+      - id: 50957
         color: White
         price: 109.95
         image: images/anker-white.webp
@@ -12124,7 +12124,7 @@ products:
           Trickle-Charging Mode: Specifically for low-power devices like AirPods; activated by double-pressing the power button.
           Eco-Friendly Design: The exterior casing is made from 80% post-consumer recycled plastic (PCR). 
     variants:
-      - id: 958
+      - id: 50958
         color: Black
         price: 119.95
         image: images/anker199-black.jpg
@@ -12152,13 +12152,13 @@ products:
           Magnetic Pogo Pins: Includes specialized pins on the bottom for use with the Anker 100W Charging Base (sold separately), allowing for wireless "drop-and-go" recharging.
           App Control: Can be managed via the Anker app to check live stats and customize the display (note: some 200W versions may vary on Bluetooth availability).
     variants:
-      - id: 959
+      - id: 50959
         color: Black
         price: 169.95
         image: images/anker-200-black.jpg
       - price: 169.95
         color: Champagne
-        id: 960
+        id: 50960
         image: images/anker201-tan.webp
   - name: Power Bank Ventev Powercell , 5200 Mah , New , Sealed
     id: 336
@@ -12250,7 +12250,7 @@ products:
           Smart Indicators: High-end models like the 10000+
           include a digital LED display showing exact battery percentages, while others use 4-LED arrays to indicate charge levels. 
     variants:
-      - id: 961
+      - id: 50961
         color: Black
         price: 89.95
         image: images/vent01-black.webp
@@ -12280,11 +12280,11 @@ products:
           Short-circuit and over-temperature protection. 
     id: 337
     variants:
-      - id: 970
+      - id: 50970
         color: Red
         price: 99.95
         image: images/adata100000-red.webp
-      - id: 971
+      - id: 50971
         color: Green
         price: 99.95
         image: images/adata100000-green.avif
@@ -12324,11 +12324,11 @@ products:
 
       Misc: Fingerprint reader (under display, optical); stereo speakers.
     variants:
-      - id: 972
+      - id: 50972
         color: Gray
         price: 619.95
         image: images/galaxy57-gray.webp
-      - id: 973
+      - id: 50973
         color: Black
         price: 619.95
         image: images/galaxy57-black.webp
@@ -12352,16 +12352,16 @@ products:
           Durability: Holds an IP68 rating for water and dust resistance and is protected by Corning Gorilla Glass 7i. 
 
     variants:
-      - id: 974
+      - id: 50974
         color: " Black"
         price: 899.95
         image: images/xiaomi15-black.webp
-      - id: 975
+      - id: 50975
         color: " Gray"
         price: 899.95
         image: images/xiaomi15-gray.webp
       - color: Rose Gold
-        id: 976
+        id: 50976
         price: 899.95
         image: images/xiaomi15-gold.webp
   - id: 341
@@ -12394,15 +12394,15 @@ products:
 
           512GB Storage / 12GB RAM:
     variants:
-      - id: 977
+      - id: 50977
         color: Mocha Gold
         price: 909.95
         image: images/xiaomi15-gold.webp
-      - id: 978
+      - id: 50978
         color: Gray
         price: 909.95
         image: images/xiaomi15-gray.webp
-      - id: 979
+      - id: 50979
         color: Black
         price: 909.95
         image: images/xiaomi15-black.webp
@@ -12436,15 +12436,15 @@ products:
 
           512GB Storage / 12GB RAM:
     variants:
-      - id: 980
+      - id: 50980
         color: Mocha Gold
         price: 1189.95
         image: images/xiaomi15-gold.webp
-      - id: 981
+      - id: 50981
         color: Gray
         image: images/xiaomi15-gray.webp
         price: 1189.95
-      - id: 982
+      - id: 50982
         color: " Black"
         price: 1189.95
         image: images/xiaomi15-black.webp
@@ -12473,19 +12473,19 @@ products:
       vary by merchant and storage capacity. Currently, the most common configurations are for the 12GB RAM / 512GB Storage model:
     category: Phones
     variants:
-      - id: 983
+      - id: 50983
         color: Green
         price: 1199.95
         image: images/xia13-green.webp
       - price: 1199.95
         color: White
-        id: 984
+        id: 50984
         image: images/xia12-white.webp
-      - id: 985
+      - id: 50985
         color: Silver
         price: 1199.95
         image: images/xia011-silver.webp
-      - id: 986
+      - id: 50986
         color: Black
         price: 1199.95
         image: images/xia14-black.webp
@@ -12507,15 +12507,15 @@ products:
           Camera System: A 50MP AI dual rear camera setup and an 8MP or 13MP front-facing camera (depending on the region).
           Durability: Rated IP64 for dust and splash resistance, with a side-mounted fingerprint sensor for security.
     variants:
-      - id: 987
+      - id: 50987
         color: Blue
         price: 279.95
         image: images/remi105-blue.webp
-      - id: 988
+      - id: 50988
         color: Black
         price: 279.95
         image: images/remi106-black.webp
-      - id: 989
+      - id: 50989
         color: Green
         price: 279.95
         image: images/remi104-green.webp
@@ -12537,11 +12537,11 @@ products:
       Durability: Rated IP64 for dust and splash resistance, with a side-mounted
       fingerprint sensor for security. "
     variants:
-      - id: 990
+      - id: 50990
         color: Green
         price: 299.95
         image: images/remi104-green.webp
-      - id: 991
+      - id: 50991
         color: Blue
         price: 299.95
         image: images/remi105-blue.webp
@@ -12562,15 +12562,15 @@ products:
           Software: Runs Xiaomi HyperOS 2 based on Android 15 out of the box.
           Durability: Rated IP64 for dust and splash resistance and features a side-mounted fingerprint sensor. 
     variants:
-      - id: 992
+      - id: 50992
         color: "Green "
         price: 289.95
         image: images/remi02-green.webp
-      - id: 993
+      - id: 50993
         price: 289.95
         color: Gray
         image: images/remi01-tan.webp
-      - id: 994
+      - id: 50994
         color: Black
         price: 289.95
         image: images/remi03-black.webp
@@ -12593,15 +12593,15 @@ products:
       based on Android 15 out of the box. Durability: Rated IP64 for dust and
       splash resistance and features a side-mounted fingerprint sensor. "
     variants:
-      - id: 995
+      - id: 50995
         color: Black
         price: 449.95
         image: images/remi03-black.webp
-      - id: 996
+      - id: 50996
         color: Green
         price: 449.95
         image: images/remi02-green.webp
-      - id: 997
+      - id: 50997
         color: Gray
         price: 449.95
         image: images/remi01-tan.webp
@@ -12622,11 +12622,11 @@ products:
           Software: Runs Xiaomi HyperOS 3 based on Android 16, with a promise of 4 major OS updates and 6 years of security patches.
           Design: Slim 8.15mm body weighing 208g, available in Mist Blue, Palm Green, Sunset Orange, and Black. 
     variants:
-      - id: 998
+      - id: 50998
         color: Black
         price: 279.95
         image: images/xiaomia7-black.webp
-      - id: 999
+      - id: 50999
         color: Green
         price: 279.95
         image: images/xiaomia7-green.webp
@@ -12651,11 +12651,11 @@ products:
       Slim 8.15mm body weighing 208g, available in Mist Blue, Palm Green, Sunset
       Orange, and Black'
     variants:
-      - id: 1000
+      - id: 501000
         color: Black
         price: 289.95
         image: images/xiaomia7-black.webp
-      - id: 1001
+      - id: 501001
         color: Green
         price: 289.95
         image: images/xiaomia7-green.webp
@@ -12677,15 +12677,15 @@ products:
 
 
     variants:
-      - id: 1002
+      - id: 501002
         color: " Purple"
         price: 339.95
         image: images/xiapoco-blue.webp
-      - id: 1003
+      - id: 501003
         color: Black
         price: 339.95
         image: images/xiapoco-black.webp
-      - id: 1004
+      - id: 501004
         color: Green
         price: 339.95
         image: images/xiapoco-green.webp
@@ -12710,15 +12710,15 @@ products:
       1TB via microSD. Design: Features a "quad curved" back for a comfortable
       grip and is available in Black, Purple, and Green. '
     variants:
-      - id: 1005
+      - id: 501005
         color: Green
         price: 379.95
         image: images/xiapoco-green.webp
-      - id: 1006
+      - id: 501006
         color: Black
         price: 379.95
         image: images/xiapoco-black.webp
-      - id: 1007
+      - id: 501007
         color: Purple
         price: 379.95
         image: images/xiapoco-blue.webp
@@ -12740,13 +12740,13 @@ products:
           Camera System: Equipped with a 50MP main camera featuring Optical Image Stabilization (OIS) and an 8MP ultra-wide lens. While the main sensor performs well in various lighting, the secondary ultra-wide and zoom capabilities are more modest.
           Durability & Design: The phone has a premium build with an aluminum frame and is IP68/IP69K rated for significant water and dust resistance.
     variants:
-      - id: 1008
+      - id: 501008
         image: images/xiax8-whit.webp
         color: " White"
         price: 609.95
       - price: 609.95
         color: Black
-        id: 1009
+        id: 501009
         image: images/xiax8-black.webp
   - name: Xiaomi Poco X8 Pro Max , 512GB/12GB , GSM Unlocked , New , Sealed
     id: 352
@@ -12773,11 +12773,11 @@ products:
       a premium build with an aluminum frame and is IP68/IP69K rated for
       significant water and dust resistance. '
     variants:
-      - id: 1010
+      - id: 501010
         color: White
         price: 649.95
         image: images/xiax8-whit.webp
-      - id: 1011
+      - id: 501011
         color: Black
         price: 649.95
         image: images/xiax8-black.webp
@@ -12808,11 +12808,11 @@ products:
 
       is available from several online retailers in various color options, including Black, White, and Mint Green. 
     variants:
-      - id: 1012
+      - id: 501012
         color: Black
         price: 469.95
         image: images/xiax8-black.webp
-      - id: 1013
+      - id: 501013
         color: Green
         price: 469.95
         image: images/xiax8-green.webp
@@ -12840,17 +12840,17 @@ products:
       Green. "
     category: Phones
     variants:
-      - id: 1014
+      - id: 501014
         color: White
         price: 549.95
         image: images/xiax8-whit.webp
       - price: 549.95
         color: " Black"
-        id: 1015
+        id: 501015
         image: images/xiax8-black.webp
       - price: 549.95
         color: Green
-        id: 1016
+        id: 501016
         image: images/xiax8-green.webp
   - category: Smart Watches
     name: Amazfit Active 2 Smart Watch , 44mm  , Black Silicone , New , Sealed
@@ -13022,7 +13022,7 @@ products:
 
       User Documentation / Quick Start Guide
     variants:
-      - id: 1017
+      - id: 501017
         color: Black
         price: 229.95
         image: images/amazfit03-black.webp
@@ -13033,7 +13033,7 @@ products:
     variants:
       - color: Black
         price: 209.95
-        id: 1018
+        id: 501018
         image: images/amazfit1-black.webp
     description: >2
        Specifications
@@ -13187,7 +13187,7 @@ products:
 
       Durability is taken seriously with this model — it’s water-resistant to 328 feet (100 meters), so it can handle swimming, rainy runs, and wet environments without blinking. The overall feature set balances outdoor ruggedness, smart functionality, and health-focused tracking, making the Amazfit T-Rex 3 a solid all-around choice for users who want both resilience and connected fitness in one device
     variants:
-      - id: 1019
+      - id: 501019
         color: Black
         price: 409.95
         image: images/amazfit02-black.webp
@@ -13318,7 +13318,7 @@ products:
 
       User Manual
     variants:
-      - id: 1020
+      - id: 501020
         color: Black
         price: 189.95
         image: images/withit01-black.webp
@@ -13452,7 +13452,7 @@ products:
 
       Some users report variable accuracy in step counting and health metrics.
     variants:
-      - id: 1021
+      - id: 501021
         color: Black
         price: 189.95
         image: images/withit02-black.webp
@@ -13611,7 +13611,7 @@ products:
 
       Quick start guide / documentation       
     variants:
-      - id: 1022
+      - id: 501022
         color: Rose Gold
         price: 179.95
         image: images/withit03-black.webp
@@ -13855,15 +13855,15 @@ products:
 
       Magnetic charging cable
     variants:
-      - id: 1023
+      - id: 501023
         color: Purple
         price: 239.95
         image: images/fitbit06-purple.webp
-      - id: 1024
+      - id: 501024
         color: Black
         price: 239.95
         image: images/fitbit05-black.webp
-      - id: 1025
+      - id: 501025
         color: Gold
         price: 239.95
         image: images/fitbit04-gold.webp
@@ -13955,15 +13955,15 @@ products:
 
       Step Counting and Calorie Burn Tracking
     variants:
-      - id: 1026
+      - id: 501026
         color: Pink
         price: 299.95
         image: images/fitbit01=pink.webp
-      - id: 1027
+      - id: 501027
         color: Black
         price: 299.95
         image: images/fitbit02-black.webp
-      - id: 1028
+      - id: 501028
         color: Blue
         price: 299.95
         image: images/fitbit01-gray.webp
@@ -14148,15 +14148,15 @@ products:
 
       Quick start guide
     variants:
-      - id: 1029
+      - id: 501029
         color: Red
         price: 309.95
         image: images/fitbit09-red.webp
-      - id: 1030
+      - id: 501030
         color: White
         price: 309.95
         image: images/fitbit07-white.webp
-      - id: 1031
+      - id: 501031
         color: Black
         price: 309.95
         image: images/fitbit08-black.webp
@@ -14270,15 +14270,15 @@ products:
 
       Ambient Light Sensor
     variants:
-      - id: 1032
+      - id: 501032
         color: White
         price: 399.95
         image: images/fitbit12-white.webp
       - price: 399.95
         color: " Gray"
-        id: 1033
+        id: 501033
         image: images/fitbit11-gray.webp
-      - id: 1034
+      - id: 501034
         color: Blue
         price: 399.95
         image: images/fitbit10-lblue.webp
@@ -14421,15 +14421,15 @@ products:
 
       Documentation / Quick Start Guide
     variants:
-      - id: 1035
+      - id: 501035
         color: Aqua
         price: 329.95
         image: images/garmin05-aqua.webp
-      - id: 1036
+      - id: 501036
         color: Black
         price: 329.95
         image: images/garmin01-black.webp
-      - id: 1037
+      - id: 501037
         color: White
         price: 329.95
         image: images/garmin02-white.webp
@@ -14609,13 +14609,13 @@ products:
 
       Incident Detection & Assistance
     variants:
-      - id: 1038
+      - id: 501038
         color: Lime
         price: 459.95
         image: images/garmin04-yerllow.webp
       - price: 459.95
         color: Charcoal
-        id: 1039
+        id: 501039
         image: images/garmin02-black.webp
   - name: "Garmin Instinct 3 , 45MM  Watch , Solar Charged Display  , New , Sealed "
     category: Smart Watches
@@ -14883,7 +14883,7 @@ products:
 
       Documentation / Quick Start Guide
     variants:
-      - id: 1040
+      - id: 501040
         color: Black
         price: 579.95
         image: images/garmin06-black.webp
@@ -14972,7 +14972,7 @@ products:
       Garmin Instinct 3 smartwatch (solar model) Charging/data cable
       Documentation / Quick Start Guide "
     variants:
-      - id: 1041
+      - id: 501041
         color: Black
         price: 639.95
         image: images/garmin06-black.webp
@@ -15163,11 +15163,11 @@ products:
 
       Quick start guide / documentation
     variants:
-      - id: 1042
+      - id: 501042
         color: White
         price: 329.95
         image: images/garmin08=white.webp
-      - id: 1043
+      - id: 501043
         color: Black
         price: 329.95
         image: images/garmin07-black.webp
@@ -15192,7 +15192,7 @@ products:
     id: 371
     name: Sony PlayStation 5  Digital Pro Console , 2TB , New , Sealed
     variants:
-      - id: 1044
+      - id: 501044
         color: White
         price: 909.95
         image: images/ps5pr0-white.webp
@@ -15250,7 +15250,7 @@ products:
     variants:
       - price: 609.95
         color: White
-        id: 1045
+        id: 501045
         image: images/ps5slim-white.jpg
     id: 372
   - name: Sony PlayStation 5 Disc Edition , 1TB  , New , Sealed
@@ -15283,7 +15283,7 @@ products:
           Wireless: Wi-Fi 6 (802.11ax) and Bluetooth 5.1. 
 
     variants:
-      - id: 1046
+      - id: 501046
         color: White
         price: 649.95
         image: images/ps5fivedics-white.webp
@@ -15297,15 +15297,15 @@ products:
     category: Games & Gaming Accessories
     id: 374
     variants:
-      - id: 1047
+      - id: 501047
         color: Blue
         price: 99.95
         image: images/ps5-blue.webp
       - price: 99.95
         color: Black
-        id: 1048
+        id: 501048
         image: images/ps5cont-black.webp
-      - id: 1049
+      - id: 501049
         color: Purple
         price: 99.95
         image: images/ps5cont-purple.webp
@@ -15346,7 +15346,7 @@ products:
               Charge Time: Roughly 2.3 hours using the included 18W power adapter. 
 
     variants:
-      - id: 1050
+      - id: 501050
         color: White
         price: 609.95
         image: images/meta3-white.webp
@@ -15380,19 +15380,19 @@ products:
 
       The Stylish Phone Case for All Models with Wireless Charging is the perfect all-in-one solution for your phone. Its universal compatibility, variety of colors and designs, wireless charging support, slim and protective design, and precise cutouts make it a valuable and fashionable addition to any phone owner's collection.
     variants:
-      - id: 1051
+      - id: 501051
         color: Blue
         price: 19.95
         image: images/gal23-blue.jpg
-      - id: 1052
+      - id: 501052
         color: Purple
         price: 19.95
         image: images/gal23-purple.jpg
-      - id: 1053
+      - id: 501053
         color: Black
         price: 19.95
         image: images/gal23- black.jpg
-      - id: 1054
+      - id: 501054
         color: Green
         price: 19.95
         image: images/gal23-green.jpg
@@ -15429,7 +15429,7 @@ products:
     category: Charger
     id: 377
     variants:
-      - id: 1055
+      - id: 501055
         color: White
         price: 19.95
         image: images/charger01.png
@@ -15459,14 +15459,14 @@ products:
 
       Universal Compatibility: Works with Apple Watch Series 7, 6, SE, 5, 4, 3, 2, and 1.
     variants:
-      - id: 1056
+      - id: 501056
         color: White
         price: 19.95
         image: images/charger02.jpg
   - id: 379
     variants:
       - image: images/charger03.jpg
-        id: 1057
+        id: 501057
         color: White
         price: 29.95
     name: Omitta Dual Port 30W , Fast Charging Combo Wall Charger with USB-C Cable ,
@@ -15560,7 +15560,7 @@ products:
           18W Power Adapter and 1-meter USB-C charging cable 
 
     variants:
-      - id: 1058
+      - id: 501058
         color: White
         price: 459.95
         image: images/meta3s-white.webp
@@ -15596,7 +15596,7 @@ products:
       1-meter USB-C charging cable "
     category: Games & Gaming Accessories
     variants:
-      - id: 1059
+      - id: 501059
         color: White
         price: 399.95
         image: images/meta3s-white.webp
@@ -15643,7 +15643,7 @@ products:
           Partial Light Blockers (to allow peripheral vision for mixed reality)
     variants:
       - color: Black
-        id: 1060
+        id: 501060
         price: 889.95
         image: images/meta-black.jpg
   - id: 383
@@ -15686,7 +15686,7 @@ products:
           USB: 3x USB 3.1 Gen 1 ports. 
 
     variants:
-      - id: 1061
+      - id: 501061
         color: White
         price: 409.95
         image: images/xbox02.webp
@@ -15713,7 +15713,7 @@ products:
       Western Digital Storage Expansion Cards via a dedicated port on the back.
       USB: 3x USB 3.1 Gen 1 ports. '
     variants:
-      - id: 1062
+      - id: 501062
         color: White
         price: 459.95
         image: images/xbox02.webp
@@ -15740,7 +15740,7 @@ products:
       Western Digital Storage Expansion Cards via a dedicated port on the back.
       USB: 3x USB 3.1 Gen 1 ports. '
     variants:
-      - id: 1063
+      - id: 501063
         color: Black
         price: 419.95
         image: images/xbox01.png
@@ -15776,7 +15776,7 @@ products:
           Audio: Supports advanced spatial sound including Dolby Atmos, DTS 5.1, and Windows Sonic. 
     category: Games & Gaming Accessories
     variants:
-      - id: 1064
+      - id: 501064
         color: Black
         price: 649.95
         image: images/xbox03.webp
@@ -15823,7 +15823,7 @@ products:
           Cloud Improvements: Easier game selection from bundles and the ability to receive game invites while streaming.
           Easy Setup: New QR code onboarding for faster sign-in and account creation. 
     variants:
-      - id: 1065
+      - id: 501065
         color: Blaclk
         price: 309.95
         image: images/playstationremote.avif
@@ -15858,11 +15858,11 @@ products:
           Enhanced Audio: Upgraded onboard speakers provide clearer sound during handheld and tabletop sessions. 
     category: Games & Gaming Accessories
     variants:
-      - id: 1066
+      - id: 501066
         color: Red
         price: 409.95
         image: images/switch01-red.webp
-      - id: 1067
+      - id: 501067
         color: White
         price: 409.95
         image: images/switch01-white.webp
@@ -15881,7 +15881,7 @@ products:
           Joy-Con 2 Controllers: The controllers attach magnetically and can function as mouse controls in certain games. In this bundle, they are typically Light Blue (L) and Light Red (R).
           Social Connectivity: Features GameChat for real-time voice and video chat (requires separate USB-C camera) directly through the console. 
     variants:
-      - id: 1068
+      - id: 501068
         color: Black
         price: 679.95
         image: images/switch01-gray.webp
@@ -15902,12 +15902,12 @@ products:
           Special Editions: While the base model uses the above colors, limited editions for games like Animal Crossing: New Horizons and Super Mario Odyssey have historically offered custom-colored Joy-Cons and themed console backs. 
 
     variants:
-      - id: 1069
+      - id: 501069
         price: 369.95
         color: Red
         image: images/switch101-red.jpg
       - image: images/switch101gray.avif
-        id: 1070
+        id: 501070
         color: Gray
         price: 369.95
   - id: 391
@@ -15947,23 +15947,23 @@ products:
 
     category: Games & Gaming Accessories
     variants:
-      - id: 1071
+      - id: 501071
         color: Blue
         price: 309.95
         image: images/switch-blue.avif
-      - id: 1072
+      - id: 501072
         color: " Gray"
         price: 309.95
         image: images/switch-gray.avif
-      - id: 1073
+      - id: 501073
         color: Turquoise
         price: 309.95
         image: images/switch-turk.webp
-      - id: 1074
+      - id: 501074
         color: Coral
         price: 309.95
         image: images/switch-coral.jpeg
-      - id: 1075
+      - id: 501075
         color: Yellow
         price: 309.95
         image: images/switch-yellow.webp
@@ -15993,7 +15993,7 @@ products:
           Animated Workouts: Displays easy-to-follow, animated cardio, strength, and yoga routines directly on the screen.
           Garmin Pay: Supports contactless payments via participating providers. 
     variants:
-      - id: 1076
+      - id: 501076
         color: Gray
         price: 379.95
         image: images/garmin5.png
@@ -16036,11 +16036,11 @@ products:
           Water Resistance: They do not have an official IP rating and are not classified as water-resistant. 
 
     variants:
-      - id: 1077
+      - id: 501077
         color: Blue
         price: 299.95
         image: images/beats02.jpeg
-      - id: 1078
+      - id: 501078
         color: Black
         price: 299.95
         image: images/beats01.jpeg
@@ -16075,15 +16075,15 @@ products:
           Materials: Features UltraPlush ear cushions and a flex-grip headband for improved comfort and passive noise isolation.
           Foldability: Compact, foldable frame for easier storage in the included soft carrying case. 
     variants:
-      - id: 1079
+      - id: 501079
         color: Black
         price: 199.95
         image: images/beats01.jpeg
       - price: 199.95
-        id: 1080
+        id: 501080
         color: Pink
         image: images/beats04.jpeg
-      - id: 1081
+      - id: 501081
         color: Blue
         price: 199.95
         image: images/beats05.jpeg
@@ -16123,21 +16123,21 @@ products:
       and the newer Beats Fit Pro
 
     variants:
-      - id: 1082
+      - id: 501082
         color: " Black"
         price: 249.95
         image: images/powerbeats05.webp
       - color: Glacier Blue
         price: 249.95
-        id: 1083
+        id: 501083
         image: images/powerbeats06.webp
-      - id: 1084
+      - id: 501084
         color: Blue
         price: 249.95
         image: images/powerbeats08.webp
       - color: Ivory
         price: 249.95
-        id: 1085
+        id: 501085
         image: images/powerbeats07.webp
   - id: 396
     name: Powerbeats Pro 2 Wireless Earbuds  , New , Sealed
@@ -16171,18 +16171,84 @@ products:
     category: Headsets & Earbuds
     variants:
       - color: Orange
-        id: 1086
+        id: 501086
         price: 259.95
         image: images/powerbeats04.webp
       - price: 259.95
         color: Purple
-        id: 1087
+        id: 501087
         image: images/powerbeats03.webp
       - price: 259.95
         color: Black
-        id: 1088
+        id: 501088
         image: images/powerbeats01.jpg
       - price: 259.95
         color: Sand
-        id: 1089
+        id: 501089
         image: images/powerbeats09.webp
+  - id: 397
+    name: AOSU   2K QHD 3.0-MP Wi-Fi , Outdoor AI-Smart Security Camera , New ,
+      Sealed
+    category: Security Camera Systems
+    description: >-
+      (C6L2BA11) The aosu 2K QHD 3.0-MP Wi-Fi Outdoor AI-Smart Security Camera
+      is a versatile and intelligent solution for securing the outside of your
+      home. With a 2K QHD resolution (3.0 Megapixels), this camera delivers
+      sharp, detailed video quality—perfect for identifying faces, license
+      plates, and other important details. It's designed to be battery powered,
+      providing flexibility in placement without the need for complicated wiring
+      or constant power.
+
+
+      Built with AI-enhanced motion detection and a PIR (Passive Infrared) sensor, the camera intelligently distinguishes between people and other movement, minimizing false alarms from animals or passing cars. When motion is detected, a built-in spotlight can automatically activate, helping to deter unwanted visitors and improve visibility during nighttime events. The camera also includes two-way audio, allowing you to hear what's happening and speak directly through the camera using your smartphone.
+
+
+      Weather-resistant and designed for outdoor use, the aosu AI-Smart Security Camera connects via Wi-Fi and is fully controlled through the aosu mobile app, where you can view live footage, access event recordings, receive real-time alerts, and customize your settings. Whether you're looking to monitor your front door, driveway, backyard, or any other outdoor space, this smart security camera offers a reliable and easy-to-install solution with clear visuals and intelligent monitoring features.
+    variants:
+      - id: 501090
+        color: "White "
+        price: 119.95
+        image: images/aosu02.webp
+  - id: 398
+    name: AOSU  3K 5.0-MP Outdoor WirelessCam System  , New , Sealed
+    category: Security Camera Systems
+    description: "The AOSU WirelessCam System Max (C6S2AH11) is an outdoor security
+      kit that provides 3K (5.0-MP) resolution and a 166° ultra-wide field of
+      view to eliminate blind spots. It typically includes two cameras and a
+      4-channel HomeBase recorder with 32GB of local storage, allowing for
+      roughly four months of recording with no monthly subscription fees.Core
+      Specifications & FeaturesVideo Quality: 3K Ultra HD (2560 x 1440)
+      resolution, offering significantly more clarity than standard 2K
+      systems.Night Vision: Features full-color night vision supported by an
+      integrated spotlight.Battery Life: Rechargeable batteries provide up to
+      180–240 days of operation per charge, depending on usage.Smart Detection:
+      Uses PIR and radar-assisted motion detection to reduce false alerts and
+      can distinguish between general motion and human activity.Storage: 32GB of
+      built-in EMMC storage on the HomeBase station keeps data secure and
+      locally encrypted.Expandability: The included 4-channel HomeBase can
+      support up to four cameras total."
+    variants:
+      - color: "White "
+        id: 501091
+        image: images/aosu03.webp
+        price: 299.95
+  - id: 399
+    name: Aosu  2K Solar Security Camera with a HomeBase Recorder , New , Sealed
+    category: Security Camera Systems
+    description: >-2
+       (C9C3CA11)
+      The AOSU 2K QHD 3.0-MP Dual-Band Wi-Fi Outdoor AI-Smart Solar Security Camera Kit is a comprehensive and advanced security solution designed for outdoor monitoring. This kit includes two cameras, each offering 2K QHD (2560 x 1440) resolution, providing high-definition video capture for clear and detailed surveillance. Equipped with panoramic PTZ (Pan-Tilt-Zoom) capabilities, the cameras can cover a wider area with customizable views, and the auto-tracking feature automatically follows moving objects, ensuring continuous coverage.
+
+
+      The cameras are powered by solar energy, making them eco-friendly and perfect for locations without easy access to power outlets. The integration of dual-band Wi-Fi (supporting both 2.4GHz and 5GHz) ensures a stable and reliable connection for remote monitoring and control via a mobile app. The AI-smart technology helps differentiate between human motion and other types of movement, reducing false alerts and making the system more efficient.
+
+
+      Included in the kit is a HomeBase recorder, which provides secure storage for your video footage. This allows for easy management and review of past recordings. The cameras also support cloud storage (with a subscription), ensuring that your footage is safely backed up and accessible from anywhere. The IP65 weatherproof rating ensures that these cameras can withstand harsh weather conditions, making them ideal for use in various outdoor environments.
+
+
+      Whether you’re securing your home, business, or property, the AOSU 2K QHD Security Camera Kit offers high-quality, reliable monitoring with features like remote access, motion detection, and two-way audio. With its solar power, AI-driven features, and advanced video technology, it provides a complete surveillance system for modern security needs.
+    variants:
+      - id: 501092
+        color: "White "
+        price: 319.95
+        image: images/aosu01.webp
