@@ -3138,7 +3138,7 @@ products:
             (IP54, reinforced frame) and large screen experience, with features like
             extended RAM and AI camera software. Color Available Gray 
     variants:
-      - id: 372.5
+      - id: 372
         color: Gray
         price: 269.95
         image: images/zte_blade_v70_max__41601.jpg
@@ -3268,15 +3268,15 @@ products:
     variants:
       - id: 382
         color: Black
-        price: 399.95
+        price: 369.95
         image: images/google_pixel_7_white__62439.jpg
       - id: 383
         color: White
-        price: 399.95
+        price: 369.95
         image: images/google_pixel_7_white__62439.jpg
       - id: 384
         color: Lime Green
-        price: 399.95
+        price: 369.95
         image: images/google_pixel_7_white__62439.jpg
   - id: 108
     name: Apple iPhone 13, 128GB, Physical SIM ,  Unlocked, A+ Grade , Pre-owned
@@ -4298,7 +4298,7 @@ products:
         color: Silver
         price: 609.95
         image: images/apple-iphone-12-pro-3250140.jpg
-      - id: 443.5
+      - id: 443
         color: Gold
         price: 609.95
         image: images/apple-iphone-12-pro-4595755.jpg
@@ -12288,3 +12288,3901 @@ products:
         color: Green
         price: 99.95
         image: images/adata100000-green.avif
+  - id: 339
+    name: Samsung Galaxy A57,5G,  256GB , GSM Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      The Samsung Galaxy A57 5G (SM-A576B)
+
+      is a GSM factory-unlocked mid-range smartphone launched in early 2026. This international variant features the Samsung Exynos 1680 processor, a 6.7-inch Super AMOLED+ display with a 120Hz refresh rate, and an IP68 water resistance rating. 
+
+      Key Specifications
+
+          Performance: It is powered by the Samsung Exynos 1680 4nm chipset.
+          Display: Features a 6.7-inch Super AMOLED+ display with 1080 x 2340 resolution, 120Hz refresh rate, and Corning Gorilla Glass Victus+ protection.
+          Camera System: Includes a triple rear setup with a 50MP main sensor (OIS), 12MP ultra-wide, and 5MP macro lens, plus a 12MP front camera.
+          Battery & Charging: Equipped with a 5,000 mAh battery supporting 45W wired fast charging.
+          Software: Runs on Android 16 with One UI 8, and Samsung promises up to 6 major Android OS upgrades.
+          Build: Slim design with an aluminum frame and glass back, available in colors like Awesome Navy, Awesome Lilac, and Awesome Icyblue.      Body: 161.5x76.8x6.9mm, 179g; Glass front (Gorilla Glass Victus+), aluminum frame, glass back (Gorilla Glass Victus+); IP68 dust tight and water resistant (immersible up to 1.5m for 30 min).
+      Display: 6.70" Super AMOLED+, 120Hz, HDR10+, 1200 nits (HBM), 1900 nits (peak), 1080x2340px resolution, 19.5:9 aspect ratio, 385ppi.
+
+      Chipset: Exynos 1680 (4 nm): Octa-core (1x2.9 GHz Cortex-720 & 4x2.6 GHz Cortex-720 & 3x1.95 GHz Cortex-520); Xclipse 550.
+
+      Memory: 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM; UFS.
+
+      OS/Software: Android 16, up to 6 major Android upgrades, One UI 8.5.
+
+      Rear camera: Wide (main): 50 MP, f/1.8, 1/1.56", 1.0µm, PDAF, OIS; Ultra wide angle: 12 MP, f/2.2, 123˚, 1/3.06", 1.12µm; Macro: 5 MP, f/2.4.
+
+      Front camera: 12 MP, f/2.2, (wide), 1/3.2", 1.12µm.
+
+      Video capture: Rear camera: 4K@30fps, 1080p@30/60fps, HDR, gyro-EIS; Front camera: 4K@30fps, 1080p@30/60fps, 10-bit HDR.
+
+      Battery: 5000mAh; 45W wired.
+
+      Connectivity: 5G; eSIM; Wi-Fi 6e; BT 6.0; NFC.
+
+      Misc: Fingerprint reader (under display, optical); stereo speakers.
+    variants:
+      - id: 972
+        color: Gray
+        price: 619.95
+        image: images/galaxy57-gray.webp
+      - id: 973
+        color: Black
+        price: 619.95
+        image: images/galaxy57-black.webp
+  - id: 340
+    name: Xiaomi 15T  ,5G  ,  512GB/12GB ,  GSM Unlocked ,  New , Sealed
+    category: Phones
+    description: >+2
+       Works with most carriers. Does not work with the following carriers: Cricket Wireless, Spectrum Mobile, US Cellular, And Xfinity
+
+      The Xiaomi 15T 5G (Global Version)
+
+      is a high-performance, GSM factory-unlocked smartphone released in September 2025. This international model is designed for global compatibility and is compatible with GSM carriers such as T-Mobile, Mint Mobile, and Tello in the U.S., but it does not work with CDMA networks like Verizon or AT&T. 
+
+      Key Specifications
+
+          Performance: Driven by the MediaTek Dimensity 8400-Ultra 4nm chipset with a peak clock speed of 3.25 GHz.
+          Display: Features a 6.83-inch AMOLED "eye-care" flat display with a 1.5K resolution (2772 x 1280), 120Hz refresh rate, and a peak brightness of 3,200 nits.
+          Leica Camera System: A triple rear setup co-engineered with Leica, featuring a 50MP main (Light Fusion 800) sensor, 50MP telephoto (2x optical zoom), and 12MP ultra-wide lens.
+          Battery & Charging: Equipped with a large 5,500 mAh battery supporting 67W wired fast charging, reaching a full charge in approximately 50-51 minutes.
+          Software: Runs on Xiaomi HyperOS 2 based on Android 15, with a promise of four major OS updates and six years of security patches.
+          Durability: Holds an IP68 rating for water and dust resistance and is protected by Corning Gorilla Glass 7i. 
+
+    variants:
+      - id: 974
+        color: " Black"
+        price: 899.95
+        image: images/xiaomi15-black.webp
+      - id: 975
+        color: " Gray"
+        price: 899.95
+        image: images/xiaomi15-gray.webp
+      - color: Rose Gold
+        id: 976
+        price: 899.95
+        image: images/xiaomi15-gold.webp
+  - id: 341
+    name: Xiaomi 15T Pro ,5G , 512GB/12GB , GSM Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      Works with most carriers. Does not work with the following carriers:
+      Cricket Wireless, Spectrum Mobile, US Cellular, And Xfinity   .The Xiaomi
+      15T Pro 5G
+
+      is the premium flagship-killer in Xiaomi's 2025 "T" series, offering significant upgrades over the standard 15T, particularly in its processor, camera zoom capabilities, and charging speeds. It features a refined design with a high-strength aluminum alloy frame and a glass fiber back, providing a more premium feel compared to the standard model. 
+
+      Key Specifications
+
+          Performance: Powered by the flagship MediaTek Dimensity 9400+ (3nm) chipset, which offers a significant performance boost for intensive tasks like gaming and 8K video editing.
+          Display: A 6.83-inch AMOLED "eye-care" display with a 144Hz refresh rate, 1.5K resolution, and a peak brightness of 3,200 nits.
+          Leica Camera System: Features a triple camera setup co-engineered with Leica:
+              50MP Main: Light Fusion 900 sensor with OIS and a fast f/1.62 aperture.
+              50MP Periscope Telephoto: Offers 5x optical zoom (up to 100x digital) and pro-grade portrait capabilities.
+              12MP Ultra-wide: 120° field of view.
+              Video: Supports 8K recording and 4K at 120fps.
+          Battery & Charging: A 5,500 mAh battery with 90W wired HyperCharge (full charge in ~36 mins) and 50W wireless charging.
+          Build & Durability: IP68 water and dust resistance, Gorilla Glass 7i protection, and Wi-Fi 7 support. 
+
+      Purchasing Options
+
+      The Xiaomi 15T Pro
+
+      is typically available in Black, Gray, and Mocha Gold. 
+
+          512GB Storage / 12GB RAM:
+    variants:
+      - id: 977
+        color: Mocha Gold
+        price: 909.95
+        image: images/xiaomi15-gold.webp
+      - id: 978
+        color: Gray
+        price: 909.95
+        image: images/xiaomi15-gray.webp
+      - id: 979
+        color: Black
+        price: 909.95
+        image: images/xiaomi15-black.webp
+  - name: Xiaomi 15T Pro ,5G , 1TB/12GB  , GSM Unlocked , New , Sealed
+    id: 342
+    category: Phones
+    description: >-
+      Works with most carriers. Does not work with the following carriers:
+      Cricket Wireless, Spectrum Mobile, US Cellular, And Xfinity The Xiaomi 15T
+      Pro 5G
+
+      is the premium flagship-killer in Xiaomi's 2025 "T" series, offering significant upgrades over the standard 15T, particularly in its processor, camera zoom capabilities, and charging speeds. It features a refined design with a high-strength aluminum alloy frame and a glass fiber back, providing a more premium feel compared to the standard model. 
+
+      Key Specifications
+
+          Performance: Powered by the flagship MediaTek Dimensity 9400+ (3nm) chipset, which offers a significant performance boost for intensive tasks like gaming and 8K video editing.
+          Display: A 6.83-inch AMOLED "eye-care" display with a 144Hz refresh rate, 1.5K resolution, and a peak brightness of 3,200 nits.
+          Leica Camera System: Features a triple camera setup co-engineered with Leica:
+              50MP Main: Light Fusion 900 sensor with OIS and a fast f/1.62 aperture.
+              50MP Periscope Telephoto: Offers 5x optical zoom (up to 100x digital) and pro-grade portrait capabilities.
+              12MP Ultra-wide: 120° field of view.
+              Video: Supports 8K recording and 4K at 120fps.
+          Battery & Charging: A 5,500 mAh battery with 90W wired HyperCharge (full charge in ~36 mins) and 50W wireless charging.
+          Build & Durability: IP68 water and dust resistance, Gorilla Glass 7i protection, and Wi-Fi 7 support. 
+
+      Purchasing Options
+
+      The Xiaomi 15T Pro
+
+      is typically available in Black, Gray, and Mocha Gold. 
+
+          512GB Storage / 12GB RAM:
+    variants:
+      - id: 980
+        color: Mocha Gold
+        price: 1189.95
+        image: images/xiaomi15-gold.webp
+      - id: 981
+        color: Gray
+        image: images/xiaomi15-gray.webp
+        price: 1189.95
+      - id: 982
+        color: " Black"
+        price: 1189.95
+        image: images/xiaomi15-black.webp
+  - name: " Xiaomi 15 , 5G , 512GB/12GB , GSM Unlocked , New , Sealed"
+    id: 343
+    description: >-
+      Works with most carriers. Does not work with the following carriers:
+      Cricket Wireless, Spectrum Mobile, US Cellular, And Xfinity .     The
+      Xiaomi 15 5G (Global Version)
+
+      is Xiaomi's primary 2025 flagship, offering a more compact form factor compared to the 15T series. As a factory-unlocked GSM device, it is compatible with networks such as T-Mobile, Mint Mobile, and Tello in the U.S., but it lacks support for CDMA carriers like Verizon. 
+
+      Key Specifications
+
+          Performance: It is powered by the top-tier Qualcomm Snapdragon 8 Elite 3nm processor.
+          Compact Display: Features a 6.36-inch LTPO AMOLED display with a 120Hz refresh rate and peak brightness of 3,200 nits.
+          Leica Camera System: A triple 50MP rear setup (Wide, Telephoto, and Ultra-Wide) featuring Leica Summilux lenses.
+          Battery & Charging: Equipped with a 5,240 mAh battery supporting 90W wired HyperCharge and 50W wireless charging.
+          Durability: Includes an IP68 rating for water/dust resistance and is protected by Xiaomi Shield Glass.
+          Software: Runs Xiaomi HyperOS 2 on Android 15, with a commitment of four major OS upgrades. 
+
+      Purchasing Options
+
+      Prices for the Xiaomi 15 5G
+
+      vary by merchant and storage capacity. Currently, the most common configurations are for the 12GB RAM / 512GB Storage model:
+    category: Phones
+    variants:
+      - id: 983
+        color: Green
+        price: 1199.95
+        image: images/xia13-green.webp
+      - price: 1199.95
+        color: White
+        id: 984
+        image: images/xia12-white.webp
+      - id: 985
+        color: Silver
+        price: 1199.95
+        image: images/xia011-silver.webp
+      - id: 986
+        color: Black
+        price: 1199.95
+        image: images/xia14-black.webp
+  - name: Xiaomi Redmi 15C ,  4G , 128GB/4GB , GSM  Unlocked , New , Sealed
+    id: 344
+    category: Phones
+    description: >-
+      The Xiaomi Redmi 15C
+
+      is an entry-level smartphone launched in August 2025 as a budget-focused successor to the Redmi 14C. It is available in both 4G and 5G variants, both of which are factory-unlocked GSM devices compatible with carriers like T-Mobile, Mint Mobile, and Tello in the U.S.. 
+
+      Key Specifications
+
+          Massive Display: Features a large 6.9-inch HD+ IPS LCD display with a 120Hz adaptive refresh rate for smoother scrolling.
+          Large Battery: Equipped with a 6,000 mAh battery (with some high-tier 4G variants offering up to 7,000 mAh) that supports 33W fast charging and 10W wired reverse charging.
+          Performance:
+              4G Model: Uses the MediaTek Helio G81 Ultra processor.
+              5G Model: Powered by the MediaTek Dimensity 6300 chipset.
+          Camera System: A 50MP AI dual rear camera setup and an 8MP or 13MP front-facing camera (depending on the region).
+          Durability: Rated IP64 for dust and splash resistance, with a side-mounted fingerprint sensor for security.
+    variants:
+      - id: 987
+        color: Blue
+        price: 279.95
+        image: images/remi105-blue.webp
+      - id: 988
+        color: Black
+        price: 279.95
+        image: images/remi106-black.webp
+      - id: 989
+        color: Green
+        price: 279.95
+        image: images/remi104-green.webp
+  - name: Xiaomi Redmi 15C ,  4G , 256GB/4GB , GSM  Unlocked , New , Sealed
+    id: 345
+    category: Phones
+    description: "The Xiaomi Redmi 15C is an entry-level smartphone launched in
+      August 2025 as a budget-focused successor to the Redmi 14C. It is
+      available in both 4G and 5G variants, both of which are factory-unlocked
+      GSM devices compatible with carriers like T-Mobile, Mint Mobile, and Tello
+      in the U.S.. Key Specifications Massive Display: Features a large 6.9-inch
+      HD+ IPS LCD display with a 120Hz adaptive refresh rate for smoother
+      scrolling. Large Battery: Equipped with a 6,000 mAh battery (with some
+      high-tier 4G variants offering up to 7,000 mAh) that supports 33W fast
+      charging and 10W wired reverse charging. Performance: 4G Model: Uses the
+      MediaTek Helio G81 Ultra processor. 5G Model: Powered by the MediaTek
+      Dimensity 6300 chipset. Camera System: A 50MP AI dual rear camera setup
+      and an 8MP or 13MP front-facing camera (depending on the region).
+      Durability: Rated IP64 for dust and splash resistance, with a side-mounted
+      fingerprint sensor for security. "
+    variants:
+      - id: 990
+        color: Green
+        price: 299.95
+        image: images/remi104-green.webp
+      - id: 991
+        color: Blue
+        price: 299.95
+        image: images/remi105-blue.webp
+  - id: 346
+    name: Xiaomi Redmi 15 , 5G ,  128GB/4GB ,  GSM Unlocked  , New , Sealed
+    category: Phones
+    description: >-
+      The Xiaomi Redmi 15 5G (Global Version)
+
+      is a budget-friendly smartphone released on August 1, 2025. As a factory-unlocked GSM device, it is specifically compatible with carriers like T-Mobile, Mint Mobile, and Tello in the U.S., but it lacks support for CDMA-based networks such as Verizon or AT&T. 
+
+      Key Specifications
+
+          Massive Battery: A standout feature is the 7,000 mAh battery, which typically provides up to two days of use and supports 33W wired fast charging along with 18W reverse wired charging.
+          Immersive Display: It features a large 6.9-inch FHD+ IPS LCD DotDisplay with a high 144Hz adaptive refresh rate for smooth scrolling.
+          Performance: Driven by the Qualcomm Snapdragon 6s Gen 3 (6nm) processor, suitable for reliable everyday multitasking and 5G connectivity.
+          Camera System: Includes a 50MP AI main camera (f/1.8) and an 8MP front camera, both capable of 1080p video recording.
+          Software: Runs Xiaomi HyperOS 2 based on Android 15 out of the box.
+          Durability: Rated IP64 for dust and splash resistance and features a side-mounted fingerprint sensor. 
+    variants:
+      - id: 992
+        color: "Green "
+        price: 289.95
+        image: images/remi02-green.webp
+      - id: 993
+        price: 289.95
+        color: Gray
+        image: images/remi01-tan.webp
+      - id: 994
+        color: Black
+        price: 289.95
+        image: images/remi03-black.webp
+  - id: 347
+    name: Xiaomi Redmi 15 , 5G , 256GB/8GB , GSM Unlocked , New , Sealed
+    category: Phones
+    description: "The Xiaomi Redmi 15 5G (Global Version) is a budget-friendly
+      smartphone released on August 1, 2025. As a factory-unlocked GSM device,
+      it is specifically compatible with carriers like T-Mobile, Mint Mobile,
+      and Tello in the U.S., but it lacks support for CDMA-based networks such
+      as Verizon or AT&T. Key Specifications Massive Battery: A standout feature
+      is the 7,000 mAh battery, which typically provides up to two days of use
+      and supports 33W wired fast charging along with 18W reverse wired
+      charging. Immersive Display: It features a large 6.9-inch FHD+ IPS LCD
+      DotDisplay with a high 144Hz adaptive refresh rate for smooth scrolling.
+      Performance: Driven by the Qualcomm Snapdragon 6s Gen 3 (6nm) processor,
+      suitable for reliable everyday multitasking and 5G connectivity. Camera
+      System: Includes a 50MP AI main camera (f/1.8) and an 8MP front camera,
+      both capable of 1080p video recording. Software: Runs Xiaomi HyperOS 2
+      based on Android 15 out of the box. Durability: Rated IP64 for dust and
+      splash resistance and features a side-mounted fingerprint sensor. "
+    variants:
+      - id: 995
+        color: Black
+        price: 449.95
+        image: images/remi03-black.webp
+      - id: 996
+        color: Green
+        price: 449.95
+        image: images/remi02-green.webp
+      - id: 997
+        color: Gray
+        price: 449.95
+        image: images/remi01-tan.webp
+  - name: Xiaomi Redmi A7 Pro , 64GB/4GB  , GSM Unlocked , New , Sealed
+    id: 348
+    category: Phones
+    description: >-
+      The Xiaomi Redmi A7 Pro
+
+      is an entry-level smartphone launched in early 2026, marking the first "Pro" model in the Redmi A series. It emphasizes a massive display and long-lasting battery life over high-end performance, making it a budget-friendly option for daily use. As a factory-unlocked GSM device, it is compatible with carriers like T-Mobile, Mint Mobile, and Tello in the U.S., but it does not work with CDMA networks like Verizon or AT&T. 
+
+      Key Specifications
+
+          Immersive Display: Features a very large 6.9-inch IPS LCD with a 120Hz adaptive refresh rate and 800 nits peak brightness.
+          Massive Battery: Equipped with a 6,000mAh battery (or up to 6,300mAh in some 5G variants) designed to last up to 4 years of health, supporting 15W wired charging.
+          Performance: Driven by the Unisoc T7250 (12nm) chipset for the 4G variant or the Unisoc T8300 for the 5G model.
+          Camera System: A basic 13MP AI dual rear camera and an 8MP front selfie camera.
+          Software: Runs Xiaomi HyperOS 3 based on Android 16, with a promise of 4 major OS updates and 6 years of security patches.
+          Design: Slim 8.15mm body weighing 208g, available in Mist Blue, Palm Green, Sunset Orange, and Black. 
+    variants:
+      - id: 998
+        color: Black
+        price: 279.95
+        image: images/xiaomia7-black.webp
+      - id: 999
+        color: Green
+        price: 279.95
+        image: images/xiaomia7-green.webp
+  - id: 349
+    name: Xiaomi Redmi A7 Pro , 128GB/4GB ,  GSM Unlocked , New , Sealed
+    category: Phones
+    description: 'The Xiaomi Redmi A7 Pro is an entry-level smartphone launched in
+      early 2026, marking the first "Pro" model in the Redmi A series. It
+      emphasizes a massive display and long-lasting battery life over high-end
+      performance, making it a budget-friendly option for daily use. As a
+      factory-unlocked GSM device, it is compatible with carriers like T-Mobile,
+      Mint Mobile, and Tello in the U.S., but it does not work with CDMA
+      networks like Verizon or AT&T. Key Specifications Immersive Display:
+      Features a very large 6.9-inch IPS LCD with a 120Hz adaptive refresh rate
+      and 800 nits peak brightness. Massive Battery: Equipped with a 6,000mAh
+      battery (or up to 6,300mAh in some 5G variants) designed to last up to 4
+      years of health, supporting 15W wired charging. Performance: Driven by the
+      Unisoc T7250 (12nm) chipset for the 4G variant or the Unisoc T8300 for the
+      5G model. Camera System: A basic 13MP AI dual rear camera and an 8MP front
+      selfie camera. Software: Runs Xiaomi HyperOS 3 based on Android 16, with a
+      promise of 4 major OS updates and 6 years of security patches. Design:
+      Slim 8.15mm body weighing 208g, available in Mist Blue, Palm Green, Sunset
+      Orange, and Black'
+    variants:
+      - id: 1000
+        color: Black
+        price: 289.95
+        image: images/xiaomia7-black.webp
+      - id: 1001
+        color: Green
+        price: 289.95
+        image: images/xiaomia7-green.webp
+  - id: 350
+    name: Xiaomi Poco C85 , 4G , 128GB/6GB  , GSM Unlocked , New , Sealed
+    category: Phones
+    description: >+2
+       Works with most carriers. Does not work with the following carriers. Cricket Wireless, Spectrum Mobile, US Cellular, And Xfinity .  The Xiaomi Poco C85
+      is a budget-friendly smartphone known for its massive 6,000mAh battery and large 6.9-inch display with a 120Hz refresh rate. Released in late 2025, it runs on Xiaomi’s HyperOS 2 (based on Android 15) and is designed for users who prioritize battery longevity and screen real estate at an affordable price point. 
+
+      Key Specifications
+
+          Display: 6.9-inch Dot Drop display with a 120Hz adaptive refresh rate and 1600x720 resolution.
+          Battery & Charging: 6,000mAh battery supporting 33W fast charging; it also features 10W wired reverse charging to act as a power bank for other devices.
+          Performance: Powered by the MediaTek Helio G81-Ultra octa-core processor, with RAM options of 4GB, 6GB, or 8GB (expandable up to 16GB via software extension).
+          Camera System: 50MP AI dual rear camera and an 8MP front-facing camera.
+          Storage: Available in 128GB or 256GB configurations, with support for expandable storage up to 1TB via microSD.
+          Design: Features a "quad curved" back for a comfortable grip and is available in Black, Purple, and Green. 
+
+
+    variants:
+      - id: 1002
+        color: " Purple"
+        price: 339.95
+        image: images/xiapoco-blue.webp
+      - id: 1003
+        color: Black
+        price: 339.95
+        image: images/xiapoco-black.webp
+      - id: 1004
+        color: Green
+        price: 339.95
+        image: images/xiapoco-green.webp
+  - name: Xiaomi Poco C85 , 4G , 256GB/8GB , GSM Unlocked , New , Sealed
+    id: 351
+    category: Phones
+    description: 'Works with most carriers. Does not work with the following
+      carriers. Cricket Wireless, Spectrum Mobile, US Cellular, And Xfinity .
+      The Xiaomi Poco C85 is a budget-friendly smartphone known for its massive
+      6,000mAh battery and large 6.9-inch display with a 120Hz refresh rate.
+      Released in late 2025, it runs on Xiaomi’s HyperOS 2 (based on Android 15)
+      and is designed for users who prioritize battery longevity and screen real
+      estate at an affordable price point. Key Specifications Display: 6.9-inch
+      Dot Drop display with a 120Hz adaptive refresh rate and 1600x720
+      resolution. Battery & Charging: 6,000mAh battery supporting 33W fast
+      charging; it also features 10W wired reverse charging to act as a power
+      bank for other devices. Performance: Powered by the MediaTek Helio
+      G81-Ultra octa-core processor, with RAM options of 4GB, 6GB, or 8GB
+      (expandable up to 16GB via software extension). Camera System: 50MP AI
+      dual rear camera and an 8MP front-facing camera. Storage: Available in
+      128GB or 256GB configurations, with support for expandable storage up to
+      1TB via microSD. Design: Features a "quad curved" back for a comfortable
+      grip and is available in Black, Purple, and Green. '
+    variants:
+      - id: 1005
+        color: Green
+        price: 379.95
+        image: images/xiapoco-green.webp
+      - id: 1006
+        color: Black
+        price: 379.95
+        image: images/xiapoco-black.webp
+      - id: 1007
+        color: Purple
+        price: 379.95
+        image: images/xiapoco-blue.webp
+  - id: 353
+    name: Xiaomi Poco X8 Pro Max , 256GB/12GB , GSM Unlocked  , New , Sealed
+    category: Phones
+    description: >-
+      Works with most carriers. Does not work with the following carriers.
+      Cricket Wireless, Spectrum Mobile, US Cellular, And Xfinity .  The Xiaomi
+      Poco X8 Pro Max
+
+      is a high-performance 5G smartphone launched in March 2026, designed to offer near-flagship performance and extreme battery life at a mid-range price. As a factory-unlocked GSM device, it is compatible with most major carriers worldwide, including T-Mobile and its subsidiaries in the United States. 
+
+      Key Specifications and Features
+
+          Massive Battery: Its defining feature is a humongous 8,500mAh to 9,000mAh battery. It supports 100W HyperCharge fast wired charging, which can refuel the device in approximately 65 minutes.
+          Performance: Powered by the MediaTek Dimensity 9500s "flagship-killer" chipset with 12GB of RAM. It handles heavy gaming like Genshin Impact smoothly, though it lacks some the extreme optimization of top-tier 2026 flagships.
+          Immersive Display: Features a large 6.83-inch AMOLED panel with a 120Hz refresh rate and a peak brightness of up to 3,500 nits, ensuring excellent visibility even in direct sunlight.
+          Camera System: Equipped with a 50MP main camera featuring Optical Image Stabilization (OIS) and an 8MP ultra-wide lens. While the main sensor performs well in various lighting, the secondary ultra-wide and zoom capabilities are more modest.
+          Durability & Design: The phone has a premium build with an aluminum frame and is IP68/IP69K rated for significant water and dust resistance.
+    variants:
+      - id: 1008
+        image: images/xiax8-whit.webp
+        color: " White"
+        price: 609.95
+      - price: 609.95
+        color: Black
+        id: 1009
+        image: images/xiax8-black.webp
+  - name: Xiaomi Poco X8 Pro Max , 512GB/12GB , GSM Unlocked , New , Sealed
+    id: 352
+    category: Phones
+    description: 'Works with most carriers. Does not work with the following
+      carriers. Cricket Wireless, Spectrum Mobile, US Cellular, And Xfinity .
+      The Xiaomi Poco X8 Pro Max is a high-performance 5G smartphone launched in
+      March 2026, designed to offer near-flagship performance and extreme
+      battery life at a mid-range price. As a factory-unlocked GSM device, it is
+      compatible with most major carriers worldwide, including T-Mobile and its
+      subsidiaries in the United States. Key Specifications and Features Massive
+      Battery: Its defining feature is a humongous 8,500mAh to 9,000mAh battery.
+      It supports 100W HyperCharge fast wired charging, which can refuel the
+      device in approximately 65 minutes. Performance: Powered by the MediaTek
+      Dimensity 9500s "flagship-killer" chipset with 12GB of RAM. It handles
+      heavy gaming like Genshin Impact smoothly, though it lacks some the
+      extreme optimization of top-tier 2026 flagships. Immersive Display:
+      Features a large 6.83-inch AMOLED panel with a 120Hz refresh rate and a
+      peak brightness of up to 3,500 nits, ensuring excellent visibility even in
+      direct sunlight. Camera System: Equipped with a 50MP main camera featuring
+      Optical Image Stabilization (OIS) and an 8MP ultra-wide lens. While the
+      main sensor performs well in various lighting, the secondary ultra-wide
+      and zoom capabilities are more modest. Durability & Design: The phone has
+      a premium build with an aluminum frame and is IP68/IP69K rated for
+      significant water and dust resistance. '
+    variants:
+      - id: 1010
+        color: White
+        price: 649.95
+        image: images/xiax8-whit.webp
+      - id: 1011
+        color: Black
+        price: 649.95
+        image: images/xiax8-black.webp
+  - id: 354
+    name: Xiaomi Poco X8 Pro  , 256GB/12GB , GSM Unlocked , New , Sealed
+    category: Phones
+    description: >-
+      
+      Works with most carriers. Does not work with the following carriers: Cricket Wireless, Spectrum Mobile, US Cellular, And Xfinity
+
+      Specifications
+
+      The Xiaomi Poco X8 Pro 5G
+
+      is a high-performance, mid-range smartphone released on March 17, 2026. It is designed as a balanced alternative to the more expensive Pro Max model, featuring a high-speed MediaTek Dimensity 8500-Ultra processor and a large 6,500mAh battery. 
+
+      Key Specifications
+
+          Performance: Powered by the MediaTek Dimensity 8500-Ultra (4nm) chipset with a clock speed of up to 3.4 GHz. It comes with 8GB or 12GB of LPDDR5X RAM and up to 512GB of UFS 4.1 storage.
+          Display: Features a 6.59-inch 1.5K AMOLED screen with a 120Hz adaptive refresh rate and a peak brightness of 3,500 nits.
+          Battery & Charging: Equipped with a 6,500mAh silicon-carbon battery that supports 100W HyperCharge (100% in roughly 40 minutes) and 27W reverse wired charging.
+          Camera System: A dual-camera setup consisting of a 50MP main sensor (Sony IMX882) with OIS and an 8MP ultra-wide lens. The front camera is a 20MP sensor for selfies.
+          Durability: Rated IP68/IP69K for dust and water resistance, allowing it to withstand high-pressure water jets and submersion up to 1.5 meters. 
+
+      Pricing and Availability
+
+      The Poco X8 Pro
+
+      is available from several online retailers in various color options, including Black, White, and Mint Green. 
+    variants:
+      - id: 1012
+        color: Black
+        price: 469.95
+        image: images/xiax8-black.webp
+      - id: 1013
+        color: Green
+        price: 469.95
+        image: images/xiax8-green.webp
+  - name: Xiaomi Poco X8 Pro , 512GB/12GB , GSM Unlocked , New , Sealed
+    id: 355
+    description: "Works with most carriers. Does not work with the following
+      carriers: Cricket Wireless, Spectrum Mobile, US Cellular, And Xfinity
+      Specifications The Xiaomi Poco X8 Pro 5G is a high-performance, mid-range
+      smartphone released on March 17, 2026. It is designed as a balanced
+      alternative to the more expensive Pro Max model, featuring a high-speed
+      MediaTek Dimensity 8500-Ultra processor and a large 6,500mAh battery. Key
+      Specifications Performance: Powered by the MediaTek Dimensity 8500-Ultra
+      (4nm) chipset with a clock speed of up to 3.4 GHz. It comes with 8GB or
+      12GB of LPDDR5X RAM and up to 512GB of UFS 4.1 storage. Display: Features
+      a 6.59-inch 1.5K AMOLED screen with a 120Hz adaptive refresh rate and a
+      peak brightness of 3,500 nits. Battery & Charging: Equipped with a
+      6,500mAh silicon-carbon battery that supports 100W HyperCharge (100% in
+      roughly 40 minutes) and 27W reverse wired charging. Camera System: A
+      dual-camera setup consisting of a 50MP main sensor (Sony IMX882) with OIS
+      and an 8MP ultra-wide lens. The front camera is a 20MP sensor for selfies.
+      Durability: Rated IP68/IP69K for dust and water resistance, allowing it to
+      withstand high-pressure water jets and submersion up to 1.5 meters.
+      Pricing and Availability The Poco X8 Pro is available from several online
+      retailers in various color options, including Black, White, and Mint
+      Green. "
+    category: Phones
+    variants:
+      - id: 1014
+        color: White
+        price: 549.95
+        image: images/xiax8-whit.webp
+      - price: 549.95
+        color: " Black"
+        id: 1015
+        image: images/xiax8-black.webp
+      - price: 549.95
+        color: Green
+        id: 1016
+        image: images/xiax8-green.webp
+  - category: Smart Watches
+    name: Amazfit Active 2 Smart Watch , 44mm  , Black Silicone , New , Sealed
+    description: >-
+      The Amazfit Active 2 Smart Watch 44mm is a versatile fitness-focused
+      smartwatch designed to support an active lifestyle while also offering
+      everyday smart functions. With a sleek, modern look and a comfortable
+      black silicone band, it’s suitable for both workouts and casual wear. The
+      44mm size provides a clear, easy-to-read screen that displays your
+      activity stats, health data, and navigation guidance with minimal effort.
+      This watch bridges the gap between style and performance, making it a
+      great companion for anyone wanting to stay motivated and connected
+      throughout the day.
+
+
+      One of the key strengths of the Active 2 is its built-in GPS with maps and direction guidance, which lets you track outdoor activities like walking, running, or cycling without needing to carry your phone. The integrated GPS not only logs routes and distances accurately but also offers on-screen direction data so you can follow or retrace paths more confidently. With 160+ sport modes, the watch covers a wide variety of activities — from standard workouts like running and cycling to specialized training and recreational sports. This extensive mode support gives you detailed performance metrics tailored to how you move.
+
+
+      In addition to fitness tracking, the Active 2 includes comprehensive health monitoring tools. Continuous heart rate tracking, sleep monitoring, stress insights, and other wellness indicators help you understand your body’s patterns and overall wellbeing. The watch also supports intelligent training features such as workout summaries and activity trends so you can monitor progress over time and adjust your routines accordingly. Whether you’re a fitness enthusiast or simply trying to stay active, these features provide valuable feedback without overwhelming you with data.
+
+
+      Battery life is another highlight — designed to last up to 10 days on a single charge, the Amazfit Active 2 keeps up with your routine without frequent recharging. Water resistance means it can handle sweat, rain, and casual swimming, so you don’t have to remove it during daily activities. With compatibility for both Android and iPhone devices, you can receive notifications, control music, and stay connected while you focus on your goals. Overall, the Amazfit Active 2 delivers a well-rounded mix of fitness tracking, smart features, and reliable performance in a comfortable and stylish package. Product Information
+
+      Product Name: Amazfit Active 2
+
+      Category: Smartwatch / Fitness Tracker
+
+      Model Size: 44 mm (round)
+
+      Color: Black Silicone
+
+      Operating System: Zepp OS
+
+      Companion App: Zepp App (Android & iOS)
+
+
+      Display
+
+      Display Type: AMOLED touchscreen
+
+      Display Size: 1.32 inches (diagonal)
+
+      Resolution: 466 × 466 pixels (high pixel density)
+
+      Brightness: Up to ~2000 nits (bright outdoor visibility)
+
+      Touchscreen: Yes (responsive touch with watch controls)
+
+      Glass Protection: Standard 2.5D tempered glass with anti-fingerprint coating (premium version can include sapphire)
+
+
+      Build & Physical
+
+      Case Diameter: ~44 mm
+
+      Case Material: Stainless steel bezel with polymer frame
+
+      Strap Material: Silicone (comfortable, sport-ready)
+
+      Strap Width: ~20 mm
+
+      Water Resistance: 5 ATM (up to 50 meters — suitable for swimming and showering)
+
+      Buttons: 2 physical buttons + touchscreen interface
+
+      Weight (without strap): ~29.5 g (standard)
+
+
+      Battery & Charging
+
+      Battery Capacity (rated): ~270 mAh
+
+      Typical Battery Life: Up to 10 days on a full charge (typical usage)
+
+      Heavy Use Battery Life: Up to ~5 days (with frequent sensors/GPS)
+
+      Battery Saver Mode Life: Up to ~19 days
+
+      GPS Continuous Usage Life: Up to ~21 hours with GPS active
+
+      Charging Method: Magnetic charging base
+
+      Charging Time: ~2 hours (approximate)
+
+
+      Sensors & Health Monitoring
+
+      Heart Rate Monitoring: Yes (continuous 24/7 via BioTracker™ 6.0 biometric sensor)
+
+      Blood Oxygen (SpO₂) Monitoring: Yes
+
+      Sleep Monitoring & Sleep Score: Yes
+
+      Stress Monitoring & Breath Training: Yes
+
+      Skin Temperature Monitoring: Yes
+
+      Fitness Readiness / Health Insights: Yes
+
+      BioTracker™ Health Algorithm: Yes (enhanced precision)
+
+
+      Sports & Fitness Tracking
+
+      Built-in GPS: Yes (precise outdoor tracking)
+
+      Satellite Support: Multi-system positioning
+
+      Offline Maps & Navigation: Yes (free downloadable maps with turn-by-turn directions)
+
+
+      Sports Modes: 160+ workout profiles
+
+      Smart Workout Recognition: Supported
+
+      Running Metrics: Yes
+
+      Swim Tracking: Yes (with water resistance)
+
+      Workout Analysis & Summary: Yes
+
+
+      Connectivity
+
+      Bluetooth: Yes (Bluetooth “BLE”)
+
+      Compatible Devices: Android and iOS smartphones
+
+      Wireless Sync: Automatic with Zepp App
+
+      Notifications: Call, text, email, app alerts on wrist
+
+      Music Controls: Yes (control phone playback)
+
+      Voice Control: Zepp Flow™ AI voice assistant supported (Android voice replies & features)
+
+
+      Smart Features
+
+      Smartphone Notifications: Yes
+
+      Music Playback Controls: Yes
+
+      AI Voice Assistant: Zepp Flow built-in
+
+      Weather Info: Yes
+
+      Timer, Alarm, Stopwatch: Yes
+
+      Find My Phone: Yes (via app)
+
+
+      Environment & Durability
+
+      Water Resistance Rating: 5 ATM
+
+      Operating Temperature Range: Standard wearable range
+
+      Everyday Toughness: Designed for regular activity and workouts
+
+      Swim Tracking Capable: Yes
+
+
+      Included in Box
+
+      Amazfit Active 2 Smart Watch
+
+      Magnetic Charging Base
+
+      User Documentation / Quick Start Guide
+    variants:
+      - id: 1017
+        color: Black
+        price: 229.95
+        image: images/amazfit03-black.webp
+    id: 356
+  - name: "Amazfit Bip 5 Core Fitness Tracker  , New , Sealed "
+    id: 357
+    category: Smart Watches
+    variants:
+      - color: Black
+        price: 209.95
+        id: 1018
+        image: images/amazfit1-black.webp
+    description: >2
+       Specifications
+
+      Product Overview
+
+      Brand Name: Amazfit
+
+      Model Name: Bip 5 Core
+
+      Category: Fitness Tracker / Smartwatch
+
+      Target Use: Daily health monitoring, activity tracking, fitness tracking
+
+
+      Display
+
+      Display Type: TFT touchscreen (color)
+
+      Display Size: 1.91 inches
+
+      Resolution: Approximately 320 × 380 pixels
+
+      Touchscreen: Yes
+
+      Screen Coating: Anti-fingerprint coating
+
+      Display Protection: 2.5D tempered glass style
+
+
+      Build & Physical
+
+      Body Material: Plastic / lightweight polymer case
+
+      Dimensions: Around 45.94 × 38.09 × 11.2 mm
+
+      Weight (without strap): ~26 g
+
+      Strap Material: Silicone (quick-release)
+
+      Band Width: ~22 mm
+
+      Water Resistance: IP68 (splash and dust resistant; suitable for light water exposure not for swimming)
+
+
+      Battery & Charging
+
+      Battery Capacity (Rated): ~300 mAh
+
+      Battery Life (Typical Use): Up to ~10 days
+
+      Battery Life (Heavy Use): ~5 days
+
+      Battery Saver Mode Life: Up to ~26 days
+
+      Charging Method: Magnetic charging cable
+
+      Charging Time (Approx.): ~2 hours
+
+
+      Sensors & Tracking
+
+      Heart Rate Monitor: Yes (continuous)
+
+      Blood Oxygen (SpO₂): Yes
+
+      Sleep Monitoring: Yes (stages & quality)
+
+      Stress Monitoring: Yes
+
+      Accelerometer: Yes (3-axis)
+
+      Movement Tracking: Yes
+
+      Positioning: Multi-satellite support for outdoor workouts
+
+      Breathing Quality Monitoring: Supported
+
+      Abnormal Health Alerts: Heart rate / SpO₂ / stress level alerts
+
+
+      Health & Fitness Features
+
+      Activity Tracking: Steps, distance, calories burned, active minutes
+
+      Sports Modes: 120+ exercise and sport modes
+
+      Workout Recognition: Auto-detect common workouts
+
+      VO2 Max & Fitness Assessment: Yes
+
+      PAI Health Assessment: Yes
+
+      Menstrual Cycle Tracking: Yes
+
+      Sleep Score & Insights: Yes
+
+      Guided Breathing: Yes
+
+      Health Card Summaries: Daily health stats at a glance
+
+
+      Smart Features
+
+      Smartphone Notifications: Calls, texts, app alerts
+
+      Music Controls: Yes (controls phone music)
+
+      Bluetooth Connectivity: Yes (BLE)
+
+      App Support: Zepp App for detailed metrics, data sync, and customization
+
+      Third-Party Integration: Sync with apps like Strava, Apple Health, Google Fit
+
+
+      Connectivity
+
+      Bluetooth Version: Bluetooth Low Energy (5.x)
+
+      Phone Compatibility: Android and iOS devices
+
+      Sync: Automatic data sync via app
+
+
+      Included in Box
+
+      Amazfit Bip 5 Core fitness tracker
+
+      Magnetic charging cable
+
+      Documentation / Quick start guide
+  - id: 358
+    name: "Amazfit T-Rex 3 Military Smart Watch  , 48MM  , New , Sealed "
+    category: Smart Watches
+    description: >-
+      The Amazfit T-Rex 3 Military Smart Watch is a rugged and capable outdoor
+      smartwatch designed for adventurers, athletes, and anyone who wants a
+      tough wearable that can keep up with an active lifestyle. Built with
+      military-grade durability, this watch can withstand extreme conditions and
+      rough use, making it a strong choice for hiking, trail running, camping,
+      and everyday wear. The robust 48 mm case and reinforced build not only
+      protect the internals but also give the watch a bold, striking presence on
+      the wrist.
+
+
+      Equipped with built-in GPS, the T-Rex 3 offers accurate location tracking for outdoor workouts and navigation, while offline maps help you stay oriented even when your phone isn’t nearby. The integration of AI and voice control adds a modern convenience layer, letting you interact with the watch hands-free for tasks like starting workouts, checking stats, or setting reminders. This smartwatch supports both Android and iPhone devices, making it a versatile companion regardless of your smartphone choice.
+
+
+      Fitness and health tracking are core strengths of the T-Rex 3, with support for 170 sports modes that cover a wide range of activities from running and cycling to swimming and strength training. Comprehensive health metrics keep tabs on heart rate, sleep, stress levels, and more, while advanced training insights help you monitor performance and recovery. Whether you’re a seasoned athlete or just aiming to stay active, the watch provides data that’s easy to review and use.
+
+
+      Durability is taken seriously with this model — it’s water-resistant to 328 feet (100 meters), so it can handle swimming, rainy runs, and wet environments without blinking. The overall feature set balances outdoor ruggedness, smart functionality, and health-focused tracking, making the Amazfit T-Rex 3 a solid all-around choice for users who want both resilience and connected fitness in one device
+    variants:
+      - id: 1019
+        color: Black
+        price: 409.95
+        image: images/amazfit02-black.webp
+  - name: WITHit Deca Smartwatch  , New ,  Sealed
+    id: 359
+    category: Smart Watches
+    description: >
+      The WITHit Deca Smartwatch is a modern wearable designed to blend
+      functionality with style. It features a 1.43-inch AMOLED high-definition
+      touchscreen display with a resolution of 466 x 466 pixels, delivering
+      sharp visuals and vibrant colors. The watch is housed in a 45mm base metal
+      case and comes with a smooth silicone black band equipped with
+      quick-release technology for easy customization.
+
+
+      In terms of health and fitness tracking, the Deca Smartwatch offers features such as heart rate monitoring, blood oxygen (SpO₂) tracking, sleep analysis, and stress level monitoring. It also includes a variety of sports modes to cater to different activities. The watch is water-resistant up to 1.5 meters for 30 minutes, making it suitable for everyday wear and light water exposure.
+
+
+      To enhance user experience, the Deca Smartwatch is compatible with the WITHit Smartwatch App, which is available for both Android and iOS devices. This app allows users to sync their devices, manage health data, customize watch faces, and access various functionalities. The watch supports Bluetooth and Wi-Fi connectivity, enabling seamless integration with your smartphone.
+
+
+      For power, the Deca Smartwatch includes a magnetic rapid charger, ensuring convenient and efficient charging. The watch boasts a battery life of up to 120 hours, depending on usage, and offers a standby time of up to 60 days.
+
+
+      Overall, the WITHit Deca Smartwatch combines advanced technology with a sleek design, making it a versatile choice for individuals seeking a reliable and stylish smartwatch.  Specifications
+
+
+      Model Name: WITHit Deca Smartwatch
+
+      Model Number: 42-9000BKBKW
+
+      Color: Black
+
+
+      Display:
+
+      Type: AMOLED
+
+      Size: 1.43 inches
+
+      Resolution: 466 x 466 pixels
+
+
+      Case:
+
+      Material: Base metal
+
+      Diameter: 45 mm
+
+
+      Band:
+
+      Material: Silicone
+
+      Width: 22 mm
+
+      Length: 241.3 mm
+
+      Closure: Buckle
+
+
+      Battery:
+
+      Type: Lithium-ion
+
+      Life: Up to 120 hours (varies with usage)
+
+      Charging: Magnetic rapid charger included
+
+
+      Connectivity:
+
+      Bluetooth: Yes
+
+      Wi-Fi: Yes
+
+
+      Operating System:
+
+      Compatible with: Android 5.0+ and iOS 9.0+
+
+      App: WITHit Smartwatch App
+
+
+      Health & Fitness Features:
+
+      Heart Rate Monitoring
+
+      Blood Oxygen (SpO₂) Tracking
+
+      Sleep Monitoring
+
+      Stress Monitoring
+
+      Calorie Tracking
+
+      Step Counting
+
+      100+ Sports Modes
+
+      Water Resistance:
+
+      Rating: Up to 1.5 meters for 30 minutes
+
+
+      Additional Features:
+
+      Call Functionality
+
+      Music Control
+
+      Voice Assistant Support
+
+      Customizable Watch Faces
+
+      Hydration Reminders
+
+      Weather Display
+
+      Alarm and Stopwatch Functions
+
+
+      Included in Box:
+
+      WITHit Deca Smartwatch
+
+      Magnetic Charging Cable
+
+      User Manual
+    variants:
+      - id: 1020
+        color: Black
+        price: 189.95
+        image: images/withit01-black.webp
+  - id: 360
+    name: WITHit Giga Smartwatch  Amoled 2.04 , New ,  Sealed
+    category: Smart Watches
+    description: >
+      
+
+      The WITHit Giga Smartwatch presents a large, vibrant 2.04-inch high-definition AMOLED touchscreen—with a resolution of 386 × 448 pixels—that fills its face and offers easily readable visuals and customizable watch faces. The case is aluminum (or ABS/aluminum blend depending on source) and the handset comes with a quick-release silicone band for comfort and interchangeability. Designed for modern wearers who want connected features and style on a budget, the Giga supports both Android 5.0+ and iOS 9.0+ through the WITHit Smartwatch App, enabling smartphone notifications, Bluetooth calling, music controls, and watch face customization.
+
+
+      In terms of health and activity tracking, this smartwatch offers step counting, heart-rate monitoring, blood oxygen (SpO₂) tracking, sleep tracking, and women’s health/menstrual cycle tracking. It also supports general smartwatch features such as incoming call handling, notification alerts for apps like WhatsApp and Snapchat, remote camera control, and music control via the connected phone. Battery life claims run up to approximately 120 hours in light use. On the durability side, it is rated for water resistance up to 1.5 meters for 30 minutes—enough for light water exposure—but it is not built for heavy submersion or diving.
+
+
+      While the Giga delivers impressive value, reviewers note some trade-offs: it uses a proprietary charging cable, the screen lacks adaptive brightness (making outdoor visibility and night use less optimal), and some users report inconsistent metrics in activity tracking. Model Name: WITHit Giga Smartwatch
+
+      Model Number: 42-9002GYBKW
+
+
+      Display
+
+      Screen Type: AMOLED high-definition touchscreen
+
+      Screen Size: 2.04 inches
+
+      Resolution: 386 x 448 pixels
+
+
+      Body and Design
+
+      Case Material: ABS or aluminum (depending on model)
+
+      Case Size: Approximately 43 mm
+
+      Band Type: Silicone band with quick-release mechanism
+
+      Water Resistance: Up to 1.5 meters for 30 minutes (not suitable for swimming or diving)
+
+
+      Compatibility and Software
+
+      Smartphone Compatibility: Android 5.0 and later, iOS 9.0 and later
+
+      App Required: WITHit Smartwatch App
+
+      Operating System: Proprietary (not Wear OS or watchOS)
+
+
+      Health and Fitness Features
+
+      Heart Rate Monitoring
+
+      Blood Oxygen (SpO2) Tracking
+
+      Sleep Tracking
+
+      Step Counting and Calorie Tracking
+
+      Stress Level Monitoring
+
+      Women’s Health and Menstrual Cycle Tracking
+
+
+      Connectivity and Features
+
+      Bluetooth Connectivity for Smartphone Pairing
+
+      Call, Text, and App Notification Alerts
+
+      Music Control
+
+      Camera Remote Control
+
+      Voice Assistant Support (via connected phone)
+
+
+      Battery and Charging
+
+      Charging Type: Magnetic charging cable
+
+      Battery Life: Up to 2 to 5 days depending on usage
+
+      Charging Time: Approximately 2 hours
+
+
+      Sensors
+
+      Optical Heart Rate Sensor
+
+      Blood Oxygen Sensor
+
+      Accelerometer
+
+      Sleep Tracking Sensor
+
+
+      Physical and Build Features
+
+      Display Protection: Scratch-resistant glass
+
+      Strap Width: Standard 22 mm
+
+      Strap Material: Soft-touch silicone
+
+      Case Shape: Rectangular with curved edges
+
+      Color: Black
+
+
+      Additional Features
+
+      Customizable Watch Faces (including personal photo uploads)
+
+      Hydration Reminder
+
+      World Clock and Alarm
+
+      Weather Display
+
+      Sedentary Reminder
+
+      Stopwatch and Timer Functions
+
+
+      Notes and Limitations
+
+      The watch uses a proprietary operating system and is not compatible with app installations from Google Play or App Store.
+
+      Screen brightness must be adjusted manually and is not adaptive.
+
+      Some users report variable accuracy in step counting and health metrics.
+    variants:
+      - id: 1021
+        color: Black
+        price: 189.95
+        image: images/withit02-black.webp
+  - id: 361
+    name: WITHit DYO Series Smartwatch  , New ,  Sealed
+    category: Smart Watches
+    description: >-
+      The WITHit DYO Series Smartwatch is an affordable and stylish everyday
+      wearable designed to help you stay connected, active, and organized
+      without the complexity of high-end devices. Its sleek, modern look is
+      paired with practical functionality, making it a versatile choice for
+      daily use whether you’re tracking fitness, checking notifications, or
+      managing your schedule.
+
+
+      At the heart of this smartwatch is a bright 1.45-inch full touch screen LCD display that delivers a clear, easy-to-read interface for messages, activity stats, health data, and more. The touch-enabled display makes navigating menus and interacting with apps intuitive, whether you’re glancing at incoming alerts or reviewing your step count. The screen resolution is tuned to keep the visuals crisp and readable in everyday lighting conditions.
+
+
+      Built around a lightweight 42 mm ABS case, the DYO smartwatch is comfortable for all-day wear and designed to withstand everyday life. It comes with two interchangeable silicone bands in classic black and a soft blush tone, allowing you to customize your look easily for different outfits or occasions. Quick-release band attachments make swapping styles simple and convenient.
+
+
+      Beyond aesthetics, the DYO smartwatch offers fitness and health tracking features, including activity monitoring, heart rate tracking, sleep insights, and step counting, all accessible through the free companion app that connects with both Android and iOS devices. Water resistance supports everyday activities and workouts, standing up to splashes and brief submersion for peace of mind during exercise or rainy weather. Fast magnetic charging means you don’t have to wait long to power up between uses.
+
+
+      With its combination of a vivid touchscreen, customizable bands, essential health and activity tracking, and user-friendly design, the WITHit DYO Series Smartwatch blends practical wearable tech with casual style at a budget-friendly price. It’s suited for anyone looking for a capable smartwatch without a hefty investment, perfect for daily wear, workouts, or as an entry-level smart wearable. GENERAL
+
+      Product Name: WITHit DYO Series Smartwatch
+
+      Device Type: Smartwatch with health, fitness, and everyday smart features
+
+      Target Users: Unisex adults and teens
+
+      Compatibility: Works with Android 5.0+ and iOS 9.0+ devices using the WITHit Smartwatch companion app
+
+
+      DISPLAY
+
+      Display Type: Full touch screen LCD
+
+      Display Size: 1.45 inches diagonal
+
+      Screen Resolution: Approximately 172 × 320 pixels
+
+      Touch Input: Capacitive full touch interface
+
+
+      CASE & MATERIALS
+
+      Case Material: Lightweight ABS plastic
+
+      Case Diameter: Approximately 42 mm
+
+      Band Material: Silicone
+
+      Bands Included: Two interchangeable silicone bands (quick-release) — typically black and blush
+
+      Band Attachment: Quick-release design for simple swapping
+
+
+      PERFORMANCE & PROCESSOR
+
+      Processor: Low-power smartwatch chipset (exact model not publicly disclosed)
+
+      Memory: Internal memory for device operation (not user-expandable)
+
+      Storage: Internal storage (exact capacity not publicly disclosed)
+
+
+      CONNECTIVITY
+
+      Bluetooth: Yes (for pairing with smartphone app)
+
+      App Integration: WITHit Smartwatch companion app for syncing data and settings
+
+      GPS: Relies on connected phone for GPS (no independent GPS reported)
+
+
+      SENSORS & TRACKING
+
+      Accelerometer for activity tracking
+
+      Heart rate monitoring sensor
+
+      Sleep tracking sensor
+
+      Other motion and health-related sensors (support varies by app and firmware)
+
+
+      HEALTH & FITNESS FEATURES
+
+      Activity tracking (steps, distance, calories burned)
+
+      Heart rate monitoring
+
+      Sleep tracking with duration and quality insights
+
+      Multiple sports and movement modes
+
+      Activity goals and reminders
+
+
+      NOTIFICATIONS & SMART FEATURES
+
+      Incoming call alerts
+
+      Message notifications
+
+      App notifications from connected smartphone
+
+      Alarms and reminders
+
+      Stopwatch and timer functions
+
+
+      BATTERY & CHARGING
+
+      Battery Type: Rechargeable lithium-based battery
+
+      Battery Life: Estimated multi-day typical use (varies with usage and settings)
+
+      Charging Method: Magnetic charging cable included
+
+
+      WATER RESISTANCE
+
+      Water Resistance Rating: Water-resistant design suitable for everyday wear, workouts, and light water exposure
+
+
+      COMPATIBILITY & APP
+
+      Smartphone App: WITHit Smartwatch companion app
+
+      Android Compatibility: Android 5.0 and newer
+
+      iOS Compatibility: iOS 9.0 and newer
+
+      App Features: Syncing activity and health data, customizing watch settings, viewing historical metrics
+
+
+      DIMENSIONS & WEIGHT
+
+      Watch Case Diameter: Approximately 42 mm
+
+      Watch Thickness: Standard smartwatch thickness
+
+      Weight: Lightweight for comfortable all-day wear
+
+
+      IN THE BOX
+
+      WITHit DYO Series Smartwatch
+
+      Two quick-release silicone bands (black and blush)
+
+      Magnetic charging cable
+
+      Quick start guide / documentation       
+    variants:
+      - id: 1022
+        color: Rose Gold
+        price: 179.95
+        image: images/withit03-black.webp
+  - id: 362
+    name: " Fitbit Inspire 3 Health & Fitness Tracker , New , Sealed"
+    category: Smart Watches
+    description: >
+      The Fitbit Inspire 3 Health & Fitness Tracker - Morning Glow, Midnight Zen
+      and Lilac Bliss-color counterpart are lightweight, everyday wearable
+      fitness trackers designed to help you monitor your health and activity
+      with minimal effort. Featuring a slim, comfortable design and a bright
+      color touchscreen, the Inspire 3 is built for all-day wear whether you’re
+      working out, sleeping, or going about your daily routine. It offers
+      essential metrics like step count, heart rate, calorie burn, and Active
+      Zone Minutes, making it a solid choice for people who want simple yet
+      insightful tracking without a bulky smartwatch. 
+
+
+      This tracker includes comprehensive wellness tools such as daily Stress Management Score tracking, mindfulness and guided breathing sessions, SpO₂ (blood oxygen) monitoring, and menstrual health tracking. It also supports automatic exercise detection and 20 + exercise modes so you can quickly log or track activities like walking, running, swimming, yoga, and more either manually or automatically. The device continuously monitors your heart rate 24/7 to provide better insights into your fitness and health trends over time.
+
+
+      Sleep tracking is a key feature of the Inspire 3 — it automatically logs your sleep patterns and provides a detailed Sleep Score each morning, helping you better understand your sleep quality and rhythm. With a battery life that can last up to about ten days on a single charge and lightweight water resistance (suitable for showers and laps in the pool), this tracker aims to stay with you through a full work week and beyond before needing to recharge.
+
+
+      While not a full standalone smartwatch, the Inspire 3 keeps you connected by displaying smartphone notifications for calls, texts, and apps when paired via Bluetooth. A six-month trial of Fitbit Premium is often included, unlocking deeper analytics, personalized insights, and advanced features within the Fitbit app for users who want more detailed health, sleep, and activity guidance. 
+
+      Fitbit Inspire 3 Health & Fitness Tracker (New)
+
+      Fitbit Inspire 3 Health & Fitness Tracker (New)
+
+      Fitbit Inspire 3 Health & Fitness Tracker (New)
+
+      Fitbit Inspire 3 Health & Fitness Tracker (New)
+
+      Fitbit Inspire 3 Health & Fitness Tracker (New)
+
+      Fitbit Inspire 3 Health & Fitness Tracker (New)
+
+      by Wireless Place
+
+      Availability:
+
+      199 in stock, ready to be shipped
+
+      Current price $ 123.50
+
+
+      Pay in 4 interest-free installments of $30.88 with
+
+
+      Buy more and save. Buy 2 items and get $10.00 off
+
+      Free Returns & Free 2 Day Shipping
+
+
+      30-Day Money-Back Guarantee – Shop with Confidence
+
+
+      If you’re not satisfied, get a full refund within 30 days. No questions asked.
+
+      Want it by Wednesday, May 06? Order in the next 2 Day(s), 18 hours, 48 minutes, 7 seconds
+
+      Color: Lilac Bliss
+
+      Quantity
+
+      Notify Me When Price Drops
+
+      Free delivery Wed, May 6 to 11427Shop Promise
+
+      Secured and trusted checkout with:
+
+      Mastercard
+
+      Visa
+
+      American Express
+
+      Paypal
+
+
+      Wireless Place Inc. BBB Business ReviewDun & Bradstreet
+
+      Description
+
+
+      The Fitbit Inspire 3 Health & Fitness Tracker - Morning Glow, Midnight Zen and Lilac Bliss-color counterpart are lightweight, everyday wearable fitness trackers designed to help you monitor your health and activity with minimal effort. Featuring a slim, comfortable design and a bright color touchscreen, the Inspire 3 is built for all-day wear whether you’re working out, sleeping, or going about your daily routine. It offers essential metrics like step count, heart rate, calorie burn, and Active Zone Minutes, making it a solid choice for people who want simple yet insightful tracking without a bulky smartwatch. 
+
+
+      This tracker includes comprehensive wellness tools such as daily Stress Management Score tracking, mindfulness and guided breathing sessions, SpO₂ (blood oxygen) monitoring, and menstrual health tracking. It also supports automatic exercise detection and 20 + exercise modes so you can quickly log or track activities like walking, running, swimming, yoga, and more either manually or automatically. The device continuously monitors your heart rate 24/7 to provide better insights into your fitness and health trends over time.
+
+
+      Sleep tracking is a key feature of the Inspire 3 — it automatically logs your sleep patterns and provides a detailed Sleep Score each morning, helping you better understand your sleep quality and rhythm. With a battery life that can last up to about ten days on a single charge and lightweight water resistance (suitable for showers and laps in the pool), this tracker aims to stay with you through a full work week and beyond before needing to recharge.
+
+
+      While not a full standalone smartwatch, the Inspire 3 keeps you connected by displaying smartphone notifications for calls, texts, and apps when paired via Bluetooth. A six-month trial of Fitbit Premium is often included, unlocking deeper analytics, personalized insights, and advanced features within the Fitbit app for users who want more detailed health, sleep, and activity guidance.
+
+      Works with most carriers. Does not work with the following carriers:
+
+      Specifications
+
+
+      Product Overview
+
+      Product Name: Fitbit Inspire 3
+
+      Type: Health & Fitness Tracker
+
+      Available Colors: Lilac Bliss, Midnight Zen & Morning Glow
+
+      Target Use: Daily activity tracking, sleep monitoring, health insights, basic smartwatch features
+
+
+      Display
+
+      Type: AMOLED color touchscreen
+
+      Size: Approximately 0.74 inches diagonal
+
+      Resolution: 160 × 80 pixels
+
+      Always-On Display: Supported (battery life reduced when enabled)
+
+      Protective Glass: Corning Gorilla Glass 3
+
+
+      Battery & Charging
+
+      Battery Type: Rechargeable lithium-polymer
+
+      Battery Life: Up to 10 days (typical use)
+
+      Battery Life with Always-On Display: Around 3 days (approx.)
+
+      Charging Method: Proprietary magnetic charging cable
+
+      Charge Time: Approximately 2 hours for full charge
+
+
+      Sensors & Hardware
+
+      Heart Rate Sensor: Optical heart rate (24/7)
+
+      SpO₂ Sensor: Red and infrared blood oxygen monitoring
+
+      Accelerometer: 3-axis accelerometer
+
+      Ambient Light Sensor: Yes
+
+      Skin Temperature Variation: Yes (monitored via app)
+
+      Vibration Motor: Haptic alerts
+
+      Microphone / Speaker: None
+
+
+      Health & Fitness Features
+
+      Activity Tracking: Steps, distance, calories burned
+
+      Heart Rate Monitoring: Continuous 24/7
+
+      Active Zone Minutes: Yes
+
+      Sleep Tracking: Sleep stages, Sleep Score
+
+      Stress Management Score: Yes
+
+      Guided Breathing: Yes
+
+      Menstrual Health Tracking: Yes
+
+      Exercise Modes: 20+ workout modes
+
+      Automatic Exercise Recognition: Yes
+
+
+      Connectivity
+
+      Bluetooth: Bluetooth 5.0 LE
+
+      Phone Sync: Yes (via Fitbit app)
+
+      Wi-Fi: Not supported
+
+      GPS: Connected GPS (uses phone GPS)
+
+      NFC Payments: Not supported
+
+
+      Smart Features
+
+      Smartphone Notifications: Calls, texts, app alerts
+
+      Alarm & Reminders: Yes
+
+      Find My Phone: Yes
+
+      Music Controls: Yes (controls phone music only)
+
+      Voice Assistant: Not supported
+
+
+      Build & Physical Specs
+
+      Water Resistance: 5 ATM (up to 50 meters)
+
+      Weight: Approximately 17.7 grams (without band)
+
+      Dimensions: Approx. 39.3 × 18.6 × 11.8 mm
+
+      Band Material: Silicone
+
+      Included Band Sizes: Small and Large
+
+      Band Fit Sizes:
+
+      Small: 130–190 mm
+
+      Large: 160–220 mm
+
+
+      Storage & Data
+
+      Activity Data Storage:
+
+      Minute-by-minute data stored for 7 days
+
+      Daily totals stored for 30 days
+
+      App Requirements: Fitbit app required for full functionality
+
+      Supported OS: Android and iOS (latest versions recommended)
+
+
+      Included in the Box
+
+      Inspire 3 tracker unit
+
+      Two band sizes (Small + Large)
+
+      Magnetic charging cable
+    variants:
+      - id: 1023
+        color: Purple
+        price: 239.95
+        image: images/fitbit06-purple.webp
+      - id: 1024
+        color: Black
+        price: 239.95
+        image: images/fitbit05-black.webp
+      - id: 1025
+        color: Gold
+        price: 239.95
+        image: images/fitbit04-gold.webp
+  - id: 363
+    name: Fitbit Versa 4 Fitness Smartwatch  , New , Sealed
+    category: Smart Watches
+    description: >
+      
+
+      The Fitbit Versa 4 builds on the brand’s strong fitness tracking heritage by offering a sleek, lightweight design with core smartwatch functionality. In terms of appearance, the Versa 4 features an aluminum case paired with silicone bands, and is available in multiple finishes—Black/Graphite Aluminum, Pink Sand/Copper Rose Aluminum, and Waterfall Blue/Platinum Aluminum—so you can choose a style to match your preference. Its form-factor is comfortable for all-day wear, whether you’re working out, going to the office, or winding down for sleep.
+
+
+      On the feature side, the Versa 4 offers built-in GPS for outdoor workouts, 24/7 heart-rate monitoring, sleep tracking, and over 40 exercise modes to capture a wide variety of activities. It also provides the “Daily Readiness” score, which helps indicate whether your body is ready for an intense workout or if you should lean toward recovery. Smart features include notifications from your phone for calls and texts, app alerts, and support for Fitbit Pay and Google Wallet (depending on region).
+
+
+      In terms of durability and daily wear-capability, the Versa 4 is water resistant to 50 m (5 ATM), making it suitable for swimming or showering though not for deep-water diving. The display is a bright AMOLED touchscreen that remains readable in a variety of lighting conditions, and the overall construction is well-suited for active use.
+
+
+      Overall, the Fitbit Versa 4 offers a balanced blend of fitness tracking depth, reasonable smart features, and wearable comfort—with a design that fits both workout and everyday scenarios. If you’re focused on fitness and want smartwatch support without needing a full app ecosystem of third-party watch apps, the Versa 4 delivers a solid choice.  Model Name: Fitbit Versa 4
+
+      Release Year: 2022
+
+      Case Material: Aluminum
+
+      Case Size: 40.5 mm
+
+      Thickness: 11.2 mm
+
+      Weight: Approximately 37 g (without band)
+
+
+      Display:
+
+      Type: AMOLED color touchscreen
+
+      Size: 1.58 inches
+
+      Resolution: 336 x 336 pixels
+
+      Always-On Display: Supported
+
+      Touchscreen with haptic feedback
+
+      Processor and Operating System:
+
+      Chipset: Fitbit proprietary processor
+
+      Operating System: Fitbit OS
+
+      Companion App: Fitbit App for Android and iOS
+
+
+      Compatibility:
+
+      Android 10 or higher
+
+      iOS 13.3 or higher
+
+      Bluetooth 5.0 connectivity
+
+
+      Health and Fitness Features:
+
+      24/7 Heart Rate Monitoring
+
+      SpO2 (Blood Oxygen) Sensor
+
+      Built-in GPS and GLONASS
+
+      3-Axis Accelerometer
+
+      Gyroscope
+
+      Altimeter
+
+      Ambient Light Sensor
+
+      40+ Exercise Modes
+
+      Daily Readiness Score (requires Fitbit Premium)
+
+      Active Zone Minutes Tracking
+
+      Sleep Tracking with Sleep Score
+
+      Stress Management Score
+
+      Guided Breathing Sessions
+
+      Step Counting and Calorie Burn Tracking
+    variants:
+      - id: 1026
+        color: Pink
+        price: 299.95
+        image: images/fitbit01=pink.webp
+      - id: 1027
+        color: Black
+        price: 299.95
+        image: images/fitbit02-black.webp
+      - id: 1028
+        color: Blue
+        price: 299.95
+        image: images/fitbit01-gray.webp
+  - name: "Fitbit Charge 6 Fitness ,Tracker with Heart Rate  , New , Sealed "
+    category: Smart Watches
+    id: 364
+    description: >
+      The Fitbit Charge 6 is a premium fitness tracker designed for people who
+      want detailed health insights and accurate workout tracking without
+      wearing a full smartwatch. It features a sleek, modern design with a
+      1.04-inch touchscreen display, making it easy to read stats,
+      notifications, and workout data at a glance. The Charge 6 combines
+      Fitbit’s proven health tracking capabilities with advanced features like
+      built-in GPS and continuous heart rate monitoring, making it an excellent
+      choice for runners, walkers, and anyone focused on improving their
+      fitness.
+
+
+      One of the standout advantages of the Charge 6 is its built-in GPS, which allows you to track outdoor workouts accurately without needing to carry your phone. This is especially useful for running, cycling, or hiking, where pace, distance, and route data matter. The tracker also provides real-time heart rate monitoring, Active Zone Minutes, and workout intensity maps, giving you a clear picture of how hard you’re working during each session. With Fitbit’s Health Tools, users can access guided breathing, stress management, sleep tracking, and daily readiness scores to better understand their body’s needs.
+
+
+      Fitbit also offers a Premium membership, which enhances the Charge 6 experience with deeper insights, personalized guidance, and advanced analytics. Premium features often include detailed sleep scores, training plans, and personalized health metrics that help you set goals and stay motivated. The Charge 6 also supports smartphone notifications, music controls, and quick replies (on supported devices), so it functions like a compact, fitness-focused wearable for everyday life.
+
+
+      Available in stylish color combinations like Gold Case with Coral Band, Obsidian Black, and Porcelain Silver, the Charge 6 is designed to look good whether you’re in the gym or at work. Overall, the Fitbit Charge 6 delivers a powerful mix of health monitoring, workout tracking, and smart features in a slim, comfortable form factor—making it a strong choice for anyone serious about tracking their wellness and fitness progress.   Specifications
+
+
+      Product Overview
+
+      Product Name: Fitbit Charge 6
+
+      Category: Fitness Tracker
+
+      Intended Use: Fitness tracking, health monitoring, workout guidance
+
+      Color Options: Gold Case w/ Coral Band, Obsidian/Black, Porcelain/Silver
+
+
+      Display
+
+      Display Type: AMOLED touchscreen
+
+      Display Size: 1.04 inches (diagonal)
+
+      Resolution: 336 × 224 pixels
+
+      Always-On Display: Yes (optional)
+
+      Screen Protection: Corning Gorilla Glass 3
+
+
+      Battery & Charging
+
+      Battery Type: Rechargeable lithium-polymer
+
+      Battery Life: Up to 7 days (varies by usage)
+
+      Battery Life with GPS: Up to 5 hours (GPS active)
+
+      Charging Method: Proprietary magnetic charging cable
+
+      Charge Time: Approximately 1–2 hours for full charge
+
+
+      Sensors & Health Tracking
+
+      Heart Rate Monitor: 24/7 continuous heart rate tracking
+
+      GPS: Built-in GPS for accurate distance and pace tracking
+
+      SpO₂ (Blood Oxygen): Yes
+
+      Skin Temperature Sensor: Yes
+
+      ECG: Yes (availability varies by region)
+
+      EDA (Stress) Sensor: Yes
+
+      Accelerometer: Yes
+
+      Altimeter: Yes
+
+      Gyroscope: Yes
+
+      Vibration Motor: Yes
+
+      Microphone/Speaker: No
+
+
+      Health & Fitness Features
+
+      Activity Tracking: Steps, distance, calories burned
+
+      Workout Modes: Multiple exercise modes including running, cycling, swimming, strength training, yoga, etc.
+
+      Active Zone Minutes: Yes
+
+      Daily Readiness Score: Yes
+
+      Sleep Tracking: Sleep stages, Sleep Score, sleep insights
+
+      Stress Management: Guided breathing, stress tracking
+
+      Menstrual Health Tracking: Yes
+
+      Cardio Fitness Score: Yes
+
+      Guided Workouts: Yes (via Fitbit Premium)
+
+      Workout Intensity Map: Yes (with GPS data)
+
+      Automatic Exercise Recognition: Yes
+
+
+      Connectivity
+
+      Bluetooth: Bluetooth LE
+
+      Wi-Fi: Not supported
+
+      NFC Payments: Yes (Fitbit Pay supported in select regions)
+
+      Smartphone Compatibility: Android and iOS
+
+      App: Fitbit app required for full functionality
+
+
+      Smart Features
+
+      Smartphone Notifications: Calls, texts, app alerts
+
+      Quick Replies: Yes (Android only)
+
+      Music Controls: Yes
+
+      Voice Assistant: Not supported
+
+      Find My Phone: Yes
+
+      Weather: Yes
+
+      Timer/Alarm/Stopwatch: Yes
+
+
+      Build & Physical Specs
+
+      Water Resistance: Swimproof (up to 50 meters)
+
+      Case Material: Aluminum (case varies by color)
+
+      Band Material: Silicone
+
+      Dimensions: 36.7 × 22.7 × 11.4 mm
+
+      Weight: 29 grams (approx.)
+
+      Band Sizes: Small and Large included
+
+      Band Fit Range:
+
+      Small: 140–180 mm
+
+      Large: 180–220 mm
+
+
+      Storage & Memory
+
+      Storage: Internal storage for health and activity data
+
+      Data Sync: Stores up to 7 days of detailed motion data and 30 days of daily totals (syncs to app)
+
+      App Integration: Fitbit app provides long-term data storage and insights
+
+
+      Included in Box
+
+      Fitbit Charge 6 tracker
+
+      Two band sizes (Small and Large)
+
+      Magnetic charging cable
+
+      Quick start guide
+    variants:
+      - id: 1029
+        color: Red
+        price: 309.95
+        image: images/fitbit09-red.webp
+      - id: 1030
+        color: White
+        price: 309.95
+        image: images/fitbit07-white.webp
+      - id: 1031
+        color: Black
+        price: 309.95
+        image: images/fitbit08-black.webp
+  - name: "Fitbit Sense 2 Advanced  ,Health and Fitness Smartwatch  , New , Sealed "
+    id: 365
+    category: Smart Watches
+    description: >-
+      The Fitbit Sense 2 is a premium health and fitness smartwatch built for
+      people who want deep wellness insights alongside everyday smartwatch
+      convenience. Designed to help you better understand and manage stress,
+      sleep, heart health, and overall fitness, it offers a comprehensive set of
+      tools in a sleek, modern design. The Sense 2 includes advanced health
+      sensors and features such as an ECG app, SpO2 monitoring, 24/7 heart rate
+      tracking, and built-in GPS for accurate outdoor activity tracking. It also
+      provides guided breathing sessions, stress management tools, and detailed
+      sleep analysis, making it a strong choice for users who want both
+      performance tracking and wellbeing support.
+
+
+      These listings represent the same Fitbit Sense 2 model available in different colorways, including Blue Mist / Soft Gold Aluminum, Shadow Grey / Graphite Aluminum, and Lunar White / Platinum Aluminum. The core hardware and features remain identical across all three color options; the difference is purely aesthetic. Whether you prefer a soft, elegant tone or a bold, neutral finish, the Sense 2 offers a premium look that works well for both workouts and daily wear. The lightweight aluminum case and comfortable band make it suitable for all-day use, including sleep tracking.
+
+
+      One of the standout aspects of the Sense 2 is its focus on stress and sleep management. The watch uses a combination of heart rate variability (HRV), skin temperature trends, and guided breathing to help you identify and manage stress. The sleep tracking features provide a detailed breakdown of sleep stages, sleep score, and insights into factors that may be affecting your rest. For active users, the Sense 2 also supports multiple exercise modes, automatic activity recognition, and workout summaries that help you stay on track with fitness goals. Overall, the Fitbit Sense 2 blends advanced health monitoring with smartwatch convenience in a stylish package, suitable for both daily life and active lifestyles.    MODEL
+
+      Product Name: Fitbit Sense 2 Advanced Health & Fitness Smartwatch
+
+      Model Variants: Blue Mist / Soft Gold Aluminum, Shadow Grey / Graphite Aluminum, Lunar White / Platinum Aluminum
+
+      Model Number: FB520 (varies by region)
+
+
+      GENERAL
+
+      Device Type: Smartwatch
+
+      Target Use: Health monitoring, fitness tracking, stress management, sleep tracking
+
+      Case Material: Aluminum
+
+      Band Material: Silicone (interchangeable)
+
+      Weight: Approximately 34 g
+
+      Water Resistance: 5 ATM (up to 50 meters)
+
+      Operating Temperature: 0°C to 45°C (32°F to 113°F)
+
+      Compatibility: Android and iOS (via Fitbit app)
+
+
+      DISPLAY
+
+      Display Type: AMOLED touchscreen
+
+      Display Size: 1.0 inch (diagonal)
+
+      Resolution: 336 × 336 pixels
+
+      Touchscreen: Yes
+
+      Always-on Display: Yes (optional, user-controlled)
+
+
+      BATTERY & POWER
+
+      Battery Type: Rechargeable Lithium-Ion
+
+      Battery Life: Up to 6+ days (varies by usage)
+
+      Fast Charge: Yes (approx. 12 minutes for 1 day of battery)
+
+      Charging Method: Magnetic charging cable
+
+
+      CONNECTIVITY & COMPATIBILITY
+
+      Bluetooth: Yes (Bluetooth LE)
+
+      Wi-Fi: Yes
+
+      GPS: Built-in GPS + GLONASS
+
+      NFC: Yes (supports Fitbit Pay contactless payments)
+
+      USB: No (charging via proprietary cable)
+
+
+      SENSORS & HEALTH MONITORING
+
+      24/7 Heart Rate Monitoring (PurePulse 2.0)
+
+      ECG App (Electrocardiogram)
+
+      SpO2 Sensor (Blood Oxygen)
+
+      Skin Temperature Sensor
+
+      EDA Sensor (Electrodermal Activity for stress monitoring)
+
+      Skin Conductance Sensor
+
+      3-Axis Accelerometer
+
+      Gyroscope
+
+      Optical Heart Rate Sensor
+
+      Altimeter
+
+      Vibration Motor
+
+      Ambient Light Sensor
+    variants:
+      - id: 1032
+        color: White
+        price: 399.95
+        image: images/fitbit12-white.webp
+      - price: 399.95
+        color: " Gray"
+        id: 1033
+        image: images/fitbit11-gray.webp
+      - id: 1034
+        color: Blue
+        price: 399.95
+        image: images/fitbit10-lblue.webp
+  - id: 366
+    name: "Garmin Forerunner 55 , Health Tracking Watch  , New , Sealed "
+    category: Smart Watches
+    description: >
+      The Garmin Forerunner 55 is a GPS running watch designed for runners of
+      all levels who want simple, reliable training guidance without the
+      complexity of a full-featured smartwatch. Built around Garmin’s trusted
+      GPS tracking, it provides accurate distance, pace, and route data, making
+      it ideal for outdoor runs, interval training, and daily workouts. The
+      watch’s clean, easy-to-read display and lightweight design ensure it stays
+      comfortable during long runs and everyday wear, while its durable
+      construction supports active lifestyles.
+
+
+      One of the standout features of the Forerunner 55 is its Daily Suggested Workouts, which offers personalized run recommendations based on your training history, fitness level, and recovery status. This makes it easier to stay consistent and avoid overtraining, especially for beginners who may not have a structured plan. The watch also includes built-in running metrics such as cadence, heart rate, and training status, helping you track progress and improve performance over time. For those who enjoy variety, it supports multiple activity profiles including cycling, swimming, walking, and more.
+
+
+      Battery life is another major advantage of the Forerunner 55, with up to two weeks of battery life in smartwatch mode and long-lasting performance in GPS mode. This means you can go for extended training cycles or travel without frequent recharging. The watch also offers essential smartwatch features like smartphone notifications, safety and tracking tools, and basic wellness monitoring, including stress tracking and sleep insights. While it remains focused on running, its smart functionality ensures it fits seamlessly into daily life.
+
+
+      Available in several color options including Aqua, Black, and White, the Forerunner 55 offers a modern look that suits both training and casual wear. It is an excellent choice for runners seeking a straightforward, dependable GPS watch that supports consistent training with guided workouts and long battery life, without unnecessary complexity.  
+
+
+      Product Overview
+
+      Product Name: Garmin Forerunner 55
+
+      Category: GPS Running Watch
+
+      Intended Use: Running, fitness tracking, daily activity monitoring
+
+      Color Options: Aqua, Black, White
+
+
+      Display
+
+      Display Type: Sunlight-visible, transflective memory-in-pixel (MIP)
+
+      Display Size: 1.04 inches (diagonal)
+
+      Resolution: 208 × 208 pixels
+
+      Color Display: Yes
+
+      Backlight: Yes
+
+
+      Battery & Charging
+
+      Battery Type: Rechargeable lithium-ion
+
+      Battery Life (Smartwatch Mode): Up to 14 days (approx. 2 weeks)
+
+      Battery Life (GPS Mode): Up to 20 hours
+
+      Charging Method: Proprietary charging cable
+
+
+      Sensors & Tracking
+
+      GPS: Built-in GPS
+
+      Satellite Support: GPS + GLONASS + Galileo
+
+      Heart Rate Monitor: Wrist-based optical heart rate sensor
+
+      Accelerometer: Yes
+
+      VO2 Max Estimate: Yes
+
+      Training Status & Recovery: Yes
+
+      Sleep Tracking: Yes
+
+      Pace Alerts: Yes
+
+
+      Health & Fitness Features
+
+      Daily Suggested Workouts: Yes
+
+      Activity Profiles: Running, cycling, swimming, walking, cardio, HIIT, and more
+
+      Interval Training: Yes
+
+      Fitness Age: Yes
+
+      Stress Tracking: Yes
+
+      Sleep Score & Insights: Yes
+
+      Breathing Exercises: Yes
+
+      Safety & Tracking Features: Yes (when paired with phone)
+
+
+      Smart Features
+
+      Smartphone Notifications: Yes (calls, texts, app alerts)
+
+      Bluetooth Connectivity: Yes
+
+      Connect IQ Support: Yes (watch faces and apps)
+
+      Music Controls: Yes (controls phone music only)
+
+      Calendar & Weather: Yes (when paired with phone)
+
+
+      Build & Physical Specifications
+
+      Case Size: 42 × 42 × 11.6 mm
+
+      Weight: 37 grams
+
+      Lens Material: Chemically strengthened glass
+
+      Band Material: Silicone (quick-release 20 mm)
+
+      Water Resistance: 5 ATM (up to 50 meters)
+
+      Wrist Size Fit Range: Approximately 126–203 mm
+
+
+      Environmental
+
+      Operating Temperature: –20°C to 60°C
+
+      Water Resistance: 5 ATM (suitable for swimming and showering)
+
+
+      Included in the Box
+
+      Garmin Forerunner 55 Watch
+
+      Charging/data cable
+
+      Documentation / Quick Start Guide
+    variants:
+      - id: 1035
+        color: Aqua
+        price: 329.95
+        image: images/garmin05-aqua.webp
+      - id: 1036
+        color: Black
+        price: 329.95
+        image: images/garmin01-black.webp
+      - id: 1037
+        color: White
+        price: 329.95
+        image: images/garmin02-white.webp
+  - id: 367
+    name: "Garmin Instinct® E 45MM , Rugged Outdoor GPS Smartwatch  , New , Sealed "
+    category: Smart Watches
+    description: >
+      The Garmin Instinct E 45 mm Rugged Outdoor GPS Smartwatch is a tough,
+      adventure-ready wearable built for people who spend time outdoors, stay
+      active, or simply want reliable day-to-day health tracking. It sports a
+      rugged 45 mm fiber-reinforced polymer case with a chemically strengthened,
+      scratch-resistant display that’s engineered to meet military-grade
+      standards for thermal and shock resistance and is water-rated to 10 ATM
+      (up to 100 m), so it’s ready for hikes, swims, and everyday wear without
+      worry. You can choose it in a subtle charcoal finish or a high-visibility
+      electric lime color — both versions have identical performance and
+      features.
+
+
+      Designed to support your health and fitness journey around the clock, this smartwatch delivers comprehensive 24/7 monitoring. It tracks wrist-based heart rate every second, daily resting heart rate, respiration, advanced sleep and sleep score, Pulse Ox blood oxygen saturation (where available), stress and relaxation, body battery energy levels, and more — giving you well-rounded insights into how your body is functioning. Through the Garmin Connect app you can also view hydration and women’s health tracking, get suggested workouts, and access deeper wellness data.
+
+
+      The Instinct E includes built-in multi-GNSS (GPS, GLONASS, and Galileo) positioning for reliable route tracking and navigation even in challenging terrain. A 3-axis compass and barometric altimeter support outdoor navigation, while smart connectivity features let you receive smartphone notifications and access the Connect IQ Store to add watch faces and apps when paired with a compatible smartphone.
+
+
+      Battery life is a strong suit: you can expect up to 16 days of use in smartwatch mode on a single charge, and extended runtimes in various GPS modes or battery saver settings depending on how you use it. This makes it well suited to long weekends away, multiday trips, or simply fewer charges between daily use. Whether you’re exploring the outdoors or tracking everyday health and fitness, the Garmin Instinct E blends durability with practical functionality.    Specifications
+
+
+      MODEL
+
+      Product Name: Garmin Instinct E 45 mm GPS Smartwatch
+
+      Model Numbers / Variants: Charcoal/Black, Electric Lime (same specs; color variants)
+
+
+      GENERAL
+
+      Case Size: 45 × 45 × 14.2 mm
+
+      Fits Wrist Circumference: ~132 – 213 mm
+
+      Weight: ~48 g
+
+      Case Material: Fiber-reinforced polymer
+
+      Bezel Material: Fiber-reinforced polymer
+
+      Lens Material: Chemically Strengthened Glass
+
+      Strap Material: Silicone
+
+      QuickFit™ Band Compatible: Yes (22 mm)
+
+      Display Type: Monochrome, sunlight-visible, transflective memory-in-pixel (MIP)
+
+      Display Size: 0.9″ × 0.9″ (23 × 23 mm)
+
+      Display Resolution: 176 × 176 pixels
+
+
+      BATTERY & POWER
+
+      Battery Type: Rechargeable, built-in lithium-ion
+
+      Battery Life (Smartwatch Mode): Up to 16 days
+
+      Battery Saver Watch Mode: Up to 40 days
+
+      GPS Only: Up to 24 hours
+
+      All Satellite Systems: Up to 16 hours
+
+      Max Battery GPS Mode: Up to 50 hours
+
+      Expedition GPS Activity: Up to 20 days
+
+      Charging Method: Garmin proprietary plug charger
+
+
+      MEMORY & STORAGE
+
+      Internal Memory / History: 128 MB
+
+
+      WATER & ENVIRONMENTAL
+
+      Water Rating: 10 ATM (up to 100 m)
+
+      Operating Temperature: –20 °C to 60 °C (–4 °F to 140 °F)
+
+      USB Charging Temperature Range: 0 °C to 45 °C (32 °F to 113 °F)
+
+
+      CLOCK FEATURES
+
+      Time/Date: Yes
+
+      GPS Time Sync: Yes
+
+      Automatic Daylight Saving Time: Yes
+
+      Alarm Clock: Yes
+
+      Timer: Yes
+
+      Stopwatch: Yes
+
+      Sunrise/Sunset Times: Yes
+
+
+      SENSORS & HEALTH MONITORING
+
+      Wrist-Based Heart Rate Monitor (continuous, every second)
+
+      Daily Resting Heart Rate
+
+      Abnormal Heart Rate Alerts (high and low)
+
+      Respiration Rate (24×7)
+
+      Fitness Age Estimation
+
+      Pulse Ox (Blood Oxygen Saturation)
+
+      Body Battery™ Energy Monitor
+
+      All-Day Stress Monitoring
+
+      Relaxation Reminders & Breathwork
+
+      Advanced Sleep & Sleep Score
+
+      Nap Detection
+
+      Hydration Tracking (via Garmin Connect / optional Connect IQ)
+
+      Women’s Health Tracking (via Garmin Connect / optional Connect IQ)
+
+      Health Snapshot: Yes
+
+
+      NAVIGATION & GPS
+
+      Built-In GPS: Yes (Multi-GNSS: GPS, GLONASS, Galileo)
+
+      3-Axis Compass: Yes
+
+      Barometric Altimeter: Yes
+
+
+      ACTIVITY & SPORTS FEATURES
+
+      Activity Tracking: Walking, Running, Cycling, Hiking, Strength Training
+
+      Multi-Sport Tracking: Yes
+
+      Daily Suggested Workouts: Yes
+
+
+      CONNECTIVITY & SMART FEATURES
+
+      Bluetooth Connectivity (sync with smartphone)
+
+      Smart Notifications (calls, messages, app alerts)
+
+      Garmin Connect App Support
+
+      Connect IQ Compatibility (optional widgets, watch faces)
+
+
+      COMPATIBILITY
+
+      Compatible With: Android and iOS devices (via Garmin Connect)
+
+
+      SAFETY & TRACKING
+
+      Incident Detection & Assistance
+    variants:
+      - id: 1038
+        color: Lime
+        price: 459.95
+        image: images/garmin04-yerllow.webp
+      - price: 459.95
+        color: Charcoal
+        id: 1039
+        image: images/garmin02-black.webp
+  - name: "Garmin Instinct 3 , 45MM  Watch , Solar Charged Display  , New , Sealed "
+    category: Smart Watches
+    id: 368
+    description: >-
+      The Garmin Instinct 3 is a rugged outdoor GPS smartwatch built for
+      adventurers, athletes, and anyone who spends significant time off the
+      beaten path. Designed to withstand harsh conditions, it features a tough
+      construction with a metal-reinforced bezel and a robust fiber-reinforced
+      polymer case that meets military standards for shock and thermal
+      resistance, along with 10 ATM water resistance, making it suitable for
+      swimming, trail running, and water sports. Its durable build is
+      complemented by a reliable button-based interface that’s easy to operate
+      even in gloves or wet conditions.
+
+
+      One of the standout features of the Instinct 3 is its solar-charged display (on solar variants) that extends battery life far beyond typical smartwatches. With adequate daily sunlight exposure, the watch can achieve unlimited battery life in smartwatch mode, and provides exceptionally long runtimes for GPS tracking and other functions — a major advantage for multi-day hikes or expeditions where charging opportunities are limited. Whether you’re using it for navigation, fitness tracking, or constant health monitoring, you can rely on this smartwatch to keep up without frequent recharging.
+
+
+      Navigation and location tracking are core strengths of the Instinct 3. It uses multi-band GPS with SatIQ™ technology to provide accurate positioning and optimize battery life automatically, helping you stay on course during hikes, trail runs, or off-road cycling. Built-in sensors such as a 3-axis compass, barometric altimeter, and thermometer support outdoor orientation and environmental awareness, while health monitoring features like wrist-based heart rate tracking, advanced sleep analysis, stress tracking, and Pulse Ox keep you connected to your body’s performance and recovery metrics.
+
+
+      For added practicality in low-light conditions, the Instinct 3 includes a built-in LED flashlight with adjustable intensity and strobe modes — a useful tool for early morning runs, camp setup after sunset, or emergency signaling. It also delivers smart features such as smartphone notifications and support for contactless payments via Garmin Pay (with a compatible bank), blending everyday convenience with robust outdoor capability. With its rugged design, reliable performance, and feature set tailored for exploration and fitness, the Instinct 3 is an excellent companion for outdoor enthusiasts and adventurers alike.    Product Overview
+
+
+      Brand Name: Garmin
+
+
+      Model Name: Instinct 3
+
+
+      Category: Outdoor GPS Smartwatch
+
+
+      Target Use: Hiking, trail running, outdoor adventure, fitness tracking
+
+
+      Display
+
+
+      Display Type: Monochrome, sunlight-visible, transflective memory-in-pixel (MIP)
+
+
+      Display Size (45 mm): ~0.9” × 0.9” (23 × 23 mm)
+
+
+      Display Size (50 mm): ~1.1” × 1.1” (27 × 27 mm)
+
+
+      Resolution: 176 × 176 pixels
+
+
+      Touchscreen: No (button-based interface)
+
+
+      Build & Materials
+
+
+      Case Material: Fiber-reinforced polymer
+
+
+      Bezel Material: Metal-reinforced fiber-reinforced polymer/aluminum
+
+
+      Lens Material: Power Glass or chemically strengthened glass
+
+
+      Band Material: Silicone
+
+
+      QuickFit® Band Compatible: Yes (22 mm on 45 mm; 26 mm on 50 mm)
+
+
+      Water Resistance: 10 ATM (100 m) — suitable for swimming and water sports
+
+
+      MIL-STD-810 Durable: Yes (shock and thermal resistant)
+
+
+      Battery & Charging
+
+
+      Battery Type: Rechargeable lithium-ion
+
+
+      Solar Charging: Yes (solar models)
+
+
+      Battery Life (45 mm Smartwatch Mode): Up to ~28 days / unlimited with solar
+
+
+      Battery Life (50 mm Smartwatch Mode): Up to ~40 days / unlimited with solar
+
+
+      Battery Saver Mode: Up to ~65 days / unlimited with solar
+
+
+      GPS Only (45 mm): Up to ~40 hours / ~130 hours with solar
+
+
+      GPS Only (50 mm): Up to ~60 hours / ~260 hours with solar
+
+
+      All GNSS Modes: Variable extended life with solar optimization
+
+
+      Expedition GPS Mode: Up to ~36 days (45 mm) / ~60 days (50 mm) / unlimited with solar
+
+
+      Charging Method: Proprietary Garmin charging cable
+
+
+      Sensors & Tracking
+
+
+      GPS: Yes (built-in, multi-band GNSS with SatIQ technology)
+
+
+      Accelerometer: Yes
+
+
+      Barometric Altimeter: Yes
+
+
+      Compass: Yes (3-axis)
+
+
+      Thermometer: Yes
+
+
+      Pulse Ox Sensor (SpO₂): Yes
+
+
+      Heart Rate Monitor: Yes (optical, 24/7)
+
+
+      Training Readiness / Training Status: Yes
+
+
+      Sleep Tracking & Insights: Yes
+
+
+      Stress Tracking: Yes
+
+
+      Body Battery Energy: Yes
+
+
+      Daily Suggested Workouts: Yes
+
+
+      Outdoor & Navigation
+
+
+      Multi-Band GPS: Yes (enhanced accuracy in challenging environments)
+
+
+      SatIQ: Smart GPS frequency selection for battery optimization
+
+
+      Navigation Tools: GPS tracking, breadcrumb trails, track back
+
+
+      No Offline Maps: Maps not stored offline (compass & track guidance only)
+
+
+      Fitness & Sports Features
+
+
+      Activity Tracking: Steps, distance, calories, floors
+
+
+      Sports Modes: 100+ activity profiles
+
+
+      Run/Cycle/Swim Metrics: Yes
+
+
+      VO2 Max & Fitness Metrics: Yes
+
+
+      Training Load & Training Effect: Yes
+
+
+      Recovery Time Advisor: Yes
+
+
+      Interval & Auto Multisport: Yes
+
+
+      Smart Features
+
+
+      Smartphone Connectivity: Yes (Bluetooth)
+
+
+      Notifications: Yes (calls, texts, app alerts)
+
+
+      Music Controls: Yes
+
+
+      Garmin Pay: Yes (contactless payments supported)
+
+
+      LiveTrack & GroupTrack: Yes
+
+
+      Connect IQ: Custom watch faces and data fields supported
+
+
+      Built-In Flashlight
+
+
+      LED Flashlight: Yes
+
+
+      Modes: Multiple intensity levels and strobe options
+
+
+      White & Red Light: Red preserves night vision
+
+
+      Useful For: Night navigation, trail lighting, safety signaling
+
+
+      Environmental
+
+
+      Operating Temperature: –20 °C to 60 °C
+
+
+      USB Charging Temperature Range: 0 °C to 45 °C
+
+
+      Water Rating: 10 ATM (suitable for swimming and showers)
+
+
+      Physical Specifications
+
+
+      45 mm Case Dimensions: 45 × 45 × 14.9 mm
+
+
+      Fits Wrists: ~137 – 204 mm circumference
+
+
+      Weight: ~52 g (45 mm)
+
+
+      50 mm Case Dimensions: ~50 × 50 × 14.4 mm
+
+
+      Weight: ~58 g (50 mm)
+
+
+      Included in Box
+
+
+      Garmin Instinct 3 smartwatch (solar model)
+
+
+      Charging/data cable
+
+
+      Documentation / Quick Start Guide
+    variants:
+      - id: 1040
+        color: Black
+        price: 579.95
+        image: images/garmin06-black.webp
+  - name: "Garmin Instinct 3 , 50MM Watch , Solar Charged Display , New , Sealed "
+    id: 369
+    category: Smart Watches
+    description: "The Garmin Instinct 3 is a rugged outdoor GPS smartwatch built for
+      adventurers, athletes, and anyone who spends significant time off the
+      beaten path. Designed to withstand harsh conditions, it features a tough
+      construction with a metal-reinforced bezel and a robust fiber-reinforced
+      polymer case that meets military standards for shock and thermal
+      resistance, along with 10 ATM water resistance, making it suitable for
+      swimming, trail running, and water sports. Its durable build is
+      complemented by a reliable button-based interface that’s easy to operate
+      even in gloves or wet conditions. One of the standout features of the
+      Instinct 3 is its solar-charged display (on solar variants) that extends
+      battery life far beyond typical smartwatches. With adequate daily sunlight
+      exposure, the watch can achieve unlimited battery life in smartwatch mode,
+      and provides exceptionally long runtimes for GPS tracking and other
+      functions — a major advantage for multi-day hikes or expeditions where
+      charging opportunities are limited. Whether you’re using it for
+      navigation, fitness tracking, or constant health monitoring, you can rely
+      on this smartwatch to keep up without frequent recharging. Navigation and
+      location tracking are core strengths of the Instinct 3. It uses multi-band
+      GPS with SatIQ™ technology to provide accurate positioning and optimize
+      battery life automatically, helping you stay on course during hikes, trail
+      runs, or off-road cycling. Built-in sensors such as a 3-axis compass,
+      barometric altimeter, and thermometer support outdoor orientation and
+      environmental awareness, while health monitoring features like wrist-based
+      heart rate tracking, advanced sleep analysis, stress tracking, and Pulse
+      Ox keep you connected to your body’s performance and recovery metrics. For
+      added practicality in low-light conditions, the Instinct 3 includes a
+      built-in LED flashlight with adjustable intensity and strobe modes — a
+      useful tool for early morning runs, camp setup after sunset, or emergency
+      signaling. It also delivers smart features such as smartphone
+      notifications and support for contactless payments via Garmin Pay (with a
+      compatible bank), blending everyday convenience with robust outdoor
+      capability. With its rugged design, reliable performance, and feature set
+      tailored for exploration and fitness, the Instinct 3 is an excellent
+      companion for outdoor enthusiasts and adventurers alike. Product Overview
+      Brand Name: Garmin Model Name: Instinct 3 Category: Outdoor GPS Smartwatch
+      Target Use: Hiking, trail running, outdoor adventure, fitness tracking
+      Display Display Type: Monochrome, sunlight-visible, transflective
+      memory-in-pixel (MIP) Display Size (45 mm): ~0.9” × 0.9” (23 × 23 mm)
+      Display Size (50 mm): ~1.1” × 1.1” (27 × 27 mm) Resolution: 176 × 176
+      pixels Touchscreen: No (button-based interface) Build & Materials Case
+      Material: Fiber-reinforced polymer Bezel Material: Metal-reinforced
+      fiber-reinforced polymer/aluminum Lens Material: Power Glass or chemically
+      strengthened glass Band Material: Silicone QuickFit® Band Compatible: Yes
+      (22 mm on 45 mm; 26 mm on 50 mm) Water Resistance: 10 ATM (100 m) —
+      suitable for swimming and water sports MIL-STD-810 Durable: Yes (shock and
+      thermal resistant) Battery & Charging Battery Type: Rechargeable
+      lithium-ion Solar Charging: Yes (solar models) Battery Life (45 mm
+      Smartwatch Mode): Up to ~28 days / unlimited with solar Battery Life (50
+      mm Smartwatch Mode): Up to ~40 days / unlimited with solar Battery Saver
+      Mode: Up to ~65 days / unlimited with solar GPS Only (45 mm): Up to ~40
+      hours / ~130 hours with solar GPS Only (50 mm): Up to ~60 hours / ~260
+      hours with solar All GNSS Modes: Variable extended life with solar
+      optimization Expedition GPS Mode: Up to ~36 days (45 mm) / ~60 days (50
+      mm) / unlimited with solar Charging Method: Proprietary Garmin charging
+      cable Sensors & Tracking GPS: Yes (built-in, multi-band GNSS with SatIQ
+      technology) Accelerometer: Yes Barometric Altimeter: Yes Compass: Yes
+      (3-axis) Thermometer: Yes Pulse Ox Sensor (SpO₂): Yes Heart Rate Monitor:
+      Yes (optical, 24/7) Training Readiness / Training Status: Yes Sleep
+      Tracking & Insights: Yes Stress Tracking: Yes Body Battery Energy: Yes
+      Daily Suggested Workouts: Yes Outdoor & Navigation Multi-Band GPS: Yes
+      (enhanced accuracy in challenging environments) SatIQ: Smart GPS frequency
+      selection for battery optimization Navigation Tools: GPS tracking,
+      breadcrumb trails, track back No Offline Maps: Maps not stored offline
+      (compass & track guidance only) Fitness & Sports Features Activity
+      Tracking: Steps, distance, calories, floors Sports Modes: 100+ activity
+      profiles Run/Cycle/Swim Metrics: Yes VO2 Max & Fitness Metrics: Yes
+      Training Load & Training Effect: Yes Recovery Time Advisor: Yes Interval &
+      Auto Multisport: Yes Smart Features Smartphone Connectivity: Yes
+      (Bluetooth) Notifications: Yes (calls, texts, app alerts) Music Controls:
+      Yes Garmin Pay: Yes (contactless payments supported) LiveTrack &
+      GroupTrack: Yes Connect IQ: Custom watch faces and data fields supported
+      Built-In Flashlight LED Flashlight: Yes Modes: Multiple intensity levels
+      and strobe options White & Red Light: Red preserves night vision Useful
+      For: Night navigation, trail lighting, safety signaling Environmental
+      Operating Temperature: –20 °C to 60 °C USB Charging Temperature Range: 0
+      °C to 45 °C Water Rating: 10 ATM (suitable for swimming and showers)
+      Physical Specifications 45 mm Case Dimensions: 45 × 45 × 14.9 mm Fits
+      Wrists: ~137 – 204 mm circumference Weight: ~52 g (45 mm) 50 mm Case
+      Dimensions: ~50 × 50 × 14.4 mm Weight: ~58 g (50 mm) Included in Box
+      Garmin Instinct 3 smartwatch (solar model) Charging/data cable
+      Documentation / Quick Start Guide "
+    variants:
+      - id: 1041
+        color: Black
+        price: 639.95
+        image: images/garmin06-black.webp
+  - id: 370
+    name: "Garmin Forerunner® 165 Running Smartwatch ,  New , Sealed "
+    category: Smart Watches
+    description: >-
+      The Garmin Forerunner 165 is a lightweight, user-friendly running
+      smartwatch designed to support runners of all levels with advanced
+      training tools and smart health insights. At its core is a bright,
+      colorful AMOLED touchscreen display that makes stats easy to read at a
+      glance, whether you’re checking pace mid-run or reviewing your daily
+      progress. Its 43 mm size strikes a balance between a large, readable
+      screen and comfortable all-day wear, while traditional button controls
+      complement the touchscreen for reliable navigation during workouts.
+
+
+      Built-in GPS enables accurate tracking of pace, distance, and route without needing to bring your phone, and the Forerunner 165 goes beyond basic metrics with comprehensive training features. Personalized daily suggested workouts adapt based on your performance and recovery status, helping you train smarter over time. The watch also offers adaptive plans for race training and a “morning report” that summarizes your sleep, recovery, and readiness for the day, giving you actionable insights to guide your training schedule.
+
+
+      Health tracking on the Forerunner 165 is robust, with continuous wrist-based heart rate monitoring, pulse oximetry (blood oxygen), stress and sleep analysis, and Body Battery™ energy monitoring to help you understand your body’s condition throughout the day and night. These features make it easy to see how your workouts, rest, and everyday activities affect your overall health and recovery.
+
+
+      Despite all these capabilities, the Forerunner 165 maintains excellent battery life, lasting up to about 11 days in smartwatch mode and up to around 19 hours in GPS mode on a single charge, which keeps you going through long training cycles without frequent recharging. The watch also supports smart features like smartphone notifications and compatibility with the Garmin Connect™ app so you can sync data, customize metrics, and plan workouts easily.    Product Overview
+
+      Brand Name: Garmin
+
+      Model Name: Forerunner 165
+
+      Category: GPS Running Smartwatch
+
+      Target Use: Running, fitness tracking, health monitoring, everyday smartwatch use
+
+      Color Options: Black, Whitestone
+
+
+      Display
+
+      Display Type: AMOLED color touchscreen
+
+      Display Size: 1.2 inches (30.4 mm diagonal)
+
+      Resolution: 390 × 390 pixels
+
+      Touchscreen: Yes
+
+      Always-On Display: Optional
+
+      Screen Protection: Chemically strengthened glass
+
+      Large Font Option: Yes
+
+
+      Physical & Build
+
+      Case Material: Fiber-reinforced polymer
+
+      Bezel Material: Fiber-reinforced polymer
+
+      Lens Material: Chemically strengthened glass
+
+      Strap Material: Silicone
+
+      Quick-Release Bands: Yes (20 mm)
+
+      Dimensions: 43 × 43 × 11.6 mm
+
+      Weight: ~39 g
+
+      Water Resistance: 5 ATM (swim-rated)
+
+
+      Battery & Charging
+
+      Battery Type: Rechargeable lithium-ion
+
+      Battery Life (Smartwatch Mode): Up to 11 days
+
+      Battery Saver Smartwatch Mode: Up to 20 days
+
+      GPS-Only Mode: Up to 19 hours
+
+      All-Systems GNSS Mode: Up to 17 hours
+
+      Charging Method: Proprietary Garmin charging cable
+
+      Memory/History: 4 GB storage
+
+
+      Sensors & Tracking
+
+      GPS: Built-in GPS with multi-satellite support
+
+      Heart Rate Monitor: Wrist-based continuous heart rate
+
+      Pulse Ox (Blood Oxygen Saturation): Yes
+
+      Respiration Rate (24/7): Yes
+
+      Resting Heart Rate: Yes
+
+      Body Battery Energy Monitoring: Yes
+
+      Fitness Age: Yes
+
+      Sleep Tracking: Yes
+
+      Daily Suggested Workouts: Yes
+
+      Training Metrics & Recovery Insights: Yes
+
+      Stress Tracking: Yes
+
+      Altimeter: Yes
+
+      Barometer: Yes
+
+      Compass: Yes
+
+      Accelerometer: Yes
+
+
+      Fitness & Sports Features
+
+      Running Metrics: Distance, pace, speed, cadence
+
+      Training Status & Training Effect: Yes
+
+      Daily Suggested Workouts: Yes
+
+      Exercise Profiles: Running, cycling, swimming, strength, cardio, yoga, HIIT, treadmill, hiking, and more
+
+      Adaptive Training Plans: Yes
+
+      Race Training: Yes
+
+      LiveTrack: Yes
+
+      VO2 Max Estimation: Yes
+
+
+      Smart Features
+
+      Smartphone Notifications: Yes (calls, texts, app alerts)
+
+      Music Controls: Yes
+
+      Garmin Pay (NFC): Yes (contactless payments)
+
+      Compatibility: Android and iOS
+
+      Bluetooth Connectivity: Yes
+
+      ANT+ Support: Yes
+
+
+      Watch & Clock Functions
+
+      Time/Date: Yes
+
+      GPS Time Sync: Yes
+
+      Automatic Daylight Saving Time: Yes
+
+      Alarm Clock: Yes
+
+      Timer: Yes
+
+      Stopwatch: Yes
+
+      Sunrise/Sunset Times: Yes
+
+
+      Environmental
+
+      Operating Temperature Range: -20°C to 60°C
+
+      Charging Temperature Range: 0°C to 45°C
+
+      Water Rating: 5 ATM (suitable for swimming and showers)
+
+
+      Included in Box
+
+      Garmin Forerunner 165 smartwatch
+
+      Charging/data cable
+
+      Quick start guide / documentation
+    variants:
+      - id: 1042
+        color: White
+        price: 329.95
+        image: images/garmin08=white.webp
+      - id: 1043
+        color: Black
+        price: 329.95
+        image: images/garmin07-black.webp
+  - description: >-
+      The PlayStation 5 Pro
+
+      is a high-performance, all-digital console that does not include a built-in disc drive. Launched on November 7, 2024, it features significant hardware upgrades designed for higher frame rates and enhanced visuals on 4K displays. 
+
+      As of April 2026, the standard retail price for the PS5 Pro
+
+      is $909.99. While it is sold as a digital-only system, it is compatible with the detachable Ultra HD Blu-ray Disc Drive (sold separately for approximately $80) if you wish to use physical media. 
+
+      Key Specifications & Features
+
+          Storage: Equipped with a 2TB SSD, providing double the capacity of the standard PS5 Slim.
+          Upgraded GPU: Features 67% more Compute Units and 28% faster memory, enabling up to 45% faster rendering for smoother gameplay.
+          PlayStation Spectral Super Resolution (PSSR): A new AI-driven upscaling technology that provides ultra-sharp image clarity by adding extraordinary detail through machine learning.
+          Advanced Ray Tracing: Delivers more dynamic light reflection and refraction, performing at double or triple the speed of the original PS5.
+          Connectivity: Includes support for Wi-Fi 7, offering lower latency and improved stability for online gaming.
+          Game Boost: Enhances performance for over 8,500 backward-compatible PS4 and PS5 titles, stabilizing and increasing frame rates. 
+    category: Games & Gaming Accessories
+    id: 371
+    name: Sony PlayStation 5  Digital Pro Console , 2TB , New , Sealed
+    variants:
+      - id: 1044
+        color: White
+        price: 909.95
+        image: images/ps5pr0-white.webp
+  - name: Sony PlayStation 5 Slim , Digital Edition , 1TB  ,  New , Sealed
+    category: Games & Gaming Accessories
+    description: >+
+      The PlayStation 5 Slim Digital Console
+
+      (CFI-2000 model group) features an 8-core custom AMD Zen 2 CPU and an AMD RDNA 2 GPU capable of 10.3 Teraflops. Unlike the original digital model, the Slim includes a modular design that allows for an optional attachable disc drive later. 
+
+      Technical Specifications
+
+      Feature 	Details
+
+      CPU	8-core AMD Zen 2, up to 3.5 GHz (variable frequency)
+
+      GPU	Custom AMD RDNA 2; 10.3 TFLOPS; Ray Tracing Acceleration
+
+      Memory	16 GB GDDR6 (448 GB/s bandwidth)
+
+      Internal Storage	1 TB Custom SSD (approx. 842 GB usable space)
+
+      SSD Throughput	5.5 GB/s (Raw); 8–9 GB/s (Compressed)
+
+      Video Output	4K 120Hz; 8K support; VRR (HDMI 2.1)
+
+      Audio	"Tempest" 3D AudioTech
+
+      Front Ports	2x USB-C (1x Super-Speed 10Gbps, 1x Hi-Speed)
+
+      Rear Ports	2x USB-A (Super-Speed 10Gbps); 1x HDMI 2.1; 1x Ethernet
+
+      Networking	Wi-Fi 6 (802.11ax); Bluetooth 5.1; Gigabit Ethernet
+
+      Note: Some regions or retailers may still stock units with 825 GB storage due to rolling stock changes. 
+
+      Physical Dimensions & Weight
+
+      The Slim Digital Edition
+
+      is significantly smaller and lighter than the original launch model. 
+
+          Dimensions: Approximately 358 × 80 × 216 mm (14.1 x 3.1 x 8.5 in).
+          Weight: Approximately 2.6 kg (5.7 lbs). 
+
+      Included in the Box
+
+          PS5 Slim Digital Console
+          DualSense Wireless Controller
+          1 TB SSD (Internal)
+          2 Horizontal Stand Feet
+          HDMI 2.1 Cable, AC Power Cord, and USB Cable
+          Pre-installed Game: Astro's Playroom 
+
+    variants:
+      - price: 609.95
+        color: White
+        id: 1045
+        image: images/ps5slim-white.jpg
+    id: 372
+  - name: Sony PlayStation 5 Disc Edition , 1TB  , New , Sealed
+    id: 373
+    category: Games & Gaming Accessories
+    description: >+
+      The Sony PlayStation 5 (Slim) Disc Edition
+
+      (model series CFI-2000) features the same core processing power as the original 2020 model but in a 30% smaller chassis with increased internal storage. 
+
+      Core Performance
+
+          Processor: Custom 8-core AMD Zen 2 CPU at up to 3.5GHz.
+          Graphics: AMD RDNA 2-based GPU with 10.3 Teraflops of power, supporting hardware-accelerated Ray Tracing.
+          Memory: 16GB GDDR6 RAM with a 448GB/s bandwidth.
+          Output: Supports 4K resolution at 120Hz and 8K output for compatible displays. 
+
+      Storage & Media
+
+          Internal SSD: 1TB custom NVMe SSD (upgraded from the original 825GB), providing roughly 848GB of usable space.
+          Expandable Storage: Includes a dedicated internal slot for user-installed M.2 NVMe SSDs (Gen4 recommended).
+          Optical Drive: Integrated 4K UHD Blu-ray drive, which is now modular and detachable. 
+
+      Design & Connectivity
+
+          Dimensions: Approximately 14.1" x 3.8" x 8.5" (358mm x 96mm x 216mm).
+          Weight: Approximately 7.1 lbs (3.2 kg), which is 18% lighter than previous disc models.
+          Front Ports: 2x USB-C ports (one SuperSpeed 10Gbps, one Hi-Speed).
+          Rear Ports: 2x USB-A (SuperSpeed 10Gbps), HDMI 2.1, and Gigabit Ethernet.
+          Wireless: Wi-Fi 6 (802.11ax) and Bluetooth 5.1. 
+
+    variants:
+      - id: 1046
+        color: White
+        price: 649.95
+        image: images/ps5fivedics-white.webp
+  - description: >-
+      The official wireless controller for the PlayStation 5 is the DualSense
+
+      , which introduced immersive features like haptic feedback and adaptive triggers. For competitive players, Sony also offers the DualSense Edge
+
+      , a high-performance version with deep customization options. 
+    name: DualSense Wireless Controller PlayStation , New , Sealed
+    category: Games & Gaming Accessories
+    id: 374
+    variants:
+      - id: 1047
+        color: Blue
+        price: 99.95
+        image: images/ps5-blue.webp
+      - price: 99.95
+        color: Black
+        id: 1048
+        image: images/ps5cont-black.webp
+      - id: 1049
+        color: Purple
+        price: 99.95
+        image: images/ps5cont-purple.webp
+  - id: 375
+    name: Meta Quest 3, 512GB , New , Sealed
+    category: Games & Gaming Accessories
+    description: >+
+      The Meta Quest 3
+
+      is powered by the Snapdragon XR2 Gen 2
+
+      chipset, which provides double the GPU processing power of the Quest 2. As of May 2026, the 512GB model is the primary configuration available 
+
+      Core Technical Specifications
+
+      According to official details from Meta, the headset's hardware is designed for high-fidelity standalone VR and mixed reality: 
+
+          Display & Optics:
+              Resolution: 2064 x 2208 pixels per eye (4K+ Infinite Display).
+              Lenses: Pancake lenses for increased center sharpness and a 40% slimmer profile compared to the Quest 2
+              .
+              Refresh Rate: 72Hz, 90Hz, and 120Hz.
+              Field of View: 110° horizontal and 96° vertical.
+              IPD Range: 53mm–75mm with a continuous mechanical adjustment wheel.
+          Performance & Storage:
+              Processor: Qualcomm Snapdragon XR2 Gen 2.
+              RAM: 8GB LPDDR5.
+              Storage: Currently sold primarily in 512GB.
+          Sensors & Mixed Reality:
+              Passthrough: Two 4MP RGB color cameras (18 PPD resolution) and a dedicated depth sensor for accurate room mapping.
+              Tracking: 6DoF inside-out tracking via 4 integrated IR cameras; supports direct hand tracking.
+          Audio & Connectivity:
+              Audio: Integrated stereo speakers with 3D spatial audio and a 3.5mm audio jack.
+              Wireless: Wi-Fi 6E and Bluetooth 5.2 support.
+          Physical Design:
+              Weight: 515 grams.
+              Battery Life: Approximately 2.2 hours on average (up to 2.9 hours for media or 2.4 hours for gaming).
+              Charge Time: Roughly 2.3 hours using the included 18W power adapter. 
+
+    variants:
+      - id: 1050
+        color: White
+        price: 609.95
+        image: images/meta3-white.webp
+  - name: "S23 Ultra Chromotron Magsafe Case , New , Sealed "
+    id: 376
+    category: Smart Phones & Tablets Accessories
+    description: >-
+      Keep your phone protected and looking its best with the Stylish Phone
+      Case. This versatile case offers a perfect blend of functionality and
+      fashion, ensuring your phone stays safe while expressing your unique
+      style.
+
+
+      Key Features:
+
+
+      1. Universal Compatibility: Enjoy a perfect fit with a wide range of phone models. Simply select your phone size during purchase to ensure the case seamlessly integrates with your device.
+
+
+      2. Multiple Stylish Options: Express yourself with a variety of colors and designs to choose from (depending on availability). Find the perfect case that complements your personal style and adds a touch of flair to your everyday tech essential.
+
+
+      3. Wireless Charging Ready: Keep your phone powered up effortlessly. The case is specifically designed to be compatible with wireless chargers, allowing you to ditch the cables and charge your phone seamlessly.
+
+
+      4. Slim and Protective: Enjoy a comfortable and secure grip without adding unnecessary bulk. The slim design protects your phone from scratches, bumps, and minor drops without compromising on portability.  
+
+
+      5. Precise Cutouts: Maintain full functionality with strategically placed cutouts for easy access to all your phone's ports, buttons, and camera. Experience unhindered use of your device while keeping it protected and stylish.
+
+
+      The Stylish Phone Case for All Models with Wireless Charging is the perfect all-in-one solution for your phone. Its universal compatibility, variety of colors and designs, wireless charging support, slim and protective design, and precise cutouts make it a valuable and fashionable addition to any phone owner's collection.
+    variants:
+      - id: 1051
+        color: Blue
+        price: 19.95
+        image: images/gal23-blue.jpg
+      - id: 1052
+        color: Purple
+        price: 19.95
+        image: images/gal23-purple.jpg
+      - id: 1053
+        color: Black
+        price: 19.95
+        image: images/gal23- black.jpg
+      - id: 1054
+        color: Green
+        price: 19.95
+        image: images/gal23-green.jpg
+  - name: "35W PD Combo with USB C Wall Charger and Type-C to Type-C Cable , New ,
+      Sealed "
+    description: >-
+      Charge smarter and faster with the MW854 35W PD Combo Set, which includes
+      a dual-port USB + USB-C Power Delivery Wall Charger and a durable Type-C
+      to Type-C cable. This combo is designed to handle multiple devices at
+      once, delivering high-speed charging for smartphones, tablets, and laptops
+      with advanced safety features. Compact and efficient, it’s perfect for
+      travel, office, or home use.
+
+
+      Key Features:
+
+
+      35W Dual-Port Fast Charging – Equipped with both USB-C PD and USB-A ports to power two devices simultaneously.
+
+
+      Type-C to Type-C Cable Included – Ensures stable and fast charging with high-quality build.
+
+
+      Universal Compatibility – Works with iPhone (with USB-C to Lightning), Samsung Galaxy, iPad, MacBook Air, tablets, and more.
+
+
+      Safe & Reliable – Built-in protection against overheating, overcharging, and short circuits.
+
+
+      Compact Design – Lightweight and travel-friendly, easy to carry anywhere.
+
+
+      Versatile Charging – Ideal for phones, tablets, power banks, earbuds, and laptops with PD support.
+    category: Charger
+    id: 377
+    variants:
+      - id: 1055
+        color: White
+        price: 19.95
+        image: images/charger01.png
+  - id: 378
+    name: Apple Watch Charger USB C With Charger Series , New , Sealed
+    category: Charger
+    description: >-2
+       Apple Watch Charger USB C With Charger Series 7/6/SE/6/5/4/3/2/1 , Keep your Apple Watch powered anytime, anywhere with this premium MFi-certified magnetic USB-C charger and wall adapter combo. Designed for all Apple Watch models, it delivers safe, stable, and fast charging with intelligent temperature control and a durable braided cable. Perfect for travel or daily use at home and the office.
+
+      Features:
+
+
+      MFi Certified: Officially tested for full compatibility and safe performance.
+
+
+      Fast Charging: Quickly restores battery power for your Apple Watch.
+
+
+      Smart Protection: Built-in safeguards against over-current, over-voltage, and overheating.
+
+
+      USB-C Connection: Ensures faster and more efficient charging.
+
+
+      Premium Design: Compact, lightweight, and made with durable materials.
+
+
+      Universal Compatibility: Works with Apple Watch Series 7, 6, SE, 5, 4, 3, 2, and 1.
+    variants:
+      - id: 1056
+        color: White
+        price: 19.95
+        image: images/charger02.jpg
+  - id: 379
+    variants:
+      - image: images/charger03.jpg
+        id: 1057
+        color: White
+        price: 29.95
+    name: Omitta Dual Port 30W , Fast Charging Combo Wall Charger with USB-C Cable ,
+      New , Sealed
+    category: Charger
+    description: >+
+      Omitta Dual Port 30W Fast Charging Combo, Wall Charger with USB-C Cable
+
+
+      Product Description:
+
+
+      Power your devices quickly with the Omitta 30W Fast Charging Combo. This set includes a dual-port wall charger and USB-C cable for convenient everyday charging. Featuring USB-C Power Delivery and USB-A Quick Charge 3.0, it allows fast and efficient charging for two devices at once.
+
+
+      With smart protection and a compact design, it ensures safe, stable power for smartphones, tablets, earbuds, and more. Perfect for home, office, or travel use.
+
+
+      Features:
+
+
+      30W Fast Charging Power : High-speed charging output for smartphones, tablets, and compatible USB devices.
+
+
+      Complete Charging Combo : Includes dual-port wall charger with USB-C cable for convenient ready-to-use charging.
+
+
+      Dual Port Charging : 1× USB-C PD port and 1× USB-A QC3.0 port to charge two devices simultaneously.
+
+
+      Power Delivery & QC3.0 Support : Ensures faster and more efficient charging for supported devices.
+
+
+      Type-C to USB-C Cable Included : Durable cable provides stable power and fast charging performance.
+
+
+      Smart Protection System : Built-in protection against overcharging, overheating, and short circuits.
+
+  - id: 380
+    name: Meta Quest 3S , 256GB  , New , Sealed
+    category: Games & Gaming Accessories
+    description: >+
+      The Meta Quest 3S
+
+      is the budget-friendly alternative to the Quest 3, featuring the same powerful Snapdragon XR2 Gen 2 chipset but using older Fresnel lenses to lower the cost. As of May 2026, the Quest 3S
+
+      is priced at $349.99 for the 128GB model and $449.99 for the 256GB model at retailers like Meta, Best Buy, and Walmart. 
+
+      Core Technical Specifications
+
+      The Quest 3S
+
+      matches the Quest 3's
+
+      performance and mixed reality capabilities but utilizes the display and lens stack from the Quest 2
+
+      : 
+
+          Performance & Power:
+              Processor: Qualcomm Snapdragon XR2 Gen 2, providing double the GPU power of the Quest 2
+              .
+              Memory: 8GB RAM (33% more than the Quest 2
+              ).
+              Storage: Available in 128GB and 256GB configurations.
+          Display & Optics:
+              Resolution: 1832 x 1920 pixels per eye.
+              Lenses: Fresnel lenses with a 3-position inter-axial distance (IAD) adjustment (58mm, 63mm, and 68mm).
+              Refresh Rate: Supports 72Hz, 90Hz, and 120Hz.
+              Field of View: 96° horizontal and 90° vertical.
+          Mixed Reality & Tracking:
+              Passthrough: Dual 4MP RGB color cameras (18 PPD resolution) for high-fidelity full-color views of your surroundings.
+              Sensors: 4 IR cameras for head and hand tracking, plus 2 flood LEDs for improved low-light hand tracking.
+              Depth Sensing: Uses software-based depth estimation rather than the physical depth sensor found on the Quest 3.
+          Audio & Design:
+              Audio: Integrated stereo speakers with spatial audio. Note that the Quest 3S
+              lacks a 3.5mm headphone jack, requiring USB-C or Bluetooth headphones.
+              Weight: 514 grams.
+              Battery: 4,324 mAh battery, lasting approximately 2.5 hours on average—slightly longer than the Quest 3
+              due to its lower-resolution display. 
+
+      What's in the Box?
+
+      Standard retail packages for the Quest 3S
+
+      typically include: 
+
+          Meta Quest 3S Headset
+          Two Touch Plus Controllers with wrist straps and AA batteries
+          Standard Facial Interface (pre-installed)
+          Glasses Spacer for use with prescription eyewear
+          18W Power Adapter and 1-meter USB-C charging cable 
+
+    variants:
+      - id: 1058
+        color: White
+        price: 459.95
+        image: images/meta3s-white.webp
+  - name: Meta Quest 3S ,128GB , New , Sealed
+    id: 381
+    description: "The Meta Quest 3S is the budget-friendly alternative to the Quest
+      3, featuring the same powerful Snapdragon XR2 Gen 2 chipset but using
+      older Fresnel lenses to lower the cost. As of May 2026, the Quest 3S is
+      priced at $349.99 for the 128GB model and $449.99 for the 256GB model at
+      retailers like Meta, Best Buy, and Walmart. Core Technical Specifications
+      The Quest 3S matches the Quest 3's performance and mixed reality
+      capabilities but utilizes the display and lens stack from the Quest 2 :
+      Performance & Power: Processor: Qualcomm Snapdragon XR2 Gen 2, providing
+      double the GPU power of the Quest 2 . Memory: 8GB RAM (33% more than the
+      Quest 2 ). Storage: Available in 128GB and 256GB configurations. Display &
+      Optics: Resolution: 1832 x 1920 pixels per eye. Lenses: Fresnel lenses
+      with a 3-position inter-axial distance (IAD) adjustment (58mm, 63mm, and
+      68mm). Refresh Rate: Supports 72Hz, 90Hz, and 120Hz. Field of View: 96°
+      horizontal and 90° vertical. Mixed Reality & Tracking: Passthrough: Dual
+      4MP RGB color cameras (18 PPD resolution) for high-fidelity full-color
+      views of your surroundings. Sensors: 4 IR cameras for head and hand
+      tracking, plus 2 flood LEDs for improved low-light hand tracking. Depth
+      Sensing: Uses software-based depth estimation rather than the physical
+      depth sensor found on the Quest 3. Audio & Design: Audio: Integrated
+      stereo speakers with spatial audio. Note that the Quest 3S lacks a 3.5mm
+      headphone jack, requiring USB-C or Bluetooth headphones. Weight: 514
+      grams. Battery: 4,324 mAh battery, lasting approximately 2.5 hours on
+      average—slightly longer than the Quest 3 due to its lower-resolution
+      display. What's in the Box? Standard retail packages for the Quest 3S
+      typically include: Meta Quest 3S Headset Two Touch Plus Controllers with
+      wrist straps and AA batteries Standard Facial Interface (pre-installed)
+      Glasses Spacer for use with prescription eyewear 18W Power Adapter and
+      1-meter USB-C charging cable "
+    category: Games & Gaming Accessories
+    variants:
+      - id: 1059
+        color: White
+        price: 399.95
+        image: images/meta3s-white.webp
+  - name: Meta Quest Pro  , 256GB   , New , Sealed
+    id: 382
+    category: Games & Gaming Accessories
+    description: >-
+      The Meta Quest Pro (256GB) is Meta's high-end headset designed for
+      collaboration and professional work. While the Quest 3 has a more powerful
+      processor, the Pro remains unique for its advanced social features like
+      Face and Eye Tracking.
+
+      Core Technical Specifications
+
+      The Pro model uses premium hardware designed for comfort and multitasking:
+
+          Performance & Power:
+              Processor: Qualcomm Snapdragon XR2+ Gen 1 (optimized for better thermal management than the standard XR2).
+              RAM: 12,000MB (12GB) LPDDR5, allowing for better multitasking and complex apps.
+              Storage: 256GB internal storage.
+          Display & Optics:
+              Resolution: 1800 x 1920 pixels per eye.
+              Lenses: Pancake lenses that offer 75% more contrast and a much larger "sweet spot" than traditional lenses.
+              Field of View: 106° horizontal and 96° vertical.
+              Local Dimming: Uses over 500 individual LED backlights to provide deeper blacks and richer colors.
+          Advanced Tracking Features:
+              Eye Tracking: Enables foveated rendering (focusing detail where you look) and natural eye contact in social apps.
+              Face Tracking: Mimics your actual facial expressions on your avatar in real-time.
+              Controllers: Quest Pro controllers feature independent tracking (using their own cameras) so they never lose position, even when behind your back.
+          Mixed Reality & Connectivity:
+              Passthrough: High-resolution, full-color mixed reality using specialized outward-facing cameras.
+              Audio: Integrated spatial audio and dual 3.5mm audio jacks (one on each side).
+              Wireless: Wi-Fi 6E and Bluetooth 5.2.
+          Physical Design:
+              Weight: 722 grams (balanced by a rear-mounted battery for better ergonomics).
+              Battery Life: Approximately 1.5 to 2 hours (typically used with the included charging dock).
+
+      What's in the Box?
+
+          Meta Quest Pro Headset
+          Two Meta Quest Pro Controllers
+          Charging Dock (charges both headset and controllers)
+          Two Stylus Tips (for drawing in VR)
+          Partial Light Blockers (to allow peripheral vision for mixed reality)
+    variants:
+      - color: Black
+        id: 1060
+        price: 889.95
+        image: images/meta-black.jpg
+  - id: 383
+    name: Microsoft Xbox Series S , All Digital  , 512GB   , New , Sealed
+    category: Games & Gaming Accessories
+    description: >+
+      The Microsoft Xbox Series S is an all-digital console designed for
+      high-speed performance in the smallest Xbox form factor yet. It is
+      available in two main configurations: the original Robot White (512GB) and
+      the newer Carbon Black (1TB). 
+
+      Core Technical Specifications
+
+      Feature 	Details
+
+      CPU	8X Cores @ 3.6 GHz (3.4 GHz w/SMT) Custom Zen 2 CPU
+
+      GPU	4 TFLOPS, 20 CUs @ 1.565 GHz Custom RDNA 2 GPU
+
+      Memory	10GB GDDR6 (8GB @ 224 GB/s, 2GB @ 56 GB/s)
+
+      Internal Storage	512GB or 1TB Custom NVMe SSD
+
+      I/O Throughput	2.4 GB/s (Raw), 4.8 GB/s (Compressed)
+
+      Performance Target	1440p @ 60 FPS (up to 120 FPS supported)
+
+      Video & Audio Features
+
+          Resolution: Native 1440p gaming with 4K upscaling for games; 4K native streaming for apps like Netflix and Disney+.
+          HDMI Features: Includes HDMI 2.1 for Auto Low Latency Mode (ALLM) and Variable Refresh Rate (VRR).
+          Spatial Sound: Supports Dolby Atmos, DTS 5.1, and Windows Sonic.
+          Gaming Tech: Supports Hardware-accelerated DirectX Raytracing for realistic lighting and shadows. 
+
+      Design & Connectivity
+
+          Dimensions: 10.8" x 5.9" x 2.5" (very portable).
+          Disc Drive: None. This console does not play physical discs; all games must be downloaded.
+          Expandable Storage: Supports the Seagate or Western Digital Storage Expansion Cards via a dedicated port on the back.
+          USB: 3x USB 3.1 Gen 1 ports. 
+
+    variants:
+      - id: 1061
+        color: White
+        price: 409.95
+        image: images/xbox02.webp
+  - name: Microsoft Xbox Series S , All Digital , 1TB , New , Sealed
+    id: 384
+    category: Games & Gaming Accessories
+    description: 'The Microsoft Xbox Series S is an all-digital console designed for
+      high-speed performance in the smallest Xbox form factor yet. It is
+      available in two main configurations: the original Robot White (512GB) and
+      the newer Carbon Black (1TB). Core Technical Specifications Feature
+      Details CPU 8X Cores @ 3.6 GHz (3.4 GHz w/SMT) Custom Zen 2 CPU GPU 4
+      TFLOPS, 20 CUs @ 1.565 GHz Custom RDNA 2 GPU Memory 10GB GDDR6 (8GB @ 224
+      GB/s, 2GB @ 56 GB/s) Internal Storage 512GB or 1TB Custom NVMe SSD I/O
+      Throughput 2.4 GB/s (Raw), 4.8 GB/s (Compressed) Performance Target 1440p
+      @ 60 FPS (up to 120 FPS supported) Video & Audio Features Resolution:
+      Native 1440p gaming with 4K upscaling for games; 4K native streaming for
+      apps like Netflix and Disney+. HDMI Features: Includes HDMI 2.1 for Auto
+      Low Latency Mode (ALLM) and Variable Refresh Rate (VRR). Spatial Sound:
+      Supports Dolby Atmos, DTS 5.1, and Windows Sonic. Gaming Tech: Supports
+      Hardware-accelerated DirectX Raytracing for realistic lighting and
+      shadows. Design & Connectivity Dimensions: 10.8" x 5.9" x 2.5" (very
+      portable). Disc Drive: None. This console does not play physical discs;
+      all games must be downloaded. Expandable Storage: Supports the Seagate or
+      Western Digital Storage Expansion Cards via a dedicated port on the back.
+      USB: 3x USB 3.1 Gen 1 ports. '
+    variants:
+      - id: 1062
+        color: White
+        price: 459.95
+        image: images/xbox02.webp
+  - name: Microsoft Xbox Series S , All Digital , 512GB , New , Sealed
+    id: 385
+    category: Games & Gaming Accessories
+    description: 'The Microsoft Xbox Series S is an all-digital console designed for
+      high-speed performance in the smallest Xbox form factor yet. It is
+      available in two main configurations: the original Robot White (512GB) and
+      the newer Carbon Black (1TB). Core Technical Specifications Feature
+      Details CPU 8X Cores @ 3.6 GHz (3.4 GHz w/SMT) Custom Zen 2 CPU GPU 4
+      TFLOPS, 20 CUs @ 1.565 GHz Custom RDNA 2 GPU Memory 10GB GDDR6 (8GB @ 224
+      GB/s, 2GB @ 56 GB/s) Internal Storage 512GB or 1TB Custom NVMe SSD I/O
+      Throughput 2.4 GB/s (Raw), 4.8 GB/s (Compressed) Performance Target 1440p
+      @ 60 FPS (up to 120 FPS supported) Video & Audio Features Resolution:
+      Native 1440p gaming with 4K upscaling for games; 4K native streaming for
+      apps like Netflix and Disney+. HDMI Features: Includes HDMI 2.1 for Auto
+      Low Latency Mode (ALLM) and Variable Refresh Rate (VRR). Spatial Sound:
+      Supports Dolby Atmos, DTS 5.1, and Windows Sonic. Gaming Tech: Supports
+      Hardware-accelerated DirectX Raytracing for realistic lighting and
+      shadows. Design & Connectivity Dimensions: 10.8" x 5.9" x 2.5" (very
+      portable). Disc Drive: None. This console does not play physical discs;
+      all games must be downloaded. Expandable Storage: Supports the Seagate or
+      Western Digital Storage Expansion Cards via a dedicated port on the back.
+      USB: 3x USB 3.1 Gen 1 ports. '
+    variants:
+      - id: 1063
+        color: Black
+        price: 419.95
+        image: images/xbox01.png
+  - id: 386
+    name: " Microsoft Xbox Series X , Gaming Console , 1TB , 4K , New , Sealed"
+    description: >-
+      The Microsoft Xbox Series X (1TB, Carbon Black)
+
+      is the most powerful console in the Xbox lineup, designed for true 4K gaming at up to 120 FPS. It features a 12-teraflop GPU and a 4K UHD Blu-ray drive, making it the preferred choice for players who use physical discs or want the highest graphical fidelity. 
+
+      Core Technical Specifications
+
+      Component 	Specification Details
+
+      Processor (CPU)	8-core Custom Zen 2 @ 3.8 GHz (3.66 GHz with SMT)
+
+      Graphics (GPU)	12 TFLOPS, 52 CUs @ 1.825 GHz Custom RDNA 2
+
+      Memory (RAM)	16GB GDDR6 (10GB @ 560 GB/s, 6GB @ 336 GB/s)
+
+      Internal Storage	1TB Custom NVMe SSD (~802GB usable space)
+
+      I/O Throughput	2.4 GB/s (Raw), 4.8 GB/s (Compressed)
+
+      Target Resolution	Native 4K @ 60 FPS (up to 120 FPS); 8K ready
+
+      Key Features & Connectivity
+
+          Xbox Velocity Architecture: Powers features like Quick Resume, allowing you to switch between multiple games instantly even after the console is powered off.
+          Optical Drive: Includes a 4K UHD Blu-ray drive for physical games and movies.
+          Expandable Storage: Features a dedicated port for Seagate or Western Digital Expansion Cards that match internal SSD speeds.
+          Ports: 1x HDMI 2.1 port, 3x USB 3.1 Gen 1 ports, and an Ethernet port.
+          Audio: Supports advanced spatial sound including Dolby Atmos, DTS 5.1, and Windows Sonic. 
+    category: Games & Gaming Accessories
+    variants:
+      - id: 1064
+        color: Black
+        price: 649.95
+        image: images/xbox03.webp
+  - name: PlayStation Portal Remote Player , 8-inch LCD  , New , Sealed
+    id: 387
+    category: Games & Gaming Accessories
+    description: >-
+      The PlayStation Portal Remote Player
+
+      is a dedicated handheld streaming device designed specifically for the PlayStation 5. It features an 8-inch LCD touchscreen that supports 1080p resolution at up to 60 FPS. While it does not have internal storage for local games, a March 2026 update introduced a 1080p High Quality mode, which increases the bitrate for sharper visuals during both Remote Play and cloud streaming. 
+
+      Core Technical Specifications
+
+      Feature 	Specification Details
+
+      Display	8-inch LCD Touchscreen, 1080p (Full HD) resolution
+
+      Performance	Up to 60 FPS
+
+      New 2026 Feature	1080p High Quality Mode (High bitrate for clearer image)
+
+      Controls	Full DualSense features: Haptic feedback, Adaptive triggers
+
+      Connectivity	Wi-Fi 5 (802.11ac), USB-C (charging), 3.5mm jack
+
+      Audio	Built-in speakers, PlayStation Link for ultra-low latency audio
+
+      Battery Life	Approx. 4–5 hours (highly dependent on brightness/haptics)
+
+      Connectivity & Play Modes
+
+          Remote Play: Streams games directly from your PS5
+          or PS5 Pro
+          over Wi-Fi.
+          Cloud Streaming (Premium): PlayStation Plus Premium members can stream select PS5 and classic titles directly from the cloud without a console.
+          Network Requirements: Requires at least 5 Mbps for basic use, but 15 Mbps or higher is recommended for the best experience.
+          Audio Constraints: Does not support standard Bluetooth audio; you must use wired headphones or PlayStation Link devices like the PULSE Elite or Explore. 
+
+      Recent Firmware Enhancements (March/April 2026)
+
+      The latest updates (versions 6.0 and 7.0) have significantly improved the user experience: 
+
+          Refined UI: Faster search, instant on-screen keyboard, and improved trophy notifications.
+          Cloud Improvements: Easier game selection from bundles and the ability to receive game invites while streaming.
+          Easy Setup: New QR code onboarding for faster sign-in and account creation. 
+    variants:
+      - id: 1065
+        color: Blaclk
+        price: 309.95
+        image: images/playstationremote.avif
+  - name: Nintendo Switch OLED  , New , Sealed
+    id: 388
+    description: >-
+      The Nintendo Switch – OLED Model
+
+      is an upgraded version of the original hybrid console, distinguished primarily by its larger, more vibrant display and doubled internal storage. While it shares the same internal processing power as the standard model, it introduces several quality-of-life enhancements for handheld and tabletop play. 
+
+      Core Technical Specifications
+
+      Feature 	Specification Details
+
+      Display	7.0-inch OLED multi-touch capacitive screen
+
+      Resolution	Up to 1080p via HDMI in TV mode; 720p in handheld/tabletop modes
+
+      Processor	NVIDIA Custom Tegra processor
+
+      Internal Storage	64 GB (Expandable up to 2TB via microSDHC/microSDXC)
+
+      Battery Life	Approx. 4.5 - 9 hours (e.g., ~5.5 hours for Zelda: Breath of the Wild)
+
+      Weight	Approx. 0.93 lbs with Joy-Con controllers attached
+
+      Key Hardware Enhancements
+
+          Vibrant Display: The OLED panel offers vivid colors, high contrast, and true blacks compared to the standard LCD.
+          Wide Adjustable Stand: A sturdy, full-width kickstand that allows for multiple viewing angles in tabletop mode.
+          Wired LAN Port: The included dock features a built-in Ethernet port for a more stable online connection when playing on a TV.
+          Enhanced Audio: Upgraded onboard speakers provide clearer sound during handheld and tabletop sessions. 
+    category: Games & Gaming Accessories
+    variants:
+      - id: 1066
+        color: Red
+        price: 409.95
+        image: images/switch01-red.webp
+      - id: 1067
+        color: White
+        price: 409.95
+        image: images/switch01-white.webp
+  - id: 389
+    name: Nintendo Switch 2 + Mario Kart World Bundle ,  256GB  , New , Sealed
+    category: Games & Gaming Accessories
+    description: >-
+      The Nintendo Switch 2 + Mario Kart World Bundle
+
+      in Black with 256GB of internal storage is a premium launch-day configuration that includes the upgraded console, a digital copy of Mario Kart World, and magnetic Joy-Con 2 controllers. This specific "Sleek Black" variant is often found in specialized or retailer-exclusive bundles that may include additional accessories like screen protectors or microfiber cloths. 
+
+      Product Features & Specs
+
+          Storage & Display: Comes with 256GB of internal storage, which is expandable via microSD Express cards. It features a large 7.9-inch 1080p LCD touch screen that supports HDR and up to 120 fps.
+          Next-Gen Performance: The updated dock supports 4K resolution when connected to a compatible TV.
+          Joy-Con 2 Controllers: The controllers attach magnetically and can function as mouse controls in certain games. In this bundle, they are typically Light Blue (L) and Light Red (R).
+          Social Connectivity: Features GameChat for real-time voice and video chat (requires separate USB-C camera) directly through the console. 
+    variants:
+      - id: 1068
+        color: Black
+        price: 679.95
+        image: images/switch01-gray.webp
+  - name: Nintendo Switch Standard Edition , 32GB ,  6.2-inch LCD , New , Sealed
+    id: 390
+    category: Games & Gaming Accessories
+    description: >+
+      The Nintendo Switch – Standard Edition
+
+      is the original hybrid console, featuring a 6.2-inch LCD screen and 32GB of internal storage. It is widely recognized for its versatile three-mode play: TV mode via the included dock, tabletop mode with a built-in kickstand, and handheld mode. 
+
+      Available Colors & Design 
+
+      The Standard Edition is primarily available in two iconic color schemes:
+
+          Neon Blue & Neon Red: Features one Neon Blue (L) and one Neon Red (R) Joy-Con controller.
+          Gray: Features a uniform Gray console and matching Joy-Con controllers for a more neutral look.
+          Special Editions: While the base model uses the above colors, limited editions for games like Animal Crossing: New Horizons and Super Mario Odyssey have historically offered custom-colored Joy-Cons and themed console backs. 
+
+    variants:
+      - id: 1069
+        price: 369.95
+        color: Red
+        image: images/switch101-red.jpg
+      - image: images/switch101gray.avif
+        id: 1070
+        color: Gray
+        price: 369.95
+  - id: 391
+    name: Nintendo Switch Lite , 32GB , 5.5-inch LCD  , New , Sealed
+    description: >+
+      The Nintendo Switch Lite
+
+      is a dedicated handheld console designed for players who prioritize portability over hybrid functionality. It features a compact unibody design with built-in controls and a dedicated +Control Pad. 
+
+      Core Technical Specifications
+
+      Feature 	Details
+
+      Display	5.5-inch LCD touchscreen with 1280 x 720 resolution
+
+      Processor	NVIDIA Custom Tegra processor
+
+      Storage	32 GB internal; expandable up to 2TB via microSDHC/microSDXC cards
+
+      RAM	4 GB
+
+      Battery Life	Approximately 3 to 7 hours, depending on usage (e.g., ~4 hours for Breath of the Wild)
+
+      Weight	Approximately 0.61 lbs (275 grams)
+
+      Dimensions	3.6" H x 8.2" W x 0.55" D
+
+      Connectivity	Wi-Fi (802.11 a/b/g/n/ac), Bluetooth 4.1, NFC, and USB-C (for charging only)
+
+      Key Hardware Features
+
+          Integrated Controls: The Joy-Con controllers are fused to the system and cannot be detached.
+          Handheld Only: Unlike other models, it cannot be docked to a TV and lacks video output hardware.
+          Audio: Features built-in stereo speakers and a 3.5mm headphone jack.
+          Sensors: Equipped with an accelerometer and a gyroscope for motion control in compatible games.
+          Omissions: To maintain its low price and size, it does not include HD Rumble or the IR Motion Camera found on standard Joy-Cons. 
+
+    category: Games & Gaming Accessories
+    variants:
+      - id: 1071
+        color: Blue
+        price: 309.95
+        image: images/switch-blue.avif
+      - id: 1072
+        color: " Gray"
+        price: 309.95
+        image: images/switch-gray.avif
+      - id: 1073
+        color: Turquoise
+        price: 309.95
+        image: images/switch-turk.webp
+      - id: 1074
+        color: Coral
+        price: 309.95
+        image: images/switch-coral.jpeg
+      - id: 1075
+        color: Yellow
+        price: 309.95
+        image: images/switch-yellow.webp
+  - id: 392
+    name: Garmin Vivoactive 4 , 22MM , Bluetooth , GPS ,  , New , Sealed
+    category: Smart Watches
+    description: >-
+      The Garmin Vivoactive 4
+
+      (45mm model) is a fitness-oriented smartwatch featuring a 22mm quick-release band and built-in GPS. Released in late 2019, it remains a durable choice in 2026 for its always-on display and comprehensive health tracking. 
+
+      Core Technical Specifications
+
+          Dimensions: 45.1 x 45.1 x 12.8 mm, fitting wrists with a circumference of 135-200 mm.
+          Connectivity: Features Bluetooth, ANT+, and Wi-Fi for syncing data and music.
+          GPS & Navigation: Includes standalone GPS, GLONASS, and Galileo support for accurate outdoor tracking.
+          Display: 1.3-inch sunlight-readable, transflective memory-in-pixel (MIP) touchscreen protected by Corning Gorilla Glass 3.
+          Battery Life:
+              Smartwatch Mode: Up to 8 days.
+              GPS + Music Mode: Up to 6 hours.
+          Health Tracking: Monitors heart rate, blood oxygen (Pulse Ox), "Body Battery" energy levels, respiration, and sleep. 
+
+      Smart & Fitness Features
+
+          Music Storage: You can download playlists from Spotify, Amazon Music, or Deezer for phone-free listening.
+          Sports Apps: Comes with 20+ preloaded GPS and indoor sports apps, including yoga, swimming (water-rated to 5 ATM), and running.
+          Animated Workouts: Displays easy-to-follow, animated cardio, strength, and yoga routines directly on the screen.
+          Garmin Pay: Supports contactless payments via participating providers. 
+    variants:
+      - id: 1076
+        color: Gray
+        price: 379.95
+        image: images/garmin5.png
+  - id: 393
+    name: Beats Studio Pro Wireless Headphone , New ,Sealed
+    category: Headsets & Earbuds
+    description: >+
+      The Beats Studio Pro Wireless Headphones
+
+      are designed as a cross-platform over-ear solution, featuring a custom 40mm driver that significantly reduces distortion compared to previous models. 
+
+      Audio and Performance
+
+          Acoustic Platform: Features a custom 40mm driver with a two-layer diaphragm and 25% stronger magnets, offering up to 80% improved audio fidelity over the Beats Studio3
+          .
+          Listening Modes: Fully adaptive Active Noise Cancelling (ANC) and Transparency Mode to blend environment sounds.
+          Spatial Audio: Supports personalized Spatial Audio with dynamic head tracking and Dolby Atmos.
+          Lossless Audio: Supports high-resolution lossless audio (up to 24-bit/48kHz) via the USB-C port.
+          Frequency Response: 20 Hz to 20,000 Hz. 
+
+      Battery and Charging
+
+          Total Battery Life: Up to 40 hours with ANC off.
+          ANC/Transparency On: Up to 24 hours of listening time.
+          Fast Fuel: A quick 10-minute charge provides up to 4 hours of playback.
+          Charging Port: USB-C (universal charging). 
+
+      Connectivity and Compatibility
+
+          Wireless: Class 1 Bluetooth® 5.3 for extended range and fewer dropouts.
+          Wired Connections: Includes a 3.5mm analog input and USB-C audio.
+          Apple Features: One-touch pairing, "Hey Siri" support, and integration with the Find My app.
+          Android Features: Google Fast Pair, Audio Switch between devices, and Google Find My Device support. 
+
+      Physical Specs
+
+          Weight: 260g (approx. 9.17 oz).
+          Dimensions: 7.125 in (Height) x 7.0 in (Length) x 3.1 in (Width).
+          Materials: UltraPlush engineered leather cushions and premium metal sliders.
+          Water Resistance: They do not have an official IP rating and are not classified as water-resistant. 
+
+    variants:
+      - id: 1077
+        color: Blue
+        price: 299.95
+        image: images/beats02.jpeg
+      - id: 1078
+        color: Black
+        price: 299.95
+        image: images/beats01.jpeg
+  - id: 394
+    name: Beats Solo 4 Wireless On-ear Headphones , New ,Sealed
+    category: Headsets & Earbuds
+    description: >-
+      The Beats Solo 4 Wireless
+
+      headphones are an on-ear model released in May 2024, emphasizing long battery life and lightweight portability. Unlike the Studio Pro, the Solo 4
+
+      does not feature Active Noise Cancelling (ANC). 
+
+      Audio and Performance
+
+          Acoustic Architecture: Custom-built 40mm transducers designed to minimize distortion and latency while providing a balanced sound profile.
+          Spatial Audio: Supports Personalized Spatial Audio with dynamic head tracking for interactive surround sound in compatible movies and music.
+          Lossless Audio: Supports high-fidelity lossless audio through both USB-C and 3.5mm analog wired connections.
+          Call Quality: Equipped with multiple digital beam-forming microphones and an advanced voice-targeting algorithm for clearer voice isolation. 
+
+      Battery and Power
+
+          Total Battery Life: Up to 50 hours of listening time on a single charge.
+          Fast Fuel: A quick 10-minute charge provides up to 5 hours of playback.
+          Infinite Playback: Listening via the 3.5mm analog cable requires zero battery power, allowing for endless use even if the battery is dead. 
+
+      Connectivity and Design
+
+          Wireless Technology: Uses Class 1 Bluetooth® 5.3 for extended range and minimal dropouts.
+          Dual Compatibility: Features seamless one-touch pairing and Google Fast Pair for both iOS and Android devices.
+          Form Factor: Lightweight on-ear design weighing 217 grams (approx. 7.65 oz).
+          Materials: Features UltraPlush ear cushions and a flex-grip headband for improved comfort and passive noise isolation.
+          Foldability: Compact, foldable frame for easier storage in the included soft carrying case. 
+    variants:
+      - id: 1079
+        color: Black
+        price: 199.95
+        image: images/beats01.jpeg
+      - price: 199.95
+        id: 1080
+        color: Pink
+        image: images/beats04.jpeg
+      - id: 1081
+        color: Blue
+        price: 199.95
+        image: images/beats05.jpeg
+  - id: 395
+    name: Powerbeats Pro True Wireless Earbud , New , Sealed
+    category: Headsets & Earbuds
+    description: >+
+      
+      The Beats Powerbeats Pro (1st generation)
+
+      is a sports-oriented earbud launched in May 2019, featuring the Apple H1 chip for seamless integration with Apple devices. Unlike many modern earbuds, these rely on physical tactile controls on both earbuds for volume and track management. 
+
+      Core Technical Specifications
+
+          Audio Driver: 12 mm dynamic driver with a linear piston for reduced harmonic distortion.
+          Connectivity: Class 1 Bluetooth 5.0 with up to 100m range and NFC support.
+          Battery Life: Up to 9 hours of listening per bud and over 24 hours total with the charging case.
+          Fast Fuel Charging: A 5-minute charge provides 1.5 hours of playback; a 15-minute charge provides 4.5 hours.
+          Water Resistance: IPX4 rating, making them sweat and water-resistant.
+          Sensors: Dual optical sensors for Auto-Play/Pause and motion accelerometers for power-saving sleep mode. 
+
+      Design and Controls
+
+          Fit: Includes adjustable, secure-fit earhooks and silicone ear tips in four different sizes.
+          On-Ear Controls: Each earbud has an identical set of controls: a physical volume rocker and a multi-function "b" button for calls and music.
+          Microphones: Dual beam-forming microphones in each earbud with a speech-detecting accelerometer to isolate your voice.
+          Charging: The case uses a Lightning connector and does not support wireless charging. 
+
+      Key Differences from Powerbeats Pro 2
+
+      While the original model is highly rated for its clear sound and secure fit, it lacks the Active Noise Cancellation (ANC), USB-C charging, and integrated heart rate sensors found in the Powerbeats Pro 2
+
+      released in 2025. 
+
+      Are you looking for a deals comparison between the original Powerbeats Pro
+
+      and the newer Beats Fit Pro
+
+    variants:
+      - id: 1082
+        color: " Black"
+        price: 249.95
+        image: images/powerbeats05.webp
+      - color: Glacier Blue
+        price: 249.95
+        id: 1083
+        image: images/powerbeats06.webp
+      - id: 1084
+        color: Blue
+        price: 249.95
+        image: images/powerbeats08.webp
+      - color: Ivory
+        price: 249.95
+        id: 1085
+        image: images/powerbeats07.webp
+  - id: 396
+    name: Powerbeats Pro 2 Wireless Earbuds  , New , Sealed
+    description: >-
+      The Powerbeats Pro 2
+
+      wireless earbuds were released in February 2025 as a major update to the original sport-focused model. They are powered by the Apple H2 chip, enabling features previously exclusive to the AirPods Pro 2
+
+      , such as advanced Active Noise Cancellation and improved efficiency. 
+
+      Core Audio & Fitness Specs
+
+          Active Noise Cancellation (ANC): Adaptive ANC that filters environment noise, along with Transparency mode to stay aware of surroundings.
+          Heart Rate Monitoring: Integrated LED optical sensors measure blood flow 100 times per second to provide real-time heart rate data during workouts.
+          Spatial Audio: Supports Personalized Spatial Audio with dynamic head tracking and ultra-low latency for Apple Vision Pro.
+          Adaptive EQ: Uses inward-facing microphones to continuously scan ear shape and adjust acoustic frequencies in real time. 
+
+      Battery & Charging
+
+          Bud Playback: Up to 10 hours of continuous listening (8 hours with ANC/Transparency enabled).
+          Total Battery Life: Up to 45 hours total with the charging case (36 hours with ANC enabled).
+          Fast Fuel: A quick 5-minute charge provides up to 1.5 hours of playback.
+          Charging Case: The redesigned case is 33% smaller than the original and supports Qi wireless charging and USB-C. 
+
+      Design & Connectivity
+
+          Weight: The earbuds are 20% lighter than the 1st generation, weighing 8.7g each.
+          Durability: IPX4-rated for sweat and water resistance.
+          Controls: Retains physical on-ear buttons for volume, track control, and voice assistant activation.
+          Connectivity: Class 1 Bluetooth 5.3; features one-touch pairing and automatic device switching for Apple users, plus a dedicated Beats app for Android
+    category: Headsets & Earbuds
+    variants:
+      - color: Orange
+        id: 1086
+        price: 259.95
+        image: images/powerbeats04.webp
+      - price: 259.95
+        color: Purple
+        id: 1087
+        image: images/powerbeats03.webp
+      - price: 259.95
+        color: Black
+        id: 1088
+        image: images/powerbeats01.jpg
+      - price: 259.95
+        color: Sand
+        id: 1089
+        image: images/powerbeats09.webp
