@@ -1,50 +1,57 @@
-#(_data/cta_buttons.yml)
 buttons:
-  - text: "Shop WiFi Plans"
-    function: "app.setView('home', 'WiFi')"
-    padding_x: "px-6"
-    padding_y: "py-3"
-    text_size: "text-base"
-    button_shape: "rounded-full"
+  - text: Laptops & Accessories
+    function: app.setView('home', 'Laptops & Accessories')
+    padding_x: px-6
+    padding_y: py-3
+    text_size: text-base
+    button_shape: rounded-full
     bg_color: "#dc2626"
     hover_color: "#b91c1c"
-  - text: "Shop Headsets & Earbuds"
-    function: "app.setView('home', 'Headsets & Earbuds')"
-    padding_x: "px-6"
-    padding_y: "py-3"
-    text_size: "text-base"
-    button_shape: "rounded-full"
+  - text: Games & Gaming Accessories
+    function: app.setView('home', 'Games & Gaming Accessories')
+    padding_x: px-6
+    padding_y: py-3
+    text_size: text-base
+    button_shape: rounded-full
     bg_color: "#dc2626"
     hover_color: "#b91c1c"
-  - text: "Shop Smart Watches"
-    function: "app.setView('home', 'Smart Watches')"
-    padding_x: "px-6"
-    padding_y: "py-3"
-    text_size: "text-base"
-    button_shape: "rounded-full"
+  - text: Smart Phones & Tablets Accessories
+    function: app.setView('home', 'Smart Phones & Tablets Accessories')
+    padding_x: px-6
+    padding_y: py-3
+    text_size: text-base
+    button_shape: rounded-full
     bg_color: "#dc2626"
     hover_color: "#b91c1c"
-  - text: "Shop Chargers"
-    function: "app.setView('home', 'Charger')"
-    padding_x: "px-6"
-    padding_y: "py-3"
-    text_size: "text-base"
-    button_shape: "rounded-full"
+  - text: Shop Chargers
+    function: app.setView('home', 'Charger')
+    padding_x: px-6
+    padding_y: py-3
+    text_size: text-base
+    button_shape: rounded-full
     bg_color: "#dc2626"
     hover_color: "#b91c1c"
-  - text: "Pre-Owned Phones & Tablets"
-    function: "app.setView('home', 'Pre-Owned Phones & Tablets')"
-    padding_x: "px-6"
-    padding_y: "py-3"
-    text_size: "text-base"
-    button_shape: "rounded-full"
+  - text: Pre-Owned Phones & Tablets
+    function: app.setView('home', 'Pre-Owned Phones & Tablets')
+    padding_x: px-6
+    padding_y: py-3
+    text_size: text-base
+    button_shape: rounded-full
     bg_color: "#dc2626"
     hover_color: "#b91c1c"
-  - text: "Wireless Speakers"
-    function: "app.setView('home', 'Wireless Speakers')"
-    padding_x: "px-6"
-    padding_y: "py-3"
-    text_size: "text-base"
-    button_shape: "rounded-full"
+  - text: Wireless Speakers
+    function: app.setView('home', 'Wireless Speakers')
+    padding_x: px-6
+    padding_y: py-3
+    text_size: text-base
+    button_shape: rounded-full
     bg_color: "#dc2626"
     hover_color: "#b91c1c"
+  - text: Security Camera Systems
+    function: app.setView('home', 'Security Camera Systems')
+    bg_color: "#dc2626"
+    hover_color: "#b91c1c"
+    button_shape: rounded-full
+    padding_x: px-6
+    padding_y: py-3
+    text_size: text-base
