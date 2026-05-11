@@ -159,7 +159,7 @@ renderHome: () => {
       `).join('')
     : `
       <!-- Fallback buttons if no CMS data -->
-      <button onclick="app.setView('home', 'WiFi')" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg">
+      <button onclick="app.setView('home', 'WiFi Plans')" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg">
         Shop WiFi Plans
       </button>
       <button onclick="app.setView('home', 'Headsets & Earbuds')" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg">
@@ -258,12 +258,12 @@ html = bannerHtml;
                     if (min === max) {
                       const selectedVariantId = app.selectedBrowseVariants[product.id] || product.baseProduct.variants[0].id;
                       const selectedVariant = product.baseProduct.variants.find(v => v.id === selectedVariantId) || product.baseProduct.variants[0];
-                      return app.formatCurrency(selectedVariant.price) + (['Phone Plans', 'Internet Services', 'WiFi'].includes(product.category) ? '<span class="text-sm text-gray-500 font-normal">/mo</span>' : '');
+                      return app.formatCurrency(selectedVariant.price) + (['Phone Plans', 'Internet Services', 'WiFi Plans'].includes(product.category) ? '<span class="text-sm text-gray-500 font-normal">/mo</span>' : '');
                     } else {
                       return `${app.formatCurrency(min)} – ${app.formatCurrency(max)}`;
                     }
                   } else {
-                    return app.formatCurrency(product.price) + (['Phone Plans', 'Internet Services', 'WiFi'].includes(product.category) ? '<span class="text-sm text-gray-500 font-normal">/mo</span>' : '');
+                    return app.formatCurrency(product.price) + (['Phone Plans', 'Internet Services', 'WiFi Plans'].includes(product.category) ? '<span class="text-sm text-gray-500 font-normal">/mo</span>' : '');
                   }
                 })()}
               </p>
@@ -417,7 +417,7 @@ container.innerHTML = `
         <h1 class="text-4xl font-extrabold text-gray-900 mt-2 mb-2">${baseProduct.name}</h1>
         
         <p id="product-price" class="text-3xl font-extrabold nrw-text-red mb-4">
-          ${app.formatCurrency(selectedVariant.price)}${['Phone Plans', 'Internet Services', 'WiFi'].includes(baseProduct.category) ? '<span class="text-lg text-gray-500 font-normal">/month</span>' : ''}
+          ${app.formatCurrency(selectedVariant.price)}${['Phone Plans', 'Internet Services', 'WiFi Plans'].includes(baseProduct.category) ? '<span class="text-lg text-gray-500 font-normal">/month</span>' : ''}
         </p>
 
         ${swatchesHtml}
@@ -525,7 +525,7 @@ let cartItemsHtml = app.cart.map(item => {
   const itemTotal = product.price * item.quantity;
 
   // 1. Determine if it's a subscription product
-  const isSubscription = ['Phone Plans', 'WiFi', 'Internet Services'].includes(product.category);
+  const isSubscription = ['Phone Plans', 'WiFi Plans', 'Internet Services'].includes(product.category);
   
   // 2. Build the formatted unit price with the correct suffix
   const formattedUnitPrice = `${app.formatCurrency(product.price)}${isSubscription ? '/mo' : ' each'}`;
@@ -736,7 +736,7 @@ if (typeof paypal !== 'undefined') { // Check if SDK loaded
       if (priceElement && !priceElement.textContent.includes('–')) {
         // Only update if it's not already showing a range
         priceElement.innerHTML = app.formatCurrency(price) + 
-          (['Phone Plans', 'Internet Services', 'WiFi'].includes(
+          (['Phone Plans', 'Internet Services', 'WiFi Plans'].includes(
             app.rawProducts.find(p => p.id === productId)?.category
           ) ? '<span class="text-sm text-gray-500 font-normal">/mo</span>' : '');
       }
