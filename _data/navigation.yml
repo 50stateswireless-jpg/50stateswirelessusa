@@ -11,7 +11,7 @@ menu_links:
   - text: "Phones"
     function: "app.setView('home', 'Phones')"
   - text: "WiFi Plans"
-    function: "app.setView('home', 'WiFi')"
+    function: "app.setView('home', 'WiFi Plans')"
   - text: "Headsets & Earbuds"
     function: "app.setView('home', 'Headsets & Earbuds')"
   - text: "Smart Watches"
