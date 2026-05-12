@@ -73,7 +73,7 @@ products:
     image: images/Samsung-Galaxy-S25-128GB-5G-Unlocked-by-Samsung-Dual-Sim-New-Sealed.jpg
   - id: 4
     name: XNET WIFI Data Plans 25GB
-    category: WiFi Plans
+    category: WiFi
     price: 65.95
     description: >-
       Data Plans Get reliable high-speed data wherever you need it — at
@@ -88,7 +88,7 @@ products:
     image: images/Xnet-Wifi.jpeg
   - id: 5
     name: XNET WIFI Xplorer Hotspot 50 GB X Data Plan
-    category: WiFi Plans
+    category: WiFi
     price: 75.95
     description: >-
       Xplorer Hotspot The Xplorer Hotspot is your pocket-sized
@@ -157,7 +157,7 @@ products:
         image: images/tecno1S-white.jpg
   - id: 8
     name: XNET WIFI Xplorer Hotspot 100GB X Data Plan
-    category: WiFi Plans
+    category: WiFi
     price: 85.95
     description: >-
       Xplorer Hotspot The Xplorer Hotspot is your pocket-sized
@@ -409,42 +409,97 @@ products:
             basic VGA camera, Bluetooth connectivity, and GPRS/WAP support
     image: images/71mNOZ4dT5L-_AC_SL1500___30335.jpg
   - id: 24
-    name: Orbic Myra , 5G , 64GB ,Unlocked , New , Sealed
+    name: Motorola G Play 2024 , 64GB 4GB Ram , USA Version , Unlocked , New , Sealed
     category: Phones
     price: ""
-    description: >-
-      Black. 5G smartphone: Features a larger 6.78” screen and fast speeds.
-            Triple rear camera: Includes a 48MP main camera, 8MP, and 2MP cameras.
-            16MP front camera: Ideal for selfies and video calls. All-day battery:
-            5000mAh with Quick Charge 3.0 for extended use and fast charging. Durable
-            design: Metallic finish and scratch-resistant 2D glass screen.
+    description: >+
+      The Motorola Moto G Play (2024)
 
-            Specifications:
+      is a budget-friendly 4G smartphone released in January 2024. It is primarily available in Sapphire Blue and features a modern "Slim" design that is water-repellent against spills and rain. 
 
-            Display: 6.78” HD+ TFT LCD, 20:9 aspect ratio, scratch-resistant glass. Network: 4G and 5G support. Battery: 5000mAh, non-removable, Quick Charge 3.0. Connectivity: Wi-Fi (2.4GHz and 5GHz), Bluetooth 5.0. Camera: Main: 48MP + 8MP + 2MP with flash. Front: 16MP. Speed & Power: Qualcomm Snapdragon® 750G. Memory: 6GB RAM, 64GB internal storage, Micro SD support up to 512GB.
+      Core Performance & Storage
+
+          Processor: Powered by the Qualcomm Snapdragon 680 4G octa-core processor (up to 2.4 GHz).
+          Memory: Comes with 4GB of RAM, which can be virtually expanded up to 6GB using the "RAM Boost" feature.
+          Storage: Includes 64GB of internal storage, with support for expansion up to 1TB via a dedicated microSD card slot. 
+
+      Display & Audio
+
+          Screen: 6.5-inch HD+ LCD display with a 90Hz refresh rate for smooth scrolling.
+          Protection: Covered by 2.5D Corning Gorilla Glass 3 for scratch resistance.
+          Audio: Equipped with stereo speakers featuring Dolby Atmos and High-Res Audio support. 
+
+      Camera System
+
+          Rear Camera: 50MP main sensor (f/1.8) using Quad Pixel technology to improve low-light sensitivity.
+          Front Camera: 8MP selfie camera (f/2.0) with features like Face Retouch and Gesture Selfie.
+          Video: Supports 1080p Full HD video recording at 30fps. 
+
+      Battery & Power
+
+          Capacity: Large 5000mAh battery designed to last up to 46 hours on a single charge.
+          Charging: Supports 15W fast charging via a USB-C port. 
+
+      Software & Security
+
+          Operating System: Ships with Android 13 and Motorola's My UX interface.
+          Biometrics: Includes a side-mounted fingerprint reader and face unlock capabilities. 
+
     image: ""
     variants:
       - id: 50833
-        color: Black
+        color: Blue
         price: 199.95
-        image: images/orbic_myra_5g__43224.jpg
+        image: images/moto9-blue.webp
   - id: 25
-    name: Orbic Tabet 10R , 5G , 128GB , WIFI , New , Sealed
+    name: Apple iPad Air 4th Generation , 64GB , WIF + Cellular, New , Sealed
     category: Tablets
     price: ""
     description: >-
-      Black. The Orbic TAB10R 5G UW is a 10-inch ruggedized tablet designed for
-            both everyday use and demanding environments
+      specs
 
-            . It features 5G Ultra Wideband connectivity, primarily through Verizon. Here are some of its key features: Durability: The TAB10R 5G UW is built to MIL-810 and IP65 standards, making it resistant to drops, bumps, water, and other environmental factors. Connectivity: It supports Verizon’s 5G Ultra Wideband (including C-band and mmWave), and also has 4G and 3G capabilities. Performance: The tablet is powered by a Qualcomm® Snapdragon™ 480 5G Octa-core 2.4GHz processor, coupled with 6GB of RAM and 128GB of internal storage (expandable up to 1TB with a Micro SD card). Battery: It includes a 6000 mAh battery with Quick Charge 3.0 technology for faster recharging. Display: The 10-inch HD TFT display is scratch-resistant and supports stylus input. Operating System: It runs on Android 12, with ongoing security and OS updates. Cameras: The tablet has an 8MP front-facing camera and a 13MP rear camera with flash.
+      The Apple iPad Air (4th Generation)
 
-            User Experience Reviews of the Orbic TAB10R 5G UW (and the related Orbic Speed 5G hotspot) suggest a mixed user experience: Positive: Some users praise the fast 5G speeds, portability, and ease of setup. It’s seen as a reliable solution for those who need constant high-speed internet on the go. Negative: Other users report issues with battery life, random shutdowns, and connectivity problems, particularly in areas with competing Wi-Fi 6 devices. There have also been complaints about faulty batteries and difficulty obtaining replacements
+      with Wi-Fi + Cellular (Model A2324) features the A14 Bionic chip and a redesigned nearly edge-to-edge 10.9-inch display. It was the first iPad to integrate the Touch ID sensor into the top power button. 
+
+      Core Performance & Hardware
+
+          Processor: A14 Bionic chip with 64-bit architecture and a 16-core Neural Engine.
+          Storage: 64GB internal storage (non-expandable).
+          Memory: 4GB of RAM.
+          Battery: Up to 10 hours of web surfing on Wi-Fi or watching video; up to 9 hours using a cellular data network.
+          Charging & Ports: Single USB-C connector for charging and high-speed data transfer to cameras and external drives. 
+
+      Display & Graphics
+
+          Screen: 10.9-inch Liquid Retina LED-backlit Multi-Touch display with IPS technology.
+          Resolution: 2360-by-1640 resolution at 264 pixels per inch (ppi).
+          Features: True Tone display, P3 wide color gamut, 500 nits brightness, and an antireflective coating (1.8% reflectivity). 
+
+      Connectivity
+
+          Cellular: Gigabit-class LTE (Bands 1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 29, 30, 34, 38, 39, 40, 41, 46, 48, 66, and 71).
+          SIM Card: Nano-SIM tray and eSIM support.
+          Wi-Fi: Wi-Fi 6 (802.11ax) with simultaneous dual-band (2.4GHz and 5GHz).
+          Bluetooth: Bluetooth 5.0 technology. 
+
+      Camera & Audio
+
+          Rear Camera: 12MP Wide camera (f/1.8 aperture) with 4K video recording at 24, 30, or 60 fps.
+          Front Camera: 7MP FaceTime HD camera (f/2.2 aperture) with 1080p HD video recording.
+          Audio: Landscape stereo speakers and dual microphones for calls and video recording. 
+
+      Physical Specifications
+
+          Dimensions: 9.74" (H) x 7.02" (W) x 0.24" (D).
+          Weight: 1.01 lbs (460 grams).
+          Accessory Support: Compatible with Apple Pencil (2nd generation) and Magic Keyboard.
     image: ""
     variants:
       - id: 50820
-        color: Black
-        price: 219.95
-        image: images/Orbic-Tab-10R-5G-Tablet-PRODUCT.webp
+        color: Gray
+        price: 499.95
+        image: images/ipad9-gray.png
   - id: 26
     name: Logic Z1L Flip Phone , 4G , Dual Sim , Unlocked , New , Sealed
     category: Phones
@@ -16252,3 +16307,1880 @@ products:
         color: "White "
         price: 319.95
         image: images/aosu01.webp
+  - id: 400
+    name: Dell Chromebook 3110 2-in-1 , Celeron N4500 , 2.8GHz , 64GB eMMC , New ,
+      Sealed
+    category: Laptops & Accessories
+    description: >-
+      The Dell Chromebook 3110 2-in-1
+
+      is a durable 11.6-inch convertible laptop designed primarily for education and everyday computing. Powered by an Intel Celeron N4500 processor and running Chrome OS, this grey, 360-degree flip device offers versatile laptop and tablet modes with touchscreen functionality. 
+
+      Key Specifications (2-in-1 Model):
+
+          Processor: Intel Celeron N4500 (Dual-Core, up to 2.8GHz burst frequency)
+          Memory: 4GB or 8GB LPDDR4X SDRAM (soldered)
+          Storage: 64GB eMMC
+          Display: 11.6-inch IPS Touchscreen, HD (1366x768) resolution, 220 nits, anti-glare
+          Graphics: Integrated Intel UHD Graphics
+          Battery Life: Up to 10–11+ hours (42 Whr, 3-cell battery)
+          Weight: Approximately 1.42 kg (3.14 lbs)
+          Color: Gray
+          Durability: Rubberized edges, spill-resistant keyboard, 360° hinge 
+
+      Features:
+
+          360-Degree Hinge: Transitions between notebook, tent, stand, and tablet modes.
+          Rugged Design: Tested to withstand drops from 30 inches onto steel and 48 inches onto plywood.
+          Connectivity: Wi-Fi 6 (AX201), Bluetooth, USB-C 3.2 Gen 1 (supports Power Delivery/DisplayPort), USB 3.2 Gen 1, and HDMI 1.4.
+          Camera: 720p front-facing webcam with an optional world-facing camera for taking photos in tablet mode.
+          Input: USI Active Pen support for writing and drawing on the touchscreen.
+          Operating System: Chrome OS with automatic updates and built-in virus protection. 
+    variants:
+      - id: 501093
+        color: Gray
+        price: 539.95
+        image: images/dell04.webp
+  - name: Dell Latitude 3340 , Core i3-1215U  ,4.4GHz  , 256GB SSD , 8GB Ram , New ,
+      Sealed
+    id: 401
+    category: Laptops & Accessories
+    description: >+
+      The Dell Latitude 3340
+
+      (Version 2024) is a compact, high-performance laptop designed for professional portability. Its 12th Gen Intel Core i3-1215U processor delivers up to 4.4GHz speeds, making it efficient for multitasking. 
+
+      Detailed Specifications
+
+          Processor: Intel Core i3-1215U (6 Cores, 8 Threads) with 10MB Cache.
+          Memory: 8GB LPDDR5 RAM at 4800 MT/s. Note: Memory is integrated (soldered) and cannot be upgraded after purchase.
+          Storage: 256GB M.2 2230 PCIe 4.0 x4 NVMe SSD.
+          Display: 13.3-inch Full HD (1920 x 1080) IPS display.
+              Clamshell: Non-touch, 250 nits, anti-glare.
+              2-in-1: Touch-enabled, available with Corning Gorilla Glass (300 nits).
+          Graphics: Integrated Intel UHD Graphics.
+          Battery: 3-cell, 42 Wh or 54 Wh lithium-ion options with ExpressCharge.
+          Weight: Starting at 2.75 lbs (clamshell) or 2.97 lbs (2-in-1). 
+
+      Connectivity & Ports
+
+          Ports:
+              1 x USB-C 3.2 Gen 2 (supports Power Delivery and DisplayPort).
+              2 x USB 3.2 Gen 1 (one with PowerShare).
+              1 x HDMI 1.4.
+              1 x Universal Audio Jack.
+          Wireless: Intel Wi-Fi 6E (802.11ax) and Bluetooth 5.3. 
+
+      Professional Features
+
+          Webcam: 1080p (FHD) RGB or IR camera with temporal noise reduction and a privacy shutter.
+          Audio: Stereo speakers with Waves MaxxAudio Pro and dual-array microphones.
+          Durability: MIL-STD 810G military standard construction. 
+
+    variants:
+      - id: 501094
+        color: Gray
+        price: 899.95
+        image: images/dell06.webp
+  - id: 402
+    name: Dell Latitude 3550 , Core i5-1335U , 4.6GHz , 256GB SSD ,16GB Ram , New ,
+      Sealed
+    category: Laptops & Accessories
+    description: >-
+      The Dell Latitude 3550
+
+      (Version 2024) with the Intel Core i5-1335U
+
+      processor is a 15.6-inch business laptop designed for high productivity and scalability. 
+
+      Core Specifications
+
+          Processor: Intel Core i5-1335U (10 Cores, 12 Threads) with a max turbo frequency of 4.6 GHz.
+          Memory: Typically configured with 8GB or 16GB DDR5 RAM (5200 MT/s). Unlike smaller models, this has two SO-DIMM slots and is upgradable to 64GB.
+          Storage: 256GB M.2 2230 PCIe NVMe SSD.
+          Display: 15.6-inch Full HD (1920 x 1080) IPS display with 250 nits brightness. Available in both touch and non-touch variants.
+          Graphics: Integrated Intel Iris Xe Graphics.
+          Battery: 3-cell, 42 Wh or 54 Wh battery options with ExpressCharge support.
+          Weight: Starting at 3.99 lbs (1.81 kg). 
+
+      Connectivity & Ports
+
+          Ports:
+              1 x USB4 (20 Gbps) with Power Delivery and DisplayPort.
+              3 x USB 3.2 Gen 1 (one with PowerShare).
+              1 x HDMI 1.4.
+              1 x RJ45 (Gigabit Ethernet).
+              1 x Universal Audio Jack.
+          Wireless: Intel Wi-Fi 6E and Bluetooth 5.3. 
+
+      Professional Features
+
+          Webcam: Options include 720p HD or 1080p FHD + IR camera with a privacy shutter.
+          Keyboard: Full-sized backlit keyboard with a dedicated numeric keypad.
+          Security: Optional fingerprint reader integrated into the power button. 
+    variants:
+      - id: 501095
+        price: 1179.95
+        color: Gray
+        image: images/dell05.webp
+  - name: Dell Latitude 3550 , Core i5-1335U , 4.6GHz , 256GB SSD , 8GB Ram , New ,
+      Sealed
+    id: 403
+    category: Laptops & Accessories
+    description: "The Dell Latitude 3550 (Version 2024) with the Intel Core i5-1335U
+      processor is a 15.6-inch business laptop designed for high productivity
+      and scalability. Core Specifications Processor: Intel Core i5-1335U (10
+      Cores, 12 Threads) with a max turbo frequency of 4.6 GHz. Memory:
+      Typically configured with 8GB or 16GB DDR5 RAM (5200 MT/s). Unlike smaller
+      models, this has two SO-DIMM slots and is upgradable to 64GB. Storage:
+      256GB M.2 2230 PCIe NVMe SSD. Display: 15.6-inch Full HD (1920 x 1080) IPS
+      display with 250 nits brightness. Available in both touch and non-touch
+      variants. Graphics: Integrated Intel Iris Xe Graphics. Battery: 3-cell, 42
+      Wh or 54 Wh battery options with ExpressCharge support. Weight: Starting
+      at 3.99 lbs (1.81 kg). Connectivity & Ports Ports: 1 x USB4 (20 Gbps) with
+      Power Delivery and DisplayPort. 3 x USB 3.2 Gen 1 (one with PowerShare). 1
+      x HDMI 1.4. 1 x RJ45 (Gigabit Ethernet). 1 x Universal Audio Jack.
+      Wireless: Intel Wi-Fi 6E and Bluetooth 5.3. Professional Features Webcam:
+      Options include 720p HD or 1080p FHD + IR camera with a privacy shutter.
+      Keyboard: Full-sized backlit keyboard with a dedicated numeric keypad.
+      Security: Optional fingerprint reader integrated into the power button. "
+    variants:
+      - id: 501096
+        color: Gray
+        price: 1049.95
+        image: images/dell05.webp
+  - name: Dell Precision 3490 , Core Ultra 5 125H  ,4.5GHz ,256GB SSD 16GB Ram , New
+      , Sealed
+    category: Laptops & Accessories
+    description: >-
+      The Dell Precision 3490
+
+      (2024 model) with the Intel Core Ultra 5 125H
+
+      is an "AI-ready" 14-inch mobile workstation designed for professional workloads that require higher thermal headroom than standard ultrabooks. 
+
+      Core Specifications
+
+          Processor: Intel Core Ultra 5 125H (14 Cores, 18 Threads) with an 18MB cache and a Max Turbo Speed of 4.5 GHz.
+          AI Engine: Features an integrated Intel AI Boost (NPU) for local AI acceleration.
+          Memory: Typically configured with 16GB DDR5 RAM (5600 MT/s). It has two SO-DIMM slots and is upgradable to 64GB.
+          Storage: 256GB M.2 2230 PCIe 4.0 NVMe SSD (Class 35).
+          Display: 14-inch Full HD (1920 x 1080) IPS, non-touch, with 250 nits brightness and anti-glare coating.
+          Graphics: Integrated Intel Arc Graphics (requires dual-channel memory for full performance).
+          Weight: Starting at approximately 3.09 lbs (1.40 kg). 
+
+      Connectivity & Ports
+
+          Dual USB4/Thunderbolt 4 ports (Power Delivery and DisplayPort 2.1).
+          2 x USB 3.2 Gen 1 ports (one with PowerShare).
+          HDMI 2.1 and a Gigabit Ethernet (RJ-45) port.
+          Intel Wi-Fi 6E AX211 and Bluetooth.
+    id: 404
+    variants:
+      - id: 501097
+        color: " Gray"
+        price: 1499.95
+        image: images/dell02.webp
+  - name: Dell Precision 3490 Core Ultra 7 165H ,5GHz , 512GB SSD 16GB Ram , New ,
+      Sealed
+    category: Laptops & Accessories
+    id: 405
+    description: >-
+      The Dell Precision 3490
+
+      (2024 model) configured with the Core Ultra 7 165H
+
+      and 512GB SSD is a high-end mobile workstation that features Intel’s AI-focused Meteor Lake architecture and professional-grade expandability. 
+
+      Detailed Specifications
+
+          Processor: Intel Core Ultra 7 165H
+          (16 Cores, 22 Threads) with 24MB Cache and a Max Turbo frequency of 5.0 GHz. Includes Intel AI Boost (NPU) for local AI acceleration.
+          Memory: Typically configured with 32GB DDR5 RAM (5600 MT/s). It has two SO-DIMM slots and is upgradable to 64GB.
+          Storage: 512GB M.2 2230 PCIe Gen4 NVMe SSD (Class 35).
+          Display: 14-inch Full HD (1920 x 1080) IPS display.
+              Standard: Non-touch, anti-glare, 250 nits brightness.
+              Premium Option: Touch-enabled, 300 nits, 100% sRGB color gamut.
+          Graphics:
+              Integrated Intel Arc Graphics.
+              Optional Discrete NVIDIA RTX 500 Ada
+              (4GB GDDR6) for professional 3D workloads.
+          Battery: 3-cell, 54 Wh lithium-ion battery with ExpressCharge support.
+          Weight: Starting at approximately 3.09 lbs (1.40 kg). 
+
+      Connectivity & Ports
+
+          High-Speed Ports: 2 x Thunderbolt 4 (USB-C) with Power Delivery and DisplayPort 2.1 support.
+          Standard Ports: 2 x USB 3.2 Gen 1 (one with PowerShare), 1 x HDMI 2.1, and 1 x RJ45 (Gigabit Ethernet).
+          Wireless: Intel Wi-Fi 6E AX211 and Bluetooth 5.3.
+          Expansion Slots: Wedge-shaped lock slot, optional Nano-SIM slot, and optional Smart Card reader. 
+
+      Professional Features
+
+          Webcam: 1080p (FHD) RGB-IR camera with a privacy shutter and Windows Hello facial recognition.
+          Keyboard: Full-sized backlit keyboard featuring a dedicated AI hotkey.
+          Certifications: ISV (Independent Software Vendor) certified for reliable performance with professional software like AutoCAD and Adobe Creative Cloud. 
+    variants:
+      - id: 501098
+        color: Gray
+        price: 2379.95
+        image: images/dell02.webp
+  - name: "Dell Latitude 7650 Core Ultra 5 135U , 4.4GHz , 256GB 16GB Ram , New ,
+      Sealed "
+    category: Laptops & Accessories
+    id: 406
+    description: >+
+      The Dell Latitude 7650 (2024 model) is a large-format 16-inch business
+      laptop designed for hybrid professionals. It prioritizes screen real
+      estate and modern AI capabilities while maintaining a relatively slim
+      profile.
+
+      Detailed Specifications
+
+          Processor: Intel Core Ultra 5 135U (vPro Enterprise).
+              12 Cores (2 Performance, 8 Efficient, 2 Low-power Efficient), 12 Threads.
+              Max Turbo frequency of 4.4 GHz.
+              Integrated Intel AI Boost (NPU) for on-device AI acceleration.
+          Memory: 16GB LPDDR5x RAM (6400 MT/s).
+              Note: The memory is onboard (soldered) and cannot be upgraded after purchase.
+          Storage: 256GB M.2 2230 PCIe Gen4 x4 NVMe SSD (upgradable to 2TB).
+          Display: 16-inch FHD+ (1920 x 1200) IPS panel.
+              16:10 aspect ratio for more vertical workspace.
+              Anti-glare coating, 250 nits brightness.
+          Graphics: Integrated Intel Graphics.
+          Battery: 3-cell, 57 Wh battery with ExpressCharge support.
+          Weight: Starting at 4.05 lbs (1.835 kg).
+
+      Connectivity & Ports
+
+          2 x Thunderbolt 4 (USB-C) with Power Delivery and DisplayPort 2.1.
+          2 x USB 3.2 Gen 1 (one with PowerShare).
+          1 x HDMI 2.1.
+          1 x Universal Audio Jack.
+          Wireless: Intel Wi-Fi 7 BE200 (2x2) and Bluetooth 5.4.
+
+      Key Professional Features
+
+          Keyboard: Full-sized Mini-LED backlit keyboard (improves power efficiency by up to 75% over standard backlighting) with a dedicated numeric keypad.
+          Webcam: 1080p (FHD) + IR camera with a physical privacy shutter and Windows Hello facial recognition.
+          Audio: Four speakers (two top-firing, two bottom-firing) with Waves MaxxAudio Pro.
+          Durability: MIL-STD 810H military-grade tested chassis.
+
+    variants:
+      - id: 501099
+        color: Gray
+        price: 1959.95
+        image: images/dell03.webp
+  - name: "Dell Precision 5680 Core i7,13800H , 5.2GHz  ,512GB SSD 32GB Ram , New ,
+      Sealed "
+    id: 407
+    category: Laptops & Accessories
+    description: >-
+      The Dell Precision 5680 is a "thin-and-light" 16-inch workstation that
+      offers power comparable to thicker desktop replacements.
+
+      Performance Core
+
+          Processor: Intel Core i7-13800H (13th Gen vPro Enterprise).
+              14 Cores (6 Performance, 8 Efficient) / 20 Threads.
+              5.2 GHz Max Turbo frequency with 24MB Cache.
+          Memory: 32GB LPDDR5 RAM (6000 MT/s or 6400 MT/s).
+              Crucial Note: The memory is soldered (onboard) and is not user-upgradable.
+          Storage: 512GB M.2 2280 PCIe Gen 4 NVMe SSD.
+              The system has two M.2 slots, allowing for dual-SSD configurations and RAID support.
+          Graphics:
+              Integrated: Intel Iris Xe Graphics.
+              Discrete (Typical): NVIDIA RTX 2000 Ada Generation (8GB GDDR6) or up to RTX 5000 Ada.
+
+      Display & Visuals
+
+          Screen: 16-inch FHD+ (1920 x 1200) IPS panel.
+              Brightness: 500 nits (excellent for outdoor/bright office use).
+              Color: 100% sRGB coverage.
+              Aspect Ratio: 16:10 for more vertical coding/editing space.
+          Camera: 1080p (FHD) at 30 fps with IR for Windows Hello facial recognition and a dual-array microphone.
+
+      Battery & Portability
+
+          Battery: 6-cell 100Wh Lithium-ion (the maximum size allowed on most commercial flights).
+          Power: 165W Type-C Power Adapter.
+          Weight: Starting at 4.20 lbs (1.91 kg).
+          Build: Premium CNC-machined aluminum chassis.
+
+      Connectivity (I/O)
+
+          2 x Thunderbolt 4 (USB-C) with Power Delivery and DisplayPort.
+          1 x USB-C 3.2 Gen 2 (DisplayPort Alt Mode).
+          1 x Full-size SD Card slot (SD 7.0).
+          1 x HDMI 2.0b.
+          Wireless: Intel Wi-Fi 6E AX211 and Bluetooth 5.3.
+
+      Special Features
+
+          Haptic Trackpad: Uses "Collaboration Touchpad" technology for a smooth, clickable feel across the entire surface.
+          Audio: Four-speaker system (two top-firing, two bottom-firing) with high-fidelity tuning.
+          ISV Certified: Guaranteed stability for apps like SolidWorks, Autodesk, and Adobe.
+
+      Do you need this workstation for GPU-intensive rendering, or would you like to see a model with a 4K OLED touchscreen instead?
+    variants:
+      - id: 501100
+        color: Gray
+        price: 1719.95
+        image: images/dell02.webp
+  - name: "Apple MacBook Air , 13-inch , M1 8-Core CPU ,3.2GHz , 256GB 8GB Ram (Late
+      2020) New , Sealed "
+    category: Laptops & Accessories
+    description: >-
+      The Apple MacBook Air (Late 2020)
+
+      with the M1 chip is characterized by its transition from Intel processors to Apple's custom silicon, featuring a fanless design that ensures completely silent operation. 
+
+      Core Performance
+
+          Processor: Apple M1 chip with an 8-core CPU (4 performance cores and 4 efficiency cores) running at a base frequency of 3.2GHz.
+          Graphics: Integrated 7-core or 8-core GPU.
+          Neural Engine: 16-core engine dedicated to machine learning tasks.
+          Memory: 8GB of unified RAM, which is shared by both the CPU and GPU for increased efficiency (factory configurable to 16GB at purchase). 
+
+      Display & Audio
+
+          Retina Display: 13.3-inch LED-backlit display with IPS technology and a native resolution of 2560 x 1600 at 227 ppi.
+          Brightness & Color: Supports 400 nits brightness, P3 wide color, and True Tone technology for automatic color temperature adjustment.
+          Audio: Features stereo speakers with wide stereo sound and Dolby Atmos support, alongside a three-microphone array with directional beamforming. 
+
+      Battery & Connectivity
+
+          Battery Life: Equipped with a 49.9-watt-hour battery, providing up to 15 hours of wireless web browsing and 18 hours of video playback.
+          Ports: Two Thunderbolt / USB 4 ports (supports charging, DisplayPort, and transfer speeds up to 40Gb/s) and a 3.5mm headphone jack.
+          Wireless: Wi-Fi 6 (802.11ax) and Bluetooth 5.0. 
+
+      Physical Design
+
+          Weight: Approximately 2.8 pounds (1.29 kg).
+          Dimensions: 0.16–0.63 inch (H) x 11.97 inches (W) x 8.36 inches (D).
+          Keyboard: Backlit Magic Keyboard with a Touch ID sensor for secure login and 
+    id: 408
+    variants:
+      - id: 501101
+        color: Gray
+        price: 909.95
+        image: images/apple13-gray.webp
+      - id: 501102
+        color: Gold
+        price: 909.95
+        image: images/apple13-gold.webp
+      - id: 501103
+        color: Silver
+        price: 909.95
+        image: images/apple13-silver (copy).webp
+  - name: "Apple MacBook Air, 13-inch ,  M3 8-Core CPU 4.05GHz , 256GB 8GB Ram (Late
+      2024) New , Sealed "
+    id: 409
+    category: Laptops & Accessories
+    description: >-
+      The 13-inch MacBook Air (Early 2024)
+
+      with the M3 chip provides significant technical advancements over previous models, most notably in its ability to support two external displays and its inclusion of hardware-accelerated ray tracing. 
+
+      Core Performance
+
+          Processor (CPU): Apple M3 chip with an 8-core CPU (4 performance cores peaking at 4.05GHz and 4 efficiency cores).
+          Graphics (GPU): Integrated 8-core GPU featuring hardware-accelerated ray tracing for more realistic lighting and reflections in games and 3D software.
+          Neural Engine: 16-core engine optimized for AI and machine learning tasks.
+          Memory: Standard 8GB of unified RAM (configurable up to 24GB) with a 100GB/s memory bandwidth. 
+
+      Display & Audio
+
+          Liquid Retina Display: 13.6-inch LED-backlit screen with a native resolution of 2560 x 1664 at 224 pixels per inch.
+          Brightness & Color: Offers 500 nits brightness and P3 wide color gamut for vibrant visuals.
+          Speaker System: Immersive four-speaker sound system supporting Spatial Audio and Dolby Atmos.
+          Camera: 1080p FaceTime HD camera with an advanced image signal processor. 
+
+      Connectivity & Expansion
+
+          External Displays: Supports up to two external monitors (one up to 6K and another up to 5K) simultaneously, provided the laptop lid is closed (clamshell mode).
+          Ports: Two Thunderbolt / USB 4 ports, a MagSafe 3 charging port, and a 3.5mm headphone jack.
+          Wireless: Updated to Wi-Fi 6E (802.11ax) and Bluetooth 5.3. 
+
+      Design & Battery
+
+          Portability: Weighs approximately 2.7 pounds (1.24 kg) and is 0.44 inches thick.
+          Battery Life: 52.6-watt-hour battery providing up to 15 hours of wireless web browsing and up to 18 hours of video playback.
+          Charging: Compatible with fast charging using a 70W USB-C power adapter. 
+    variants:
+      - id: 501104
+        color: Black
+        price: 999.95
+        image: images/applem3-black.jpg
+      - id: 501105
+        color: Gray
+        price: 999.95
+        image: images/apple13-gray.webp
+      - id: 501106
+        color: Silver
+        price: 999.95
+        image: images/apple13-silver (copy).webp
+      - id: 501107
+        color: Starlight
+        price: 999.95
+        image: images/applem3-starlight.avif
+  - name: Apple MacBook Air 13-inch  , M2 8-Core CPU 3.49GHz  , 512GB  8GB Ram (Mid
+      2023) New , Sealed
+    id: 410
+    category: Laptops & Accessories
+    description: >-
+      The 13-inch MacBook Air (Mid 2023) with the M2 chip and 512GB SSD is a
+      standout because this storage tier includes a faster 10-core GPU as
+      standard, compared to the 8-core GPU in the base model.
+
+      Performance & Engine
+
+          Processor (CPU): Apple M2 chip with an 8-core CPU (4 performance cores at 3.49GHz and 4 efficiency cores).
+          Graphics (GPU): 10-core GPU (delivering up to 35% faster graphics performance than M1).
+          SSD Storage: 512GB SSD. Notably, this 512GB model uses multiple NAND chips, avoiding the slower read/write speeds found in the M2 256GB base model.
+          Memory: Standard 8GB of unified RAM (configurable to 16GB or 24GB) with 100GB/s bandwidth.
+          Neural Engine: 16-core engine for advanced AI tasks.
+
+      Display & Design
+
+          Liquid Retina Display: 13.6-inch screen with a native resolution of 2560 x 1664.
+          Brightness: 500 nits (25% brighter than the M1 model).
+          Chassis: Modern, flat "slab" design (replacing the old wedge shape).
+          Weight: Extremely portable at 2.7 pounds (1.24 kg).
+
+      Battery & Charging
+
+          Battery Life: Up to 15 hours of wireless web and up to 18 hours of video playback.
+          MagSafe 3: Features a dedicated magnetic charging port, keeping both Thunderbolt ports free during charging.
+          Power Adapter: This 512GB configuration typically includes the 35W Dual USB-C Port Compact Power Adapter or a 67W Fast Charger.
+
+      Connectivity & Audio
+
+          Ports: Two Thunderbolt / USB 4 ports and a 3.5mm headphone jack with high-impedance support.
+          Camera: Upgraded 1080p FaceTime HD camera.
+          Audio: Four-speaker sound system with Spatial Audio and Dolby Atmos support.
+          Wireless: Wi-Fi 6 (802.11ax) and Bluetooth 5.3.
+
+      Detailed technical specs can be found on Apple’s support page.
+    variants:
+      - id: 501108
+        color: Black
+        price: 1199.95
+        image: images/applem3-black.jpg
+  - id: 411
+    name: Apple MacBook Pro ,16inch , M5 ,  M4 Pro 14-Core CPU 4.40GHz , 512GB  24GB
+      Ram  (2025)  New , Sealed
+    description: >+
+      The 16-inch MacBook Pro (Late 2024)
+
+      with the M4 Pro chip remains a top-tier choice for high-end professional workflows in 2026. While the M5 Pro series was released in March 2026, the M4 Pro model continues to offer a powerful 14-core CPU and a 20-core GPU configuration that excels in intensive tasks. 
+
+      Core Performance
+
+          Processor (CPU): Apple M4 Pro chip with a 14-core CPU featuring 10 performance cores and 4 efficiency cores. It can reach a peak clock speed of 4.40GHz.
+          Graphics (GPU): Integrated 20-core GPU with hardware-accelerated ray tracing.
+          Neural Engine: 16-core engine optimized for Apple Intelligence and advanced AI workflows.
+          Memory: Typically starts with 24GB of unified memory (configurable up to 48GB). 
+
+      Display & Audio
+
+          Liquid Retina XDR Display: 16.2-inch screen with a native resolution of 3456 x 2234 at 254 ppi.
+          ProMotion Technology: Adaptive refresh rates up to 120Hz for smooth scrolling and video playback.
+          Brightness: 1600 nits peak HDR brightness and up to 1000 nits sustained full-screen brightness.
+          Sound: High-fidelity six-speaker sound system with force-cancelling woofers and support for Spatial Audio. 
+
+      Connectivity & Expansion
+
+          Thunderbolt 5: Includes three Thunderbolt 5 (USB-C) ports, offering significantly faster data transfer speeds—up to 120Gbps—compared to the 40Gbps of previous generations.
+          Other Ports: HDMI 2.1 port, SDXC card slot, MagSafe 3 charging port, and a 3.5mm headphone jack.
+          Wireless: Wi-Fi 6E and Bluetooth 5.3. 
+
+      Design & Battery
+
+          Battery Life: Features a 100-watt-hour battery, providing up to 24 hours of video streaming or 16 hours of wireless web use.
+          Weight: Approximately 4.7 pounds (2.14 kg).
+          Camera: Upgraded 12MP Center Stage camera for high-quality video calls with Desk View support. 
+
+    category: Laptops & Accessories
+    variants:
+      - id: 501109
+        color: " Silver"
+        price: 2569.95
+        image: images/applepro-silver.webp
+  - id: 412
+    name: Apple MacBook Pro ,14-inch, M5 10-Core CPU 4.40GHz  , 512GB  16GB Ram (
+      2025) New , Sealed
+    category: Laptops & Accessories
+    description: >-
+      The 14-inch MacBook Pro (2025) with the base M5 chip serves as the
+      pro-tier entry point, offering a significant jump in AI processing and
+      single-core efficiency over the previous M4 generation. 
+
+      Core Performance
+
+          Processor (CPU): Apple M5 chip with a 10-core CPU (4 performance cores peaking at 4.40GHz and 6 efficiency cores).
+          Graphics (GPU): 10-core GPU featuring next-generation hardware-accelerated ray tracing and a dedicated Neural Accelerator for faster graphics rendering.
+          Neural Engine: Enhanced 16-core engine designed specifically for Apple Intelligence, capable of significantly higher operations per second than the M4.
+          Unified Memory: Starts at 16GB (configurable to 24GB or 32GB) with a high-bandwidth architecture of 153GB/s. 
+
+      Display & Audio
+
+          Liquid Retina XDR: 14.2-inch display with 3024 x 1964 native resolution at 254 ppi.
+          Brightness: 1000 nits sustained full-screen brightness for XDR content, and 1600 nits peak (HDR only).
+          ProMotion: Adaptive refresh rates up to 120Hz.
+          Sound: High-fidelity six-speaker sound system with force-cancelling woofers and support for Spatial Audio. 
+
+      Connectivity & Ports
+
+          Thunderbolt 4: Three Thunderbolt 4 (USB-C) ports supporting charging, DisplayPort, and data transfer up to 40Gb/s.
+          Expansion: SDXC card slot, HDMI 2.1 port, and a 3.5mm headphone jack with high-impedance support.
+          MagSafe 3: Dedicated magnetic charging port.
+          Wireless: Wi-Fi 6E (802.11ax) and Bluetooth 5.3. 
+
+      Battery & Design
+
+          Battery Life: Up to 24 hours of video streaming or 16 hours of wireless web, currently the best battery performance in the 14-inch form factor.
+          Thermal Design: Advanced fan system that remains silent during most daily productivity tasks.
+          Weight: 3.4 pounds (1.55 kg).
+          Camera: 12MP Center Stage camera with support for 1080p HD video and Desk View. 
+    variants:
+      - id: 501110
+        color: Black
+        price: 1759.95
+        image: images/applepro-16-black.webp
+  - name: Apple MacBook Pro ,14-inch, M5 10-Core CPU 4.40GHz , 1TB 24GB Ram ( 2025)
+      New , Sealed
+    id: 413
+    category: Laptops & Accessories
+    description: >-
+      The 14-inch MacBook Pro (2025) with the M5 chip, 24GB RAM, and 1TB SSD is
+      the high-tier base configuration, offering a balance of professional-grade
+      memory and storage with the extreme efficiency of the standard M5
+      silicon. 
+
+      Core Performance
+
+          Processor (CPU): Apple M5 chip with a 10-core CPU (4 performance cores peaking at 4.40GHz and 6 efficiency cores).
+          Graphics (GPU): 10-core GPU featuring next-gen hardware-accelerated ray tracing and mesh shading.
+          Neural Engine: 16-core engine optimized for advanced Apple Intelligence tasks, with a dedicated AI accelerator per GPU core.
+          Unified Memory: 24GB with 153GB/s bandwidth—essential for heavy multitasking and local AI model processing. 
+
+      Display & Audio
+
+          Liquid Retina XDR: 14.2-inch display (3024 x 1964 native resolution).
+          Brightness: 1000 nits sustained (SDR/HDR) and 1600 nits peak (HDR only).
+          ProMotion: Adaptive refresh rates up to 120Hz.
+          Sound: High-fidelity six-speaker sound system with force-cancelling woofers and Spatial Audio support. 
+
+      Ports & Connectivity
+
+          Thunderbolt 4: Three Thunderbolt 4 (USB-C) ports for charging, DisplayPort, and 40Gb/s data transfer.
+          Expansion: SDXC card slot, HDMI 2.1 port (supports 8K displays), and a high-impedance 3.5mm headphone jack.
+          MagSafe 3: Dedicated magnetic charging port.
+          Wireless: Wi-Fi 6E (802.11ax) and Bluetooth 5.3. 
+
+      Design & Battery
+
+          Battery Life: Up to 24 hours of video streaming and 16 hours of wireless web use.
+          Camera: 12MP Center Stage camera with 1080p video and Desk View support.
+          Weight: 3.4 pounds (1.55 kg). 
+
+      This 1TB/24GB setup is often cited as the "ideal build" for creative professionals who want the Pro chassis and screen but prioritize battery life and portability over the raw multi-core power of the M5 Pro or Max. 
+    variants:
+      - id: 501111
+        price: 2099.95
+        color: Silver
+        image: images/applepro-silver.webp
+      - id: 501112
+        color: Black
+        price: 2099.95
+        image: images/applepro-16-black.webp
+  - id: 414
+    name: Apple MacBook Air ,15 inch , M4 10-Core CPU 4.40GHz , 256GB 16GB Ram
+      (2025) New , Sealed
+    category: Laptops & Accessories
+    variants:
+      - price: 1299.95
+        image: images/applepro-sblue.png
+        color: Sky Blue
+        id: 501113
+    description: >-
+      The Apple MacBook Air 15-inch (Early 2025)
+
+      featuring the M4 chip is powered by a 10-core CPU (4 performance and 6 efficiency cores) clocked at 4.40GHz. This latest generation introduces the Sky Blue finish and is built specifically to support Apple Intelligence features like Writing Tools and Image Playground. 
+
+      Core Technical Specifications
+
+          Processor: Apple M4 chip with a 10-core CPU, 10-core GPU (supporting hardware-accelerated ray tracing), and a 16-core Neural Engine.
+          Memory: Starts with 16GB of unified memory (configurable to 24GB or 32GB) with 120GB/s memory bandwidth.
+          Storage: Base configuration includes a 256GB SSD (configurable up to 2TB).
+          Display: 15.3-inch Liquid Retina Display with 2880 x 1864 resolution, 500 nits of brightness, and support for 1 billion colors.
+          Battery Life: Delivers up to 18 hours of video streaming or 15 hours of wireless web.
+          Portability: Weighs 3.3 pounds (1.51 kg) and features a fanless, silent design. 
+
+      Connectivity & Features
+
+          Camera & Audio: Features an upgraded 12MP Center Stage camera for high-quality video calling and a six-speaker sound system with Spatial Audio.
+          External Displays: Supports up to two external displays with the laptop lid open.
+          Ports: Includes two Thunderbolt 4 (USB-C) ports, a MagSafe 3 charging port, and a 3.5mm headphone jack with high-impedance support.
+          Wireless: Equipped with Wi-Fi 6E and Bluetooth 5.3. 
+  - name: Apple MacBook Air ,15 inch , M4 10-Core CPU 4.40GHz ,512GB  16GB Ram
+      (2025) New , Sealed
+    id: 415
+    category: Laptops & Accessories
+    description: >-
+      The Apple MacBook Air 15-inch (Early 2025) with the M4 chip and 512GB SSD
+      is a mid-tier configuration that doubles the base storage, making it
+      better suited for users with larger photo libraries or locally stored
+      projects.
+
+      Core Technical Specifications (M4, 512GB)
+
+          Processor: Apple M4 chip with a 10-core CPU (4 performance and 6 efficiency cores) and a 10-core GPU.
+          Clock Speed: The CPU is clocked at 4.40GHz, offering significantly faster burst speeds than previous generations.
+          Neural Engine: 16-core Neural Engine designed to power Apple Intelligence tasks (Writing Tools, Siri, and Image Playground).
+          Memory: Comes standard with 16GB of unified memory (configurable to 24GB or 32GB) with 120GB/s bandwidth.
+          Storage: 512GB SSD, which is notably faster in read/write speeds than the base 256GB model due to using dual NAND chips.
+          Display: 15.3-inch Liquid Retina display (2880 x 1864) with 500 nits of brightness and True Tone technology.
+          Battery: Integrated 66.5-watt-hour battery providing up to 18 hours of video playback.
+
+      Key Hardware Features
+
+          Camera: Upgraded 12MP Center Stage camera with support for Desk View.
+          Audio: Six-speaker sound system with force-cancelling woofers and support for Spatial Audio.
+          External Displays: Supports up to two external displays while the laptop lid is open.
+          Charging: Includes a 35W Dual USB-C Port Compact Power Adapter (standard for 512GB+ models) and a MagSafe 3 cable.
+    variants:
+      - id: 501114
+        color: Black
+        price: 1499.95
+        image: images/applepro-16-black.webp
+      - id: 501115
+        color: " Silver"
+        price: 1499.95
+        image: images/applepro-silver.webp
+      - id: 501116
+        color: Sky Blue
+        price: 1499.95
+        image: images/applepro-sblue.png
+      - price: 1499.95
+        color: " Starlight"
+        id: 501117
+        image: images/applem3-starlight.avif
+  - id: 416
+    description: >-
+      The HP 14-inch HD Windows Laptop in Moonlight Blue is a stylish and
+      portable notebook designed to handle everyday computing tasks with ease.
+      Powered by an AMD Athlon 7120 processor, this laptop delivers reliable
+      performance for web browsing, video streaming, online learning, and basic
+      productivity apps. With a lightweight build and eye-catching finish, it’s
+      ideal for students, professionals on the go, or anyone who needs a
+      dependable laptop for home use.
+
+
+      The laptop features a 14-inch HD display with a resolution of 1366 × 768, offering crisp visuals and vibrant colors in a compact form factor that’s easy to carry around. Although it doesn’t have a touchscreen, the screen size and aspect ratio make it well suited for everyday tasks like watching videos, reading documents, and keeping multiple windows open without feeling cramped. Backed by AMD Radeon integrated graphics, the display delivers smooth visuals for multimedia and light gaming experiences.
+
+
+      Equipped with 4GB of RAM, this HP laptop is built for basic multitasking and responsive performance for standard applications. While the memory is optimized for lighter workloads, it’s enough to run Windows 11 Home comfortably and handle multiple browser tabs or apps without excessive slowdowns. Storage comes via a 128GB UFS (Universal Flash Storage) drive, which boots the system quickly and loads apps faster than many traditional storage options, providing snappy performance for everyday use.
+
+
+      This laptop runs Windows 11 Home in S Mode, offering a secure and streamlined operating system with fast boot times and built-in security features to help protect against malware and phishing. It also includes features like Wi-Fi 6 and Bluetooth connectivity, enabling modern wireless networking and peripheral support. Battery life is designed to keep up with a full day of use, with users reporting long playback and productivity times between charges. Overall, the HP 14-inch HD laptop balances essential performance and portability in a package that’s p
+    category: Laptops & Accessories
+    name: HP 14 inch HD Windows Laptop , AMD Athlon 7120 . 128GB  4GB Ram , New ,
+      Sealed
+    variants:
+      - id: 501118
+        color: Moonlight Blue
+        price: 249.95
+        image: images/hp04.webp
+  - id: 417
+    name: " HP 14 inch HD Windows Laptop Intel Processor N150  , 128GB 4GB Ram , New
+      , Sealed"
+    description: >-
+      The HP 14-inch Laptop
+
+      powered by the Intel Processor N150
+
+      is a modern, ultra-portable device (approximately 3.1–3.2 lbs) designed for efficiency and everyday productivity. 
+
+      Core Performance Specs
+
+          Processor: Intel Processor N150
+          (Quad-core, up to 3.6 GHz turbo frequency) with a 6MB L3 cache.
+          Memory: 4GB DDR4-3200 RAM. While many budget laptops have soldered memory, some community sources indicate this model may have an upgradeable slot supporting up to 16GB.
+          Storage: 128GB Universal Flash Storage (UFS). UFS offers faster read/write speeds than standard eMMC found in older budget laptops.
+          Operating System: Windows 11 Home in S mode, which is optimized for security and performance by only allowing apps from the Microsoft Store. 
+
+      Display & Multimedia
+
+          Screen: 14-inch diagonal HD (1366 x 768) micro-edge, anti-glare display with 250 nits brightness.
+          Graphics: Integrated Intel UHD Graphics.
+          Camera: HP True Vision 720p HD camera featuring temporal noise reduction and a physical privacy shutter.
+          Audio: Dual speakers with advanced noise reduction technology. 
+
+      Connectivity & Ports
+
+          Wireless: Wi-Fi 6 (802.11ax) and Bluetooth 5.3 for faster, more reliable connections.
+          Physical Ports:
+              1x USB Type-C (5Gbps signaling rate; supports data only).
+              2x USB Type-A (5Gbps signaling rate).
+              1x HDMI 1.4b for external monitor support.
+              1x Headphone/microphone combo jack.
+              1x Multi-format SD media card reader. 
+
+      Battery & Design
+
+          Battery Life: Up to 11 hours of standard use.
+          Fast Charge: Supports HP Fast Charge, reaching roughly 50% battery in 45 minutes.
+          Build: Available in colors like Waterfall Blue, Sky Blue, and Natural Silver. It often includes a dedicated Copilot key for quick AI assistance. 
+    category: Laptops & Accessories
+    variants:
+      - color: " Pink"
+        id: 501119
+        price: 289.95
+        image: images/hp06.webp
+      - color: Blue
+        price: 289.95
+        id: 501120
+        image: images/hp03.webp
+  - id: 418
+    name: HP Chromebook Laptop 15.6 inch , Intel Processor N200 , 64GB eMMC , 8GB
+      Ram ( 2023) New , Sealed
+    description: >+
+      The HP Chromebook 15a-nb0013dx
+
+      is a 15.6-inch laptop released in 2023, designed for efficient web-based productivity and multitasking. It is particularly notable for featuring 8GB of LPDDR5 RAM, which is higher than many other budget Chromebooks in its class. 
+
+      Core Performance Specs
+
+          Processor: Intel Processor N200 (4 cores, 4 threads) with a base clock of 1.1 GHz and a burst speed up to 3.7 GHz.
+          Memory: 8GB LPDDR5-4800 MHz RAM (onboard), optimized for power efficiency and high data rates.
+          Storage: 64GB eMMC internal flash storage.
+          Graphics: Integrated Intel UHD Graphics.
+          Operating System: ChromeOS, which supports automatic updates and built-in Google apps. 
+
+      Display & Multimedia
+
+          Screen: 15.6-inch diagonal HD (1366 x 768) micro-edge, anti-glare display with 250 nits of brightness.
+          Camera: HP True Vision 720p HD camera with temporal noise reduction and a physical privacy shutter.
+          Audio: Dual speakers with HD audio and integrated dual-array digital microphones. 
+
+      Connectivity & Ports
+
+          Wireless: MediaTek Wi-Fi 6 (2x2) and Bluetooth 5.3 wireless card.
+          I/O Ports:
+              2x USB Type-C (5Gbps signaling rate; supports USB Power Delivery and DisplayPort 1.4).
+              1x USB Type-A (5Gbps signaling rate).
+              1x HDMI 2.1 output.
+              1x MicroSD media card reader.
+              1x Headphone/microphone combo jack. 
+
+      Power & Physical Specs
+
+          Battery Life: Up to 10.5 to 11.5 hours depending on usage.
+          Fast Charge: Supports HP Fast Charge, reaching approximately 50% battery in 45 minutes using the included 45W USB-C power adapter.
+          Dimensions: 14.28" x 9.51" x 0.78".
+          Weight: Approximately 3.81 lbs (1.73 kg). 
+
+    category: Laptops & Accessories
+    variants:
+      - id: 501121
+        color: Silver
+        price: 299.95
+        image: images/hp01-silver.webp
+  - id: 419
+    variants:
+      - id: 501122
+        color: Blue
+        image: images/hp01-blue.webp
+        price: 299.95
+      - color: Glimmer Garnet
+        id: 501123
+        image: images/hp01-red.webp
+        price: 299.95
+    name: HP Windows 11 15.6 inch Laptop , Intel Processor N200 ,128GB 4GB  Ram ,
+      New , Sealed
+    description: >-
+      The HP 15.6-inch Laptop with the Intel Processor N200 is built on a
+      modern, energy-efficient architecture (Alder Lake-N) designed to handle
+      daily productivity without a high power draw. 
+
+      Performance Specifications
+
+          Processor: Intel Processor N200 (Quad-core, up to 3.7 GHz burst). This chip is significantly more capable than older Celeron or Pentium Silver processors.
+          Graphics: Integrated Intel UHD Graphics (supports 4K video playback).
+          RAM:
+              Windows Models: Typically 4GB DDR4-3200. Some models feature an open slot allowing an upgrade to 16GB.
+              Chromebook Models: Typically 8GB LPDDR5-4800 (non-upgradeable).
+          Storage:
+              Windows Models: 128GB UFS (Universal Flash Storage), which is faster than traditional eMMC but slower than NVMe SSDs.
+              Chromebook Models: 64GB eMMC. 
+
+      Display & Multimedia
+
+          Screen: 15.6-inch diagonal HD (1366 x 768) micro-edge, anti-glare, 250 nits brightness.
+          Webcam: HP True Vision 720p HD camera with temporal noise reduction and a physical privacy shutter.
+          Audio: Dual speakers with noise-canceling microphones. 
+
+      Connectivity & Ports
+
+          Wireless: Wi-Fi 6 (802.11ax) and Bluetooth 5.3.
+          Physical Ports:
+              1x USB Type-C (5Gbps signaling rate; supports data only).
+              2x USB Type-A (5Gbps signaling rate).
+              1x HDMI 1.4b.
+              1x Headphone/microphone combo jack.
+              1x AC smart pin. 
+
+      Battery & Build
+
+          Battery: 3-cell, 41 Wh Li-ion battery.
+          Battery Life: Up to 11.5 hours for Windows; up to 10.5 hours for Chromebook.
+          Fast Charge: Approximately 50% in 45 minutes.
+          Weight: ~3.5 to 3.8 lbs (approx. 1.6–1.7 kg).
+          Keyboard: Full-size with a numeric keypad. 
+
+      Software
+
+          Windows Models: Windows 11 Home in S mode (optimized for security). Often includes a 1-year Microsoft 365 Personal subscription.
+          Chromebook Models: ChromeOS (includes Google Play Store support). 
+    category: Laptops & Accessories
+    price: ""
+    image: ""
+  - id: 420
+    name: Asus Rog Xbox Ally 7" ,120Hz Gaming Handheld Touchscreen , 512GB 16GB Ram
+      , New , Sealed
+    description: >-
+      The ASUS ROG Xbox Ally
+
+      (Model RC73YA) is a 2025/2026 gaming handheld developed in partnership with Xbox. It features a 7-inch 120Hz touchscreen, specialized Xbox branding, and a dedicated Xbox button that launches you directly into a console-like dashboard. 
+
+      Core Specifications
+
+          Processor: Powered by the AMD Ryzen Z2 A processor (4 cores / 8 threads) with RDNA 3 graphics.
+          Memory: 16GB LPDDR5-6400MHz RAM.
+          Storage: 512GB NVMe M.2 SSD (2280 form factor for easier upgrades), expandable via a UHS-II microSD card slot.
+          Display: 7-inch 1080p FHD IPS touchscreen with 500 nits brightness and FreeSync Premium.
+          Battery: 60Wh battery with Rapid Charge (0 to 50% in ~30 minutes).
+          Audio: Dual front-firing smart amp speakers with Dolby Atmos and AI noise cancellation. 
+
+      Xbox Exclusive Features
+
+          Seamless Integration: Includes a physical Xbox button for quick access to the Game Bar and widgets.
+          Cross-Progression: Supports Xbox Play Anywhere, allowing you to sync game saves and achievements between your Xbox console, PC, and the Ally.
+          Included Membership: Most new units come with a 3-month Xbox Game Pass Ultimate trial. 
+    category: Games & Gaming Accessories
+    variants:
+      - id: 501124
+        color: White
+        price: 769.95
+        image: images/xboxpc.webp
+  - name: Lenovo Legion Go S 8" , Handheld Touchscreen Gaming , 1TB  32GB Ram , New
+      , Sealed
+    id: 421
+    category: Games & Gaming Accessories
+    description: >-
+      The Lenovo Legion Go S (1TB/32GB RAM) is a premium, high-performance
+      handheld gaming PC. This specific configuration stands out for its high
+      RAM capacity and lightweight, unibody design.
+
+      Performance & Hardware
+
+          Processor: AMD Ryzen Z2 Go (or Z1 Extreme in some regions), featuring 8 cores and 16 threads for AAA gaming.
+          Memory: 32GB LPDDR5X-7500MHz RAM, providing double the capacity of standard handhelds for smoother multitasking and demanding games.
+          Storage: 1TB PCIe Gen4 SSD, expandable via a built-in UHS-II microSD card slot (up to 2TB additional).
+          Graphics: Integrated AMD Radeon Graphics (RDNA 3).
+
+      Display & Visuals
+
+          Screen: 8.0-inch WUXGA (1920 x 1200) IPS touchscreen.
+          Refresh Rate: 120Hz with Variable Refresh Rate (VRR) support.
+          Brightness: 500 nits, making it viewable in bright environments.
+          Color Gamut: 97% DCI-P3 for vibrant, accurate colors.
+
+      Design & Ergonomics
+
+          Weight: Approximately 1.6 lbs (730g), which is significantly lighter than the original Legion Go due to the integrated (non-detachable) controllers.
+          Joysticks: Hall Effect joysticks to prevent stick drift, featuring customizable RGB lighting.
+          Color: Available in Glacier White with a dirt-resistant matte finish.
+
+      Battery & Connectivity
+
+          Battery: 55.5Whr capacity with Rapid Charge Pro (up to 50% charge in 30 minutes).
+          Ports: 2x USB4 ports (top and bottom) supporting 40Gbps data, Power Delivery 3.0, and DisplayPort 1.4.
+          Wireless: Wi-Fi 6E (802.11ax) and Bluetooth 5.3.
+
+      Software Options
+
+          Windows 11 Home: Compatible with all major launchers (Xbox Game Pass, Epic, Steam).
+          SteamOS: Available on select models for a dedicated, console-like gaming interface.
+    variants:
+      - id: 501125
+        color: White
+        price: 1499.95
+        image: images/len.webp
+  - description: >-
+      The Sony PlayStation VR2 (PS VR2) is built with high-end display and
+      sensory technology designed specifically for the PS5.
+
+      Visuals & Display
+
+          Display Technology: Dual 4K HDR OLED panels.
+          Resolution: 2000 x 2040 per eye (4000 x 2040 combined).
+          Refresh Rate: 90Hz and 120Hz modes for smooth motion.
+          Field of View (FOV): Approximately 110 degrees.
+          Lens Type: Fresnel lenses with an adjustable lens dial (IPD adjustment) to line up the optics with your eyes.
+
+      Sensory & Tracking
+
+          Eye Tracking: Uses an internal IR camera to track where you are looking, enabling Foveated Rendering (concentrating graphical power exactly where you look).
+          Headset Feedback: A built-in motor provides subtle vibrations to the headset for added immersion (e.g., feeling the rush of an object passing your head).
+          Tracking Method: Inside-out tracking via four integrated cameras—no external base stations or sensors required.
+          Audio: Integrated microphone and a 3.5mm jack for the included stereo headphones or your own headset.
+
+      Sense Controllers
+
+          Haptics: Advanced haptic feedback and Adaptive Triggers (L2/R2) that provide variable resistance.
+          Finger Touch Detection: The controller senses the position of your fingers without pressing a button, allowing for more natural gestures.
+          Charging: Internal rechargeable batteries via USB-C.
+
+      Connectivity & Weight
+
+          Connection: A single USB-C cable (approx. 14.7 feet long) connects directly to the front of the PS5.
+          Weight: Approximately 560 grams (excluding the cable), which is lighter and more balanced than the original PS VR.
+    category: Games & Gaming Accessories
+    name: " Sony PlayStation VR2 (PS VR2)  New , Sealed"
+    id: 422
+    variants:
+      - id: 501126
+        color: White
+        price: 469.95
+        image: images/vr2-02.png
+  - name: Sony PlayStation VR2 , Horizon Call Of The Mountain Bundle  , New , Sealed
+    id: 423
+    category: Games & Gaming Accessories
+    description: >-
+      The Sony PlayStation VR2 Horizon Call of the Mountain Bundle
+
+      delivers a high-fidelity virtual reality experience powered by the PlayStation 5. This package combines the advanced hardware of the PS VR2 headset and Sense controllers with a digital copy of the critically acclaimed VR title, Horizon Call of the Mountain. 
+
+      Technical Specifications
+
+      VR Headset
+
+          Display Panel: Dual OLED displays.
+          Panel Resolution: 2000 x 2040 per eye (4000 x 2040 combined), offering 4K HDR visuals.
+          Refresh Rate: 90Hz and 120Hz.
+          Field of View: Approximately 110 degrees.
+          Lens Design: Fresnel lenses with an adjustable lens separation dial to match your IPD (interpupillary distance).
+          Tracking: Inside-out tracking using 4 built-in cameras for headset and controller movement; no external camera is required.
+          Sensors: Six-axis motion sensing system (3-axis gyroscope, 3-axis accelerometer), IR proximity sensor, and an IR camera for eye tracking per eye.
+          Feedback: Built-in motor for headset vibration.
+          Connection: Single USB Type-C cable to the PS5.
+          Audio: Built-in microphone and a stereo headphone jack (comes with stereo headphones). 
+
+      Sense Controllers (Left & Right)
+
+          Buttons (Left): PS button, Create button, Triangle, Square, L1 (Grip), L2 (Trigger), and Left Stick.
+          Buttons (Right): PS button, Options button, Circle, Cross, R1 (Grip), R2 (Trigger), and Right Stick.
+          Features:
+              Adaptive Triggers: Provides variable tension on L2 and R2 buttons.
+              Haptic Feedback: High-fidelity vibrations for immersive in-game sensations.
+              Finger Touch Detection: Capacitive sensors detect thumb and finger placement without button presses.
+          Tracking: IR LED tracking rings that work with the headset's cameras.
+          Power: Built-in rechargeable Lithium-ion batteries charged via USB-C. 
+
+      Bundle Software: Horizon Call of the Mountain 
+
+          Type: Digital voucher code included in the box.
+          Gameplay Highlights: Players take on the role of Ryas, a former Carja soldier, exploring the world through climbing, archery, and machine combat. 
+
+      Physical Dimensions & Weight
+
+          Product Dimensions: Approximately 16.88 x 10 x 7.63 inches.
+          Headset Weight: Approximately 560g (excluding cables). 
+    variants:
+      - color: White
+        price: 499.95
+        id: 501127
+        image: images/vr2-1.png
+  - name: Sony PlayStation 5 Slim Console Digital , Fortnite Cobalt Star Bundle ,
+      1TB , New, Sealed
+    id: 424
+    category: Games & Gaming Accessories
+    description: >+
+      The Sony PlayStation 5 Slim Console - Fortnite Cobalt Star Bundle
+
+      features a 1TB SSD, delivering the same high-performance gaming as the original PS5 but in a significantly smaller and more compact design. This bundle is available in both Disc Edition and Digital Edition variants. 
+
+      Core Technical Specifications
+
+          Processor: Custom 8-core AMD Ryzen Zen 2 CPU, variable frequency up to 3.5 GHz.
+          Graphics: AMD Radeon RDNA 2-based engine with Ray Tracing support; up to 10.3 TFLOPS.
+          Storage: 1TB custom NVMe SSD (upgraded from the original 825GB), providing approximately 848GB of usable space.
+          Memory: 16GB GDDR6 RAM with a 448GB/s bandwidth.
+          Video Output: Supports 4K TV gaming with refresh rates up to 120Hz (requires HDMI 2.1) and 8K output support.
+          Audio: Tempest 3D AudioTech for immersive soundscapes.
+          Connectivity:
+              Front: Two USB-C ports (one Hi-Speed, one Super-Speed 10Gbps).
+              Rear: Two USB-A Super-Speed 10Gbps ports, Gigabit Ethernet, and HDMI 2.1.
+              Wireless: Wi-Fi 6 and Bluetooth 5.1. 
+
+      Physical Design & Differences
+
+          Size & Weight: The Slim is roughly 30% smaller in volume and up to 24% lighter than the original model.
+          Modular Drive: The Digital Edition is upgradeable; you can purchase a separate Ultra HD Blu-ray Disc Drive and attach it later.
+          Side Panels: Features four separate cover panels—the top panels have a glossy finish, while the bottom ones are matte. 
+
+      Bundle Exclusives (Cobalt Star Pack)
+
+      The bundle includes a digital voucher for exclusive Fortnite content and 1,000 V-Bucks: 
+
+          Cobalt Snowfoot Outfit (with LEGO Style)
+          Sapphire Star Back Bling
+          Indigo Inverter Pickaxe
+          Weathered Snow Stripes Wrap
+          Cobalt Crash Drums
+          Gold Painted Cosmetics: Krackle Boost, Discotheque Wheels, and Stella Trail. 
+
+      In the Box
+
+          PlayStation 5 Slim Console
+          (1TB SSD).
+          DualSense Wireless Controller (White).
+          Two horizontal stand feet.
+          HDMI 2.1 cable, AC power cord, and USB-C charging cable.
+          Pre-installed game: ASTRO's Playroom. 
+
+    variants:
+      - id: 501128
+        color: White
+        price: 669.95
+        image: images/ps501.png
+  - name: "Sony PlayStation 5 Console Disc Edition  , Fortnite Cobalt Star Bundle ,
+      1TB , New, Sealed "
+    id: 425
+    category: Games & Gaming Accessories
+    description: >-
+      The Sony PlayStation 5 Slim Disc Edition – Fortnite Cobalt Star Bundle
+
+      features a 1TB custom NVMe SSD and an integrated Ultra HD Blu-ray disc drive. This "Slim" model is approximately 30% smaller in volume and 24% lighter than the original PS5, while offering improved storage capacity. 
+
+      Technical Specifications
+
+          Processor: Custom 8-core AMD Ryzen Zen 2 CPU with variable frequency up to 3.5 GHz.
+          Graphics Engine: AMD Radeon RDNA 2-based GPU with hardware-accelerated Ray Tracing; up to 10.3 TFLOPS.
+          Storage: 1TB custom NVMe SSD, providing roughly 848GB of usable space for games and media.
+          Video Output: Supports true 4K resolution at refresh rates up to 120Hz (requires HDMI 2.1) and HDR technology.
+          Audio: Tempest 3D AudioTech for immersive, directional sound via compatible headphones or TV speakers.
+          Optical Drive: Built-in Ultra HD Blu-ray Player for physical game discs and 4K movie playback.
+          Connectivity: Includes Wi-Fi 6, Bluetooth 5.1, Gigabit Ethernet, and four USB ports (including two USB-C on the front). 
+
+      Bundle Inclusions & Box Contents
+
+      According to official listings from Best Buy and Walmart, the package includes:
+
+          Hardware: PS5 Slim Disc Console and one White DualSense Wireless Controller.
+          Digital Content: A voucher for the Fortnite Cobalt Star Pack, which contains 1,000 V-Bucks and 8 in-game cosmetics (Cobalt Snowfoot Outfit, Sapphire Star Back Bling, Indigo Inverter Pickaxe, etc.).
+          Accessories: Two horizontal stand feet, HDMI 2.1 cable, AC power cord, and USB charging cable.
+          Pre-installed Game: ASTRO’s Playroom. 
+
+      Physical Dimensions
+
+          Dimensions: Approximately 14.13" (H) x 6.66" (W) x 16.94" (L).
+          Weight: Approximately 10.56 to 11 lbs. 
+    variants:
+      - id: 501129
+        color: White
+        price: 649.95
+        image: images/psd503.png
+  - id: 426
+    name: Sony PlayStation 5 Slim  , Console Digital Edition  , NBA 2K25 Bundle
+      White  , 1TB , New , Sealed
+    category: Games & Gaming Accessories
+    description: >-
+      The Sony PlayStation 5 Slim Digital Edition – NBA 2K25 Bundle
+
+      is an all-digital gaming package that includes the redesigned Slim console with a 1TB SSD and a digital voucher for the standard edition of NBA 2K25. 
+
+      Core Technical Specifications
+
+      The "Slim" hardware is approximately 30% smaller in volume and up to 24% lighter than the original PS5 model. 
+
+          Processor: Custom 8-core AMD Ryzen Zen 2 CPU, variable frequency up to 3.5 GHz.
+          Graphics: AMD Radeon RDNA 2-based engine with hardware-accelerated Ray Tracing and up to 10.3 TFLOPS of power.
+          Memory: 16GB GDDR6 RAM with a 448GB/s bandwidth.
+          Storage: 1TB custom NVMe SSD, providing approximately 848GB of usable space for games.
+          Video Output: Supports true 4K resolution at 120Hz on compatible displays, plus HDR technology and 8K output.
+          Audio: Tempest 3D AudioTech for immersive, directional sound.
+          Connectivity: Wi-Fi 6, Bluetooth 5.1, and Gigabit Ethernet. Front ports include two USB-C ports (one Super-Speed 10Gbps, one Hi-Speed). 
+
+      Physical Dimensions & Weight
+
+          Dimensions: Approximately 14.13" x 3.8" x 8.5".
+          Weight: Approximately 5.7 lbs (2.6 kg) for the console itself.
+          Design: Features a glossy top finish and matte bottom panels. 
+
+      Box Contents
+
+      According to retailers like Best Buy and Target:
+
+          PlayStation 5 Slim Digital Edition Console
+          (White).
+          One DualSense Wireless Controller (White) with haptic feedback and adaptive triggers.
+          Digital voucher for NBA 2K25 Standard Edition (requires ~120GB storage).
+          Two horizontal stand feet, HDMI 2.1 cable, AC power cord, and USB-C charging cable.
+          Pre-installed game: ASTRO's Playroom. 
+    variants:
+      - id: 501130
+        color: White
+        price: 639.95
+        image: images/ps502.png
+  - id: 427
+    name: Google Nest Cam 2-Pack Outdoor or Indoor , New , Sealed
+    category: Security Camera Systems
+    description: >
+      
+
+      The Google Nest Cam 2-Pack is a versatile and reliable wireless security camera system designed for both indoor and outdoor use. This set includes two battery-powered cameras, providing users with the flexibility to monitor various areas of their home or property. With a sleek, weather-resistant design, the cameras can be placed outside to monitor the exterior of your home or indoors for more personalized surveillance.
+
+
+      One of the standout features of the Nest Cam is its high-definition video quality, delivering clear and detailed footage to ensure you can accurately monitor any activity. The cameras are equipped with motion detection, sending instant alerts to your smartphone if unusual movement is detected. This added layer of security allows you to stay informed of what’s happening in real-time, no matter where you are.
+
+
+      The cameras operate on a rechargeable battery, which makes installation simple and wire-free. You can easily mount them in strategic locations without the need for complex wiring or professional installation. Additionally, the Nest Cam integrates seamlessly with the Google Home ecosystem, allowing for easy control through voice commands via Google Assistant.
+
+
+      For added peace of mind, the cameras come with a built-in speaker and microphone, enabling two-way audio communication. Whether you’re greeting a visitor at the door or scaring off an intruder, the two-way audio function adds a layer of interaction to your home security setup. With the ability to store video footage on a cloud subscription service, the Google Nest Cam 2-Pack provides comprehensive coverage for anyone looking to enhance their home security system.
+    variants:
+      - id: 501131
+        color: White
+        price: 359.95
+        image: images/camera10.webp
+  - id: 428
+    name: TP-Link Tapo Wireless Smart Video Doorbell  , New , Sealed
+    description: >-
+      The TP-Link Tapo TD21 (2-Pack)
+
+      is a wireless smart video doorbell system that offers high-definition monitoring and flexible installation without requiring a subscription. While a standard single-pack typically includes one camera and one chime, some retailers offer a 2-pack configuration that provides two doorbell units. 
+
+      Key Specifications for Tapo TD21
+
+          Resolution: 2K (2560 x 1440) HD video for capturing sharp details like faces and packages.
+          Field of View: 160° ultra-wide diagonal view providing head-to-toe coverage.
+          Night Vision: Full-color night vision with integrated spotlights for clarity in pitch-black conditions.
+          Battery Life: Up to 180 days on a single charge of the 6400mAh rechargeable battery.
+          Storage: Supports local storage via a microSD card (up to 512GB) or cloud storage through Tapo Care.
+          Durability: IP65-rated weatherproof housing for reliable outdoor use. 
+
+      Configuration & Availability
+
+      Standard packs usually include one chime unit per doorbell, and additional chimes can be added separately to expand alerts throughout the home. 
+    price: ""
+    category: Security Camera Systems
+    variants:
+      - id: 501132
+        color: White
+        price: 109.95
+        image: images/camera5.webp
+  - name: " Arlo Essential Indoor Camera HD (2nd Gen)  , New , Sealed"
+    category: Security Camera Systems
+    description: >-
+      (VMC2060-1WMNAS)
+
+      The Arlo Essential Indoor Camera HD (2nd Gen)
+
+      is a wired 1080p security camera designed for residential indoor use. It is known for its Automized Privacy Shield, which physically covers the lens when disarmed to ensure privacy. 
+
+      Key Technical Specifications
+
+          Resolution: 1080p Full HD (2MP).
+          Field of View: 130° diagonal.
+          Night Vision: High-power infrared LEDs (850nm) with a range of up to 25 feet; captures black-and-white images.
+          Audio: Full-duplex two-way audio with built-in microphone and speaker.
+          Siren: Integrated siren that can be triggered manually or automatically by motion.
+          Zoom: 12x digital zoom.
+          Connectivity: Direct connection to 2.4 GHz Wi-Fi. 
+
+      Physical & Environmental
+
+          Power: Wired via a 6.5-foot (2m) USB-C cable and USB-A power adapter (5V DC, 2A).
+          Dimensions: Approximately 2.7" x 2.7" x 2.8".
+          Operating Temp: 32°F to 113°F (0°C to 45°C).
+          Mounting: Can be placed on a flat surface using its integrated stand or wall-mounted with the included kit. 
+
+      Smart Home & Software
+
+          Compatibility: Works with Amazon Alexa, Google Home, Apple Home, Samsung SmartThings, and IFTTT.
+          Storage: Cloud storage only; requires an Arlo Secure subscription for video history, smart alerts (person/pet/package detection), and activity zones.
+    id: 429
+    variants:
+      - id: 501133
+        color: White
+        price: 69.95
+        image: images/camera11.webp
+  - name: MobiCam MP Smart Baby & Nursery Monitoring Camera  , New , Sealed
+    id: 430
+    category: Security Camera Systems
+    description: >-
+      The MobiCam MP Smart Baby & Nursery Monitoring Camera is a versatile and
+      innovative solution designed to help parents monitor their babies and
+      toddlers with ease. Featuring dual-band connectivity (supporting both
+      2.4GHz and 5GHz Wi-Fi), this camera ensures a stable connection, even in
+      environments with varying network conditions. The Bluetooth Low Energy
+      (BLE) connectivity further enhances the user experience by providing
+      efficient and reliable communication between the camera and your devices.
+
+
+      With its high-quality video streaming, the MobiCam MP offers real-time monitoring of your baby's nursery or play area directly from your smartphone or tablet. The camera’s built-in features, such as two-way audio, allow you to listen and speak to your baby, providing reassurance or calming them down without being physically present. Whether you are checking on your baby during nap time or ensuring their safety while they play, this camera gives you peace of mind with its clear video and reliable connection.
+
+
+      Designed for ease of use, the MobiCam MP integrates seamlessly with the accompanying mobile app, allowing for remote viewing, movement tracking, and adjustable settings. Parents can stay connected no matter where they are, with the ability to monitor their little one from anywhere using the smartphone app. Its easy setup and user-friendly interface make it an ideal choice for any modern nursery, offering advanced features without the complexity.
+    variants:
+      - id: 501134
+        color: White
+        price: 99.95
+        image: images/camera3.webp
+  - name: Arlo Essential Security Camera 3rd Gen , 1- Pack (2025)  , New , Sealed
+    id: 431
+    category: Security Camera Systems
+    description: >2
+       1 - Pack
+
+      The Arlo Essential Security Camera (3rd Gen) series offers a wireless, battery-powered home security solution engineered for simplicity, broad coverage, and sharp video clarity. With 2K resolution (up to 2560 × 1440 pixels) and an expansive 130° field of view, the camera captures detailed footage—making it easier to identify features like license plates, facial expressions, and clothing. Color night vision ensures visibility even after dark, and the camera’s battery-powered design enables flexible placement, free of wiring constraints.
+
+
+      Setup is straightforward: simply mount the camera, connect it to your Wi-Fi network (supports both 2.4 GHz and 5 GHz bands for better connectivity), and you’re ready to monitor. Two-way audio allows you to speak through the camera to communicate with visitors, pets, or delivery personnel. Smart motion alerts notify your phone when activity is detected, and you can review footage via the Arlo app at any time. The focus on ease of use and flexible placement makes it a strong option for indoor or outdoor monitoring depending on the kit (1-Cam, 2-Cam, 3-Cam with yard sign) selected.
+
+
+      Whether you purchase the single-camera kit, the two-camera kit, or the three-camera kit (which also includes a yard sign for visibility), you’re getting the same core hardware and features—with additional quantity and deterrence signage in the larger kits. The battery-powered format makes this line especially well suited for locations where running power wiring is difficult, such as exterior walls, garages, or remote corners of a property. By combining high resolution, flexible mounting, and smart-home compatibility, the Arlo Essential 3rd Gen camera line delivers a solid entry point into wireless home surveillance.
+    variants:
+      - id: 501135
+        color: White
+        price: 109.95
+        image: images/camera6.webp
+  - id: 432
+    name: Arlo Essential Security Camera 3rd Gen , 2- Pack (2025)  , New , Sealed
+    category: Security Camera Systems
+    description: >2
+       2- Pack
+
+      The Arlo Essential Security Camera (3rd Gen) series offers a wireless, battery-powered home security solution engineered for simplicity, broad coverage, and sharp video clarity. With 2K resolution (up to 2560 × 1440 pixels) and an expansive 130° field of view, the camera captures detailed footage—making it easier to identify features like license plates, facial expressions, and clothing. Color night vision ensures visibility even after dark, and the camera’s battery-powered design enables flexible placement, free of wiring constraints.
+
+
+      Setup is straightforward: simply mount the camera, connect it to your Wi-Fi network (supports both 2.4 GHz and 5 GHz bands for better connectivity), and you’re ready to monitor. Two-way audio allows you to speak through the camera to communicate with visitors, pets, or delivery personnel. Smart motion alerts notify your phone when activity is detected, and you can review footage via the Arlo app at any time. The focus on ease of use and flexible placement makes it a strong option for indoor or outdoor monitoring depending on the kit (1-Cam, 2-Cam, 3-Cam with yard sign) selected.
+
+
+      Whether you purchase the single-camera kit, the two-camera kit, or the three-camera kit (which also includes a yard sign for visibility), you’re getting the same core hardware and features—with additional quantity and deterrence signage in the larger kits. The battery-powered format makes this line especially well suited for locations where running power wiring is difficult, such as exterior walls, garages, or remote corners of a property. By combining high resolution, flexible mounting, and smart-home compatibility, the Arlo Essential 3rd Gen camera line delivers a solid entry point into wireless home surveillance.
+    variants:
+      - id: 501136
+        color: White
+        price: 159.95
+        image: images/camera6.webp
+  - name: "Instachew  Purrsight 360° Smart Wireless Camera (IC136W) New , Sealed  "
+    description: >-
+      (IC136W) The Instachew Purrsight 360° Smart Wireless Pet Camera is an
+      innovative solution designed for pet owners who want to stay connected to
+      their pets, even when they’re away. Offering 1080p HD video quality, this
+      camera provides clear, sharp images, allowing you to monitor your pet’s
+      activities in real time with exceptional detail. The 360° rotation feature
+      allows the camera to cover every corner of the room, offering
+      comprehensive coverage for your indoor space, whether it's your living
+      room or pet’s favorite resting spot.
+
+
+      Equipped with two-way audio, the Instachew Purrsight allows you to not only listen to your pet but also communicate with them through the built-in microphone and speaker. This feature enables you to reassure or interact with your pet remotely, whether it’s calming them down or calling them for attention. The camera’s mobile app makes it easy to monitor your pet from anywhere, giving you the flexibility to view live footage, receive alerts, and control the camera with your smartphone.
+
+
+      The Purrsight 360° also integrates motion detection, alerting you to any activity in your home and providing peace of mind when you're away. Designed for indoor use, this smart camera is perfect for monitoring your pet's behavior, ensuring their safety, and providing them with the attention they need. With easy setup and seamless connectivity, it’s an ideal choice for pet owners seeking to stay connected with their pets and keep an eye on their well-being, no matter where they are.
+    category: Security Camera Systems
+    id: 433
+    variants:
+      - id: 501137
+        color: White
+        price: 99.95
+        image: images/camera12.webp
+  - description: >-
+      Transform your entrance alerts with the ERA-PBTX wireless doorbell button.
+      This stylish device features 1-mile range, LED illumination for nighttime
+      visibility, and weatherproof construction. With 2-3 year battery life and
+      easy installation options, it’s the perfect solution for reliable visitor
+      notifications in any setting.  Long Range Push Button Features
+
+
+      The ERA-PBTX delivers exceptional performance with its one-mile transmission range, ensuring reliable alerts across large properties. The illuminated button provides easy visibility at night while maintaining an elegant appearance.
+
+      Weatherproof Button Design
+
+
+      Built for durability:
+
+          All-Weather Housing: Operates from -4°F to 140°F
+          Outdoor-Rated: Resists rain and snow
+          LED Indicator: Green glow for night visibility
+          Stylish Design: Modern aesthetic
+          Flexible Mounting: Tape or screws included
+
+      Easy Installation System
+
+
+      Simple setup process:
+
+          Quick Pairing: One-minute receiver connection
+          Multiple Mounting: Choose your preferred method
+          Battery Installation: Pre-installed lithium cell
+          Instant Operation: Ready to use
+          Expandable: Works with all ERA receivers
+
+      Technical Specifications
+
+
+      Button Features:
+
+          Range: Up to 1 mile
+          Battery Life: 2-3 years
+          Power: Lithium battery included
+          Operation: -4°F to 140°F
+          LED: Green illumination
+          Outdoor rated
+          Warranty: 1-year coverage
+
+      Package Contents
+
+          1 x ERA-PBTX transmitter
+          1 x Lithium battery
+          Double-sided tape
+          Mounting screws
+          User manual
+
+      Compatible Receivers
+
+
+      Works with:
+
+          ERA-DCRX desktop receiver
+          ERA-RXPG plugin receiver
+          ERA-VPRX portable receiver
+          All ERA series products
+
+      Installation Guide
+
+
+      Choose between double-sided tape for quick setup or screws for permanent installation.
+    name: ERA-PBTX Wireless Doorbell Button , New , Sealed
+    id: 434
+    category: Security Camera Systems
+    variants:
+      - id: 501138
+        color: " White"
+        price: 69.95
+        image: images/camera8.webp
+  - name: ERA-DSDCR Professional Driveway Alarm System  , New , Sealed
+    id: 435
+    description: >
+      Enhance your property monitoring with the ERA-DSDCR professional driveway
+      alarm system. This complete kit includes the outdoor-rated ERA-DSTX sensor
+      and ERA-DCRX receiver with exceptional 4,000ft range. Features include
+      customizable zone programming, 12V DC outputs for accessories, and support
+      for up to 12 sensors. Perfect for large properties requiring reliable
+      vehicle detection and visitor monitoring. Long Range Property Monitoring
+      Overview
+
+
+      The ERA-DSDCR combines advanced sensor technology with powerful transmission capabilities. The included ERA-DSTX sensor provides reliable outdoor detection while the ERA-DCRX receiver ensures clear notifications through walls and obstacles across its impressive 4,000ft range. This professional-grade system excels in challenging environments where traditional driveway alarms fall short.
+
+      Vehicle Detection System Capabilities
+
+
+      Monitor incoming vehicles and visitors with precision using the outdoor-rated PIR sensor. The system’s versatile design allows for:
+
+          Multiple zone programming
+          Customizable alert melodies
+          Adjustable detection sensitivity
+          Four-level volume control
+          Extended accessory integration
+
+      The ERA-DSDCR provides reliable detection in all weather conditions, ensuring your property remains secure year-round. Its advanced PIR technology minimizes false alerts while maintaining consistent vehicle and visitor detection.
+
+      Property Security Monitor Applications
+
+
+      The ERA-DSDCR excels in various settings:
+
+          Large Residential Properties: Monitor extended driveways and entry points
+          Commercial Facilities: Track vehicle arrivals and departures
+          Industrial Sites: Secure multiple access points
+          Remote Locations: Monitor distant entry areas
+
+      Whether managing a sprawling estate or securing a commercial facility, the system adapts to your specific monitoring needs with customizable zones and alert options.
+
+      Technical Specifications
+
+
+      Receiver Features (ERA-DCRX):
+
+          Zones: 4 programmable
+          Sensor Capacity: Up to 12
+          Volume Levels: 4 + mute
+          Alert Options: 12 selectable melodies
+          Power: 12V DC adapter
+          Outputs: 4 x 12V DC, 1 x C-FORM relay
+          Maximum Range: 4,000 feet
+
+      Sensor Features (ERA-DSTX):
+
+          Range: 4,000 feet
+          Housing: Outdoor-rated
+          Detection: PIR technology
+          Battery: 9V (included)
+          Mounting: Adjustable bracket
+          Weather Resistance: All-season protection
+
+      Package Contents
+
+          1 x ERA-DCRX receiver
+          1 x ERA-DSTX driveway sensor
+          1 x 12V DC power adapter
+          1 x Mounting bracket for sensor
+          Installation hardware for sensor
+          User manual
+
+      Compatibility
+
+          Works with all ERA series transmitters
+          Expandable with additional ERA-DSTX sensors
+          Compatible with 12V DC accessories
+          Integrates with external alarm systems via C-FORM relay
+          Supports multiple receiver configurations
+
+      Installation and Setup
+
+
+      The ERA-DSDCR features plug-and-play installation with flexible mounting options. The sensor’s weatherproof design and adjustable bracket enable optimal placement for reliable vehicle detection. Zone programming and melody selection are straightforward, requiring no technical expertise.
+
+
+      Key installation benefits include:
+
+          No wiring between sensor and receiver
+          Simple zone programming process
+          Adjustable mounting options
+          Quick accessory integration
+          Multiple positioning possibilities
+    category: Security Camera Systems
+    variants:
+      - id: 501139
+        color: White
+        price: 169.95
+        image: images/camera7.webp
+  - name: ERA-DSTX Outdoor Motion Detector ,Wireless Sensor , New , Sealed
+    id: 436
+    category: Security Camera Systems
+    description: >
+      Enhance your property awareness with the ERA-DSTX outdoor motion detector.
+      This weatherproof sensor features an impressive 4,000ft range and advanced
+      PIR technology for reliable movement detection. Compatible with all ERA
+      receivers, including the ERA-DCRX and ERA-VPRX, it’s perfect for
+      monitoring driveways, entryways, and outdoor spaces in any weather
+      condition. 
+
+      Motion Sensing Technology Features
+
+
+      The ERA-DSTX utilizes advanced PIR technology to detect movement in outdoor spaces. Its sophisticated sensors accurately identify both vehicle and pedestrian activity, providing instant alerts through any compatible ERA receiver within its impressive 4,000ft range.
+
+      Key Features and Benefits:
+
+          Unmatched Wireless Range: With a staggering 4,000-foot range, the ERA-DSTX covers vast areas, making it ideal for large properties. Whether your home is surrounded by open landscapes or your business is nestled among industrial materials, this sensor ensures that every movement is detected and reported back to you, no matter the distance.
+          Outdoor-Rated Durability: Designed to withstand the rigors of outdoor use, the ERA-DSTX is built to last. Its outdoor rating guarantees performance in various environmental conditions, from rain to sun, ensuring your security system remains operational year-round.
+          Versatile Compatibility: Seamlessly integrating with the ERA line of products, this driveway monitor sensor can be paired with multiple receivers, such as the ERA-DCRX desktop receiver for home use or the ERA-VPRX portable receiver for on-the-go notifications in a business setting.
+          Easy Installation: Setting up the ERA-DSTX is straightforward, requiring no complex wiring or professional installation. Its wireless nature allows for flexible placement, ensuring optimal coverage of your driveway or business entryway.
+
+      Applications for Home and Business
+
+
+      For Residential Use: Transform your home security with the ERA-DSTX. This sensor extends your monitoring capabilities, alerting you the moment a vehicle or person enters your driveway. Whether you’re inside your home or out in the backyard, rest assured that you’ll be immediately notified of any arrivals, offering both convenience and an added layer of security.
+
+
+      For Commercial Use: Businesses, particularly those with loading docks or secluded entryways, will find immense value in the ERA-DSTX. Early-warning notifications can streamline operations, allowing for better preparedness for deliveries or visitor arrivals. Its long-range capability ensures that even remote sections of your property are under surveillance, enhancing overall security and efficiency.
+
+      Built for outdoor reliability:
+
+          All-Weather Design: Performs in rain, snow, and heat
+          Rugged Housing: Durable outdoor construction
+          Stable Performance: Consistent detection in varying conditions
+          Year-Round Operation: Reliable monitoring in any season
+          UV-Resistant: Maintains integrity under sun exposure
+
+      Perimeter Protection Solutions
+
+
+      Monitor key areas effectively:
+
+          Driveway Monitoring: Early visitor detection
+          Entry Points: Secure access areas
+          Loading Zones: Track delivery arrivals
+          Parking Areas: Monitor vehicle movement
+          Remote Locations: Cover distant property sections
+
+      Technical Specifications
+
+
+      Sensor Features:
+
+          Detection Type: PIR motion sensing
+          Range: Up to 4,000 feet wireless
+          Power: 9V battery operated (not included)
+          Housing: Weather-resistant
+          Mount: Adjustable bracket included
+          Compatibility: All ERA receivers
+
+      Package Contents
+
+          1 x ERA-DSTX sensor
+          1 x Mounting bracket
+          Installation hardware
+          User manual
+
+      Compatibility
+
+          ERA-DCRX desktop receiver
+          ERA-VPRX portable receiver
+          ERA-RXPG plug-in receiver
+          ERA-DSDCR driveway alert kit
+          All ERA series products
+
+      Installation and Setup
+
+
+      The ERA-DSTX features an adjustable mounting bracket. Position the sensor for optimal coverage of your monitored area, insert the battery, and pair it with your ERA receiver for immediate protection.
+    variants:
+      - id: 501140
+        color: Black
+        price: 99.95
+        image: images/carera15.jpg
+  - variants:
+      - id: 501141
+        color: White
+        image: images/camera2.webp
+        price: 49.95
+    name: LRA-PBTXA-L Cordless Door Bell Button  , New , Sealed
+    id: 437
+    category: Security Camera Systems
+    description: >-
+      Upgrade your entrance with the LRA-PBTXA-L cordless door bell button.
+      Features include an illuminated LED halo, 1,000ft range, and weatherproof
+      construction. The sleek white design includes tool-free mounting and works
+      with all LRA receivers. Perfect for enhancing visibility of your doorbell
+      button. Lighted Push Button Features
+
+
+      The LRA-PBTXA-L enhances visitor experience with its illuminated design. The distinctive green LED halo provides clear visual feedback when pressed, confirming signal transmission to receivers.
+
+      Weather Resistant Button Benefits
+
+
+      Built for outdoor reliability:
+
+          LED Halo: Green confirmation light
+          Durable Housing: All-weather protection
+          Easy Access: Simple battery changes
+          Clean Design: Modern white finish
+          Quick Install: Tape or screw mount
+
+      Wireless Button Applications
+
+
+      Perfect for multiple entrances:
+
+          Front Door: Primary entrance
+          Side Entry: Service access
+          Back Door: Delivery area
+          Remote Gates: Extended coverage
+          Multiple Zones: Distinct chimes
+
+      Technical Specifications
+
+
+      Button Features:
+
+          Dimensions: 3″H x 1.25″W x 1″D
+          Range: Up to 1,000 feet
+          Power: CR2032 battery included
+          Illumination: Green LED halo
+          Rating: Outdoor weatherproof
+          Warranty: 1-year coverage
+
+      Installation Options
+
+
+      Choose your mounting method:
+
+          Double-sided adhesive tape
+          Mounting screws
+          Tool-free installation
+          Easy battery access
+          Quick receiver pairing
+
+      Compatibility
+
+
+      Works with:
+
+          LRA-DCRX receiver
+          LRA-DCRXS plugin receiver
+          All LRA series products
+          Multiple zone support
+          Unlimited receivers
+
+      Setup Guide
+
+
+      The LRA-PBTXA-L offers simple installation. Mount using included hardware or tape, insert battery, and pair with your LRA receiver for immediate operation.
+  - name: "WC180-SS Hearing Impaired Doorbell with Strobe  , New , Sealed "
+    id: 438
+    category: Security Camera Systems
+    description: >
+      Never miss visitors with the WC180-SS hearing impaired doorbell. This
+      complete system includes a wireless push button and strobe light receiver
+      with 600ft range. Features include 58 selectable melodies, bright visual
+      alerts, and support for up to 52 transmitters. Ideal for those with
+      hearing loss or noisy environments.  Visual Alert Doorbell Features
+
+
+      The WC180-SS ensures notifications are seen with its ultra-bright strobe light. When triggered, the light flashes 15 times while playing your chosen melody, guaranteeing alerts aren’t missed.
+
+      Accessible Doorbell Benefits
+
+
+      Complete notification system:
+
+          Bright Strobe: Clear visual alerts
+          Multiple Tones: 58 melody options
+          Extended Range: 600ft coverage
+          Privacy Codes: 17,000 combinations
+          Expandable: Up to 52 buttons
+
+      ADA Compliant Applications
+
+
+      Perfect for various needs:
+
+          Hearing Loss: Visual notifications
+          Noisy Areas: Workshop alerts
+          Multi-Door: Different tones
+          Industrial: Clear signals
+          Home Office: Silent alerts
+
+      Technical Specifications
+
+
+      Kit Contents:
+
+          SS111 wireless push button
+          SS155 strobe receiver
+          Coverage: Up to 600 feet
+          Melodies: 58 selections
+          Codes: 17,000 privacy options
+          Power: Standard outlet (receiver)
+
+      Installation Options
+
+
+      Simple setup process:
+
+          Plug-in receiver design
+          No wiring required
+          Tape or screw mounting
+          Quick button pairing
+          Instant operation
+
+      Expandability
+
+
+      System growth options:
+
+          Additional push buttons
+          Extra strobe receivers
+          Multiple entrance monitoring
+          Unique melodies per button
+          Extended coverage areas
+
+      Setup Guide
+
+
+      The WC180-SS features tool-free installation:
+
+          Test system
+          Plug in strobe receiver
+          Mount push button
+          Select melody
+          Set privacy code
+    variants:
+      - id: 501142
+        color: White
+        price: 59.95
+        image: images/camera14.webp
+  - name: "SS132 Door Sensor With Chime  , New , Sealed "
+    category: Security Camera Systems
+    description: >
+      Monitor entrances easily with the SS132 door sensor with chime. This
+      compact device features a magnetic contact, 600ft range, and
+      battery-powered operation. With simple tape mounting and compatibility
+      with all SS receivers, it’s perfect for tracking door activity in homes
+      and businesses.  Magnetic Contact Features
+
+
+      The SS132 provides reliable door monitoring through advanced magnetic sensing. When doors open, the sensor instantly transmits alerts to any SS series receiver within range.
+
+      Door Opening Alert Benefits
+
+
+      Complete monitoring solution:
+
+          Extended Range: 600ft coverage
+          Simple Install: Tape mounting
+          Long Battery: Years of operation
+          Compact Size: 1″W x 2″H x ½”D
+          Discreet Design: Blends with trim
+
+      Entry Monitoring Applications
+
+
+      Perfect for multiple settings:
+
+          Home Security: Entry points
+          Child Safety: Room monitoring
+          Senior Care: Movement tracking
+          Business Use: Access control
+          Retail: Customer entrance alerts
+
+      Technical Specifications
+
+
+      Sensor Features:
+
+          Range: Up to 600 feet
+          Power: 12V 23A battery
+          Main Unit: 1″W x 2″H x ½”D
+          Magnet: ½”W x 2″H x ½”D
+          Installation: Tape mount
+          Battery Life: Multiple years
+
+      Package Contents
+
+          1 x SS132 sensor unit
+          1 x Magnetic contact
+          1 x 12V 23A battery
+          Double-sided tape
+          User manual
+
+      Compatibility
+
+
+      Works with:
+
+          SS135 plugin receiver
+          SS155 series receivers
+          Multiple receiver setup
+          All SS series products
+
+      Installation Guide
+
+
+      The SS132 features tool-free setup:
+
+          Pair with receiver
+          Clean mounting surfaces
+          Apply double-sided tape
+          Align sensor and magnet
+          Insert battery
+    id: 439
+    variants:
+      - id: 501143
+        color: White
+        price: 39.95
+        image: images/camera13.jpg
+  - id: 440
+    name: SS135 Wireless Door Alert Receiver , New ,Sealed
+    description: >
+      Enhance your home monitoring with the SS135 wireless door alert receiver.
+      This versatile unit features 52 distinct melodies, 90dB volume, and
+      support for unlimited sensors. With 600ft range and LED notification, it’s
+      perfect for creating a complete alert system throughout your home. Home
+      Alert System Features
+
+
+      The SS135 serves as your central notification hub. Connect unlimited sensors and customize alerts with unique melodies for each monitored zone.
+
+      Door Alert Options
+
+
+      Complete notification control:
+
+          Multiple Tones: 52 melody choices
+          Volume Levels: 4 settings up to 90dB
+          Visual Alerts: LED flash indicators
+          Extended Range: 600ft coverage
+          Easy Setup: Plugin installation
+
+      <h2>Security Chime Applications</h2>
+
+
+      Perfect for monitoring:
+
+          Entry Points: Doors and windows
+          Motion Areas: Driveways and paths
+          Restricted Zones: Private areas
+          Multiple Floors: Complete coverage
+          Outdoor Spaces: Extended monitoring
+
+      <h2>Technical Specifications</h2>
+
+
+      Receiver Features:
+
+          Range: Up to 600 feet
+          Volume: 4 adjustable levels
+          Alerts: Sound and LED flash
+          Power: Standard outlet
+          Sensor Support: Unlimited
+          Melodies: 52 options
+
+      <h3>Compatibility</h3>
+
+
+      Works with:
+
+          SS111 push buttons
+          SS131 door contacts
+          SS141 motion sensors
+          All SS series transmitters
+          Multiple sensor types
+
+      <h3>Alert Customization</h3>
+
+
+      Create distinct notifications:
+
+          Unique sounds per sensor
+          Adjustable volume by location
+          Visual confirmation
+          Zone identification
+          Custom alert patterns
+
+      <h3>Installation Guide</h3>
+
+
+      The SS135 features instant setup:
+
+          Plug into outlet
+          Pair desired sensors
+          Select melodies
+          Adjust volume
+          Test system
+    category: Security Camera Systems
+    variants:
+      - id: 501144
+        color: White
+        price: 49.95
+        image: images/camera16.jpg
