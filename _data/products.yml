@@ -73,7 +73,7 @@ products:
     image: images/Samsung-Galaxy-S25-128GB-5G-Unlocked-by-Samsung-Dual-Sim-New-Sealed.jpg
   - id: 4
     name: XNET WIFI Data Plans 25GB
-    category: WiFi
+    category: WiFi Plans
     price: 65.95
     description: >-
       Data Plans Get reliable high-speed data wherever you need it — at
@@ -88,7 +88,7 @@ products:
     image: images/Xnet-Wifi.jpeg
   - id: 5
     name: XNET WIFI Xplorer Hotspot 50 GB X Data Plan
-    category: WiFi
+    category: WiFi Plans
     price: 75.95
     description: >-
       Xplorer Hotspot The Xplorer Hotspot is your pocket-sized
@@ -157,7 +157,7 @@ products:
         image: images/tecno1S-white.jpg
   - id: 8
     name: XNET WIFI Xplorer Hotspot 100GB X Data Plan
-    category: WiFi
+    category: WiFi Plans
     price: 85.95
     description: >-
       Xplorer Hotspot The Xplorer Hotspot is your pocket-sized
