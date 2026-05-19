@@ -73,7 +73,7 @@ products:
     image: images/Samsung-Galaxy-S25-128GB-5G-Unlocked-by-Samsung-Dual-Sim-New-Sealed.jpg
   - id: 4
     name: XNET WIFI Data Plans 25GB
-    category: WiFi Plans
+    category: WiFi
     price: 65.95
     description: >-
       Data Plans Get reliable high-speed data wherever you need it — at
@@ -88,7 +88,7 @@ products:
     image: images/Xnet-Wifi.jpeg
   - id: 5
     name: XNET WIFI Xplorer Hotspot 50 GB X Data Plan
-    category: WiFi Plans
+    category: WiFi
     price: 75.95
     description: >-
       Xplorer Hotspot The Xplorer Hotspot is your pocket-sized
@@ -157,7 +157,7 @@ products:
         image: images/tecno1S-white.jpg
   - id: 8
     name: XNET WIFI Xplorer Hotspot 100GB X Data Plan
-    category: WiFi Plans
+    category: WiFi
     price: 85.95
     description: >-
       Xplorer Hotspot The Xplorer Hotspot is your pocket-sized
@@ -15405,52 +15405,47 @@ products:
         color: White
         price: 609.95
         image: images/meta3-white.webp
-  - name: "S23 Ultra Chromotron Magsafe Case , New , Sealed "
+  - name: Apple iPhone 17 Pro Max Fold Wallet  , New , Sealed
     id: 376
     category: Smart Phones & Tablets Accessories
-    description: >-
-      Keep your phone protected and looking its best with the Stylish Phone
-      Case. This versatile case offers a perfect blend of functionality and
-      fashion, ensuring your phone stays safe while expressing your unique
-      style.
+    description: >+
+      Elevate your everyday carry with this ultra-slim, multi-functional folding
+      wallet engineered specifically for the iPhone 17 Pro Max. Crafted from
+      premium, scratch-resistant , this wallet attaches instantly to your device
+      using an array of ultra-strong N52 magnets, ensuring it stays firmly in
+      place even when sliding into tight pockets.
 
+          Clever Folding Design: The tri-fold architecture lays completely flat against your phone when closed, adding minimal bulk while securing up to 4 essential cards and folded cash.
+          Multi-Angle Utility Stand: Unfold the wallet to instantly transform it into a sturdy, continuous-tension kickstand. It supports your phone in portrait mode for video calls or landscape mode for streaming media.
+          Total Data Security: Integrated RFID-blocking composite liners shield your credit cards and IDs from unauthorized digital scanning and skimming.
+          Universal MagSafe Compatibility: Works seamlessly with a bare iPhone 17 Pro Max or any official MagSafe-compatible case, allowing for quick detachment when using wireless chargers.
 
-      Key Features:
+      2-in-1 Detachable Folio Wallet Case
 
+      Get the best of both worlds with a convertible design that offers rugged 360-degree screen protection and a detachable slim profile. This premium folio consists of a shock-absorbing inner bumper case that magnetically snaps inside a luxurious folding leather wallet jacket.
 
-      1. Universal Compatibility: Enjoy a perfect fit with a wide range of phone models. Simply select your phone size during purchase to ensure the case seamlessly integrates with your device.
+          Detachable Freedom: Pop the phone out of the wallet housing in under a second for easy photo shooting, gaming, or mounting on car dashboards, then snap it back in for full wallet utility.
+          Max Capacity Storage: The folding folio flap features 4 dedicated card slots, a clear thumb-glide ID window, and a full-length interior pocket for cash, receipts, or notes.
+          All-Around Drop Defense: A polycarbonate inner shell paired with a raised TPU screen bezel provides military-grade drop defense, while the front fold shields your glass screen from keys and debris.
+          Tailored Ergonomics: Precision cutouts offer unhindered access to the iPhone 17 Pro Max speaker ports, charging slot, and the tactile side control buttons.
 
-
-      2. Multiple Stylish Options: Express yourself with a variety of colors and designs to choose from (depending on availability). Find the perfect case that complements your personal style and adds a touch of flair to your everyday tech essential.
-
-
-      3. Wireless Charging Ready: Keep your phone powered up effortlessly. The case is specifically designed to be compatible with wireless chargers, allowing you to ditch the cables and charge your phone seamlessly.
-
-
-      4. Slim and Protective: Enjoy a comfortable and secure grip without adding unnecessary bulk. The slim design protects your phone from scratches, bumps, and minor drops without compromising on portability.  
-
-
-      5. Precise Cutouts: Maintain full functionality with strategically placed cutouts for easy access to all your phone's ports, buttons, and camera. Experience unhindered use of your device while keeping it protected and stylish.
-
-
-      The Stylish Phone Case for All Models with Wireless Charging is the perfect all-in-one solution for your phone. Its universal compatibility, variety of colors and designs, wireless charging support, slim and protective design, and precise cutouts make it a valuable and fashionable addition to any phone owner's collection.
     variants:
       - id: 501051
-        color: Blue
-        price: 19.95
-        image: images/gal23-blue.jpg
+        color: Black
+        price: 34.95
+        image: images/17promaxfold-black.webp
       - id: 501052
         color: Purple
-        price: 19.95
-        image: images/gal23-purple.jpg
+        price: 34.95
+        image: images/17promaxfold-purple.webp
       - id: 501053
-        color: Black
-        price: 19.95
-        image: images/gal23- black.jpg
+        color: Pink
+        price: 34.95
+        image: images/17promaxfold-pink.webp
       - id: 501054
-        color: Green
-        price: 19.95
-        image: images/gal23-green.jpg
+        color: Rose
+        price: 34.95
+        image: images/17promaxfols-rose.webp
   - name: "35W PD Combo with USB C Wall Charger and Type-C to Type-C Cable , New ,
       Sealed "
     description: >-
@@ -18184,3 +18179,3212 @@ products:
         color: White
         price: 49.95
         image: images/camera16.jpg
+  - name: Apple iPhone 17 Pro Max Silicone Case , New , Sealed
+    id: 441
+    category: Smart Phones & Tablets Accessories
+    description: >-
+      Core Specifications
+
+          Material: Built with 45%–55% recycled silicone featuring a silky, soft-touch exterior and an internal microfiber lining for scratch protection.
+          Camera Control Interface: Unlike standard third-party cases, this model includes an integrated sapphire crystal and conductive layer. This allows users to zoom, focus, and toggle lenses via touch gestures directly through the case.
+          Dimensions & Weight: Measures 7.78" x 3.74" x 0.73" and weighs approximately 3.24 oz.
+          Case Thickness: The side walls are 2.3 mm thick, providing a slim profile while maintaining drop resistance.
+          Connectivity: Features perfectly aligned N55-grade magnets to support MagSafe
+    variants:
+      - id: 501145
+        color: Orange
+        price: 29.95
+        image: images/17promax-orange.webp
+      - id: 501146
+        color: Green
+        price: 29.95
+        image: images/17promax-green.webp
+      - id: 501147
+        color: Black
+        price: 29.95
+        image: images/17promax-black.webp
+      - id: 501148
+        color: Pink
+        price: 29.95
+        image: images/17promax-hotpink.webp
+      - id: 501149
+        color: Blue
+        price: 29.95
+        image: images/17promax-navy.webp
+      - color: Red
+        price: 29.95
+        id: 501150
+        image: images/17promax-red.webp
+      - id: 501151
+        color: Whjite
+        price: 29.95
+        image: images/17promax-white.webp
+      - id: 501152
+        color: Purple
+        price: 29.95
+        image: images/17promax-purple.webp
+  - name: "Apple iPhone 17 Pro Silicone Case , New , Sealed "
+    id: 442
+    description: >+
+      Core Technical Specifications
+
+          Dimensions: 7.23 in. x 3.5 in. x 0.73 in. (183.6 mm x 88.9 mm x 18.5 mm).
+          Weight: Approximately 2.82–2.85 oz (approx. 80.8 g).
+          Material: 45%–55% recycled silicone exterior with a silky, soft-touch finish and an internal soft microfiber lining.
+          Wireless Charging: Fully compatible with MagSafe, Qi2.2, and standard Qi-certified chargers.
+          Max Charging Speed: Supports up to 25W wireless fast charging when paired with a 30W+ power adapter. 
+
+      Hardware & Design Integrations
+
+          Camera Control Technology: Features an integrated sapphire crystal coupled with a conductive layer. This design relays finger movements (swipes, presses, and clicks) directly through the case to the phone's new Camera Control button.
+          Magnetic Array: Built-in N55-grade magnets ensure high-strength attachment for MagSafe accessories and precision alignment for high-speed charging.
+          Safety Standards: Undergoes thousands of hours of testing for 6-foot drop defense and scratch resistance. It also features raised beveled edges to protect the front display and the triple-camera array.
+          Accessory Support: Includes reinforced attachment points at the base specifically for the official Apple Crossbody Strap for hands-free carrying. 
+
+    category: Smart Phones & Tablets Accessories
+    variants:
+      - id: 501153
+        color: Red
+        price: 29.95
+        image: images/17promax-red.webp
+      - id: 501154
+        color: Black
+        price: 29.95
+        image: images/17promax-black.webp
+      - id: 501155
+        color: Pink
+        price: 29.95
+        image: images/17promax-hotpink.webp
+      - id: 501156
+        color: Green
+        price: 29.95
+        image: images/17promax-green.webp
+      - id: 501157
+        price: 29.95
+        color: White
+        image: images/17promax-white.webp
+      - id: 501158
+        color: Purple
+        price: 29.95
+        image: images/17promax-purple.webp
+      - id: 501159
+        color: B.lue
+        price: 29.95
+        image: images/17promax-navy.webp
+      - id: 501160
+        color: Orange
+        price: 29.95
+        image: images/17promax-orange.webp
+  - id: 443
+    name: Apple iPhone 17 Pro Max , Luxury Heart Design Stylish and Protective Case
+      , New , Sealed
+    category: Smart Phones & Tablets Accessories
+    description: >-
+      Luxury Heart Design Case
+
+      for the iPhone 17 Pro Max
+
+      is widely available from major retailers like Best Buy and Walmart, starting at approximately $12.45. 
+
+      Product Status: New & Sealed
+
+      These cases are sold as brand new, factory-sealed items. Retailers like Best Buy and Target confirm the "New" condition in their official listings. 
+
+      Key Specifications
+
+          Protection: Features a flexible TPU bumper with shock-absorbing corners and raised edges to protect the 6.9-inch display and camera lenses.
+          Charging: Fully compatible with MagSafe and most standard wireless chargers.
+          Design: A "Luxury Glossy Heart" pattern embedded with upgraded printing technology to prevent fading.
+          Safety Features: Includes dustproof port covers and a non-slip edge for a more secure grip.
+    variants:
+      - id: 501161
+        color: Pink
+        price: 29.95
+        image: images/17proheart-pink.webp
+      - id: 501162
+        color: Black
+        price: 29.95
+        image: images/17proheart-b lack.webp
+      - id: 501163
+        color: Purple
+        price: 29.95
+        image: images/17proheart-purple.webp
+      - id: 501164
+        color: White
+        price: 29.95
+        image: images/17proheart-white.webp
+  - id: 444
+    description: >+
+      "iP 17 Pro Max MS Sleek" typically refers to an ultra-thin, minimalist
+      case designed for the iPhone 17 Pro Max that features built-in MagSafe
+      (MS) magnetic alignment.
+
+      Core Specifications
+
+          Dimensions: 6.47 in. x 3.23 in. x 0.45 in. (approx. 164.4 mm x 82 mm x 11.4 mm).
+          Weight: Ultra-lightweight at 1.0 oz to 1.2 oz (approx. 28g to 34g).
+          Wall Thickness: Measures between 0.03 inches and 0.08 inches (0.8 mm to 2.0 mm) for a "bare phone" feel.
+          Materials: Built using premium Aramid Fiber (Kevlar), Matte Polycarbonate, or premium 45% recycled silicone.
+
+      Key Technical Integrations
+
+          MagSafe (MS) Capabilities: Features embedded N55-grade magnets arranged in a slim ring format. This maintains full Qi2.2 and MagSafe charging speeds up to 25W without adding bulky layers.
+          Camera Control Interface: Uses a flush, precision-beveled cutout or a conductive touch-relay layer to allow unhindered swiping and clicking on the phone's new Camera Control button.
+          Lens Shielding: Uses a raised camera "plateau" or a metal rim frame to keep the massive triple-lens array from rubbing against flat surfaces.
+
+    name: Apple iPhone 17 Pro Max  MS Sleek Case , New , Sealed
+    category: Smart Phones & Tablets Accessories
+    variants:
+      - id: 501165
+        color: Black
+        price: 32.95
+        image: images/17proms-black.webp
+      - id: 501166
+        color: Orange
+        price: 32.95
+        image: images/17proms-orange.webp
+      - id: 501167
+        color: Navy
+        price: 32.95
+        image: images/17proms-blue.webp
+  - id: 445
+    name: Apple iPhone 17 Pro Max All Clear Thick Case , New , Sealed
+    category: Smart Phones & Tablets Accessories
+    description: >-
+      Showcase the native titanium design of your iPhone 17 Pro Max without
+      compromising on heavy-duty defense. This premium, heavy-profile clear case
+      features an optically pure, non-yellowing polycarbonate backplate fused
+      with an extra-thick, shock-absorbing TPU bumper matrix. 
+
+          Extreme Impact Architecture: Engineered with reinforced, air-cushioned corners and a 3.5mm thick perimeter border that absorbs and disperses high-velocity drop impacts far exceeding military standards.
+          Anti-Yellowing Longevity: Infused with an advanced UV-shielding polymer compound that prevents surface discoloration, chemical staining, and yellowing caused by sunlight or oil exposure over time.
+          Deep Screen & Camera Guard: Extra-raised 2.0mm bezels surround the expansive display, and a dedicated thick rim frames the rear triple-lens camera array to prevent direct surface contact and scratches when laid flat.
+          High-Tactile Ergonomics: Despite its rugged, thick construction, the case features precision-machined button covers that maintain the crisp, clicky feedback of the volume keys, Action Button, and Camera Control.
+          Optical Clarity: Micro-dot laser etching on the interior surface prevents physics-induced moisture pooling, "rainbowing," or water-mark bubbles, ensuring a crystal-clear view of your device. 
+    variants:
+      - id: 501168
+        color: Clear
+        price: 23.95
+        image: images/17promax-clear.webp
+  - id: 446
+    name: Apple iPhone 17 Pro Max Metal Camera Glass , New , Sealed
+    category: Smart Phones & Tablets Accessories
+    description: >+
+      Guard the pro-tier camera array of your iPhone 17 Pro Max
+
+      without altering its sleek design language. This premium protection kit includes three individual, precision-engineered titanium alloy rings fused with ultra-hard 9H double-tempered glass.
+
+          Aviation-Grade Defense: Crafted with an aerospace aluminum or titanium perimeter frame that absorbs high-velocity edge impacts, protecting the glass lenses from shattering during direct falls.
+          Anti-Reflective Optical Clarity: Engineered with integrated AR (Anti-Reflective) coating technology. This entirely eliminates lens flare, ghosting, and moisture fogging, ensuring lossless 48MP image capturing even when using the flash at night.
+          Invisible, Case-Friendly Fit: At just 0.15mm thick, the 1:1 tailored individual rings preserve the native tactile touch of your phone's camera setup. They sit flush enough to remain fully compatible with nearly any heavy-duty or slim phone case.
+          Nano-Adhesive Sealing: Features a strong, dust-proof nano waterproof adhesive layer. It locks tightly onto each camera bezel to guarantee long-term adhesion without peeling or leaving residue.
+
+      Heavy-Duty Matte Metal Lens Armor (One-Piece)
+
+      For maximum coverage against harsh environments, this unified, one-piece armor plate bridges the gap between individual lenses. It pairs a frosted matte metal shield with maximum 9H-hardness tempered glass inserts to encapsulate the entire rear camera module.
+
+          360-Degree Shielding: Covers both the protruding glass lenses and the vulnerable aluminum camera plateau, keeping the entire housing safe from keys, coins, and sand.
+          Zero-Glare Texture: The anti-fingerprint frosted metal surface matches the flagship metallic color options of the iPhone 17 Pro Max
+          . It prevents light refraction artifacts across your ultra-wide and telephoto focal ranges.
+          Easy Alignment Application: Ships with a drop-in installation alignment frame, allowing you to perfectly press the entire armor shield onto the camera bump with zero air bubbles or misalignment.
+
+    variants:
+      - id: 501169
+        price: 19.95
+        color: Purple
+        image: images/17promaxmetal-purple.webp
+      - id: 501170
+        color: Orange
+        price: 19.95
+        image: images/17promaxmetal-orange.webp
+      - id: 501171
+        color: Gold
+        price: 19.95
+        image: images/17promaxmetal-gold.webp
+      - id: 501172
+        color: Blue
+        price: 19.95
+        image: images/17promaxmetal-blue.webp
+      - id: 501173
+        color: " Natural Titanium"
+        price: 19.95
+        image: images/17promaxmetal-titianum.webp
+      - id: 501174
+        color: Red
+        price: 19.95
+        image: images/17promaxmetal-red.webp
+      - id: 501175
+        price: 19.95
+        color: Black
+        image: images/17promaxmetal-black.webp
+      - color: Silver
+        price: 19.95
+        id: 501176
+        image: images/17promaxmetal-silver.webp
+  - description: >-
+      Protect your device with a slim, high-performance protective cover that
+      perfectly blends minimalist style with functional utility. Crafted from
+      premium, liquid silicone, this case features an integrated, flush-fitting
+      MagSafe silicone ring on the back panel that serves as both a secure grip
+      and an adjustable viewing stand.
+
+          Integrated Multi-Functional Ring: The built-in metal ring sits completely flush with the silicone exterior when folded flat. Pull it out to use as an ergonomic finger loop that prevents accidental drops, or rotate it to act as a 360-degree adjustable kickstand for hands-free landscape or portrait viewing.
+          Strong MagSafe Connectivity: Embedded with a powerful N52 magnetic array directly inside the ring architecture. It locks securely onto MagSafe car mounts, wallets, and Qi2 wireless charging pads without requiring you to remove the case.
+          Premium Liquid Silicone Texture: The exterior surface is coated with a soft-touch, matte finish that offers an enhanced non-slip grip. The specialized material naturally resists fingerprints, smudges, and lint accumulation while wiping clean effortlessly.
+          Full-Coverage Drop Armor: Built over a rigid polycarbonate core and lined with a plush microfiber interior to prevent scratches on your phone's glass back. Reinforced shockproof bumpers and raised 2.0mm screen and camera bezels deliver military-grade impact defense.
+          Tactile Button Pass-Throughs: Precision-engineered with ultra-responsive button covers that preserve the clicky, tactile feedback of the Volume keys, Action Button, and Camera Control slider.
+    category: Smart Phones & Tablets Accessories
+    name: " Apple iPhone 17 Pro Max MS Silicone Ring , New , Sealed"
+    id: 447
+    variants:
+      - id: 501177
+        color: Red
+        price: 34.95
+        image: images/17promaxsil-red.webp
+      - id: 501178
+        color: Black
+        price: 34.95
+        image: images/17promaxsil-black.webp
+      - id: 501179
+        color: White
+        price: 34.95
+        image: images/17promaxsil-white.webp
+      - id: 501180
+        color: Purple
+        price: 34.95
+        image: images/17promaxsil-purple.webp
+      - id: 501181
+        color: Pink
+        price: 34.95
+        image: images/17promaxsil-pink.webp
+      - id: 501182
+        color: Navy
+        price: 34.95
+        image: images/17promaxsil-blue.webp
+  - description: >+
+      Maximize the functionality and defense of your device with the ultimate
+      all-in-one ring case. This heavy-duty protective cover features an
+      innovative, integrated 360-degree rotating metal ring engineered flat into
+      the rear chassis, combining secure handling, multi-angle viewing, and
+      magnetic mounting.
+
+          360° Rotation & 180° Flip Ring: The center-mounted zinc alloy ring rotates a full 360 degrees and flips open up to 180 degrees. Slide your finger through for an unshakeable grip on the large phone, or use it as a highly adjustable kickstand for vertical FaceTime calls and horizontal movie streaming.
+          Magnetic Car Mount Ready: Built with a heavy-duty, iron-infused magnetic plate directly inside the ring hub. It snaps instantly and securely onto any magnetic car dashboard mount or desktop holder without needing extra metal adhesives.
+          Dual-Layer Military Drop Armor: Constructed with a high-impact polycarbonate outer shell fused over a shock-absorbing TPU inner bumper. Reinforced, air-cushioned corners disperse impact energy to survive harsh drops on concrete.
+          Slide Camera Lens Protection: Features an integrated, sliding mechanical camera cover that glides smoothly to shield the triple-lens array from scratches, dirt, and fingerprints when not in use.
+          Tactile Precision Fit: Cutouts are tailored to accommodate the expansive screen, speakers, and bottom charging port, while tactile button extensions preserve the clicky response of the Volume keys and the Camera Control slider.
+
+    category: Smart Phones & Tablets Accessories
+    name: Apple iPhone 17 Pro Max All Ring Case , New , Sealed
+    id: 448
+    variants:
+      - id: 501183
+        color: Purple
+        price: 29.95
+        image: images/17promaxgrip-purple.webp
+      - id: 501184
+        color: Red
+        price: 29.95
+        image: images/17promaxgrip-red.webp
+      - id: 501185
+        color: Black
+        price: 29.95
+        image: images/17promaxgrip-black.webp
+      - id: 501186
+        color: Pink
+        price: 29.95
+        image: images/17promaxgrip-pink.webp
+      - id: 501187
+        color: Blue
+        price: 29.95
+        image: images/17promaxgrip-blue.webp
+  - description: >-
+      Experience maximum defense with minimum bulk. This ultra-slim protective
+      case is precision-engineered to preserve the thin profile and clean lines
+      of your iPhone 17 Pro Max while delivering daily drop and scratch
+      protection.
+
+          Micro-Thin Architectural Profile: At just under 1mm thick, this case wraps tightly around the chassis of your device, adding virtually zero weight or bulk to your pockets while highlighting the native titanium design.
+          High-Density Polymer Matrix: Constructed from an advanced, lightweight polycarbonate blend that resists warping, cracking, and daily surface abrasions from keys and coins.
+          Velvet-Touch Matte Coating: Finished with a specialized soft-matte coating that provides an enhanced, non-slip grip, naturally repelling fingerprints, oily smudges, and pocket lint.
+          Precision Camera & Screen Bezels: Features micro-raised 1.2mm borders around the triple-lens camera module and the front display, keeping the fragile glass surfaces elevated and safe when placed face-down on flat surfaces.
+          Seamless Charging Optimization: The ultra-thin backing allows for unhindered Qi2 and MagSafe magnetic alignment and full-speed wireless charging without needing built-in heavy magnets.
+          Flawless Interface Access: Tailored with laser-cut openings for the bottom speaker ports and charging slot, alongside open-button architectures that grant direct, tactile access to the Volume keys, Action Button, and Camera Control slider.
+    id: 449
+    name: Apple iPhone 17 Pro Max  Sleek Protective Case , New , Sealed
+    category: Smart Phones & Tablets Accessories
+    variants:
+      - id: 501188
+        color: " Blue"
+        image: images/17promaxsleek-blue.webp
+        price: 29.95
+      - color: Red
+        id: 501189
+        image: images/17promaxsleek-red.webp
+        price: 29.95
+      - id: 501190
+        color: Black
+        image: images/17promaxsleek-black.webp
+        price: 29.95
+      - id: 501191
+        color: Purple
+        image: images/17promaxsleep-purple.webp
+        price: 29.95
+      - id: 501192
+        color: Pink
+        image: images/17promaxsleek-pink.webp
+        price: 29.95
+  - name: Apple iPhone 17 Max 5P Wallet  , New , Sealed
+    id: 450
+    category: Smart Phones & Tablets Accessories
+    description: >+
+      Simplify your daily carry with a premium book-style folding wallet case
+      engineered specifically for the expansive display of the iPhone 17 Max.
+      Crafted from top-grain synthetic leather, this sleek folio combines
+      360-degree device protection with a high-capacity storage layout that
+      removes the need for a separate wallet.
+
+          5-Pocket Smart Storage: The interior folding flap features four precision-stitched credit card slots and one clear thumb-glide ID window, allowing you to securely organize five essential cards alongside a full-length vertical pocket for cash and receipts.
+          Secure Magnetic Clasp Fold: A durable magnetic leather strap wraps around the edge to hold the folio tightly closed, shielding your screen from scratches caused by keys or loose items when tossed into bags or pockets.
+          Hands-Free Media Kickstand: The structured back panel folds effortlessly into a multi-angle horizontal kickstand, allowing you to stream videos or handle video calls on the large screen at a perfect viewing angle.
+          Full-Perimeter Impact Defense: Built over a shatterproof, flexible inner TPU bumper shell that securely grips the phone, providing reinforced corner cushions to absorb drop impacts and shock.
+          Unimpeded Interface Access: Laser-cut openings guarantee perfect alignment with the bottom charging port and speakers, while tactile button overlays preserve the responsive feel of the side controls.
+
+    variants:
+      - id: 501193
+        color: Pink
+        price: 21.95
+        image: images/17promaxwallet-rose.webp.webp
+      - id: 501194
+        color: Black
+        price: 21.95
+        image: images/17promaxwallet-black.webp
+      - id: 501195
+        color: Red
+        price: 21.95
+        image: images/17promaxwallet-red.webp.webp
+      - id: 501196
+        price: 21.95
+        color: Blue
+        image: images/17promaxwallet-blue.webp.webp
+  - name: Apple iPhone 17 Max MS Sturdy  Case , New , Sealed
+    id: 451
+    category: Smart Phones & Tablets Accessories
+    description: >+
+      Experience industrial-grade defense combined with seamless magnetic
+      utility. Engineered specifically to fortify the large-format iPhone 17
+      Max, this heavy-duty armor case pairs a multi-layer shockproof
+      construction with an ultra-strong internal MagSafe magnetic core.
+
+          Reinforced Dual-Layer Defense: Built with a high-impact, rigid polycarbonate outer exoskeleton fused over a deep-set, shock-absorbing TPU inner lining to reliably disperse heavy impact energy.
+          Military-Grade Drop Armor: Features extra-thick, air-cushioned perimeter bumpers and fortified corners engineered to absorb high-velocity impacts far exceeding standard military drop tests.
+          Next-Gen N52 MagSafe Ring: Embedded with an upgraded array of heavy-duty N52 neodymium magnets, providing an unshakeable connection to MagSafe car mounts, heavy-duty utility wallets, and high-speed Qi2 wireless charging pads.
+          Deep Bezel Protection Matrix: Designed with extra-raised 2.5mm rim borders surrounding the expansive front display and a heavy, protective metal-alloy ridge around the rear camera array to prevent direct surface contact and scratches.
+          Anti-Slip Tactical Grip: The outer chassis features deep, laser-etched side grooves and a textured matte finish that ensures a secure, non-slip hold in any environment, while remaining resistant to oils, dirt, and fingerprints.
+          Precision Tactile Feedback: Custom-engineered button overlays maintain the exact clicky, responsive feel of the native side controls and allow unhindered access to the lower interface ports.
+
+    variants:
+      - id: 501197
+        color: Green
+        price: 34.95
+        image: images/17promaxm5-green.webp
+      - id: 501198
+        color: Orange
+        price: 34.95
+        image: images/17promaxm5-orange.webp
+      - id: 501199
+        color: Black
+        price: 34.95
+        image: images/17promaxm5-black.webp
+      - id: 501200
+        color: Navy
+        price: 34.95
+        image: images/17promaxm5-blue.webp
+      - id: 501201
+        color: Purple
+        price: 34.95
+        image: images/17promaxm5-purplr.webp
+  - id: 452
+    name: Samsung Galaxy S11 Ultra ,14.6 in , 256GB 12GB Ram , WiFi Only , New ,
+      Sealed
+    category: Tablets
+    description: >-
+      (X930 The Samsung Galaxy Tab S11 Ultra (Model: SM-X930) Wi-Fi Only is a
+      premium, laptop-class Android tablet featuring a massive 14.6-inch Dynamic
+      AMOLED 2X display, the MediaTek Dimensity 9400+ processor, and a
+      redesigned S Pen. Prices start at $1,199.99 for the 256GB/12GB model. 
+
+      Core Specifications
+
+          Display: 14.6" WQXGA+ (2960 x 1848) Dynamic AMOLED 2X, 120Hz refresh rate, and anti-reflective coating.
+          Performance: MediaTek Dimensity 9400+ (3 nm) Octa-core processor.
+          RAM & Storage: Configurations available in 12GB RAM with 256GB/512GB storage, and 16GB RAM with 1TB storage. Includes a dedicated microSD slot for expansion.
+          Connectivity: Wi-Fi 7, Bluetooth 5.4, GPS. Note: This specific model is Wi-Fi only and does not support cellular data or SIM cards.
+          Cameras: 13 MP main + 8 MP ultra-wide rear cameras; 12 MP ultra-wide front camera.
+          Battery: 11,600 mAh capacity, supporting up to 45W wired charging. 
+
+      Design & Notable Features
+
+          Build: Ultra-thin (5.1 mm) and lightweight, reinforced with Armor Aluminum and IP68 dust and water resistance.
+          S Pen: Features a redesigned, hexagon-shaped S Pen. It attaches magnetically to the side and no longer includes Bluetooth capabilities or rear-panel wireless charging.
+          Software: Runs Android 16 with One UI 8, featuring advanced AI tools (Circle to Search, Note Assist) and Samsung DeX for a desktop-like multitasking experience. 
+    variants:
+      - id: 501202
+        color: " Gray"
+        image: images/galtab04.webp
+        price: 1199.95
+      - id: 501203
+        color: Silver
+        image: images/galtab05.webp
+        price: 1199.95
+  - id: 453
+    name: Samsung Galaxy Tab S10 FE Plus , 128GB 8GB Ram ,13.1 inch , WiFi Only ,
+      New , Sealed
+    description: >-
+      (X620) The Samsung Galaxy Tab S10 FE+ (X620) WiFi Only International
+      Version is a sleek and powerful tablet designed for users seeking a
+      premium multimedia and productivity experience without the high price tag
+      of flagship devices. As the “Fan Edition Plus” model in Samsung’s popular
+      Galaxy Tab S series, the S10 FE+ features a large 13.1-inch WQXGA+ IPS LCD
+      display with a smooth 90Hz refresh rate, delivering crisp visuals and
+      responsive performance whether you're browsing the web, watching videos,
+      or using productivity apps. The tablet’s slim aluminum body, just 6.0mm
+      thick, combined with an IP68 rating for water and dust resistance, makes
+      it both stylish and durable for daily use.
+
+
+      Under the hood, the Galaxy Tab S10 FE+ is powered by Samsung’s own Exynos 1480 (or Exynos 1580, depending on region), a 4nm processor that ensures efficient multitasking and reliable performance across various apps. The tablet comes with multiple memory configurations, including 8GB or 12GB of RAM and up to 256GB of internal storage, with the option to expand further via a dedicated microSDXC slot. This makes it ideal for students, creatives, or professionals who need ample space for apps, documents, and media. The WiFi-only model supports the latest connectivity standards, including WiFi 6E and Bluetooth 5.3, providing fast and stable connections at home, school, or the office.
+
+
+      For entertainment and communication, the Tab S10 FE+ features a 13MP rear camera and a 12MP ultrawide front camera, ideal for video calls, document scanning, or casual photography. It also boasts high-quality stereo speakers for immersive audio and supports Samsung’s S Pen, offering a responsive stylus experience for note-taking, drawing, or precision editing. The device is backed by a large 10,090mAh battery with 45W fast charging, ensuring extended usage with minimal downtime.
+
+
+      As an international version, this tablet is factory unlocked, free of carrier restrictions, and includes multi-language support, making it suitable for users in a wide range of regions. While it lacks cellular connectivity due to its WiFi-only configuration, it excels as a reliable, high-performance tablet for users who primarily work or play within reach of a wireless network. Whether you’re a student, a content creator, or a casual user, the Galaxy Tab S10 FE+ offers a well-balanced combination of size, speed, and premium features at a more accessible price point.   Specifications
+
+
+      General
+
+      Model Number: SM-X620
+
+      Device Type: Tablet (WiFi Only)
+
+      International Version: Yes (no SIM, no carrier lock)
+
+      Release Date: April 2025
+
+      Operating System: Android 15 with One UI 7
+
+
+      Design & Build
+
+      Dimensions: 300.6 x 194.7 x 6.0 mm
+
+      Weight: Approximately 664–668 grams
+
+      Build: Glass front, aluminum back, and aluminum frame
+
+      Water & Dust Resistance: IP68 rated (water resistant up to 1.5m for 30 minutes, dust tight)
+
+      Colors: Varies by region (common options include Silver, Gray, and Lavender)
+
+
+      Display
+
+      Type: IPS LCD (TFT)
+
+      Size: 13.1 inches (diagonal)
+
+      Resolution: 2880 x 1800 pixels (WQXGA+)
+
+      Aspect Ratio: 16:10
+
+      Pixel Density: ~259 PPI
+
+      Refresh Rate: 90 Hz
+
+      Touchscreen: Capacitive multi-touch
+
+
+      Performance
+
+      Processor (SoC): Exynos 1580 (4nm)
+
+      CPU: Octa-core
+
+      1x 2.9 GHz Cortex-A720
+
+      3x 2.6 GHz Cortex-A720
+
+      4x 1.9 GHz Cortex-A520
+
+      GPU: Xclipse 540
+
+
+      Memory & Storage
+
+      RAM Options: 8 GB or 12 GB
+
+      Internal Storage: 128 GB or 256 GB
+
+      Expandable Storage: microSDXC support (dedicated slot, up to 2 TB)
+
+
+      Cameras
+
+      Rear Camera: 13 MP, f/2.0, autofocus
+
+      Front Camera: 12 MP, ultrawide, f/2.4
+
+      Video Recording (Rear): Up to 4K at 30 fps
+
+      Video Recording (Front): Up to 4K at 30 fps
+
+
+      Audio
+
+      Speakers: Stereo speakers
+
+      Audio Tuning: By AKG (varies by region)
+
+      Headphone Jack: Not included (No 3.5mm port)
+
+
+      Connectivity
+
+      WiFi: WiFi 6E (802.11 a/b/g/n/ac/ax, dual-band)
+
+      Bluetooth: Version 5.3
+
+      GPS: Yes (for navigation apps, even on WiFi model)
+
+      USB: USB Type-C (supports charging and data transfer)
+
+      NFC: Not supported
+
+      Cellular: Not supported (WiFi-only version)
+
+
+      Sensors
+
+      Accelerometer
+
+      Gyroscope
+
+      Compass (Magnetometer)
+
+      Ambient Light Sensor
+
+      Hall Sensor
+
+      Side-mounted Fingerprint Sensor
+
+
+      Battery
+
+      Capacity: 10,090 mAh (non-removable, Li-Po)
+
+      Charging Speed: Supports 45W fast charging (USB Type-C)
+
+      Battery Life (Video Playback): Up to approximately 21 hours (varies with use)
+
+
+      Other Features
+
+      Stylus Support: Compatible with S Pen (sold separately or included depending on region)
+
+      DeX Support: Not officially confirmed for this model
+
+      Software Features: Split-screen multitasking, Samsung Notes, screen recording, kids mode, etc
+    category: Tablets
+    variants:
+      - id: 501204
+        color: Gray
+        price: 619.95
+        image: images/galtab03.webp
+      - id: 501205
+        color: Blue
+        price: 619.95
+        image: images/galtab01.webp
+  - id: 454
+    name: " Samsung Galaxy Tab S10 Lite ,10.9 in ,128GB 6GB Ram , WiFi Only , New ,
+      Sealed"
+    description: >-
+      (X400) Discover a new level of versatility and performance with the
+      Samsung Galaxy Tab S10 Lite (X400) — a tablet designed to meet the needs
+      of both work and play. Combining premium craftsmanship with advanced
+      technology, the Tab S10 Lite offers a smooth, immersive experience whether
+      you’re streaming, studying, creating, or staying connected. This brand-new
+      international version comes factory sealed and ready to use, ensuring
+      compatibility and top-notch quality.
+
+
+      Equipped with 128GB of internal storage and 6GB of RAM, the Galaxy Tab S10 Lite provides the power and space you need to handle multitasking with ease. From editing documents and attending virtual meetings to watching movies or playing games, performance remains fast and reliable. You can store more of what you love — apps, photos, videos, and files — without worrying about running out of space. And with Samsung’s intelligent system optimization, you’ll enjoy smooth operation even during heavy use.
+
+
+      The WiFi-only configuration makes this model perfect for users who primarily use their tablet at home, at school, or in the office. You’ll enjoy stable connectivity for streaming, browsing, and video calls, without the need for a SIM card or data plan.
+
+
+      Visually, the Galaxy Tab S10 Lite stands out with its sleek and modern design, available in Gray, Silver, and Coral Red finishes. The slim metal body feels premium in hand, while the vivid display offers crisp colors and excellent clarity — ideal for everything from reading and drawing to enjoying your favorite entertainment in full detail.
+
+
+      Samsung’s intuitive One UI interface ensures a seamless user experience, enhanced by powerful software features for productivity, security, and customization. You can sync effortlessly with other Samsung Galaxy devices, share files instantly, and take advantage of Samsung’s ecosystem for a connected digital lifestyle.
+
+
+      Whether you’re a student, professional, or casual user, the Samsung Galaxy Tab S10 Lite (X400) delivers the ideal balance of performance, design, and reliability. It’s more than just a tablet — it’s your everyday companion for learning, creativity, and entertainment, all in one sophisticated package .   Specifications
+
+
+      General Information
+
+      Model: Samsung Galaxy Tab S10 Lite (X400)
+
+      Version: WiFi Only – International Version
+
+      Condition: Brand New / Factory Sealed
+
+      Colors Available: Gray, Silver, Coral Red
+
+      Build: Aluminum body with glass front
+
+      Dimensions: 254.3 × 165.8 × 6.6 mm
+
+      Weight: 524 g
+
+
+      Display
+
+      Screen Size: 10.9 inches
+
+      Display Type: TFT LCD
+
+      Resolution: 2112 × 1320 (WUXGA+)
+
+      Refresh Rate: 90 Hz
+
+      Color Depth: 16 million colors
+
+
+      Performance
+
+      Operating System: Android 15 with Samsung One UI
+
+      Processor (CPU): Exynos 1380 (5 nm), Octa-core (4×2.4 GHz + 4×2.0 GHz)
+
+      Graphics (GPU): Mali-G68 MP5
+
+
+      Memory & Storage
+
+      RAM: 6 GB
+
+      Internal Storage: 128 GB
+
+      Expandable Storage: microSD card support up to 2 TB
+
+
+      Camera
+
+      Rear Camera: 8 MP (Auto Focus)
+
+      Front Camera: 5 MP
+
+      Video Recording: Full HD (1080p) @ 30fps
+
+
+      Connectivity
+
+      WiFi: 802.11 a/b/g/n/ac/ax (Dual-band)
+
+      Bluetooth: Version 5.3
+
+      USB: Type-C (2.0)
+
+      GPS: Supported (WiFi-based)
+
+      NFC: Not supported
+
+      3.5mm Jack: Not included
+
+
+      Battery
+
+      Capacity: 8,000 mAh (typical)
+
+      Charging: 25W fast charging support
+
+      Battery Life: Up to 16 hours video playback
+
+
+      Audio & Features
+
+      Speakers: Dual stereo speakers
+
+      Microphones: Dual built-in mics
+
+      S Pen Support: Yes (included)
+
+      Sensors: Accelerometer, Gyroscope, Light Sensor, Geomagnetic Sensor, Hall Sensor
+
+
+      Software & Updates
+
+      UI: Samsung One UI (latest version)
+
+      OS Updates: Up to 7 years of Android and security updates (region dependent)
+
+
+      ..  
+    category: Tablets
+    variants:
+      - id: 501206
+        color: Gray
+        price: 359.95
+        image: images/galtab02.webp
+  - name: Samsung Galaxy Tab S10 FE  , 128GB 8GB Ram ,10.9-in , WiFi Only , New ,
+      Sealed
+    id: 455
+    category: Tablets
+    description: >-
+      (X520) 
+
+
+      The Samsung Galaxy Tab S10 FE (model X520) WiFi Only International Version is a well-rounded tablet designed to offer a premium user experience at a more accessible price point. It features a 10.9-inch IPS LCD display with a smooth 90Hz refresh rate, providing vibrant colors and fluid motion for everything from watching videos and browsing the web to gaming and multitasking. The 90Hz refresh rate enhances the responsiveness of the screen, making interactions feel more natural and immersive.
+
+
+      Powered by the latest Android 15 operating system combined with Samsung’s One UI 7 interface, the tablet offers a sleek, user-friendly experience with enhanced customization options, improved security features, and seamless integration with Samsung’s ecosystem of devices and services. Users benefit from a clean and intuitive interface that supports split-screen multitasking and other productivity features, making it suitable for both work and play.
+
+
+      This model is the WiFi-only variant, ensuring reliable internet connectivity at home, work, or on the go via trusted wireless networks. While it lacks cellular capabilities, the tablet’s WiFi connection is fast and stable, ideal for streaming, video calls, and cloud-based work. The international version guarantees compatibility with global power standards and firmware updates, allowing users worldwide to enjoy a consistent experience.
+
+
+      Under the hood, the Galaxy Tab S10 FE offers solid performance capable of handling everyday tasks and moderate multitasking with ease. Although it does not include NFC support, which limits contactless payment and quick device pairing options, it compensates with other features such as a long-lasting battery, good-quality stereo speakers for immersive audio, and a lightweight design that enhances portability.
+
+
+      Overall, the Samsung Galaxy Tab S10 FE (X520) WiFi Only International Version is a versatile and affordable tablet that balances performance, display quality, and software enhancements. It is an excellent choice for users looking for a reliable Android tablet for entertainment, productivity, and everyday use without the added cost of cellular connectivity or some high-end features. Whether you’re streaming your favorite shows, browsing the web, or managing your daily tasks, this tablet offers a smooth, enjoyable experience in a sleek, portable package.
+
+      Works with most carriers. General
+
+      Model: SM-X520
+
+      Launch Date: April 3, 2025
+
+      Weight: 497g
+
+      Dimensions: 254.3 x 165.8 x 6.0 mm
+
+      Build: Glass front, aluminum back and frame
+
+      Ingress Protection: IP68 (dust and water-resistant up to 1.5m for 30 minutes)
+
+      SIM Support: WiFi-only model (No cellular support)
+
+      Stylus Support: Yes, includes S Pen (without Air Actions)
+
+      Operating System: Android 15 with One UI 7
+
+
+      Display
+
+      Type: 10.9-inch IPS LCD
+
+      Resolution: 1440 x 2304 pixels (WUXGA+)
+
+      Pixel Density: ~249 ppi
+
+      Aspect Ratio: 16:10
+
+      Refresh Rate: 90Hz
+
+      S Pen Support: Yes
+
+
+      Performance
+
+      Chipset: Samsung Exynos 1580 (4nm)
+
+      CPU: Octa-core (1x2.9 GHz Cortex-A720, 3x2.6 GHz Cortex-A720, 4x1.9 GHz Cortex-A520)
+
+      GPU: Xclipse 540
+
+      RAM Options: 8GB or 12GB
+
+      Storage Options: 128GB or 256GB
+
+      Expandable Storage: microSDXC up to 2TB
+
+
+      Camera
+
+      Rear Camera:
+
+      Resolution: 13 MP
+
+      Aperture: f/2.0
+
+      Features: Autofocus, Best Face
+
+      Video Recording: 4K@30fps, 1080p@30fps
+
+      Front Camera:
+
+      Resolution: 12 MP
+
+      Aperture: f/2.4
+
+      Field of View: Ultra-wide
+
+      Video Recording: 4K@30fps, 1080p@30fps
+
+
+      Audio
+
+      Speakers: Stereo speakers tuned by AKG
+
+      3.5mm Jack: No
+
+      Bluetooth Audio: Bluetooth v5.3
+
+
+      Connectivity
+
+      Wi-Fi: 802.11 a/b/g/n/ac/ax (Wi-Fi 6E), dual-band, Wi-Fi Direct
+
+      Bluetooth: v5.3
+
+      USB: USB Type-C 2.0
+
+      Location Services: GPS, GLONASS, Beidou, Galileo, QZSS
+
+      NFC: No
+
+
+      Battery
+
+      Capacity: 8,000mAh
+
+      Charging: Supports fast charging up to 45W (charger sold separately)
+
+      USB Power Delivery: Yes
+
+
+      Sensors
+
+      Accelerometer
+
+      Gyroscope
+
+      Ambient Light Sensor
+
+      Hall Sensor
+
+      Fingerprint Sensor
+
+      Geomagnetic Sensor
+
+
+      Additional Features
+
+      Samsung DeX: Supported for desktop-like experience
+
+      Samsung Knox: Security platform for data protection
+
+      S Pen: Included in the box (without Air Actions)
+
+      Case: Optional keyboard case available
+    variants:
+      - id: 501207
+        price: 469.95
+        color: Gray
+        image: images/galtab03.webp
+  - name: Samsung Galaxy Tab S10 Plus , 512GB , 12.4-inch  ,WiFi + Cellular  , New ,
+      Sealed
+    id: 456
+    variants:
+      - id: 501208
+        color: Platinum Silver
+        price: 1259.95
+        image: images/galtab07.png
+      - id: 501209
+        color: Moonstone Gray
+        price: 1259.95
+        image: images/galtabo6.webp
+    description: >-
+      The Samsung Galaxy Tab S10+ Wi-Fi + Cellular 512GB (Model SM-X826)
+
+      is a top-tier, large-format tablet that merges flagship power with standalone 5G mobility. Below is the comprehensive technical breakdown for this specific 512GB Storage / 12GB RAM cellular configuration: 
+
+      Comprehensive Specifications
+
+          Display & Screen Technology:
+              Size: 12.4-inch Dynamic AMOLED 2X panel.
+              Resolution: 2800 x 1752 pixels (WQXGA+) with a 16:10 aspect ratio and ~266 ppi density.
+              Refresh Rate: Up to 120Hz adaptive smooth scrolling.
+              Special Feature: Special anti-reflective screen coating drastically reduces glare in harsh lighting conditions.
+          Processor & Core Hardware:
+              Chipset: 4nm MediaTek Dimensity 9300+ octa-core platform.
+              CPU Clock Speed: High-performance performance cores reaching up to 3.4 GHz.
+              Graphics: Immortalis-G720 MC12 (12-core GPU).
+          Memory & Storage:
+              System RAM: 12 GB LPDDR5X.
+              Internal Storage: 512 GB high-speed flash memory.
+              Expansion: Dedicated MicroSD slot supporting cards up to an additional 1.5 TB.
+          Cellular & Network Connectivity:
+              Mobile Network: Comprehensive 5G Sub6 & LTE connectivity.
+              SIM Architecture: Hybrid or Single Nano-SIM alongside digital eSIM profiles.
+              Local Wireless: Wi-Fi 6E (2.4/5/6 GHz bands) and Bluetooth v5.3.
+          Cameras & Video Performance:
+              Rear Setup: Dual array — 13 MP wide main sensor (Autofocus, f/2.0) + 8 MP ultra-wide lens (f/2.2). Includes built-in LED flash.
+              Front Camera: 12 MP ultra-wide camera optimized for horizontal video calling auto-framing.
+              Video Capture: Records up to UHD 4K at 30fps.
+          Battery & Power Logistics:
+              Capacity: Huge 10,090 mAh Li-Polymer battery cell.
+              Charging: Supports up to 45W wired fast charging (wall charging bricks sold separately).
+              Runtime: Rated for up to 16 hours of continuous wireless video playback.
+          Audio & Hardware Security:
+              Sound: Quad stereo speakers tuned by AKG with integrated Dolby Atmos hardware processing.
+              Biometrics: Secure, ultra-sonic on-screen under-display fingerprint reader.
+          Physical Build & Durability:
+              Dimensions: Sleek frame measuring 285.4 mm x 185.4 mm x 5.6 mm.
+              Weight: 576 grams (1.27 lbs) for the 5G cellular configuration.
+              Protection: Full IP68 dust and water resistance (safe submerged down to 5 feet of water up to 30 minutes).
+          Software Ecosystem:
+              Ships with Android 14 layered with Samsung One UI. Imbued with full Galaxy AI software suites (including Note Assist, Sketch-to-Image, and Live Translate) with Samsung promising multi-year software maintenance cycles extending all the way until October 2031.
+          In the Box: Includes a low-latency, magnetic S Pen stylus featuring remote gesture air controls that charges directly against the back spine of the tablet. 
+    category: Tablets
+  - id: 457
+    name: Samsung Galaxy Tab S10 Plus , 12.4-inch , 256GB  , WiFi Only   , New ,
+      Sealed
+    category: Tablets
+    description: >+
+      The Samsung Galaxy Tab S10+ Wi-Fi Only 256GB (Model SM-X820)
+
+      is a premium 12.4-inch Android tablet engineered for heavy multitasking, digital artwork, and media consumption. It features a flagship processor and a specialized glare-reducing screen coating. 
+
+      Below is the comprehensive technical breakdown for this specific 256GB Storage / 12GB RAM Wi-Fi configuration:
+
+      Comprehensive Specifications
+
+          Display & Screen Technology:
+              Size: 12.4-inch Dynamic AMOLED 2X panel.
+              Resolution: 2800 x 1752 pixels (WQXGA+) with a 16:10 aspect ratio (~266 ppi density).
+              Refresh Rate: Up to 120Hz adaptive smooth scrolling.
+              Special Feature: Specialized anti-reflective screen coating that dramatically minimizes glare under bright indoor overhead lights or direct sunlight.
+          Processor & Core Hardware:
+              Chipset: 4nm MediaTek Dimensity 9300+ octa-core platform.
+              CPU Clock Speed: High-performance cores reaching up to 3.4 GHz.
+              Graphics: Immortalis-G720 MC12 (12-core GPU).
+          Memory & Storage:
+              System RAM: 12 GB LPDDR5X.
+              Internal Storage: 256 GB high-speed flash memory.
+              Expansion: Dedicated MicroSD slot supporting memory cards up to an additional 1.5 TB.
+          Wireless Connectivity:
+              Local Wireless: Fast Wi-Fi 6E (supports 2.4 GHz, 5 GHz, and 6 GHz bands) and Bluetooth v5.3.
+              Note: This specific model (SM-X820) is Wi-Fi Only and lacks cellular SIM hardware.
+          Cameras & Video Performance:
+              Rear Setup: Dual array — 13 MP wide main sensor (Autofocus, f/2.0) + 8 MP ultra-wide lens (f/2.2). Includes built-in LED flash.
+              Front Camera: 12 MP ultra-wide camera optimized for horizontal video calling auto-framing.
+              Video Capture: Records up to UHD 4K at 30fps.
+          Battery & Power Logistics:
+              Capacity: Huge 10,090 mAh Li-Polymer battery cell.
+              Charging: Supports up to 45W wired fast charging (wall charging bricks sold separately).
+              Runtime: Rated for up to 16 hours of continuous wireless video playback.
+          Audio & Hardware Security:
+              Sound: Quad stereo speakers tuned by AKG with integrated Dolby Atmos hardware processing.
+              Biometrics: Secure, ultra-sonic on-screen under-display fingerprint reader.
+          Physical Build & Durability:
+              Dimensions: Razor-thin frame measuring 285.4 mm x 185.4 mm x 5.6 mm.
+              Weight: 571 grams (1.26 lbs) for the Wi-Fi configuration.
+              Protection: Full IP68 dust and water resistance (safe submerged down to 5 feet of fresh water for up to 30 minutes).
+          Software Ecosystem:
+              Ships with Android 14 layered with Samsung One UI, deeply integrated with the full Galaxy AI software suite (Note Assist, Sketch-to-Image, and Circle to Search). Samsung provides a lengthy software maintenance cycle extending all the way until October 2031.
+          In the Box: Includes a low-latency, magnetic S Pen stylus featuring remote gesture air controls that charges directly against the back spine of the tablet. 
+
+    variants:
+      - id: 501210
+        color: " Platinum Silver"
+        image: images/galtab07.png
+        price: 899.95
+      - id: 501211
+        color: Moonstone Gray
+        price: 899.95
+        image: images/galtabo6.webp
+  - name: Samsung Galaxy Tab S10 Plus , 512GB , 12.4-inch  , WiFi Only  , New ,
+      Sealed
+    category: Tablets
+    description: >-
+      The Samsung Galaxy Tab S10+ Wi-Fi Only 512GB (Model SM-X820) is a premium
+      12.4-inch Android tablet [8950203972]. It features a high-performance
+      processor, a specialized glare-reducing screen coating, and ample storage
+      space.
+
+      Below is the comprehensive technical breakdown for this specific 512GB Storage / 12GB RAM Wi-Fi configuration:
+
+      Comprehensive Specifications
+
+          Display & Screen Technology:
+              Size: 12.4-inch Dynamic AMOLED 2X panel.
+              Resolution: 2800 x 1752 pixels (WQXGA+) with a 16:10 aspect ratio (~266 ppi density).
+              Refresh Rate: Up to 120Hz adaptive smooth scrolling.
+              Special Feature: Specialized anti-reflective screen coating that dramatically minimizes glare under bright indoor overhead lights or direct sunlight.
+          Processor & Core Hardware:
+              Chipset: 4nm MediaTek Dimensity 9300+ octa-core platform.
+              CPU Clock Speed: High-performance cores reaching up to 3.4 GHz.
+              Graphics: Immortalis-G720 MC12 (12-core GPU).
+          Memory & Storage:
+              System RAM: 12 GB LPDDR5X.
+              Internal Storage: 512 GB high-speed flash memory [8950203972].
+              Expansion: Dedicated MicroSD slot supporting memory cards up to an additional 1.5 TB.
+          Wireless Connectivity:
+              Local Wireless: Fast Wi-Fi 6E (supports 2.4 GHz, 5 GHz, and 6 GHz bands) and Bluetooth v5.3.
+              Note: This specific model (SM-X820) is Wi-Fi Only and lacks cellular SIM hardware.
+          Cameras & Video Performance:
+              Rear Setup: Dual array — 13 MP wide main sensor (Autofocus, f/2.0) + 8 MP ultra-wide lens (f/2.2). Includes built-in LED flash.
+              Front Camera: 12 MP ultra-wide camera optimized for horizontal video calling auto-framing.
+              Video Capture: Records up to UHD 4K at 30fps.
+          Battery & Power Logistics:
+              Capacity: Huge 10,090 mAh Li-Polymer battery cell.
+              Charging: Supports up to 45W wired fast charging (wall charging bricks sold separately).
+              Runtime: Rated for up to 16 hours of continuous wireless video playback.
+          Audio & Hardware Security:
+              Sound: Quad stereo speakers tuned by AKG with integrated Dolby Atmos hardware processing.
+              Biometrics: Secure, ultra-sonic on-screen under-display fingerprint reader.
+          Physical Build & Durability:
+              Dimensions: Razor-thin frame measuring 285.4 mm x 185.4 mm x 5.6 mm.
+              Weight: 571 grams (1.26 lbs) for the Wi-Fi configuration.
+              Protection: Full IP68 dust and water resistance (safe submerged down to 5 feet of fresh water for up to 30 minutes).
+          Software Ecosystem:
+              Ships with Android 14 layered with Samsung One UI, deeply integrated with the full Galaxy AI software suite (Note Assist, Sketch-to-Image, and Circle to Search). Samsung provides a lengthy software maintenance cycle extending all the way until October 2031.
+          In the Box: Includes a low-latency, magnetic S Pen stylus featuring remote gesture air controls that charges directly against the back spine of the tablet
+    id: 458
+    variants:
+      - id: 501212
+        color: " Moonstone Gray"
+        price: 1199.95
+        image: images/galtabo6.webp
+      - price: 1199.95
+        color: Platinum Silver
+        image: images/galtab07.png
+        id: 501213
+    price: ""
+  - name: Microsoft Surface Pro 9 ,13 inch , 256GB 8GB Ram , Intel Core i5-1235U ,
+      WiFi Only , New , Sealed
+    id: 459
+    category: Tablets
+    description: >-
+      The Microsoft Surface Pro 9 (13-inch, Wi-Fi Only, 256GB SSD) is a premium
+      Windows-based 2-in-1 detachable tablet designed to deliver full laptop
+      performance in a highly mobile form factor.
+
+      Below is the comprehensive technical breakdown for this specific 256GB SSD Wi-Fi configuration:
+
+      Comprehensive Specifications
+
+          Display & Touch Screen:
+              Size: 13-inch PixelSense™ Flow touchscreen display.
+              Resolution: 2880 x 1920 pixels (267 ppi) with a productivity-focused 3:2 aspect ratio.
+              Refresh Rate: Up to 120Hz dynamic refresh rate (smooth scrolling).
+              Color Profile: Vivid and sRGB modes, individually calibrated colors, and a 1200:1 contrast ratio.
+              Special Video Features: Dolby Vision IQ™ support and ambient light sensor for automatic color tuning.
+              Glass Protection: Strong Corning® Gorilla® Glass 5.
+          Processor & Core Hardware:
+              Platform: Intel® Evo™ design ecosystem.
+              Processor Options: 12th Gen Intel® Core™ i5-1235U or Core™ i7-1255U processor.
+              Graphics Engine: Intel® Iris® Xe Graphics.
+          Memory & Storage:
+              System RAM: 8 GB or 16 GB high-speed LPDDR5 RAM.
+              Solid State Storage: 256 GB NVMe removable solid-state drive (SSD).
+          Wireless Connectivity:
+              Local Wireless: Fast Wi-Fi 6E (802.11ax) and Bluetooth® Wireless 5.1 technology.
+              Note: This specific model is Wi-Fi Only and lacks the cellular 5G Microsoft SQ® 3 hardware.
+          Cameras, Video & Audio:
+              Front Camera: 1080p Full HD video camera with Windows Hello secure facial authentication.
+              Rear Camera: 10.0 MP autofocus rear-facing camera with 1080p HD and 4K video recording.
+              Audio Setup: Dual 2W stereo speakers with Dolby® Atmos® spatial sound; dual far-field Studio Microphones.
+          Interface Ports & Slots:
+              Thunderbolt: 2 x USB-C® ports with Thunderbolt™ 4 capabilities (supports dual 4K external monitors).
+              Charging & Docking: 1 x Surface Connect port; 1 x Surface Type Cover keyboard interface port.
+              Note: This device lacks a physical 3.5mm headphone jack.
+          Battery & Power Logistics:
+              Runtime Capacity: Rated for up to 15.5 hours of typical device usage.
+              Charging: Ships with a dedicated 65W/60W Surface Power Adapter.
+          Physical Build & Aesthetics:
+              Dimensions: 11.3 inches x 8.2 inches x 0.37 inches (287 mm x 209 mm x 9.3 mm).
+              Weight: 1.94 lbs (879 grams) for the device frame only.
+              Chassis Structure: Premium anodized aluminum frame featuring a built-in 165-degree friction kickstand.
+              Colorways: Available in Platinum, Graphite, Forest Green, and Sapphire Blue.
+          Software Ecosystem:
+              Ships running Windows 11 Home natively, with pre-loaded Microsoft 365 Apps and Xbox App trial access.
+    variants:
+      - id: 501214
+        color: Sapphire
+        price: 1475.95
+        image: images/mic01.webp
+  - id: 460
+    name: Xiaomi Redmi Pad 2 Pro , 12.1inch  ,128GB 6GB Ram , Global Version , WiFi
+      Only , New , Sealed
+    category: Tablets
+    description: >-
+      The Xiaomi Redmi Pad 2 Pro
+
+      (128GB Storage / 6GB RAM configuration) is a highly efficient mid-range tablet built for entertainment, online learning, and light productivity. 
+
+      Key Technical Specifications
+
+          Processor: Powered by the updated Qualcomm Snapdragon 7s Gen 4 (4nm) chipset.
+          Display: 12.1-inch 2.5K LCD panel with a crisp 2560 x 1600 resolution and a 120Hz adaptive refresh rate.
+          Battery: A massive 12,000 mAh capacity battery that supports 33W wired fast charging.
+          Operating System: Ships with Xiaomi HyperOS 2 (built on Android).
+          Audio: Immersive quad-stereo speaker configuration featuring Dolby Atmos.
+          Cameras: 8 MP lenses on both the front and the rear.
+          Expansion & Ports: Includes a microSD slot (expandable up to 2TB) and a 3.5mm headphone jack. Full Technical Specifications
+      Design & Body
+
+          Dimensions: 279.80 mm x 181.65 mm x 7.50 mm.
+          Weight: 610 grams.
+          Build: Premium all-aluminum unibody chassis.
+          Colors: Graphite Gray, Silver, Lavender Purple. 
+
+      Display
+
+          Type: IPS LCD with 1.07 billion colors (10-bit) and Dolby Vision.
+          Size: 12.1 inches (~83.5% screen-to-body ratio).
+          Resolution: 2.5K (2560 x 1600 pixels), 16:10 aspect ratio (~249 ppi density).
+          Refresh Rate: 120Hz adaptive.
+          Sampling Rate: 360Hz touch sampling rate (240Hz with stylus).
+          Brightness: 500 nits typical, 600 nits High Brightness Mode (HBM).
+          Protection: Corning Gorilla Glass 3. 
+
+      Performance & Hardware
+
+          Processor: Qualcomm Snapdragon 7s Gen 4 (4nm process).
+          CPU: Octa-core (
+          Cortex-A720 +
+          Cortex-A720 +
+          Cortex-A520).
+          GPU: Adreno 810 @ 1150MHz.
+          RAM Type: LPDDR4X.
+          Storage Type: UFS 2.2.
+          Expansion: Dedicated microSD slot supporting up to 2TB. 
+
+      Battery & Power
+
+          Capacity: 12,000 mAh lithium-polymer (non-removable).
+          Charging: Supports 33W wired fast charging via Power Delivery (PD). 
+
+      Cameras
+
+          Rear Camera: 8 MP wide lens,
+          aperture, 1080p video recording at 30fps.
+          Front Camera: 8 MP ultrawide lens,
+          aperture, 1080p video recording at 30fps. 
+
+      Audio & Connectivity
+
+          Speakers: Quad stereo speakers with Dolby Atmos support.
+          Ports: USB Type-C (USB 2.0 speeds), 3.5mm audio headphone jack.
+          Wi-Fi: Wi-Fi 6 (
+          ) dual-band.
+          Bluetooth: Version 5.4 supporting SBC, AAC, and LDAC codecs.
+          Sensors: Accelerometer, Gyroscope, Ambient Light, Color Temperature, Electronic Compass, Hall effect. 
+    variants:
+      - id: 501215
+        color: Silver
+        price: 309.95
+        image: images/xiomitab01mi.webp
+  - name: Xiaomi Redmi Pad 2 Pro , 12.1inch  , 256GB 8GB Ram , Global Version , WiFi
+      Only , New , Sealed
+    id: 461
+    category: Tablets
+    description: >-
+      The full official specifications for the Xiaomi Redmi Pad 2 Pro (256GB
+      Storage / 8GB RAM configuration) are detailed below:
+       Full Technical Specifications
+      Memory & Performance Boost
+
+          RAM: 8GB LPDDR4X (Allows more apps to stay loaded in the background compared to the 6GB variant).
+          Storage: 256GB UFS 2.2 (Double the base storage capacity).
+          Expansion: Dedicated microSD slot supporting up to an additional 2TB.
+          Processor: Qualcomm Snapdragon 7s Gen 4 (4nm process).
+          CPU: Octa-core (
+          +
+          +
+          ).
+          GPU: Adreno 810 @ 1150MHz.
+
+      Display
+
+          Size & Type: 12.1-inch IPS LCD with 1.07 billion colors and Dolby Vision.
+          Resolution: 2.5K (2560 x 1600 pixels), 16:10 aspect ratio (~249 ppi).
+          Refresh Rate: 120Hz adaptive.
+          Brightness: 500 nits typical, 600 nits High Brightness Mode (HBM).
+          Protection: Corning Gorilla Glass 3.
+
+      Battery & Power
+
+          Capacity: 12,000 mAh lithium-polymer.
+          Charging: 33W wired fast charging via Power Delivery (PD).
+
+      Design & Build
+
+          Dimensions: 279.80 mm x 181.65 mm x 7.50 mm.
+          Weight: 610 grams.
+          Chassis: Premium all-aluminum unibody.
+          Colors: Graphite Gray, Silver, Lavender Purple.
+
+      Audio & Connectivity
+
+          Speakers: Quad stereo speakers with Dolby Atmos.
+          Ports: USB Type-C (USB 2.0 speeds), 3.5mm headphone jack.
+          Wireless: Wi-Fi 6 (
+          ) dual-band, Bluetooth 5.4 (SBC, AAC, LDAC).
+
+      Cameras & Software
+
+          Rear Camera: 8 MP wide lens,
+          , 1080p @ 30fps.
+          Front Camera: 8 MP ultrawide lens,
+          , 1080p @ 30fps.
+          Operating System: Android 15 with Xiaomi HyperOS 2.
+    variants:
+      - id: 501215
+        color: Gray
+        price: 379.95
+        image: images/xiomitab02mi.webp.webp
+      - id: 501216
+        color: Silver
+        price: 379.95
+        image: images/xiomitab01mi.webp
+  - name: Xiaomi Pad 8, 11.2-inch , 128GB 8GB Ram , Global Version WiFi Only , New ,
+      Sealed
+    description: >-
+      Full Technical Specifications
+
+      Performance & Core Hardware
+
+          Processor: Qualcomm Snapdragon 8s Gen 4 built on a TSMC 4nm process.
+          CPU Structure: Octa-core configuration featuring a prime Cortex-X4 core clocked up to 3.21GHz.
+          Graphics: Qualcomm Adreno 825 GPU.
+          RAM Layout: 8GB LPDDR5X (speeds up to 8533 Mbps) or 12GB LPDDR5T (speeds up to 9600 Mbps).
+          Storage Tiers: 128GB (utilizes UFS 3.1) or 256GB / 512GB (upgraded to ultra-fast UFS 4.1).
+          Storage Expansion: No microSD slot available. 
+
+      Display Features
+
+          Size & Panel: 11.2-inch IPS LCD with a productivity-first 3:2 aspect ratio.
+          Resolution: 3.2K (3200 x 2136 pixels) producing a very sharp 345 ppi density.
+          Refresh Speed: Up to 144Hz adaptive refresh rate.
+          Touch Performance: 360Hz standard touch sampling rate, 1080Hz instantaneous, and 240Hz stylus tracking.
+          Brightness & Tuning: 600 nits typical, 800 nits peak High Brightness Mode (HBM), 12-bit color depth (68.7 billion colors), and DC dimming.
+          Optics Standards: Certified for Dolby Vision, HDR10, and TÜV Rheinland Low Blue Light.
+          Glass Feature: Wet Touch technology allows full screen usage even with moisture on your fingers. 
+
+      Power & Battery
+
+          Capacity: 9200 mAh lithium-polymer battery.
+          Charging Capability: 45W wired turbo charging via Power Delivery (PD 3.0) and Quick Charge 3+.
+          Reverse Supply: Supports 22.5W reverse wired charging to power accessories or phones.
+          Note: Power adapters are sold separately in specific global regions. 
+
+      Physical Build
+
+          Dimensions: 251.22 mm x 173.42 mm x 5.75 mm ultra-thin chassis.
+          Weight: 485 grams.
+          Chassis Composition: Full-metal aluminum unibody. 
+
+      Camera Systems
+
+          Rear Array: 13 MP sensor (
+          ) with Phase Detection Autofocus (PDAF). Video recording up to 4K at 30fps or 1080p at 60fps.
+          Front Array: 8 MP landscape-oriented camera (
+          ) shooting 1080p video at 30fps. 
+
+      Software, Audio & Ports
+
+          Operating System: Android 16 layered with Xiaomi HyperOS 3.
+          Data Speeds: USB Type-C port operating at USB 3.2 Gen 1 speeds (up to 5Gbps, supports external monitor video display-out).
+          Sound Stage: Quad stereo speakers with Dolby Atmos support and a 200% volume boost profile.
+          Wireless Kit: Wi-Fi 7 dual-band capability and Bluetooth 5.4.
+          Sensors: Accelerometer, Gyroscope, Front & Rear Ambient Light, Color Temperature, Flicker sensor, and an IR remote blaster.
+    category: Tablets
+    id: 462
+    variants:
+      - id: 501217
+        color: "Green "
+        price: 479.95
+        image: images/xiomitab04mi.webp.webp
+      - id: 501218
+        color: Blue
+        price: 479.95
+        image: images/xiomitab05mi.webp.webp
+      - id: 501219
+        color: Gray
+        price: 479.95
+        image: images/xiaomitab06.webp
+  - name: Onn Tablet Pro ,12.1inch , 128GB 6GB  Ram ,  WiFi Only (2024) New , Sealed
+    description: >-
+      The onn 12.1″ Tablet Pro steps into the large-format tablet category by
+      offering a generous 12.1-inch display paired with 128 GB of built-in
+      storage, making it a strong value proposition for those seeking expansive
+      screen real estate without a premium price tag. The size of the screen is
+      ideal for media streaming, multitasking with split-screen apps, digital
+      reading, or sharing content with others. The ample internal storage
+      provides space for apps, videos, documents and more—enough for casual
+      users and families alike.
+
+
+      On the performance side, this 2024 model of the Tablet Pro is equipped with an octa-core processor and sufficient RAM, enabling smooth operation for everyday tasks like web browsing, social media, video playback and productivity apps. Reviewers highlight the inclusion of four built-in speakers with enhanced audio processing that deliver room-filling sound, elevating the experience beyond simple tablet audio. Battery life is also noted to be strong, with manufacturer claims of up to 15 hours of use, making it suitable for long sessions of reading, streaming or work.
+
+
+      From a design and usability perspective, the tablet comes in a sleek finish with multiple colour options to match user preference. The larger screen size still manages to maintain a form factor that is portable enough for couches, desks or on-the-go use. While it doesn’t carry the highest-end specs of flagship tablets, its combination of display size, storage and multimedia capability situates it as an accessible choice for those wanting more screen real estate and device flexibility without going high-end. It’s especially suited for families, shared households or anyone wanting a tablet that can double as an entertainment hub.
+    category: Tablets
+    id: 463
+    variants:
+      - id: 501220
+        color: Red
+        image: images/tablet01.webp
+        price: 309.95
+      - id: 501221
+        color: Gray
+        image: images/tab04.webp
+        price: 309.95
+  - name: Proscan Elite Tablet10.1 inch  with Portable DVD Combo  , 32GB 2GB Ram ,
+      WiFi Only , New , Sealed
+    category: Tablets
+    description: >-
+      The Proscan Elite 10.1″ Tablet with Portable DVD Combo blends two types of
+      devices into one—an Android tablet and a built‑in DVD player. On the
+      tablet side you get a 10.1‑inch display with a 1280×800 resolution,
+      running Android 11 (Go edition) and offering access to apps, streaming,
+      web browsing and media play. On the DVD side there's a slot for DVD, VCD,
+      CD or MP3 discs, so you can pop in a physical disc and enjoy it without
+      relying solely on internet streaming. This hybrid format makes it
+      especially useful in contexts where Wi‑Fi might be unreliable or streaming
+      costly.
+
+
+      With 32 GB of internal storage and the ability to expand via microSD, this combo unit offers enough space for your apps, files and offline media. The device is connected with key ports such as USB‑C, a 3.5 mm audio jack, microSD slot and support for Wi‑Fi and Bluetooth. The built‑in speakers handle basic audio tasks, and you have a front‑facing camera (2 MP) for video calls or selfies. Performance is powered by a 2.0 GHz quad‑core processor which handles light productivity, media playback and everyday apps without major strain.
+
+
+      This product is well suited for travelers, families on the move or anyone who has a library of physical media and simultaneously wants the convenience of a tablet. For example, on a long road‑trip you could keep a dvd collection handy while also using the tablet side for streaming or reading. On the flip side, heavy multitasking, demanding games or high‑end media creation aren’t the primary strengths here—this is more of an entertainment‑and‑utility device than a flagship‑spec machine. If you value versatility (disc playback plus tablet functionality) at an accessible price point, this is a compelling pick.
+    id: 464
+    variants:
+      - id: 501222
+        color: Black
+        image: images/tablet02.webp
+        price: 199.95
+  - name: TCL TABMAX  10.36 inch  , 64GB 6GB  Ram , WiFi Only , New , Sealed
+    description: >+2
+       (9296Q) The TCL TABMAX 10.4 Space Gray Tablet (Model 9296Q) features a sleek, metallic dark gray finish designed to look clean and professional while resisting fingerprints.
+      ⚙️ Full Technical Specifications
+
+      Display & NXTVISION Tech
+
+          Size: 10.36 inches with slim 8.3mm bezels.
+          Resolution: 2K FHD+ (2000 x 1200 pixels) at a 15:9 aspect ratio (~225 ppi).
+          Screen Enhancements: Powered by TCL NXTVISION, which uses a dedicated chip to improve picture quality by automatically sharpening text, boosting contrast, and warming color tones for video playback.
+          Eye Protection: Includes dedicated Reading Mode (grayscale screen) and Eye Comfort Mode to dramatically reduce harmful blue light emissions.
+
+      Core Performance & Storage
+
+          Processor: Qualcomm Snapdragon 665 (11nm Octa-core chip: 4x Cortex-A73 @ 2.0 GHz + 4x Cortex-A53 @ 1.8 GHz).
+          Graphics: Qualcomm Adreno 610 GPU.
+          Memory RAM: 6GB RAM (provides excellent app retention and smooth navigation for a budget device).
+          Onboard Storage: 64GB internal storage.
+          Expansion: Dedicated microSD slot supporting up to an additional 256GB.
+
+      Power, Audio & Connections
+
+          Battery Capacity: 8000 mAh lithium-ion.
+          Battery Performance: Rated for up to 8 hours of online video streaming or 5 hours of continuous online gaming.
+          Charging Speed: Supports 18W fast charging via its USB Type-C port.
+          Sound: Dual stereo speakers with Hi-Res Audio tuning.
+          Wireless Kit: Dual-band Wi-Fi 5 (802.11ac) and Bluetooth 5.0.
+          Note: This specific tablet does not feature a 3.5mm physical headphone jack.
+
+      Cameras & Software
+
+          Rear Camera: 13 MP sensor (
+          ) with LED Flash and 1080p video recording at 30fps.
+          Front Camera: 8 MP landscape-centered lens (
+          ) optimized for video calls and Zoom meetings.
+          Operating System: Android 11.
+
+    id: 465
+    category: Tablets
+    variants:
+      - id: 501223
+        color: " Gray"
+        price: 309.95
+        image: images/tablet03.webp
+  - id: 466
+    name: TCL NXTPAPER Tablet 11 Plus , 11.5 inch  , 256GB 8GB  Ram , WiFi Only ,
+      New , Sealed
+    description: >-
+      (9469X2-2AOFUS11) The TCL NXTPAPER 11 Plus is a slim, lightweight tablet
+      designed for reading, streaming, and productivity while reducing eye
+      strain. It features an 11.5-inch 2.2K IPS LCD display with a 120Hz refresh
+      rate, offering sharp visuals and smooth performance. The screen uses TCL’s
+      NXTPAPER 4.0 technology, which applies a matte, paper-like finish that
+      minimizes glare and blue light. Smart Eye Comfort modes automatically
+      adjust brightness, color temperature, and contrast for a more comfortable
+      viewing experience in different environments.
+
+
+      Powered by a MediaTek Helio G100 octa-core processor with 8GB of RAM and 256GB of storage, the NXTPAPER 11 Plus provides reliable performance for multitasking, entertainment, and light productivity. Storage can be expanded, and RAM can be virtually extended for smoother performance. Running Android 15, the tablet also includes built-in AI tools such as Text Assist, Writing Assist, Circle to Search, and voice memo transcription to enhance productivity.
+
+
+      The device is equipped with an 8000mAh battery that supports 33W fast charging, delivering a full charge in under two hours. It can also serve as a power bank with reverse charging support. For immersive sound, it has quad speakers with DTS 3D Boom Sound and dual microphones with noise reduction, making it suitable for both entertainment and video calls.
+
+
+      Designed for portability, the NXTPAPER 11 Plus measures about 6.5mm thick and weighs roughly 490 grams. It comes in a sleek Onyx Black finish and includes useful sensors such as GPS, accelerometer, ambient light, and proximity. Security is handled through face unlock.
+
+
+      Overall, the TCL NXTPAPER 11 Plus stands out as a versatile tablet that combines smooth performance with unique display technology optimized for eye comfort, making it an excellent choice for students, readers, and professionals alike.
+    category: Tablets
+    variants:
+      - id: 501224
+        color: "Black "
+        price: 329.95
+        image: images/tab06.webp
+  - name: Apple iPad Mini , 8.3 inch , 128GB  8GB Ram  , WiFi Only  (7th Generation)
+      New , Sealed
+    id: 467
+    category: Tablets
+    description: >-
+      The Apple iPad Mini (7th Generation, A17 Pro) features the following
+      official specifications:
+
+      Core Performance
+
+          Processor: Apple A17 Pro chip.
+          CPU: 6‑core CPU (2 performance and 4 efficiency cores).
+          GPU: 5‑core GPU with hardware-accelerated ray tracing.
+          Neural Engine: 16‑core Neural Engine built for Apple Intelligence.
+          RAM: 8GB RAM (required for on-device AI features).
+
+      Display
+
+          Screen Size: 8.3-inch (diagonal) LED-backlit Multi-Touch display with IPS technology.
+          Resolution: 2266-by-1488 pixel resolution at 326 pixels per inch (ppi).
+          Brightness: 500 nits max brightness.
+          Color: True Tone and P3 wide color display.
+          Coating: Fingerprint-resistant oleophobic and anti-reflective coating.
+
+      Cameras & Video
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, Smart HDR 4, and 4K video recording up to 60 fps.
+          Front Camera: 12MP Ultra Wide landscape front camera, ƒ/2.4 aperture, and Center Stage support.
+
+      Connectivity & Ports
+
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual band.
+          Bluetooth: Bluetooth 5.3.
+          USB-C Port: Supports charging, DisplayPort, and USB 3 speeds (up to 10Gb/s).
+
+      Dimensions & Battery
+
+          Weight: 0.65 pound (293 grams).
+          Dimensions: 7.69 inches x 5.3 inches x 0.25 inch (195.4 mm x 134.8 mm x 6.3 mm).
+          Battery: Up to 10 hours of surfing the web on Wi-Fi or watching video.
+
+      Stylus Compatibility
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, and haptic feedback).
+          Apple Pencil (USB-C): Supported.
+    variants:
+      - id: 501225
+        price: 529.95
+        image: images/ipad03.jpeg
+        color: Gray
+      - id: 501226
+        color: Starlight
+        price: 529.95
+        image: images/ipad01.webp
+      - id: 501227
+        color: Blue
+        price: 529.95
+        image: images/ipad04.webp
+      - color: Purple
+        id: 501228
+        price: 529.95
+        image: images/ipad02.webp
+  - name: Apple iPad Mini , 8.3 inch , 256GB  8GB Ram , WiFi Only (7th Generation)
+      New , Sealed
+    id: 468
+    category: Tablets
+    description: "The Apple iPad Mini (7th Generation, A17 Pro) features the
+      following official specifications: Core Performance Processor: Apple A17
+      Pro chip. CPU: 6‑core CPU (2 performance and 4 efficiency cores). GPU:
+      5‑core GPU with hardware-accelerated ray tracing. Neural Engine: 16‑core
+      Neural Engine built for Apple Intelligence. RAM: 8GB RAM (required for
+      on-device AI features). Display Screen Size: 8.3-inch (diagonal)
+      LED-backlit Multi-Touch display with IPS technology. Resolution:
+      2266-by-1488 pixel resolution at 326 pixels per inch (ppi). Brightness:
+      500 nits max brightness. Color: True Tone and P3 wide color display.
+      Coating: Fingerprint-resistant oleophobic and anti-reflective coating.
+      Cameras & Video Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, Smart HDR
+      4, and 4K video recording up to 60 fps. Front Camera: 12MP Ultra Wide
+      landscape front camera, ƒ/2.4 aperture, and Center Stage support.
+      Connectivity & Ports Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO;
+      simultaneous dual band. Bluetooth: Bluetooth 5.3. USB-C Port: Supports
+      charging, DisplayPort, and USB 3 speeds (up to 10Gb/s). Dimensions &
+      Battery Weight: 0.65 pound (293 grams). Dimensions: 7.69 inches x 5.3
+      inches x 0.25 inch (195.4 mm x 134.8 mm x 6.3 mm). Battery: Up to 10 hours
+      of surfing the web on Wi-Fi or watching video. Stylus Compatibility Apple
+      Pencil Pro: Supported (includes squeeze, barrel roll, and haptic
+      feedback). Apple Pencil (USB-C): Supported. "
+    variants:
+      - id: 501229
+        color: Purple
+        price: 629.95
+        image: images/ipad02.webp
+      - id: 501230
+        color: Starlight
+        price: 629.95
+        image: images/ipad01.webp
+      - id: 501231
+        price: 629.95
+        color: Blue
+        image: images/ipad04.webp
+      - id: 501232
+        color: Gray
+        price: 629.95
+        image: images/ipad03.jpeg
+  - id: 469
+    name: Apple iPad Air , 13 inch , 128GB  8GB Ram , WiFi Only (M2) New , Sealed
+    category: Tablets
+    description: >-
+      The Apple iPad Air 13-inch (M2, 2024) features the following official
+      technical specifications:
+
+      Core Performance
+
+          Processor: Apple M2 chip.
+          CPU: 8-core CPU (4 performance cores and 4 efficiency cores).
+          GPU: 9-core GPU with hardware-accelerated mesh shading.
+          Neural Engine: 16-core Neural Engine for Apple Intelligence.
+          RAM: 8GB RAM.
+          Storage: 128GB (Base configuration).
+
+      Display
+
+          Screen Size: 13-inch (diagonal) LED-backlit Multi-Touch display with IPS technology.
+          Resolution: 2732-by-2048 pixel resolution at 264 pixels per inch (ppi).
+          Brightness: 600 nits maximum brightness.
+          Color Tech: True Tone, P3 wide color, and full lamination.
+          Coating: Fingerprint-resistant oleophobic and anti-reflective coating (1.5% reflectivity).
+
+      Cameras & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps.
+          Front Camera: Landscape 12MP Ultra Wide camera, ƒ/2.4 aperture, with Center Stage and Smart HDR 4.
+          Audio: Landscape stereo speakers with 2x the bass of the 11-inch model. Dual microphones for calls.
+
+      Connectivity & Ports
+
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual band (2.4GHz and 5GHz).
+          Bluetooth: Bluetooth 5.3 technology.
+          Port: USB-C port supporting charging, DisplayPort, and USB 3 speeds (up to 10Gb/s).
+
+      Dimensions & Battery
+
+          Weight: 1.36 pounds (617 grams).
+          Dimensions: 11.04 inches x 8.46 inches x 0.24 inch (280.6 mm x 214.9 mm x 6.1 mm).
+          Battery: Built-in 36.59-watt-hour rechargeable lithium-polymer battery. Up to 10 hours of surfing the web on Wi-Fi or watching video.
+
+      Accessory Support
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, haptic feedback, and Find My).
+          Apple Pencil (USB-C): Supported.
+          Keyboards: Compatible with Magic Keyboard (floating cantilever design) and Smart Keyboard Folio.
+    variants:
+      - id: 501233
+        color: " Purple"
+        price: 839.95
+        image: images/ipad06.png
+      - id: 501234
+        color: Gray
+        price: 839.95
+        image: images/ipad07.png
+      - id: 501235
+        price: 839.95
+        color: Blue
+        image: images/ipad05.png
+      - id: 501236
+        color: Starlight
+        price: 839.95
+        image: images/ipad08.png
+  - name: Apple iPad Air , 13 inch , 256GB 8GB Ram , WiFi Only (M2) New , Sealed
+    category: Tablets
+    id: 470
+    description: >-
+      The Apple iPad Air 13-inch (M2, 2024) 256GB features the following
+      detailed technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M2 chip.
+          CPU: 8-core CPU (4 performance cores and 4 efficiency cores).
+          GPU: 9-core GPU with hardware-accelerated mesh shading.
+          Neural Engine: 16-core Neural Engine for Apple Intelligence.
+          RAM: 8GB RAM.
+          Storage: 256GB flash memory.
+
+      Display
+
+          Screen Size: 13-inch (diagonal) LED-backlit Multi-Touch display with IPS technology.
+          Resolution: 2732-by-2048 pixel resolution at 264 pixels per inch (ppi).
+          Brightness: 600 nits maximum brightness.
+          Color Tech: True Tone, P3 wide color, and full lamination.
+          Coating: Fingerprint-resistant oleophobic and anti-reflective coating (1.5% reflectivity).
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps.
+          Front Camera: Landscape 12MP Ultra Wide camera, ƒ/2.4 aperture, with Center Stage and Smart HDR 4.
+          Audio: Landscape stereo speakers with 2x the bass of the 11-inch model. Dual microphones for calls.
+
+      Connectivity & Inputs
+
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual band (2.4GHz and 5GHz).
+          Bluetooth: Bluetooth 5.3 technology.
+          Port: USB-C port supporting charging, DisplayPort, and USB 3 speeds (up to 10Gb/s).
+
+      Size & Battery
+
+          Weight: 1.36 pounds (617 grams).
+          Dimensions: 11.04 inches x 8.46 inches x 0.24 inch (280.6 mm x 214.9 mm x 6.1 mm).
+          Battery: Built-in 36.59-watt-hour rechargeable lithium-polymer battery. Up to 10 hours of surfing the web on Wi-Fi or watching video.
+
+      Accessory Compatibility
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, haptic feedback, and Find My).
+          Apple Pencil (USB-C): Supported.
+          Keyboards: Compatible with Magic Keyboard (floating cantilever design) and Smart Keyboard Folio.
+    variants:
+      - id: 501237
+        color: Starlight
+        price: 999.95
+        image: images/ipad08.png
+      - id: 501238
+        color: " Purple"
+        price: 999.95
+        image: images/ipad06.png
+      - id: 501239
+        color: " Blue"
+        price: 999.95
+        image: images/ipad05.png
+      - id: 501240
+        color: Gray
+        price: 999.95
+        image: images/ipad07.png
+  - name: Apple iPad Air , 13 inch , 128GB 8GB Ram , WiFi + Cellular (M2) New ,
+      Sealed
+    category: Tablets
+    description: >-
+      The Apple iPad Air 13-inch (M2, 2024) Wi-Fi + Cellular 128GB features the
+      following detailed technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M2 chip.
+          CPU: 8-core CPU (4 performance cores and 4 efficiency cores).
+          GPU: 9-core GPU with hardware-accelerated mesh shading.
+          Neural Engine: 16-core Neural Engine for Apple Intelligence.
+          RAM: 8GB RAM.
+          Storage: 128GB flash memory.
+
+      Cellular & Wireless
+
+          Cellular Data: 5G (sub-6 GHz) with 4x4 MIMO.
+          SIM Card Type: eSIM only (Does not support physical nano-SIM cards).
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual band.
+          Bluetooth: Bluetooth 5.3 technology.
+          Location: GPS/GNSS technology (exclusive to Cellular models) and digital compass.
+
+      Display
+
+          Screen Size: 13-inch (diagonal) LED-backlit Multi-Touch display with IPS technology.
+          Resolution: 2732-by-2048 pixel resolution at 264 pixels per inch (ppi).
+          Brightness: 600 nits maximum brightness.
+          Color Tech: True Tone, P3 wide color, and full lamination.
+          Coating: Fingerprint-resistant oleophobic and anti-reflective coating.
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps.
+          Front Camera: Landscape 12MP Ultra Wide camera, ƒ/2.4 aperture, with Center Stage and Smart HDR 4.
+          Audio: Landscape stereo speakers with 2x the bass of the 11-inch model. Dual microphones.
+
+      Size, Ports & Battery
+
+          Weight: 1.36 pounds (618 grams).
+          Dimensions: 11.04 inches x 8.46 inches x 0.24 inch (280.6 mm x 214.9 mm x 6.1 mm).
+          Port: USB-C port supporting charging, DisplayPort, and USB 3 speeds (up to 10Gb/s).
+          Battery: Built-in 36.59-watt-hour battery. Up to 10 hours of web surfing on Wi-Fi/video playback, or up to 9 hours using cellular data.
+
+      Accessory Compatibility
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, haptic feedback, and Find My).
+          Apple Pencil (USB-C): Supported.
+          Keyboards: Compatible with Magic Keyboard (floating cantilever design) and Smart Keyboard Folio.
+    id: 471
+    variants:
+      - id: 501241
+        color: " Blue"
+        price: 959.95
+        image: images/ipad05.png
+      - id: 501242
+        color: Purple
+        price: 959.95
+        image: images/ipad06.png
+      - id: 501243
+        price: 959.95
+        color: Gray
+        image: images/ipad07.png
+      - id: 501244
+        color: Starlight
+        price: 959.95
+        image: images/ipad08.png
+  - name: Apple iPad Air , 13 inch , 256GB 8GB Ram , WiFi + Cellular (M2) New ,
+      Sealed
+    description: >-2
+       The Apple iPad Air 13-inch (M2, 2024) Wi-Fi + Cellular 256GB features the following detailed technical specifications:
+      Performance & Memory
+
+          Processor: Apple M2 chip.
+          CPU: 8-core CPU (4 performance cores and 4 efficiency cores).
+          GPU: 9-core GPU with hardware-accelerated mesh shading.
+          Neural Engine: 16-core Neural Engine for Apple Intelligence.
+          RAM: 8GB RAM.
+          Storage: 256GB flash memory. 
+
+      Cellular & Wireless
+
+          Cellular Data: 5G (sub-6 GHz) with 4x4 MIMO.
+          SIM Card Type: eSIM only (Does not support physical nano-SIM cards).
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual band.
+          Bluetooth: Bluetooth 5.3 technology.
+          Location: GPS/GNSS technology (exclusive to Cellular models) and digital compass. 
+
+      Display
+
+          Screen Size: 13-inch (diagonal) LED-backlit Multi-Touch display with IPS technology.
+          Resolution: 2732-by-2048 pixel resolution at 264 pixels per inch (ppi).
+          Brightness: 600 nits maximum brightness.
+          Color Tech: True Tone, P3 wide color, and full lamination.
+          Coating: Fingerprint-resistant oleophobic and anti-reflective coating. 
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps.
+          Front Camera: Landscape 12MP Ultra Wide camera, ƒ/2.4 aperture, with Center Stage and Smart HDR 4.
+          Audio: Landscape stereo speakers with 2x the bass of the 11-inch model. Dual microphones. 
+
+      Size, Ports & Battery
+
+          Weight: 1.36 pounds (618 grams).
+          Dimensions: 11.04 inches x 8.46 inches x 0.24 inch (280.6 mm x 214.9 mm x 6.1 mm).
+          Port: USB-C port supporting charging, DisplayPort, and USB 3 speeds (up to 10Gb/s).
+          Battery: Built-in 36.59-watt-hour battery. Up to 10 hours of web surfing on Wi-Fi/video playback, or up to 9 hours using cellular data. 
+
+      Accessory Compatibility
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, haptic feedback, and Find My).
+          Apple Pencil (USB-C): Supported.
+          Keyboards: Compatible with Magic Keyboard (floating cantilever design) and Smart Keyboard Folio. 
+    category: Tablets
+    id: 472
+    variants:
+      - id: 501245
+        color: " Gray"
+        price: 1069.95
+        image: images/ipad07.png
+      - id: 501246
+        color: Starlight
+        price: 1069.95
+        image: images/ipad08.png
+      - id: 501247
+        color: " Blue"
+        price: 1069.95
+        image: images/ipad05.png
+      - id: 501248
+        color: Purple
+        price: 1069.95
+        image: images/ipad06.png
+  - name: Apple iPad Air , 13 inch ,512GB 8GB Ram , WiFi + Cellular (M2) New , Sealed
+    category: Tablets
+    description: >-
+      The Apple iPad Air 13-inch (M2, 2024) Wi-Fi + Cellular 512GB features the
+      following detailed technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M2 chip.
+          CPU: 8-core CPU (4 performance cores and 4 efficiency cores).
+          GPU: 9-core GPU with hardware-accelerated mesh shading.
+          Neural Engine: 16-core Neural Engine for Apple Intelligence.
+          RAM: 8GB RAM.
+          Storage: 512GB flash memory.
+
+      Cellular & Wireless
+
+          Cellular Data: 5G (sub-6 GHz) with 4x4 MIMO.
+          SIM Card Type: eSIM only (Does not support physical nano-SIM cards).
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual band.
+          Bluetooth: Bluetooth 5.3 technology.
+          Location: GPS/GNSS technology (exclusive to Cellular models) and digital compass.
+
+      Display
+
+          Screen Size: 13-inch (diagonal) LED-backlit Multi-Touch display with IPS technology.
+          Resolution: 2732-by-2048 pixel resolution at 264 pixels per inch (ppi).
+          Brightness: 600 nits maximum brightness.
+          Color Tech: True Tone, P3 wide color, and full lamination.
+          Coating: Fingerprint-resistant oleophobic and anti-reflective coating.
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps.
+          Front Camera: Landscape 12MP Ultra Wide camera, ƒ/2.4 aperture, with Center Stage and Smart HDR 4.
+          Audio: Landscape stereo speakers with 2x the bass of the 11-inch model. Dual microphones.
+
+      Size, Ports & Battery
+
+          Weight: 1.36 pounds (618 grams).
+          Dimensions: 11.04 inches x 8.46 inches x 0.24 inch (280.6 mm x 214.9 mm x 6.1 mm).
+          Port: USB-C port supporting charging, DisplayPort, and USB 3 speeds (up to 10Gb/s).
+          Battery: Built-in 36.59-watt-hour battery. Up to 10 hours of web surfing on Wi-Fi/video playback, or up to 9 hours using cellular data.
+
+      Accessory Compatibility
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, haptic feedback, and Find My).
+          Apple Pencil (USB-C): Supported.
+          Keyboards: Compatible with Magic Keyboard (floating cantilever design) and Smart Keyboard Folio.
+    id: 473
+    variants:
+      - id: 501249
+        color: Starlight
+        price: 1249.95
+        image: images/ipad08.png
+      - id: 501250
+        color: Gray
+        price: 1249.95
+        image: images/ipad07.png
+      - id: 501251
+        color: Blue
+        price: 1249.95
+        image: images/ipad05.png
+      - id: 501252
+        color: " Purple"
+        price: 1249.95
+        image: images/ipad06.png
+  - description: >-
+      The Apple iPad Air 13-inch (M2, 2024) Wi-Fi + Cellular 1TB features the
+      following detailed technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M2 chip.
+          CPU: 8-core CPU (4 performance cores and 4 efficiency cores).
+          GPU: 9-core GPU with hardware-accelerated mesh shading.
+          Neural Engine: 16-core Neural Engine for Apple Intelligence.
+          RAM: 8GB RAM.
+          Storage: 1TB flash memory.
+
+      Cellular & Wireless
+
+          Cellular Data: 5G (sub-6 GHz) with 4x4 MIMO.
+          SIM Card Type: eSIM only (Does not support physical nano-SIM cards).
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual band.
+          Bluetooth: Bluetooth 5.3 technology.
+          Location: GPS/GNSS technology (exclusive to Cellular models) and digital compass.
+
+      Display
+
+          Screen Size: 13-inch (diagonal) LED-backlit Multi-Touch display with IPS technology.
+          Resolution: 2732-by-2048 pixel resolution at 264 pixels per inch (ppi).
+          Brightness: 600 nits maximum brightness.
+          Color Tech: True Tone, P3 wide color, and full lamination.
+          Coating: Fingerprint-resistant oleophobic and anti-reflective coating.
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps.
+          Front Camera: Landscape 12MP Ultra Wide camera, ƒ/2.4 aperture, with Center Stage and Smart HDR 4.
+          Audio: Landscape stereo speakers with 2x the bass of the 11-inch model. Dual microphones.
+
+      Size, Ports & Battery
+
+          Weight: 1.36 pounds (618 grams).
+          Dimensions: 11.04 inches x 8.46 inches x 0.24 inch (280.6 mm x 214.9 mm x 6.1 mm).
+          Port: USB-C port supporting charging, DisplayPort, and USB 3 speeds (up to 10Gb/s).
+          Battery: Built-in 36.59-watt-hour battery. Up to 10 hours of web surfing on Wi-Fi/video playback, or up to 9 hours using cellular data.
+
+      Accessory Compatibility
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, haptic feedback, and Find My).
+    category: Tablets
+    name: Apple iPad Air , 13 inch ,1TB 8GB Ram , WiFi + Cellular (M2) New , Sealed
+    id: 474
+    variants:
+      - id: 501253
+        color: Purple
+        price: 1449.95
+        image: images/ipad06.png
+      - id: 501254
+        color: Gray
+        price: 1449.95
+        image: images/ipad07.png
+      - id: 501255
+        color: Blue
+        price: 1449.95
+        image: images/ipad05.png
+      - id: 501256
+        price: 1449.95
+        color: Starlight
+        image: images/ipad08.png
+  - name: Apple iPad Air , 11 inch , 128GB 8GB Ram , WiFi Only (M2) New , Sealed
+    id: 475
+    category: Tablets
+    description: >-
+      The Apple iPad Air 11-inch (M2, 2024) features the following detailed
+      technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M2 chip.
+          CPU: 8-core CPU (4 performance cores and 4 efficiency cores).
+          GPU: 9-core GPU with hardware-accelerated mesh shading.
+          Neural Engine: 16-core Neural Engine for Apple Intelligence.
+          RAM: 8GB RAM.
+          Storage: 128GB flash memory. 
+
+      Display
+
+          Screen Size: 11-inch (diagonal 10.86-inch viewable area) LED-backlit Multi-Touch display with IPS technology.
+          Resolution: 2360-by-1640 pixel resolution at 264 pixels per inch (ppi).
+          Brightness: 500 nits maximum brightness.
+          Color Tech: True Tone, P3 wide color, and full lamination.
+          Coating: Fingerprint-resistant oleophobic and anti-reflective coating. 
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps.
+          Front Camera: Landscape 12MP Ultra Wide camera, ƒ/2.4 aperture, with Center Stage and Smart HDR 4.
+          Audio: Landscape stereo speakers. Dual microphones for calls. 
+
+      Connectivity & Inputs
+
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual band (2.4GHz and 5GHz).
+          Bluetooth: Bluetooth 5.3 technology.
+          Port: USB-C port supporting charging, DisplayPort, and USB 3 speeds (up to 10Gb/s).
+          Biometrics: Touch ID fingerprint sensor integrated into the top button. 
+
+      Size & Battery
+
+          Weight: 1.02 pounds (462 grams).
+          Dimensions: 9.74 inches x 7.02 inches x 0.24 inch (247.6 mm x 178.5 mm x 6.1 mm).
+          Battery: Built-in 28.93-watt-hour rechargeable lithium-polymer battery. Up to 10 hours of surfing the web on Wi-Fi or watching video. 
+
+      Accessory Compatibility
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, haptic feedback, and Find My).
+          Apple Pencil (USB-C): Supported.
+          Keyboards: Compatible with Magic Keyboard (floating cantilever design) and Smart Keyboard Folio. 
+    variants:
+      - id: 501257
+        color: Purple
+        price: 669.95
+        image: images/ipad06.png
+      - id: 501258
+        color: Blue
+        price: 669.95
+        image: images/ipad05.png
+      - id: 501259
+        color: Starlight
+        price: 669.95
+        image: images/ipad08.png
+      - id: 501260
+        price: 669.95
+        color: Gray
+        image: images/ipad07.png
+  - name: Apple iPad Air , 11 inch , 256GB  8GB Ram , WiFi Only (M2) New , Sealed
+    id: 476
+    category: Tablets
+    description: >+
+      The Apple iPad Air 11-inch (M2, 2024) Wi-Fi Only 256GB
+
+      configuration features the following official technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M2 chip.
+          CPU: 8-core CPU (4 performance cores and 4 efficiency cores).
+          GPU: 9-core GPU with hardware-accelerated mesh shading.
+          Neural Engine: 16-core Neural Engine for Apple Intelligence.
+          RAM: 8GB RAM.
+          Storage: 256GB flash memory.
+
+      Display
+
+          Screen Size: 11-inch (diagonal 10.86-inch viewable area) LED-backlit Multi-Touch display with IPS technology.
+          Resolution: 2360-by-1640 pixel resolution at 264 pixels per inch (ppi).
+          Brightness: 500 nits maximum brightness.
+          Color Tech: True Tone, P3 wide color, and full lamination.
+          Coating: Fingerprint-resistant oleophobic and anti-reflective coating.
+
+      Connectivity & Inputs
+
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual band (2.4GHz and 5GHz).
+          Bluetooth: Bluetooth 5.3 wireless technology.
+          Port: USB-C port supporting charging, DisplayPort, and USB 3 speeds (up to 10Gb/s).
+          Biometrics: Touch ID fingerprint sensor integrated into the top power button.
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps.
+          Front Camera: Landscape 12MP Ultra Wide camera, ƒ/2.4 aperture, with Center Stage smart tracking and Smart HDR 4.
+          Audio: Landscape stereo speakers. Dual microphones for calls and video.
+
+      Size & Battery
+
+          Weight: 1.02 pounds (462 grams).
+          Dimensions: 9.74 inches x 7.02 inches x 0.24 inch (247.6 mm x 178.5 mm x 6.1 mm).
+          Battery: Built-in 28.93-watt-hour rechargeable lithium-polymer battery. Up to 10 hours of surfing the web on Wi-Fi or watching video.
+
+      Accessory Compatibility
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, haptic feedback, and Find My).
+          Apple Pencil (USB-C): Supported.
+          Keyboards: Compatible with Magic Keyboard (floating cantilever design) and Smart Keyboard Folio.
+
+    variants:
+      - id: 501261
+        color: " Gray"
+        price: 779.95
+        image: images/ipad07.png
+      - id: 501262
+        price: 779.95
+        color: Purple
+        image: images/ipad06.png
+      - id: 501263
+        color: Blue
+        price: 779.95
+        image: images/ipad05.png
+      - id: 501264
+        color: Starlight
+        price: 779.95
+        image: images/ipad08.png
+  - name: Apple iPad Air , 11 inch , 512GB  8GB Ram , WiFi Only (M2) New , Sealed
+    category: Tablets
+    description: >-
+      The Apple iPad Air 11-inch (M2, 2024) Wi-Fi Only 512GB features the
+      following detailed technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M2 chip.
+          CPU: 8-core CPU (4 performance cores and 4 efficiency cores).
+          GPU: 9-core GPU with hardware-accelerated mesh shading.
+          Neural Engine: 16-core Neural Engine for Apple Intelligence.
+          RAM: 8GB RAM.
+          Storage: 512GB flash memory.
+
+      Display
+
+          Screen Size: 11-inch (diagonal 10.86-inch viewable area) LED-backlit Multi-Touch display with IPS technology.
+          Resolution: 2360-by-1640 pixel resolution at 264 pixels per inch (ppi).
+          Brightness: 500 nits maximum brightness.
+          Color Tech: True Tone, P3 wide color, and full lamination.
+          Coating: Fingerprint-resistant oleophobic and anti-reflective coating.
+
+      Connectivity & Inputs
+
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual band (2.4GHz and 5GHz).
+          Bluetooth: Bluetooth 5.3 wireless technology.
+          Port: USB-C port supporting charging, DisplayPort, and USB 3 speeds (up to 10Gb/s).
+          Biometrics: Touch ID fingerprint sensor integrated into the top power button.
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps.
+          Front Camera: Landscape 12MP Ultra Wide camera, ƒ/2.4 aperture, with Center Stage smart tracking and Smart HDR 4.
+          Audio: Landscape stereo speakers. Dual microphones for calls and video.
+
+      Size & Battery
+
+          Weight: 1.02 pounds (462 grams).
+          Dimensions: 9.74 inches x 7.02 inches x 0.24 inch (247.6 mm x 178.5 mm x 6.1 mm).
+          Battery: Built-in 28.93-watt-hour rechargeable lithium-polymer battery. Up to 10 hours of surfing the web on Wi-Fi or watching video.
+
+      Accessory Compatibility
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, haptic feedback, and Find My).
+          Apple Pencil (USB-C): Supported.
+          Keyboards: Compatible with Magic Keyboard (floating cantilever design) and Smart Keyboard Folio.
+    id: 477
+    variants:
+      - id: 501265
+        color: Starlight
+        price: 1019.95
+        image: images/ipad08.png
+      - id: 501266
+        color: Blue
+        price: 1019.95
+        image: images/ipad05.png
+      - id: 501267
+        color: Purple
+        price: 1019.95
+        image: images/ipad06.png
+      - id: 501268
+        color: Gray
+        price: 1019.95
+        image: images/ipad07.png
+  - name: Apple iPad Air ,  11 inch , 128GB 8GB Ram , WiFi + Cellular (M2) New ,
+      Sealed
+    id: 478
+    category: Tablets
+    description: >-
+      The Apple iPad Air 11-inch (M2, 2024) Wi-Fi + Cellular 128GB features the
+      following detailed technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M2 chip.
+          CPU: 8-core CPU (4 performance cores and 4 efficiency cores).
+          GPU: 9-core GPU with hardware-accelerated mesh shading.
+          Neural Engine: 16-core Neural Engine for Apple Intelligence.
+          RAM: 8GB RAM.
+          Storage: 128GB flash memory.
+
+      Cellular & Wireless
+
+          Cellular Data: 5G (sub-6 GHz) with 4x4 MIMO.
+          SIM Card Type: eSIM only (Does not support physical nano-SIM cards).
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual band (2.4GHz and 5GHz).
+          Bluetooth: Bluetooth 5.3 technology.
+          Location: GPS/GNSS technology (exclusive to Cellular models) and digital compass.
+
+      Display
+
+          Screen Size: 11-inch (diagonal 10.86-inch viewable area) LED-backlit Multi-Touch display with IPS technology.
+          Resolution: 2360-by-1640 pixel resolution at 264 pixels per inch (ppi).
+          Brightness: 500 nits maximum brightness.
+          Color Tech: True Tone, P3 wide color, and full lamination.
+          Coating: Fingerprint-resistant oleophobic and anti-reflective coating.
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps.
+          Front Camera: Landscape 12MP Ultra Wide camera, ƒ/2.4 aperture, with Center Stage and Smart HDR 4.
+          Audio: Landscape stereo speakers. Dual microphones for calls.
+
+      Size, Ports & Battery
+
+          Weight: 1.02 pounds (462 grams).
+          Dimensions: 9.74 inches x 7.02 inches x 0.24 inch (247.6 mm x 178.5 mm x 6.1 mm).
+          Port: USB-C port supporting charging, DisplayPort, and USB 3 speeds (up to 10Gb/s).
+          Battery: Built-in 28.93-watt-hour battery. Up to 10 hours of web surfing on Wi-Fi/video playback, or up to 9 hours using cellular data.
+
+      Accessory Compatibility
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, haptic feedback, and Find My).
+          Apple Pencil (USB-C): Supported.
+          Keyboards: Compatible with Magic Keyboard (floating cantilever design) and Smart Keyboard Folio.
+    variants:
+      - id: 501269
+        color: Purple
+        price: 819.95
+        image: images/ipad06.png
+      - id: 501270
+        color: Gray
+        price: 819.95
+        image: images/ipad07.png
+      - id: 501271
+        color: Blue
+        price: 819.95
+        image: images/ipad05.png
+      - id: 501272
+        color: Starlight
+        price: 819.95
+        image: images/ipad08.png
+  - name: Apple iPad Air ,  11 inch ,  256GB 8GB Ram , WiFi + Cellular (M2) New ,
+      Sealed
+    category: Tablets
+    id: 479
+    description: >-
+      The Apple iPad Air 11-inch (M2, 2024) Wi-Fi + Cellular 256GB features the
+      following detailed technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M2 chip.
+          CPU: 8-core CPU (4 performance cores and 4 efficiency cores).
+          GPU: 9-core GPU with hardware-accelerated mesh shading.
+          Neural Engine: 16-core Neural Engine for Apple Intelligence.
+          RAM: 8GB RAM.
+          Storage: 256GB flash memory.
+
+      Cellular & Wireless
+
+          Cellular Data: 5G (sub-6 GHz) with 4x4 MIMO wireless connectivity.
+          SIM Card Type: eSIM only (Does not support physical nano-SIM cards).
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual band (2.4GHz and 5GHz).
+          Bluetooth: Bluetooth 5.3 wireless technology.
+          Location: GPS/GNSS technology (exclusive to Cellular models) and a digital compass.
+
+      Display
+
+          Screen Size: 11-inch (diagonal 10.86-inch viewable area) LED-backlit Multi-Touch display with IPS technology.
+          Resolution: 2360-by-1640 pixel resolution at 264 pixels per inch (ppi).
+          Brightness: 500 nits maximum brightness.
+          Color Tech: True Tone, P3 wide color, and full lamination.
+          Coating: Fingerprint-resistant oleophobic and anti-reflective coating.
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps.
+          Front Camera: Landscape-oriented 12MP Ultra Wide camera, ƒ/2.4 aperture, with Center Stage smart tracking and Smart HDR 4.
+          Audio: Landscape stereo speakers. Dual microphones for calls and audio recording.
+
+      Size, Ports & Battery
+
+          Weight: 1.02 pounds (462 grams).
+          Dimensions: 9.74 inches x 7.02 inches x 0.24 inch (247.6 mm x 178.5 mm x 6.1 mm).
+          Port: USB-C port supporting charging, DisplayPort, and USB 3 speeds up to 10Gb/s.
+          Battery: Built-in 28.93-watt-hour rechargeable lithium-polymer battery. Up to 10 hours of web surfing on Wi-Fi/video playback, or up to 9 hours using a cellular data network.
+          Biometrics: Touch ID fingerprint sensor integrated directly into the top power button.
+
+      Accessory Compatibility
+
+          Apple Pencil Pro: Supported, including features like squeeze, barrel roll, hover, and haptic feedback.
+          Apple Pencil (USB-C): Supported.
+          Keyboards: Compatible with the floating cantilever Magic Keyboard and Smart Keyboard Folio.
+    variants:
+      - id: 501273
+        color: " Blue"
+        price: 939.95
+        image: images/ipad05.png
+      - id: 501274
+        price: 939.95
+        color: Purple
+        image: images/ipad06.png
+      - id: 501275
+        color: Gray
+        price: 939.95
+        image: images/ipad07.png
+      - id: 501276
+        color: Starlight
+        price: 939.95
+        image: images/ipad08.png
+  - name: Apple iPad Pro ,13 inch , 256GB 8GB Ram  , WiFi Only (M4) New , Sealed
+    id: 480
+    category: Tablets
+    description: >-
+      The Apple iPad Pro 13-inch (M4, 2024) Wi-Fi 256GB features the following
+      detailed technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M4 chip.
+          CPU Architecture: 9-core CPU (3 performance cores and 6 efficiency cores) Note: 1TB and 2TB models feature a 10-core CPU.
+          GPU: 10-core GPU with hardware-accelerated ray tracing and mesh shading.
+          Neural Engine: 16-core Neural Engine built for Apple Intelligence.
+          RAM: 8GB RAM Note: 1TB and 2TB models feature 16GB RAM.
+          Storage: 256GB flash memory. 
+
+      Ultra Retina XDR Display 
+
+          Screen Size: 13-inch (diagonal) Tandem OLED display.
+          Resolution: 2752-by-2064 pixel resolution at 264 pixels per inch (ppi).
+          Refresh Rate: ProMotion technology with adaptive refresh rates from 10Hz to 120Hz.
+          Brightness: 1,000 nits max full-screen brightness; 1,600 nits peak brightness (HDR content).
+          Color Tech: True Tone, P3 wide color, and extreme contrast ratio (2,000,000:1).
+          Glass Option: Standard anti-reflective glass only Note: Nano-texture glass is restricted to 1TB/2TB models. 
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps.
+          LIDAR: Built-in LiDAR Scanner for advanced augmented reality (AR) and depth sensing.
+          Front Camera: Landscape-oriented 12MP Ultra Wide camera, ƒ/2.4 aperture, with Center Stage and TrueDepth system for Face ID.
+          Audio: Four-speaker audio system (pro audio setup). Four studio-quality microphones. 
+
+      Connectivity & Inputs
+
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual band (2.4GHz and 5GHz).
+          Bluetooth: Bluetooth 5.3 technology.
+          Port: Redesigned Thunderbolt / USB 4 port supporting charging, DisplayPort, and speeds up to 40Gb/s.
+          Biometrics: Secure Face ID facial recognition. 
+
+      Dimensions & Battery
+
+          Weight: Ultra-lightweight 1.28 pounds (579 grams).
+          Dimensions: 11.09 inches x 8.48 inches x 0.20 inch (5.1 mm) — Apple's thinnest hardware design.
+          Battery: Built-in 38.99-watt-hour rechargeable lithium-polymer battery. Up to 10 hours of web surfing on Wi-Fi or watching video. 
+
+      Accessory Compatibility
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, hover, haptic feedback, and Find My).
+          Apple Pencil (USB-C): Supported.
+          Keyboards: Compatible exclusively with the premium aluminum-palm-rest Magic Keyboard for iPad Pro (M4). 
+    variants:
+      - id: 501277
+        color: Black
+        price: 1309.95
+        image: images/ipad11.webp
+      - id: 501278
+        color: " Silver"
+        image: images/ipad10.webp
+        price: 1309.95
+  - name: Apple iPad Pro ,13 inch ,512GB  8GB Ram , WiFi Only (M4) New , Sealed
+    id: 481
+    category: Tablets
+    description: >-
+      The Apple iPad Pro 13-inch (M4, 2024) Wi-Fi 512GB features the following
+      detailed technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M4 chip.
+          CPU Architecture: 9-core CPU (3 performance cores and 6 efficiency cores).
+          GPU: 10-core GPU with hardware-accelerated ray tracing and mesh shading.
+          Neural Engine: 16-core Neural Engine designed for Apple Intelligence.
+          RAM: 8GB RAM (Note: 16GB of RAM is restricted to 1TB and 2TB models).
+          Storage: 512GB flash memory.
+
+      Ultra Retina XDR Display
+
+          Screen Size: 13-inch (diagonal) Tandem OLED display.
+          Resolution: 2752-by-2064 pixel resolution at 264 pixels per inch (ppi).
+          Refresh Rate: ProMotion technology with adaptive refresh rates from 10Hz to 120Hz.
+          Brightness: 1,000 nits max full-screen brightness; 1,600 nits peak brightness for HDR content.
+          Color Tech: True Tone, P3 wide color, and extreme contrast ratio (2,000,000:1).
+          Glass Option: Standard anti-reflective glass only (Note: Nano-texture glass is restricted to 1TB/2TB models).
+
+      Connectivity & Inputs
+
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual-band (2.4GHz and 5GHz).
+          Bluetooth: Bluetooth 5.3 technology.
+          Port: Thunderbolt / USB 4 port supporting charging, DisplayPort, and wired data speeds up to 40Gb/s.
+          Biometrics: Secure Face ID facial recognition via the TrueDepth camera system.
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps.
+          LIDAR: Built-in LiDAR Scanner for advanced depth mapping and augmented reality.
+          Front Camera: Landscape-oriented 12MP Ultra Wide camera, ƒ/2.4 aperture, with Center Stage smart tracking.
+          Audio: Pro four-speaker audio system and four studio-quality microphones.
+
+      Size & Battery
+
+          Weight: Ultra-lightweight 1.28 pounds (579 grams).
+          Dimensions: 11.09 inches x 8.48 inches x 0.20 inch (5.1 mm) — Apple's thinnest hardware profile.
+          Battery: Built-in 38.99-watt-hour rechargeable lithium-polymer battery. Up to 10 hours of web surfing on Wi-Fi or watching video.
+
+      Accessory Compatibility
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, hover, haptic feedback, and Find My).
+          Apple Pencil (USB-C): Supported.
+          Keyboards: Compatible exclusively with the redesigned aluminum-palm-rest Magic Keyboard for iPad Pro (M4).
+    variants:
+      - id: 501279
+        color: Silver
+        price: 1509.95
+        image: images/ipad10.webp
+      - id: 501280
+        color: Black
+        price: 1509.95
+        image: images/ipad11.webp
+  - name: "Apple iPad Pro ,13 inch , 1TB 16GB Ram , WiFi Only (M4) New , Sealed "
+    id: 482
+    category: Tablets
+    description: >-
+      The Apple iPad Pro 13-inch (M4, 2024) Wi-Fi 1TB features the following
+      detailed technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M4 chip.
+          CPU Architecture: 10-core CPU (4 performance cores and 6 efficiency cores). Note: Upgrades from the 9-core CPU found on lower storage tiers.
+          GPU: 10-core GPU with hardware-accelerated ray tracing and mesh shading.
+          Neural Engine: 16-core Neural Engine designed for Apple Intelligence.
+          RAM: 16GB RAM (Note: Doubles the system memory compared to the 256GB and 512GB versions).
+          Storage: 1TB flash memory.
+
+      Ultra Retina XDR Display
+
+          Screen Size: 13-inch (diagonal) Tandem OLED display.
+          Resolution: 2752-by-2064 pixel resolution at 264 pixels per inch (ppi).
+          Refresh Rate: ProMotion technology with adaptive refresh rates from 10Hz to 120Hz.
+          Brightness: 1,000 nits max full-screen brightness; 1,600 nits peak brightness for HDR content.
+          Color Tech: True Tone, P3 wide color, and extreme contrast ratio (2,000,000:1).
+          Glass Options: Available in Standard glass or premium matte Nano-texture glass (available choice starting at the 1TB level).
+
+      Connectivity & Inputs
+
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual-band (2.4GHz and 5GHz).
+          Bluetooth: Bluetooth 5.3 technology.
+          Port: Thunderbolt / USB 4 port supporting charging, DisplayPort, and wired data speeds up to 40Gb/s.
+          Biometrics: Secure Face ID facial recognition via the TrueDepth camera system.
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps. It also supports ProRes video recording up to 4K at 30 fps (enabled by the 16GB RAM overhead).
+          LIDAR: Built-in LiDAR Scanner for advanced depth mapping and augmented reality.
+          Front Camera: Landscape-oriented 12MP Ultra Wide camera, ƒ/2.4 aperture, with Center Stage smart tracking.
+          Audio: Pro four-speaker audio system and four studio-quality microphones.
+
+      Size & Battery
+
+          Weight: Ultra-lightweight 1.28 pounds (579 grams).
+          Dimensions: 11.09 inches x 8.48 inches x 0.20 inch (5.1 mm) — Apple's thinnest hardware profile.
+          Battery: Built-in 38.99-watt-hour rechargeable lithium-polymer battery. Up to 10 hours of web surfing on Wi-Fi or watching video.
+
+      Accessory Compatibility
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, hover, haptic feedback, and Find My).
+          Apple Pencil (USB-C): Supported.
+          Keyboards: Compatible exclusively with the redesigned aluminum-palm-rest Magic Keyboard for iPad Pro (M4).
+    variants:
+      - id: 501281
+        color: Black
+        price: 1949.95
+        image: images/ipad11.webp
+      - id: 501282
+        price: 1949.95
+        color: " Silver"
+        image: images/ipad10.webp
+  - name: Apple iPad Pro ,13 inch , 2TB 16GB Ram , WiFi Only (M4) New , Sealed
+    id: 483
+    category: Tablets
+    variants:
+      - price: 2309.95
+        color: Silver
+        id: 501283
+        image: images/ipad10.webp
+      - id: 501284
+        color: Black
+        price: 2309.95
+        image: images/ipad11.webp
+    description: >-
+      The Apple iPad Pro 13-inch (M4, 2024) Wi-Fi Only 2TB features the
+      following detailed technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M4 chip.
+          CPU Architecture: 10-core CPU (4 performance cores and 6 efficiency cores).
+          GPU: 10-core GPU with hardware-accelerated ray tracing and mesh shading.
+          Neural Engine: 16-core Neural Engine designed for Apple Intelligence.
+          RAM: 16GB RAM (Note: Doubles the system memory bandwidth over the 256GB and 512GB tiers).
+          Storage: 2TB flash memory.
+
+      Ultra Retina XDR Display
+
+          Screen Size: 13-inch (diagonal) Tandem OLED display.
+          Resolution: 2752-by-2064 pixel resolution at 264 pixels per inch (ppi).
+          Refresh Rate: ProMotion technology with adaptive refresh rates from 10Hz to 120Hz.
+          Brightness: 1,000 nits max full-screen brightness; 1,600 nits peak brightness for HDR content.
+          Color Tech: True Tone, P3 wide color, and extreme contrast ratio (2,000,000:1).
+          Glass Options: Available in Standard glass or premium matte Nano-texture glass (available choice starting at the 1TB level).
+
+      Connectivity & Inputs
+
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual-band (2.4GHz and 5GHz).
+          Bluetooth: Bluetooth 5.3 technology.
+          Port: Thunderbolt / USB 4 port supporting charging, DisplayPort, and wired data speeds up to 40Gb/s.
+          Biometrics: Secure Face ID facial recognition via the TrueDepth camera system.
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps. It also supports ProRes video recording up to 4K at 30 fps.
+          LIDAR: Built-in LiDAR Scanner for advanced depth mapping and augmented reality.
+          Front Camera: Landscape-oriented 12MP Ultra Wide camera, ƒ/2.4 aperture, with Center Stage smart tracking.
+          Audio: Pro four-speaker audio system and four studio-quality microphones.
+
+      Size & Battery
+
+          Weight: Ultra-lightweight 1.28 pounds (579 grams).
+          Dimensions: 11.09 inches x 8.48 inches x 0.20 inch (5.1 mm) — Apple's thinnest hardware profile.
+          Battery: Built-in 38.99-watt-hour rechargeable lithium-polymer battery. Up to 10 hours of web surfing on Wi-Fi or watching video.
+
+      Accessory Compatibility
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, hover, haptic feedback, and Find My).
+          Apple Pencil (USB-C): Supported.
+          Keyboards: Compatible exclusively with the redesigned aluminum-palm-rest Magic Keyboard for iPad Pro (M4).
+  - id: 484
+    name: Apple iPad Pro ,13 inch , 256GB 8GB Ram , WiFi + Cellular  (M4) New ,
+      Sealed
+    category: Tablets
+    description: >-
+      The Apple iPad Pro 13-inch (M4, 2024) Wi-Fi + Cellular 256GB
+
+      features the following detailed technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M4 chip.
+          CPU Architecture: 9-core CPU (3 performance cores and 6 efficiency cores).
+          GPU: 10-core GPU with hardware-accelerated ray tracing and mesh shading.
+          Neural Engine: 16-core Neural Engine built natively for Apple Intelligence.
+          RAM: 8GB RAM (Note: 16GB of RAM is restricted to the 1TB and 2TB models).
+          Storage: 256GB flash memory. 
+
+      Key Features & Specs
+
+          Display: 13-inch Tandem OLED (2752 x 2064), 120Hz ProMotion, up to 1,600 nits HDR peak.
+          Cellular/Wireless: 5G, Wi-Fi 6E, Bluetooth 5.3, eSIM only.
+          Camera/Audio: 12MP Wide rear/12MP Ultra Wide front, 4-speaker audio, LiDAR.
+          Design/Battery: 5.1mm thick, ~1.28 lbs, Thunderbolt 3/USB 4, ~9 hours cellular web.
+          Compatibility: Apple Pencil Pro, Pencil (USB-C), Magic Keyboard.
+    variants:
+      - id: 501285
+        color: Black
+        price: 1509.95
+        image: images/ipad11.webp
+      - id: 501286
+        color: Silver
+        price: 1509.95
+        image: images/ipad10.webp
+  - name: Apple iPad Pro ,13 inch ,  512GB 8GB Ram , WiFi + Cellular (M4) New ,
+      Sealed
+    id: 485
+    category: Tablets
+    description: >
+      The Apple iPad Pro 13-inch (M4) Wi-Fi + Cellular 512GB features the
+      following detailed technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M4 chip.
+          CPU Architecture: 9-core CPU (3 performance cores and 6 efficiency cores). (Note: The unthrottled 10-core CPU is reserved for the 1TB and 2TB models).
+          GPU: 10-core GPU with hardware-accelerated ray tracing and mesh shading.
+          Neural Engine: 16-core Neural Engine designed for Apple Intelligence.
+          RAM: 8GB RAM (Note: Upgrading to 16GB of RAM requires stepping up to a 1TB or 2TB model).
+          Storage: 512GB flash memory.
+
+      Cellular & Wireless
+
+          Cellular Data: 5G standalone (sub-6 GHz and mmWave) with 4x4 MIMO.
+          SIM Card Type: eSIM only (Does not support physical nano-SIM cards).
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual-band (2.4GHz and 5GHz).
+          Bluetooth: Bluetooth 5.3 technology.
+          Location: Assisted GPS/GNSS technology (exclusive to Cellular models) and a digital compass.
+
+      Ultra Retina XDR Display
+
+          Screen Size: 13-inch (diagonal) Tandem OLED display.
+          Resolution: 2752-by-2064 pixel resolution at 264 pixels per inch (ppi).
+          Refresh Rate: ProMotion technology with adaptive refresh rates from 10Hz to 120Hz.
+          Brightness: 1,000 nits max full-screen brightness; 1,600 nits peak brightness for HDR content.
+          Color Tech: True Tone, P3 wide color, and extreme contrast ratio (2,000,000:1).
+          Glass Option: Standard anti-reflective glass only (Note: Matte Nano-texture glass is restricted to 1TB/2TB models).
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps.
+          LIDAR: Built-in LiDAR Scanner for advanced depth mapping and augmented reality.
+          Front Camera: Landscape-oriented 12MP Ultra Wide camera, ƒ/2.4 aperture, with TrueDepth system for Face ID and Center Stage tracking.
+          Audio: Pro four-speaker audio system and four studio-quality microphones.
+
+      Size, Ports & Battery
+
+          Weight: Ultra-lightweight 1.28 pounds (582 grams).
+          Dimensions: 11.09 inches x 8.48 inches x 0.20 inch (5.1 mm) — Apple's thinnest hardware profile.
+          Port: Thunderbolt / USB 4 port supporting charging, DisplayPort, and wired data speeds up to 40Gb/s.
+          Battery: Built-in 38.99-watt-hour rechargeable battery. Up to 10 hours of web surfing on Wi-Fi or watching video, and up to 9 hours when actively using a cellular data network.
+
+      Accessory Compatibility
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, hover, haptic feedback, and Find My).
+          Apple Pencil (USB-C): Supported.
+    variants:
+      - id: 501287
+        color: Black
+        price: 1699.95
+        image: images/ipad11.webp
+      - id: 501288
+        color: Silver
+        price: 1699.95
+        image: images/ipad10.webp
+  - id: 486
+    name: Apple iPad Pro ,13 inch , 1TB 16GB Ram , WiFi + Cellular (M4) New , Sealed
+    category: Tablets
+    description: >-
+      The Apple iPad Pro 13-inch (M4, 2024) Wi-Fi + Cellular 1TB features the
+      following detailed technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M4 chip.
+          CPU Architecture: 10-core CPU (4 performance cores and 6 efficiency cores).
+          GPU: 10-core GPU with hardware-accelerated ray tracing and mesh shading.
+          Neural Engine: 16-core Neural Engine designed for Apple Intelligence.
+          RAM: 16GB RAM (Note: Doubles the system memory bandwidth over the 256GB and 512GB tiers).
+          Storage: 1TB flash memory.
+
+      Cellular & Wireless
+
+          Cellular Data: 5G standalone (sub-6 GHz and mmWave) with 4x4 MIMO.
+          SIM Card Type: eSIM only (Does not support physical nano-SIM cards).
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual-band (2.4GHz and 5GHz).
+          Bluetooth: Bluetooth 5.3 technology.
+          Location: Assisted GPS/GNSS technology (exclusive to Cellular models) and a digital compass.
+
+      Ultra Retina XDR Display
+
+          Screen Size: 13-inch (diagonal) Tandem OLED display.
+          Resolution: 2752-by-2064 pixel resolution at 264 pixels per inch (ppi).
+          Refresh Rate: ProMotion technology with adaptive refresh rates from 10Hz to 120Hz.
+          Brightness: 1,000 nits max full-screen brightness; 1,600 nits peak brightness for HDR content.
+          Color Tech: True Tone, P3 wide color, and extreme contrast ratio (2,000,000:1).
+          Glass Options: Available in Standard glass or premium matte Nano-texture glass (available choice starting at the 1TB level).
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps. It also supports ProRes video recording up to 4K at 30 fps.
+          LIDAR: Built-in LiDAR Scanner for advanced depth mapping and augmented reality.
+          Front Camera: Landscape-oriented 12MP Ultra Wide camera, ƒ/2.4 aperture, with TrueDepth system for Face ID and Center Stage tracking.
+          Audio: Pro four-speaker audio system and four studio-quality microphones.
+
+      Size, Ports & Battery
+
+          Weight: Ultra-lightweight 1.28 pounds (582 grams).
+          Dimensions: 11.09 inches x 8.48 inches x 0.20 inch (5.1 mm) — Apple's thinnest hardware profile.
+          Port: Thunderbolt / USB 4 port supporting charging, DisplayPort, and wired data speeds up to 40Gb/s.
+          Battery: Built-in 38.99-watt-hour rechargeable battery. Up to 10 hours of web surfing on Wi-Fi or watching video, and up to 9 hours when actively using a cellular data network.
+
+      Accessory Compatibility
+
+          Apple Pencil Pro: Supported (includes squeeze, barrel roll, hover, haptic feedback, and Find My).
+          Apple Pencil (USB-C): Supported.
+          Keyboards: Compatible exclusively with the redesigned aluminum-palm-rest Magic Keyboard for iPad Pro (M4).
+    variants:
+      - id: 501289
+        color: " Black"
+        price: 2159.95
+        image: images/ipad11.webp
+      - id: 501290
+        color: Silver
+        price: 2159.95
+        image: images/ipad10.webp
+  - name: Apple iPad Pro ,13 inch ,2TB 16GB Ram , WiFi + Cellular (M4) New , Sealed
+    id: 487
+    category: Tablets
+    description: >-
+      The Apple iPad Pro 13-inch (M4, 2024) Wi-Fi + Cellular 2TB features the
+      following detailed technical specifications:
+
+      Performance & Memory
+
+          Processor: Apple M4 chip.
+          CPU Architecture: 10-core CPU (4 performance cores and 6 efficiency cores).
+          GPU: 10-core GPU with hardware-accelerated ray tracing and mesh shading.
+          Neural Engine: 16-core Neural Engine designed for Apple Intelligence.
+          RAM: 16GB RAM (Note: Doubles the system memory bandwidth over the 256GB and 512GB tiers).
+          Storage: 2TB flash memory. 
+
+      Cellular & Wireless
+
+          Cellular Data: 5G standalone (sub-6 GHz and mmWave) with 4x4 MIMO.
+          SIM Card Type: eSIM only (Does not support physical nano-SIM cards).
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual-band (2.4GHz and 5GHz).
+          Bluetooth: Bluetooth 5.3 technology.
+          Location: Assisted GPS/GNSS technology (exclusive to Cellular models) and a digital compass. 
+
+      Ultra Retina XDR Display
+
+          Screen Size: 13-inch (diagonal) Tandem OLED display.
+          Resolution: 2752-by-2064 pixel resolution at 264 pixels per inch (ppi).
+          Refresh Rate: ProMotion technology with adaptive refresh rates from 10Hz to 120Hz.
+          Brightness: 1,000 nits max full-screen brightness; 1,600 nits peak brightness for HDR content.
+          Color Tech: True Tone, P3 wide color, and extreme contrast ratio (2,000,000:1).
+          Glass Options: Available in Standard glass or premium matte Nano-texture glass (available choice starting at the 1TB level). 
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera, ƒ/1.8 aperture, 5x digital zoom, Smart HDR 4, and 4K video recording up to 60 fps. It also supports ProRes video recording up to 4K at 30 fps.
+          LIDAR: Built-in LiDAR Scanner for advanced depth mapping and augmented reality.
+          Front Camera: Landscape-oriented 12MP Ultra Wide camera, ƒ/2.4 aperture, with TrueDepth system for Face ID and Center Stage tracking.
+    variants:
+      - id: 501291
+        color: Silver
+        price: 2509.95
+        image: images/ipad10.webp
+      - id: 501292
+        color: Black
+        price: 2509.95
+        image: images/ipad11.webp
+  - name: Apple iPad Pro ,11 inch , 256GB 8GB Ram , WiFi Only (M4) New , Sealed
+    category: Tablets
+    description: >-
+      The Apple iPad Pro 11-inch M4 Generation (Wi-Fi Only, 256GB / 8GB RAM)
+
+      technical specifications from the official Apple Support Tech Specs include:
+
+      Processor & Memory
+
+          Chip: Apple M4 Chip.
+          CPU: 9-core CPU with 3 performance cores and 6 efficiency cores.
+          GPU: 10-core GPU with hardware-accelerated ray tracing.
+          Neural Engine: 16-core Neural Engine for Apple Intelligence workflows.
+          Memory Bandwidth: 153GB/s.
+          RAM: 8GB unified memory. 
+
+      Display
+
+          Screen Type: Ultra Retina XDR with Tandem OLED.
+          Resolution: 2420-by-1668-pixel resolution at 264 ppi.
+          Refresh Rate: ProMotion technology with adaptive refresh rates from 10Hz to 120Hz.
+          Brightness: 1000 nits max SDR/XDR full-screen; 1600 nits peak HDR brightness.
+          Contrast Ratio: 2,000,000:1.
+          Glass Options: Standard glass (Nano-texture glass is only available on 1TB/2TB models). 
+
+      Wireless Connectivity
+
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual band.
+          Bluetooth: Bluetooth 5.3.
+          Location: Digital compass, Wi‑Fi, and iBeacon micro-location (No hardware GPS chip, as GPS is exclusive to Cellular models). 
+
+      Camera & Video Recording
+
+          Rear Camera: 12MP Wide camera with ƒ/1.8 aperture and 5x digital zoom.
+          Flash: Adaptive True Tone flash.
+          Front Camera: Landscape 12MP Ultra Wide camera with ƒ/2.4 aperture and Center Stage.
+          Sensors: LiDAR Scanner for depth mapping and augmented reality.
+          Video Recording: 4K video recording up to 60 fps; ProRes video recording up to 4K at 30 fps. 
+
+      Audio & Microphones
+
+          Speakers: Four-speaker audio system.
+          Microphones: Studio-quality four-mic array optimized for calls and video recording. 
+
+      Battery & Power
+
+          Capacity: Built-in 31.29-watt-hour rechargeable lithium-polymer battery.
+          Battery Life: Up to 10 hours of surfing the web on Wi-Fi or watching video.
+          Charging: Charging via power adapter or USB-C to computer system. 
+
+      Physical Dimensions
+
+          Thickness: Impossibly thin 0.21 inch (5.3 mm).
+          Width: 6.99 inches (177.5 mm).
+          Height: 9.83 inches (249.7 mm).
+          Weight: Ultra-light 0.98 pound (444 grams).
+          Ports: Thunderbolt / USB 4 port with support for charging, DisplayPort, and high-speed data transfer up to 40Gb/s. 
+
+      Accessory Compatibility
+
+          Apple Pencil: Supports Apple Pencil Pro and Apple Pencil (USB-C).
+          Keyboard: Supports the redesigned Magic Keyboard for iPad Pro (M4).
+    id: 488
+    variants:
+      - id: 501293
+        color: " Black"
+        price: 1019.95
+        image: images/ipad11.webp
+      - id: 501294
+        color: Silver
+        price: 1019.95
+        image: images/ipad10.webp
+  - name: Apple iPad Pro ,11 inch , 512GB 8GB Ram , WiFi Only (M4) New , Sealed
+    category: Tablets
+    id: 489
+    description: >-
+      The Apple iPad Pro 11-inch M4 Generation (Wi-Fi Only, 256GB / 8GB RAM)
+
+      technical specifications from the official Apple Support Tech Specs include:
+
+      Processor & Memory
+
+          Chip: Apple M4 Chip.
+          CPU: 9-core CPU with 3 performance cores and 6 efficiency cores.
+          GPU: 10-core GPU with hardware-accelerated ray tracing.
+          Neural Engine: 16-core Neural Engine for Apple Intelligence workflows.
+          Memory Bandwidth: 153GB/s.
+          RAM: 8GB unified memory. 
+
+      Display
+
+          Screen Type: Ultra Retina XDR with Tandem OLED.
+          Resolution: 2420-by-1668-pixel resolution at 264 ppi.
+          Refresh Rate: ProMotion technology with adaptive refresh rates from 10Hz to 120Hz.
+          Brightness: 1000 nits max SDR/XDR full-screen; 1600 nits peak HDR brightness.
+          Contrast Ratio: 2,000,000:1.
+          Glass Options: Standard glass (Nano-texture glass is only available on 1TB/2TB models). 
+
+      Wireless Connectivity
+
+          Wi-Fi: Wi-Fi 6E (802.11ax) with 2x2 MIMO; simultaneous dual band.
+          Bluetooth: Bluetooth 5.3.
+          Location: Digital compass, Wi‑Fi, and iBeacon micro-location (No hardware GPS chip, as GPS is exclusive to Cellular models). 
+
+      Camera & Video Recording
+
+          Rear Camera: 12MP Wide camera with ƒ/1.8 aperture and 5x digital zoom.
+          Flash: Adaptive True Tone flash.
+          Front Camera: Landscape 12MP Ultra Wide camera with ƒ/2.4 aperture and Center Stage.
+          Sensors: LiDAR Scanner for depth mapping and augmented reality.
+          Video Recording: 4K video recording up to 60 fps; ProRes video recording up to 4K at 30 fps. 
+
+      Audio & Microphones
+
+          Speakers: Four-speaker audio system.
+          Microphones: Studio-quality four-mic array optimized for calls and video recording. 
+
+      Battery & Power
+
+          Capacity: Built-in 31.29-watt-hour rechargeable lithium-polymer battery.
+          Battery Life: Up to 10 hours of surfing the web on Wi-Fi or watching video.
+          Charging: Charging via power adapter or USB-C to computer system. 
+
+      Physical Dimensions
+
+          Thickness: Impossibly thin 0.21 inch (5.3 mm).
+          Width: 6.99 inches (177.5 mm).
+          Height: 9.83 inches (249.7 mm).
+          Weight: Ultra-light 0.98 pound (444 grams).
+          Ports: Thunderbolt / USB 4 port with support for charging, DisplayPort, and high-speed data transfer up to 40Gb/s. 
+
+      Accessory Compatibility
+
+          Apple Pencil: Supports Apple Pencil Pro and Apple Pencil (USB-C).
+          Keyboard: Supports the redesigned Magic Keyboard for iPad Pro (M4). 
+    variants:
+      - price: 1259.95
+        color: Silver
+        id: 501295
+        image: images/ipad10.webp
+      - color: Black
+        price: 1259.95
+        image: images/ipad11.webp
+        id: 501296
+  - id: 490
+    name: Apple iPad Pro ,11 inch , 1TB  16GB Ram , WiFi Only (M4) New , Sealed
+    category: Tablets
+    variants:
+      - id: 501297
+        color: Black
+        price: 1679.95
+        image: images/ipad11.webp
+      - id: 501298
+        color: Silver
+        price: 1679.95
+        image: images/ipad10.webp
+    description: >-
+      The exact specifications for the Apple iPad Pro 11-inch M4 Generation
+      (Wi-Fi Only, 1TB Storage / 16GB RAM)
+
+      from the official Apple Support Tech Specs are detailed below:
+
+      1. Chipset and Core Performance
+
+          Processor Architecture: Apple M4 chip built on a pioneering 3-nanometer process.
+          Central Processing Unit: 10-core CPU containing 4 performance cores and 6 efficiency cores.
+          Graphics Processing Unit: 10-core GPU featuring hardware-accelerated ray tracing, mesh shading, and Dynamic Caching.
+          Artificial Intelligence Engine: 16-core Neural Engine capable of 38 trillion operations per second to drive local Apple Intelligence workflows.
+          System Unified Memory: 16GB RAM with an expansive memory bandwidth speed of 153GB/s.
+
+      2. Display System
+
+          Panel Technology: Ultra Retina XDR utilizing a groundbreaking Tandem OLED dual-panel design.
+          Spatial Resolution: 2420-by-1668-pixel resolution at a dense 264 pixels per inch (ppi).
+          Motion Dynamics: ProMotion technology facilitating adaptive, battery-saving refresh rates from 10Hz to 120Hz.
+          Luminance Capabilities: 1000 nits maximum full-screen brightness across SDR and XDR content; 1600 nits peak brightness for HDR formats.
+          Contrast Performance: True-to-life 2,000,000:1 contrast ratio with deep, pure ink blacks.
+          Glass Finishing Options: Available with standard reflection-reducing glass or specialized Nano-texture display glass that scatters ambient glare.
+
+      3. Media Capture and Sensors
+
+          Rear Camera Array: 12MP Wide camera with an
+          aperture, digital zoom up to 5x, and an Adaptive True Tone flash.
+          Front Camera Array: Landscape-oriented 12MP Ultra Wide camera with an
+          aperture, supporting Center Stage tracking and secure Face ID login.
+          3D Depth Mapping: Integrated LiDAR Scanner for measuring distance, instant AR rendering, and enhanced low-light photography.
+          Video Capture Standards: 4K video recording up to 60 fps; specialized ProRes video encoding up to 4K at 30 fps.
+
+      4. Audio, Connectivity, and Ports
+
+          Sound Output: Immersive four-speaker audio system providing true wide stereo separation.
+          Voice Capture: Studio-quality four-microphone array configured for voice isolation during calls or dictation.
+          Wireless Communication: High-bandwidth Wi-Fi 6E (802.11ax) with 2x2 MIMO, alongside Bluetooth 5.3 connectivity.
+          I/O Port: High-speed Thunderbolt / USB 4 connection port supporting charging, DisplayPort out to external monitors, and rapid data transfers up to 40Gb/s.
+
+      5. Physical Architecture and Battery
+
+          Chassis Thickness: Exceptionally thin profile measuring 0.21 inch (5.3 mm).
+          Body Footprint: Measures 9.83 inches (249.7 mm) in height by 6.99 inches (177.5 mm) in width.
+          Hardware Weight: Extremely light desktop substitute scaling in at just 0.98 pound (444 grams).
+          Battery Power: Built-in 31.29-watt-hour rechargeable lithium-polymer battery cell.
+          System Longevity: Provides up to 10 hours of active web browsing on Wi-Fi or streaming multimedia layout files.
+
+      6. System Accessories
+
+          Digital Stylus: Fully compatible with the haptic-enabled Apple Pencil Pro
+          and the standard Apple Pencil (USB-C)
+          .
+          Keyboard Docking: Designed to mate seamlessly with the aluminum palm-rest Magic Keyboard for iPad Pro (M4)
+          .
+
+      Restated Specifications Summary
+
+      ✅ Specification Sheet
+
+      The Apple iPad Pro 11-inch Wi-Fi 1TB
+
+      configuration utilizes a fully enabled 10-core M4 chip, 16GB of high-speed unified RAM, an Ultra Retina XDR Tandem OLED display, and high-throughput Thunderbolt connectivity within a lightweight 0.98-pound chassis.
+  - name: Apple iPad Pro ,11 inch , 256GB 8GB Ram ,  WiFi + Cellular  (M4) New ,
+      Sealed
+    category: Tablets
+    id: 491
+    description: >-
+      The Apple iPad Pro 11-inch M4 Generation (Wi-Fi + Cellular, 256GB / 8GB
+      RAM) builds on the core Wi-Fi model by adding persistent 5G mobile data
+      connectivity and dedicated GPS hardware. 
+
+      The complete technical specifications from the official Apple Support Tech Specs for this configuration include: 
+
+      Cellular & Location Upgrades
+
+          Cellular Networks: 5G connectivity (sub-6 GHz) with 4x4 MIMO; Gigabit LTE with 4x4 MIMO and LAA.
+          SIM Compatibility: eSIM only format. (Note: This model does not have a physical nano-SIM slot; cellular service must be activated digitally).
+          Satellite & Maps GPS: Dedicated GPS/GNSS hardware chip for accurate real-time navigation and mapping (exclusive to Cellular models). 
+
+      Processor & Memory
+
+          Chip: Apple M4 Chip.
+          CPU: 9-core CPU with 3 performance cores and 6 efficiency cores.
+          GPU: 10-core GPU featuring hardware-accelerated ray tracing and mesh shading.
+          Neural Engine: 16-core Neural Engine built for Apple Intelligence workloads.
+          Memory Bandwidth: 153GB/s.
+          RAM: 8GB unified memory. 
+
+      Display
+
+          Screen Type: Ultra Retina XDR utilizing a dual-panel Tandem OLED system.
+          Resolution: 2420-by-1668-pixel resolution at 264 ppi.
+          Refresh Rate: ProMotion technology with adaptive refresh rates from 10Hz to 120Hz.
+          Brightness: 1000 nits max full-screen SDR/XDR; 1600 nits peak HDR brightness.
+          Glass Options: Standard glass layout only. (Nano-texture matte glass is restricted to 1TB/2TB models). 
+
+      Camera, Video & Audio
+
+          Rear Camera: 12MP Wide camera with ƒ/1.8 aperture, adaptive True Tone flash, and integrated LiDAR Scanner.
+          Front Camera: Landscape-oriented 12MP Ultra Wide camera with ƒ/2.4 aperture, Center Stage tracking, and Face ID secure login.
+          Video Recording: 4K video recording up to 60 fps; ProRes video recording up to 4K at 30 fps.
+          Audio Output: Immersive four-speaker audio system paired with a studio-quality four-mic array. 
+
+      Physical Architecture & Power
+
+          Thickness: Exceptionally thin profile measuring 0.21 inch (5.3 mm).
+          Width & Height: 6.99 inches (177.5 mm) wide by 9.83 inches (249.7 mm) high.
+          Weight: Ultra-light 1.00 pound (452 grams) (weighs just 8 grams more than the Wi-Fi only model due to cellular antennas).
+          Ports: One Thunderbolt / USB 4 port supporting charging, DisplayPort out, and up to 40Gb/s transfer speed.
+          Battery Life: Built-in 31.29-watt-hour battery providing up to 10 hours of web surfing on Wi-Fi or up to 9 hours of web surfing using a cellular data network. 
+
+      Accessory Support
+
+          Apple Pencil: Fully compatible with the haptic-enabled Apple Pencil Pro and the standard Apple Pencil (USB-C).
+          Keyboard: Native support for the aluminum palm-rest Magic Keyboard for iPad Pro (M4). 
+    variants:
+      - id: 501299
+        color: Silver
+        price: 1259.95
+        image: images/ipad10.webp
+      - id: 501300
+        color: Black
+        price: 1259.95
+        image: images/ipad11.webp
+  - name: Apple iPad Pro ,11 inch , 512GB  8GB Ram ,  WiFi + Cellular  (M4) New ,
+      Sealed
+    id: 492
+    category: Tablets
+    description: >-
+      The Apple iPad Pro 11-inch M4 Generation (Wi-Fi + Cellular, 512GB Storage
+      / 8GB RAM) features persistent 5G mobile connectivity and a dedicated
+      hardware GPS chip, combined with doubled built-in storage compared to the
+      base model.
+
+      The complete technical specifications from the official Apple Support Tech Specs for this configuration include:
+
+      Cellular Connectivity & Location
+
+          Cellular Networks: 5G connectivity (sub-6 GHz) with 4x4 MIMO; Gigabit LTE with 4x4 MIMO and LAA.
+          SIM Compatibility: eSIM only format [JJGCQ37HLR]. (This model does not feature a physical nano-SIM tray; data plans must be activated digitally).
+          Navigation: Dedicated GPS/GNSS hardware chip for precise real-time mapping and location tracking.
+
+      Processor & Memory
+
+          Chip: Apple M4 Chip [JJGCQ37HLR].
+          CPU: 9-core CPU containing 3 performance cores and 6 efficiency cores.
+          GPU: 10-core GPU featuring hardware-accelerated ray tracing and mesh shading.
+          Neural Engine: 16-core Neural Engine engineered to power local Apple Intelligence workflows.
+          Memory Bandwidth: 153GB/s.
+          RAM: 8GB unified memory (Note: Upgrading to 1TB or 2TB storage is required to unlock 16GB RAM).
+
+      Storage & Display
+
+          Storage Capacity: 512GB SSD.
+          Screen Type: Ultra Retina XDR utilizing a dual-panel Tandem OLED design [5593128557].
+          Resolution: 2420-by-1668-pixel resolution at 264 ppi [5593128557].
+          Refresh Rate: ProMotion technology with adaptive refresh rates from 10Hz up to 120Hz.
+          Brightness: 1000 nits max full-screen SDR/XDR; 1600 nits peak HDR brightness.
+          Glass Options: Standard glass finish layout only [4000366742]. (The anti-glare Nano-texture glass variant is exclusive to 1TB/2TB models).
+
+      Media Capture & Sensors
+
+          Rear Camera: 12MP Wide camera with an
+          aperture, adaptive True Tone flash, and an integrated LiDAR Scanner [5593128557].
+          Front Camera: Landscape-oriented 12MP Ultra Wide camera (
+          ) with Center Stage tracking and secure Face ID login.
+          Video Recording: 4K recording up to 60 fps; ProRes video recording up to 4K at 30 fps.
+          Audio Output: Immersive four-speaker audio system paired with a studio-quality four-mic array.
+
+      Physical Architecture & Power
+
+          Thickness: Impossibly thin profile measuring 0.21 inch (5.3 mm).
+          Width & Height: 6.99 inches (177.5 mm) wide by 9.83 inches (249.7 mm) high.
+          Weight: Ultra-light 1.00 pound (452 grams).
+          Ports: One Thunderbolt / USB 4 port supporting charging, DisplayPort out, and up to 40Gb/s transfer speed.
+          Battery Life: Built-in 31.29-watt-hour battery. Offers up to 10 hours of web surfing on Wi-Fi or up to 9 hours of web surfing using a mobile cellular data network.
+
+      Accessory Support
+
+          Apple Pencil: Fully compatible with the haptic-enabled Apple Pencil Pro and the standard Apple Pencil (USB-C).
+          Keyboard: Native support for the aluminum palm-rest Magic Keyboard for iPad Pro (M4).
+    variants:
+      - id: 501301
+        color: Black
+        price: 1499.95
+        image: images/ipad11.webp
+      - id: 501302
+        price: 1499.95
+        color: Silver
+        image: images/ipad10.webp
+  - name: " Apple iPad Pro ,11 inch , 1TB 16GB Ram , WiFi + Cellular (M4) New ,
+      Sealed"
+    category: Tablets
+    id: 493
+    description: >+
+      The exact technical specifications for the Apple iPad Pro 11-inch M4
+      Generation (Wi-Fi + Cellular, 1TB Storage / 16GB RAM) from the official
+      Apple documentation include:
+
+      1. Cellular Connectivity & Standalone GPS
+
+          Mobile Network Bandwidth: Built-in 5G connectivity (sub-6 GHz and mmWave) with 4x4 MIMO and Gigabit LTE.
+          SIM Architecture: Uses eSIM-only activation [JJGCQ37HLR]. There is no physical nano-SIM card tray.
+          Location Tracking: Dedicated, standalone GPS/GNSS hardware chip for precise real-time offline mapping and navigation (exclusive to Cellular models). 
+
+      2. Compute Performance & Unified RAM
+
+          Fully Enabled Processor: Features the un-binned version of the Apple M4 chip (built on a 3-nanometer process).
+          CPU Layout: 10-core CPU containing 4 performance cores and 6 efficiency cores (lower storage models are limited to a 9-core CPU).
+          GPU Layout: 10-core GPU featuring hardware-accelerated ray tracing, mesh shading, and Dynamic Caching.
+          System RAM: 16GB of Unified Memory with an expansive memory bandwidth speed of 153GB/s (doubled from the 8GB RAM on smaller capacities).
+          Artificial Intelligence Engine: 16-core Neural Engine capable of 38 trillion operations per second to drive local Apple Intelligence workflows. 
+
+      3. Ultra Retina XDR Display 
+
+          Display Panel: Ultra Retina XDR utilizing a groundbreaking Tandem OLED dual-panel design.
+          Spatial Resolution: 2420-by-1668-pixel resolution at a dense 264 pixels per inch (ppi).
+          Motion Dynamics: ProMotion technology facilitating adaptive, battery-saving refresh rates from 10Hz to 120Hz.
+          Luminance Capabilities: 1000 nits maximum full-screen brightness across SDR and XDR content; 1600 nits peak brightness for HDR formats.
+          Contrast Performance: True-to-life 2,000,000:1 contrast ratio with deep, pure ink blacks.
+          Glass Finishing Options: Available with standard reflection-reducing glass or specialized Nano-texture display glass that scatters ambient glare. 
+
+      4. Cameras, Capture, and Audio
+
+          Rear Array: 12MP Wide camera (
+          aperture) with an Adaptive True Tone flash and an integrated LiDAR Scanner for spatial depth and AR.
+          Front Array: Landscape-oriented 12MP Ultra Wide camera (
+          aperture) with Center Stage tracking and secure Face ID login.
+          Video Codecs: Captures up to 4K at 60 fps; supports hardware-accelerated ProRes video encoding up to 4K at 30 fps.
+          Sound Systems: Immersive four-speaker audio matched with a studio-grade four-microphone array. 
+
+      5. Mechanical Chassis & Power Delivery
+
+          Form Factor: Exceptionally slim profile measuring just 0.21 inch (5.3 mm).
+          Hardware Weight: Extremely light desktop substitute scaling in at 1.00 pound (452 grams).
+          I/O Routing: Universal Thunderbolt / USB 4 port driving power delivery, high-speed storage, and external monitors up to 6K resolution.
+          Battery Lifespan: Built-in 31.29-watt-hour battery. Offers up to 10 hours of web surfing on Wi-Fi or up to 9 hours of web surfing using a mobile cellular data network. 
+
+      6. Accessory Ecosystem
+
+          Apple Pencil: Fully compatible with the haptic-enabled Apple Pencil Pro and the standard Apple Pencil (USB-C).
+          Keyboard Docking: Designed to mate seamlessly with the aluminum palm-rest Magic Keyboard for iPad Pro (M4). 
+
+    variants:
+      - id: 501302
+        color: Silver
+        price: 1799.95
+        image: images/ipad10.webp
+      - id: 501303
+        color: " Black"
+        price: 1799.95
+        image: images/ipad11.webp
+  - name: " Apple iPad Pro ,11 inch , 2TB 16GB Ram , WiFi + Cellular (M4) New ,
+      Sealed"
+    id: 494
+    category: Tablets
+    description: >-
+      The Apple iPad Pro 11-inch M4 Generation (Wi-Fi + Cellular, 2TB Storage /
+      16GB RAM)
+
+      represents the absolute highest storage capacity option available in the lineup. Selecting the 2TB capacity ensures you have massive space for offline databases, raw media cache folders, and uncompromised multitasking performance.
+
+      The complete technical specifications from the official Apple Support Tech Specs for this ultimate configuration include:
+
+      1. Cellular Integration & Standalone GPS
+
+          Mobile Network Bandwidth: Built-in 5G connectivity (sub-6 GHz and mmWave) with 4x4 MIMO and Gigabit LTE.
+          SIM Architecture: Uses eSIM-only activation. There is no physical nano-SIM card tray.
+          Location Tracking: Dedicated, standalone GPS/GNSS hardware chip for precise real-time offline mapping and navigation (exclusive to Cellular models).
+
+      2. Compute Performance & Unified RAM
+
+          Fully Enabled Processor: Features the un-binned version of the Apple M4 chip (built on a 3-nanometer process).
+          CPU Layout: 10-core CPU containing 4 performance cores and 6 efficiency cores (lower 256GB/512GB storage models are limited to a 9-core CPU layout).
+          GPU Layout: 10-core GPU featuring hardware-accelerated ray tracing, mesh shading, and Dynamic Caching.
+          System RAM: 16GB of Unified Memory with an expansive memory bandwidth speed of 153GB/s (doubled from the 8GB RAM on smaller capacities).
+          Artificial Intelligence Engine: 16-core Neural Engine capable of 38 trillion operations per second to drive local Apple Intelligence workflows.
+
+      3. Ultra Retina XDR Display
+
+          Display Panel: Ultra Retina XDR utilizing a dual-panel Tandem OLED system.
+          Spatial Resolution: 2420-by-1668-pixel resolution at a dense 264 pixels per inch (ppi).
+          Motion Dynamics: ProMotion technology facilitating adaptive, battery-saving refresh rates from 10Hz up to 120Hz.
+          Luminance Capabilities: 1000 nits maximum full-screen brightness across SDR and XDR content; 1600 nits peak brightness for HDR formats.
+          Contrast Performance: True-to-life 2,000,000:1 contrast ratio with deep, pure ink blacks.
+          Glass Finishing Options: Available with standard reflection-reducing glass or specialized Nano-texture display glass that scatters ambient glare (exclusive to 1TB and 2TB tiers).
+
+      4. Cameras, Capture, and Audio
+
+          Rear Array: 12MP Wide camera (
+          aperture) with an Adaptive True Tone flash and an integrated LiDAR Scanner for spatial depth and AR.
+          Front Array: Landscape-oriented 12MP Ultra Wide camera (
+          aperture) with Center Stage tracking and secure Face ID login.
+          Video Codecs: Captures up to 4K at 60 fps; supports hardware-accelerated ProRes video encoding up to 4K at 30 fps.
+          Sound Systems: Immersive four-speaker audio matched with a studio-grade four-microphone array.
+
+      5. Mechanical Chassis & Power Delivery
+
+          Form Factor: Exceptionally slim profile measuring just 0.21 inch (5.3 mm).
+          Hardware Weight: Extremely light desktop substitute scaling in at 1.00 pound (452 grams).
+          I/O Routing: Universal Thunderbolt / USB 4 port driving power delivery, high-speed storage, and external monitors up to 6K resolution.
+          Battery Lifespan: Built-in 31.29-watt-hour battery. Offers up to 10 hours of web surfing on Wi-Fi or up to 9 hours of web surfing using a mobile cellular data network.
+
+      6. Accessory Ecosystem
+
+          Apple Pencil: Fully compatible with the haptic-enabled Apple Pencil Pro and the standard Apple Pencil (USB-C).
+          Keyboard Docking: Designed to mate seamlessly with the aluminum palm-rest Magic Keyboard for iPad Pro (M4).
+    variants:
+      - id: 501304
+        color: Black
+        price: 2199.95
+        image: images/ipad11.webp
+      - id: 501305
+        color: Silver
+        price: 2199.95
+        image: images/ipad10.webp
