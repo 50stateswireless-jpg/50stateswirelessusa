@@ -130,6 +130,24 @@ getProductDisplayName(productId) {
     }).format(amount);
   },
 
+  // --- NEW: Scroll to category heading just below sticky header
+  scrollToCategoryHeading: function() {
+    if (this.view !== 'home' || !this.filterCategory) return;
+    // Allow DOM to fully render images and layout
+    setTimeout(() => {
+      const categoryHeading = document.querySelector('#app-container h2.text-3xl.font-bold.text-gray-800');
+      if (!categoryHeading) return;
+      
+      const header = document.querySelector('header.sticky');
+      const headerHeight = header ? header.offsetHeight : 64;
+      const elementPosition = categoryHeading.getBoundingClientRect().top + window.pageYOffset;
+      // scroll so heading sits directly below header + 8px breathing room
+      const offsetPosition = elementPosition - headerHeight - 8;
+      
+      window.scrollTo({ top: 280, behavior: 'smooth' });
+    }, 120); // small delay ensures content is stable
+  },
+
   // --- View Rendering Functions
 renderHome: () => {
   // Initialize selectedBrowseVariants for all products
@@ -901,7 +919,7 @@ deleteFromCart: (productId) => {
     } else if (newView === 'home' && typeof param === 'string') {
       app.filterCategory = param;
     }
-    window.scrollTo(0, 0); // 👈 Scroll to top
+    // Removed window.scrollTo(0,0) to avoid flicker and let render handle smooth positioning
     app.render();
   },
 
@@ -911,12 +929,18 @@ deleteFromCart: (productId) => {
     else if (app.view === 'cart') app.renderCart();
     else if (app.view === 'details') app.renderDetails();
 
-  // Wait for DOM paint, then scroll
-  requestAnimationFrame(() => {
+    // Smart scroll: for category filter, scroll heading below header; otherwise top
     requestAnimationFrame(() => {
-      window.scrollTo({ top: 25, behavior: 'smooth' });
+      requestAnimationFrame(() => {
+        if (app.view === 'home' && app.filterCategory) {
+          app.scrollToCategoryHeading();
+        } else if (app.view === 'details') {
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        } else {
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+      });
     });
-  });
   }
 };
 window.onload = () => {
