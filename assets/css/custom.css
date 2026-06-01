@@ -1,4 +1,4 @@
-/* Custom CSS for 50StatesWirelessUSA E-commerce Site */
+/* (/assets/css/custom.css) Custom CSS for 50StatesWirelessUSA E-commerce Site */
 
 /* Tooltip styles for product names */
 .tooltip-trigger {
@@ -180,5 +180,24 @@ button:focus,
   .color-variant {
     width: 14px;
     height: 14px;
+  }
+  
+  .cta-button {
+  /* Maps directly to the colors in cta_buttons.yml [1] */
+  background-color: var(--btn-bg, #0ab5ea);
+  transition: background-color 0.4s ease, transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.cta-button.is-hovering {
+  background-color: var(--btn-hover, #861cb9);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+}
+
+@media (max-width: 640px) {
+  .rounded-xl[style*="background-image"] {
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), var(--bg-image) !important;
   }
 }
