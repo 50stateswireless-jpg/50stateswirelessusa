@@ -514,7 +514,38 @@ container.innerHTML = `
 `;
   },
 
-renderCart: () => {
+  // Helper to apply sticky behavior to cart summary column
+  applyCartSticky: function() {
+    if (this.view !== 'cart') return;
+    const summaryColumn = document.querySelector('.cart-summary-column');
+    if (!summaryColumn) return;
+    
+    // Get header height to position sticky element right below it
+    const header = document.querySelector('header');
+    let headerHeight = 0;
+    if (header) {
+      const headerStyles = window.getComputedStyle(header);
+      headerHeight = header.offsetHeight;
+      // Account for any sticky header's potential margin/padding
+      if (headerStyles.position === 'sticky' || headerStyles.position === 'fixed') {
+        // Already sticky, use its offset height
+      }
+    }
+    // Fallback to a safe default (approx header height)
+    const topOffset = headerHeight > 0 ? headerHeight : 80;
+    
+    // Apply sticky positioning
+    summaryColumn.style.position = 'sticky';
+    summaryColumn.style.top = topOffset + 'px';
+    summaryColumn.style.zIndex = '20';
+    summaryColumn.style.alignSelf = 'start';
+    // Add a subtle background to avoid text bleed (already has bg-gray-50)
+    // Ensure it doesn't overflow or cause layout shifts
+    summaryColumn.style.maxHeight = `calc(100vh - ${topOffset + 16}px)`;
+    summaryColumn.style.overflowY = 'auto';
+  },
+
+  renderCart: () => {
   const container = document.getElementById('app-container');
   
   if (app.cart.length === 0) {
@@ -645,7 +676,7 @@ let cartItemsHtml = app.cart.map(item => {
         </button>
       </div>
 
-      <div class="lg:w-1/3">
+      <div class="lg:w-1/3 cart-summary-column">
         <div class="bg-gray-50 p-6 rounded-xl shadow-2xl border-t-4 border-red-500">
           <h2 class="text-2xl font-bold text-gray-800 mb-4">Order Summary</h2>
           <div class="space-y-3">
@@ -687,91 +718,62 @@ let cartItemsHtml = app.cart.map(item => {
       </div>
     </div>
   `;
-// --- NEW: Initialize PayPal Button AFTER container.innerHTML is set ---
 
-if (typeof paypal !== 'undefined') { // Check if SDK loaded
-  const paypalContainer = document.getElementById('paypal-button-container');
-  if (paypalContainer) { // Check if container exists
-    // Calculate cart details again (or reuse existing variables from renderCart)
-    // ... (reuse subtotal, tax, total, items calculation from renderCart) ...
-    const subtotal = app.cart.reduce((sum, item) => {
-        const product = findProductById(item.id); // Assuming findProductById is in scope or defined here
-        return sum + (product ? product.price * item.quantity : 0);
-    }, 0);
-    const taxRate = 0.08875;
-    const tax = subtotal * taxRate;
-    const total = subtotal + tax;
+  // Apply sticky positioning to the cart summary column
+  app.applyCartSticky();
 
-    const items = app.cart.map(item => {
-        const product = findProductById(item.id);
-        if (!product) return null;
-        return {
-        name: product.name,
-        unit_amount: {
-            currency_code: 'USD',
-            value: product.price.toFixed(2)
-        },
-        quantity: item.quantity,
-        category: product.category === 'Digital' ? 'DIGITAL_GOODS' : 'PHYSICAL_GOODS'
-        };
-    }).filter(item => item !== null);
-
-    // Render the PayPal button
-    paypal.Buttons({
-        style: {
-        layout: 'vertical',
-        color: 'blue',
-        shape: 'rect',
-        label: 'paypal',
-        tagline: false
-        },
-        createOrder: function(data, actions) {
-        return actions.order.create({
-            intent: 'CAPTURE',
-            purchase_units: [{
-            description: "NewRock Wireless Order",
-            amount: {
-                currency_code: 'USD',
-                value: total.toFixed(2), // Use the calculated total
-                breakdown: {
-                item_total: {
-                    currency_code: 'USD',
-                    value: subtotal.toFixed(2)
+  // PayPal initialization code (same as before)
+  if (typeof paypal !== 'undefined') {
+    const paypalContainer = document.getElementById('paypal-button-container');
+    if (paypalContainer) {
+      const subtotalRefresh = app.cart.reduce((sum, item) => {
+          const product = findProductById(item.id);
+          return sum + (product ? product.price * item.quantity : 0);
+      }, 0);
+      const taxRefresh = subtotalRefresh * 0.08875;
+      const totalRefresh = subtotalRefresh + taxRefresh;
+      const items = app.cart.map(item => {
+          const product = findProductById(item.id);
+          if (!product) return null;
+          return {
+          name: product.name,
+          unit_amount: { currency_code: 'USD', value: product.price.toFixed(2) },
+          quantity: item.quantity,
+          category: product.category === 'Digital' ? 'DIGITAL_GOODS' : 'PHYSICAL_GOODS'
+          };
+      }).filter(item => item !== null);
+      paypal.Buttons({
+          style: { layout: 'vertical', color: 'blue', shape: 'rect', label: 'paypal', tagline: false },
+          createOrder: function(data, actions) {
+            return actions.order.create({
+              intent: 'CAPTURE',
+              purchase_units: [{
+                description: "NewRock Wireless Order",
+                amount: {
+                  currency_code: 'USD',
+                  value: totalRefresh.toFixed(2),
+                  breakdown: {
+                    item_total: { currency_code: 'USD', value: subtotalRefresh.toFixed(2) },
+                    tax_total: { currency_code: 'USD', value: taxRefresh.toFixed(2) }
+                  }
                 },
-                tax_total: {
-                    currency_code: 'USD',
-                    value: tax.toFixed(2)
-                }
-                }
-            },
-            items: items // Use the calculated items
-            }]
-        });
-        },
-        onApprove: function(data, actions) {
-        return actions.order.capture().then(function(details) {
-            console.log('Transaction completed by ' + details.payer.name.given_name);
-            app.cart = []; // Clear the cart
-            app.updateCartCount();
-            app.setView('home');
-            alert('Thank you for your purchase, ' + details.payer.name.given_name + '!');
-        });
-        },
-        onCancel: function(data) {
-        console.log('PayPal payment cancelled');
-        },
-        onError: function(err) {
-        console.error('PayPal error:', err);
-        alert('An error occurred during the PayPal payment process.');
-        }
-    }).render('#paypal-button-container');
-    } else {
-    console.error('PayPal button container not found after renderCart.');
+                items: items
+              }]
+            });
+          },
+          onApprove: function(data, actions) {
+            return actions.order.capture().then(function(details) {
+              app.cart = [];
+              app.updateCartCount();
+              app.setView('home');
+              alert('Thank you for your purchase, ' + details.payer.name.given_name + '!');
+            });
+          },
+          onCancel: function(data) { console.log('PayPal payment cancelled'); },
+          onError: function(err) { console.error('PayPal error:', err); alert('An error occurred during PayPal processing.'); }
+      }).render('#paypal-button-container');
     }
-} else {
-    console.error('PayPal SDK not loaded when renderCart was called.');
-}
-// --- END NEW: PayPal initialization ---
+  }
 },
 
   // --- Variant Handling ---
@@ -1058,7 +1060,7 @@ function handleManualHoverEnd() {
     if (autoHoverCurrentIndex >= buttons.length) {
       autoHoverCurrentIndex = 0;
     }
-      scheduleNextAutoHover();
+  //    scheduleNextAutoHover();
   }, 300);
 }
 
@@ -1077,7 +1079,7 @@ function scheduleNextAutoHover() {
   // Apply effect to current button
   const currentButton = buttons[autoHoverCurrentIndex];
   if (currentButton) {
-      applyAutoHoverEffect(currentButton);
+  //    applyAutoHoverEffect(currentButton);
   }
   
   // Schedule removal and next button
@@ -1121,6 +1123,13 @@ function startAutoHoverCycle() {
   // Expose functions globally so they can be called from app.renderHome
 window.startAutoHoverCycle = startAutoHoverCycle;
 window.stopAutoHoverCycle = stopAutoHoverCycle;
+
+// Watch for window resize to reapply sticky positioning when cart is visible
+window.addEventListener('resize', function() {
+  if (app.view === 'cart') {
+    app.applyCartSticky();
+  }
+});
 
   // Initial call after page load
 window.onload = () => {
