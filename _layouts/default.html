@@ -2,6 +2,14 @@
 <html lang="en">
 <head>
   {% include head.html %}
+  <style>
+    /* Additional auto-hover transition ensures smoothness */
+    .cta-button.auto-hover-effect {
+      transform: translateY(-2px) !important;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2) !important;
+      transition: all 0.2s ease !important;
+    }
+  </style>
 </head>
 <body class="min-h-screen">
   {% include header.html %}
@@ -144,7 +152,7 @@ getProductDisplayName(productId) {
       // scroll so heading sits directly below header + 8px breathing room
       const offsetPosition = elementPosition - headerHeight - 8;
       
-      window.scrollTo({ top: 320, behavior: 'smooth' });
+      window.scrollTo({ top: 280, behavior: 'smooth' });
     }, 120); // small delay ensures content is stable
   },
 
@@ -168,7 +176,9 @@ renderHome: () => {
   const ctaButtonsHtml = ctaButtonsData && ctaButtonsData.length > 0 
     ? ctaButtonsData.map(button => `
         <button onclick="${button.function}" 
-                class="inline-flex items-center justify-center ${button.padding_x} ${button.padding_y} border border-transparent ${button.text_size} font-medium ${button.button_shape} text-white transition duration-150 shadow-lg"
+                class="cta-button inline-flex items-center justify-center ${button.padding_x} ${button.padding_y} border border-transparent ${button.text_size} font-medium ${button.button_shape} text-white transition duration-150 shadow-lg"
+                data-bg-color="${button.bg_color}"
+                data-hover-color="${button.hover_color}"
                 style="background-color: ${button.bg_color};"
                 onmouseover="this.style.backgroundColor='${button.hover_color}';"
                 onmouseout="this.style.backgroundColor='${button.bg_color}';">
@@ -177,50 +187,56 @@ renderHome: () => {
       `).join('')
     : `
       <!-- Fallback buttons if no CMS data -->
-      <button onclick="app.setView('home', 'WiFi Plans')" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg">
+      <button onclick="app.setView('home', 'WiFi Plans')" class="cta-button inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg" data-bg-color="#dc2626" data-hover-color="#b91c1c">
         Shop WiFi Plans
       </button>
-      <button onclick="app.setView('home', 'Headsets & Earbuds')" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg">
+      <button onclick="app.setView('home', 'Headsets & Earbuds')" class="cta-button inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg" data-bg-color="#dc2626" data-hover-color="#b91c1c">
         Shop Headsets & Earbuds
       </button>
-      <button onclick="app.setView('home', 'Smart Watches')" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg">
+      <button onclick="app.setView('home', 'Smart Watches')" class="cta-button inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg" data-bg-color="#dc2626" data-hover-color="#b91c1c">
         Shop Smart Watches
       </button>
-      <button onclick="app.setView('home', 'Charger')" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg">
+      <button onclick="app.setView('home', 'Charger')" class="cta-button inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg" data-bg-color="#dc2626" data-hover-color="#b91c1c">
         Shop Chargers
       </button>
-      <button onclick="app.setView('home', 'Pre-Owned Phones & Tablets')" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg">
+      <button onclick="app.setView('home', 'Pre-Owned Phones & Tablets')" class="cta-button inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg" data-bg-color="#dc2626" data-hover-color="#b91c1c">
         Pre-Owned Phones & Tablets
       </button>
-      <button onclick="app.setView('home', 'Wireless Speakers')" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg">
+      <button onclick="app.setView('home', 'Wireless Speakers')" class="cta-button inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg" data-bg-color="#dc2626" data-hover-color="#b91c1c">
         Wireless Speakers
       </button>
     `;
   
 // NEW CODE (use this):
+// Get background image from hero.yml (or use a fallback solid color)
+const bgImage = '{{ site.data.hero.bg_image }}' || null;
+const bgColor = '{{ site.data.hero.bg_color }}' || '#1e40af';
+
+// Build inline style: background image if available, otherwise solid color
+let bannerBgStyle = bgImage
+  ? `background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('${bgImage}'); background-size: cover; background-position: center;`
+  : `background-color: ${bgColor};`;
+
 const bannerHtml = `
-  <div class="nrw-bg-blue rounded-xl shadow-2xl p-6 md:p-10 mb-10 border-4 border-white">
+  <div class="rounded-xl shadow-2xl p-6 md:p-10 mb-10 border-4 border-white"
+       style="${bannerBgStyle}">
     <div class="flex flex-col md:flex-row items-center justify-between">
       <div class="text-white space-y-4">
-    <h1 
-      class="{{ site.data.hero.headline.size }} {{ site.data.hero.headline.weight }} mb-3" 
-      style="color: {{ site.data.hero.headline.color }};">
-      {{ site.data.hero.headline.text }}
-    </h1>
-
-    <p 
-      class="{{ site.data.hero.subtext.size }} mb-8" 
-      style="color: {{ site.data.hero.subtext.color }};">
-      {{ site.data.hero.subtext.text }}
-    </p>
+        <h1 
+          class="{{ site.data.hero.headline.size }} {{ site.data.hero.headline.weight }} mb-3" 
+          style="color: {{ site.data.hero.headline.color }};">
+          {{ site.data.hero.headline.text }}
+        </h1>
+        <p 
+          class="{{ site.data.hero.subtext.size }} mb-8" 
+          style="color: {{ site.data.hero.subtext.color }};">
+          {{ site.data.hero.subtext.text }}
+        </p>
         <div class="flex flex-col sm:flex-row gap-3">
           ${ctaButtonsHtml}
         </div>
       </div>
-      <div class="hidden md:block w-32 h-32 ml-8 mt-4 md:mt-0">
-        <img src="https://placehold.co/128x128/FFFFFF/1E40AF?text=Free+Shipping" 
-             class="rounded-full border-4 border-red-500 shadow-xl" alt="Flash Sale Icon"/>
-      </div>
+
     </div>
   </div>
 `;
@@ -373,6 +389,11 @@ Get started today with a 30 day free trial, then as low as $17.50 per month for 
     html += `</div>`;
   }
   container.innerHTML = html;
+  
+  // Start or restart the auto-hover cycle after new buttons are rendered
+  if (typeof startAutoHoverCycle === 'function') {
+    startAutoHoverCycle();
+  }
 },
 
   renderDetails: () => {
@@ -914,6 +935,11 @@ deleteFromCart: (productId) => {
     app.selectedVariantId = null;
     app.selectedBrowseVariants = {}; // Clear selected variants when changing views
 
+    // Stop auto-hover cycle when leaving home view
+    if (typeof stopAutoHoverCycle === 'function') {
+      stopAutoHoverCycle();
+    }
+
     if (newView === 'details' && typeof param === 'number') {
       app.currentProductId = param;
     } else if (newView === 'home' && typeof param === 'string') {
@@ -943,9 +969,175 @@ deleteFromCart: (productId) => {
     });
   }
 };
+
+// ========== AUTO-HOVER SYSTEM FOR CTA BUTTONS ==========
+let autoHoverTimer = null;
+let autoHoverCurrentIndex = 0;
+let autoHoverPaused = false;
+let autoHoverResumeTimeout = null;
+let autoHoverStepTimeout = null;
+
+function stopAutoHoverCycle() {
+  // Clear main sequence timeout
+  if (autoHoverStepTimeout) {
+    clearTimeout(autoHoverStepTimeout);
+    autoHoverStepTimeout = null;
+  }
+  // Remove any active hover effects
+  const buttons = document.querySelectorAll('.cta-button');
+  buttons.forEach(btn => {
+    removeAutoHoverEffect(btn);
+  });
+  autoHoverCurrentIndex = 0;
+  autoHoverPaused = false;
+  if (autoHoverResumeTimeout) {
+    clearTimeout(autoHoverResumeTimeout);
+    autoHoverResumeTimeout = null;
+  }
+}
+
+function removeAutoHoverEffect(button) {
+  if (!button) return;
+  // Restore original background color from data attribute
+  const originalBg = button.getAttribute('data-bg-color');
+  if (originalBg) {
+    button.style.backgroundColor = originalBg;
+  }
+  button.classList.remove('auto-hover-effect');
+}
+
+function applyAutoHoverEffect(button) {
+  if (!button) return;
+  const hoverColor = button.getAttribute('data-hover-color');
+  if (hoverColor) {
+    button.style.backgroundColor = hoverColor;
+  }
+  button.classList.add('auto-hover-effect');
+}
+
+function attachManualHoverPause() {
+  const buttons = document.querySelectorAll('.cta-button');
+  buttons.forEach(btn => {
+    // Remove existing listeners to avoid duplicates
+    btn.removeEventListener('mouseenter', handleManualHoverStart);
+    btn.removeEventListener('mouseleave', handleManualHoverEnd);
+    btn.addEventListener('mouseenter', handleManualHoverStart);
+    btn.addEventListener('mouseleave', handleManualHoverEnd);
+  });
+}
+
+function handleManualHoverStart() {
+  if (autoHoverPaused) return;
+  // Pause the auto-hover cycle
+  autoHoverPaused = true;
+  if (autoHoverStepTimeout) {
+    clearTimeout(autoHoverStepTimeout);
+    autoHoverStepTimeout = null;
+  }
+  // Remove any current auto-hover effect
+  const buttons = document.querySelectorAll('.cta-button');
+  buttons.forEach(btn => {
+    if (btn.classList.contains('auto-hover-effect')) {
+      removeAutoHoverEffect(btn);
+    }
+  });
+}
+
+function handleManualHoverEnd() {
+  if (!autoHoverPaused) return;
+  // Set a timeout to resume auto-hover after 3 seconds of no hovering
+  if (autoHoverResumeTimeout) {
+    clearTimeout(autoHoverResumeTimeout);
+  }
+  autoHoverResumeTimeout = setTimeout(() => {
+    autoHoverPaused = false;
+    autoHoverResumeTimeout = null;
+    // Restart the sequence from the current index (or from beginning if index out of range)
+    const buttons = document.querySelectorAll('.cta-button');
+    if (buttons.length === 0) return;
+    if (autoHoverCurrentIndex >= buttons.length) {
+      autoHoverCurrentIndex = 0;
+    }
+  //    scheduleNextAutoHover();
+  }, 300);
+}
+
+function scheduleNextAutoHover() {
+  if (autoHoverStepTimeout) {
+    clearTimeout(autoHoverStepTimeout);
+    autoHoverStepTimeout = null;
+  }
+  const buttons = document.querySelectorAll('.cta-button');
+  if (buttons.length === 0) return;
+  if (autoHoverPaused) return;
+  
+  // Remove effect from all buttons
+  buttons.forEach(btn => removeAutoHoverEffect(btn));
+  
+  // Apply effect to current button
+  const currentButton = buttons[autoHoverCurrentIndex];
+  if (currentButton) {
+  //    applyAutoHoverEffect(currentButton);
+  }
+  
+  // Schedule removal and next button
+  autoHoverStepTimeout = setTimeout(() => {
+    if (autoHoverPaused) return;
+    // Remove effect from current
+    if (currentButton) removeAutoHoverEffect(currentButton);
+    // Move to next index
+    autoHoverCurrentIndex = (autoHoverCurrentIndex + 1) % buttons.length;
+    // Schedule next hover after a short pause (200ms for smooth transition)
+    autoHoverStepTimeout = setTimeout(() => {
+      if (!autoHoverPaused) {
+        scheduleNextAutoHover();
+      }
+    }, 100);
+  }, 200); // Each hover lasts 500ms
+}
+
+function startAutoHoverCycle() {
+  // Stop any existing cycle first
+  stopAutoHoverCycle();
+  
+  const buttons = document.querySelectorAll('.cta-button');
+  if (buttons.length === 0) return;
+  
+  // Reset index
+  autoHoverCurrentIndex = 0;
+  autoHoverPaused = false;
+  if (autoHoverResumeTimeout) {
+    clearTimeout(autoHoverResumeTimeout);
+    autoHoverResumeTimeout = null;
+  }
+  
+  // Attach manual hover listeners to pause functionality
+  attachManualHoverPause();
+  
+  // Start sequence
+  scheduleNextAutoHover();
+}
+
+  // Expose functions globally so they can be called from app.renderHome
+window.startAutoHoverCycle = startAutoHoverCycle;
+window.stopAutoHoverCycle = stopAutoHoverCycle;
+
+  // Initial call after page load
 window.onload = () => {
   app.render();
+  // Auto-hover will be triggered inside renderHome, but also try here in case already on home
+  if (app.view === 'home') {
+    startAutoHoverCycle();
+  }
 };
+
+// Also run when the DOM might be updated via other means (just safety)
+document.addEventListener('DOMContentLoaded', () => {
+  if (app.view === 'home') {
+    startAutoHoverCycle();
+  }
+});
+// ========== END AUTO-HOVER SYSTEM ==========
 
 </script>
 <script>
