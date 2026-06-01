@@ -1058,7 +1058,7 @@ function handleManualHoverEnd() {
     if (autoHoverCurrentIndex >= buttons.length) {
       autoHoverCurrentIndex = 0;
     }
-  //    scheduleNextAutoHover();
+      scheduleNextAutoHover();
   }, 300);
 }
 
@@ -1077,7 +1077,7 @@ function scheduleNextAutoHover() {
   // Apply effect to current button
   const currentButton = buttons[autoHoverCurrentIndex];
   if (currentButton) {
-  //    applyAutoHoverEffect(currentButton);
+      applyAutoHoverEffect(currentButton);
   }
   
   // Schedule removal and next button
