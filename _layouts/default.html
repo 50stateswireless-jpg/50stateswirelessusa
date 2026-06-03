@@ -1060,7 +1060,7 @@ function handleManualHoverEnd() {
     if (autoHoverCurrentIndex >= buttons.length) {
       autoHoverCurrentIndex = 0;
     }
-    //  scheduleNextAutoHover();  // *****STOP CTA AUTO HOVER (line 1063 and 1082)*****
+    //  scheduleNextAutoHover();  // *****START / STOP CTA AUTO HOVER (line 1063 and 1082)*****
   }, 300);
 }
 
@@ -1079,7 +1079,7 @@ function scheduleNextAutoHover() {
   // Apply effect to current button
   const currentButton = buttons[autoHoverCurrentIndex];
   if (currentButton) {
-    //  applyAutoHoverEffect(currentButton);  // *****STOP CTA AUTO HOVER (line 1063 and 1082)*****
+    //  applyAutoHoverEffect(currentButton);  // *****START / STOP CTA AUTO HOVER (line 1063 and 1082)*****
   }
   
   // Schedule removal and next button
