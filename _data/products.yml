@@ -16527,7 +16527,7 @@ products:
       Weather-resistant and designed for outdoor use, the aosu AI-Smart Security Camera connects via Wi-Fi and is fully controlled through the aosu mobile app, where you can view live footage, access event recordings, receive real-time alerts, and customize your settings. Whether you're looking to monitor your front door, driveway, backyard, or any other outdoor space, this smart security camera offers a reliable and easy-to-install solution with clear visuals and intelligent monitoring features.
     variants:
       - id: 501090
-        color: "White "
+        color: "White"
         price: 119.95
         image: images/aosu02.webp
   - id: 398
@@ -16570,7 +16570,7 @@ products:
       Whether you’re securing your home, business, or property, the AOSU 2K QHD Security Camera Kit offers high-quality, reliable monitoring with features like remote access, motion detection, and two-way audio. With its solar power, AI-driven features, and advanced video technology, it provides a complete surveillance system for modern security needs.
     variants:
       - id: 501092
-        color: "White "
+        color: "White"
         price: 319.95
         image: images/aosu01.webp
   - id: 400
