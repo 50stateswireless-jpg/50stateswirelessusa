@@ -8407,7 +8407,7 @@ products:
           Final Updates: It is scheduled to receive its last security and OS updates in October 2026.
     variants:
       - id: 50701
-        color: " Black"
+        color: "Black"
         price: 449.95
         image: images/google_pixel_6A_black__44154.jpg
   - id: 225
@@ -8698,7 +8698,7 @@ products:
         price: 1629.95
         image: images/iPhone-16-Pro-128GB-E-Sim-Pre-ownednatural-titanium-hero-zoom.webp
       - id: 50721
-        color: " Black"
+        color: "Black"
         price: 1629.95
         image: images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp
   - description: >+
@@ -10067,7 +10067,7 @@ products:
         price: 269.95
         image: images/galaxya15-blue.webp
       - id: 50836
-        color: " Black"
+        color: "Black"
         price: 269.95
         image: images/galaxya15black.webp
   - id: 268
@@ -11655,7 +11655,7 @@ products:
     category: Wireless Speakers
     variants:
       - id: 50930
-        color: " Black"
+        color: "Black"
         price: 239.95
         image: images/jbl103.webp
   - name: WGY-868 Portable Speakers , New , Sealed
@@ -12679,7 +12679,7 @@ products:
 
     variants:
       - id: 50974
-        color: " Black"
+        color: "Black"
         price: 899.95
         image: images/xiaomi15-black.webp
       - id: 50975
@@ -12771,7 +12771,7 @@ products:
         image: images/xiaomi15-gray.webp
         price: 1189.95
       - id: 50982
-        color: " Black"
+        color: "Black"
         price: 1189.95
         image: images/xiaomi15-black.webp
   - name: " Xiaomi 15 , 5G , 512GB/12GB , GSM Unlocked , New , Sealed"
@@ -13068,7 +13068,7 @@ products:
     variants:
       - id: 501008
         image: images/xiax8-whit.webp
-        color: " White"
+        color: "White"
         price: 609.95
       - price: 609.95
         color: Black
@@ -13171,7 +13171,7 @@ products:
         price: 549.95
         image: images/xiax8-whit.webp
       - price: 549.95
-        color: " Black"
+        color: "Black"
         id: 501015
         image: images/xiax8-black.webp
       - price: 549.95
@@ -16445,7 +16445,7 @@ products:
 
     variants:
       - id: 501082
-        color: " Black"
+        color: "Black"
         price: 249.95
         image: images/powerbeats05.webp
       - color: Glacier Blue
@@ -17938,7 +17938,7 @@ products:
     category: Security Camera Systems
     variants:
       - id: 501138
-        color: " White"
+        color: "White"
         price: 69.95
         image: images/camera8.webp
   - name: ERA-DSDCR Professional Driveway Alarm System  , New , Sealed
@@ -18786,7 +18786,7 @@ products:
     category: Smart Phones & Tablets Accessories
     variants:
       - id: 501188
-        color: " Blue"
+        color: "Blue"
         image: images/17promaxsleek-blue.webp
         price: 29.95
       - color: Red
@@ -20141,7 +20141,7 @@ products:
         price: 999.95
         image: images/ipad06.png
       - id: 501239
-        color: " Blue"
+        color: "Blue"
         price: 999.95
         image: images/ipad05.png
       - id: 501240
@@ -20201,7 +20201,7 @@ products:
     id: 471
     variants:
       - id: 501241
-        color: " Blue"
+        color: "Blue"
         price: 959.95
         image: images/ipad05.png
       - id: 501242
@@ -20275,7 +20275,7 @@ products:
         price: 1069.95
         image: images/ipad08.png
       - id: 501247
-        color: " Blue"
+        color: "Blue"
         price: 1069.95
         image: images/ipad05.png
       - id: 501248
@@ -20733,7 +20733,7 @@ products:
           Keyboards: Compatible with the floating cantilever Magic Keyboard and Smart Keyboard Folio.
     variants:
       - id: 501273
-        color: " Blue"
+        color: "Blue"
         price: 939.95
         image: images/ipad05.png
       - id: 501274
@@ -21133,7 +21133,7 @@ products:
           Keyboards: Compatible exclusively with the redesigned aluminum-palm-rest Magic Keyboard for iPad Pro (M4).
     variants:
       - id: 501289
-        color: " Black"
+        color: "Black"
         price: 2159.95
         image: images/ipad11.webp
       - id: 501290
@@ -21252,7 +21252,7 @@ products:
     id: 488
     variants:
       - id: 501293
-        color: " Black"
+        color: "Black"
         price: 1019.95
         image: images/ipad11.webp
       - id: 501294
@@ -21592,7 +21592,7 @@ products:
         price: 1799.95
         image: images/ipad10.webp
       - id: 501303
-        color: " Black"
+        color: "Black"
         price: 1799.95
         image: images/ipad11.webp
   - name: " Apple iPad Pro ,11 inch , 2TB 16GB Ram , WiFi + Cellular (M4) New ,
