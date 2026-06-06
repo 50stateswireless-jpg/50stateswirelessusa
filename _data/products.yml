@@ -834,7 +834,7 @@ products:
     image: ""
     variants:
       - id: 501357
-        color: " Purple"
+        color: "Purple"
         price: 109.95
         image: images/jbl_tune_670_nc_purple__42620.jpg
       - id: 501358
@@ -9025,7 +9025,7 @@ products:
         color: White
         image: images/iphone-17-finish-select-202509-white_GEO_US.webp
       - id: 50757
-        color: " Lavender"
+        color: "Lavender"
         price: 1249.95
         image: images/iphone-17-finish-select-202509-lavender_GEO_US.webp
       - id: 50758
@@ -12683,7 +12683,7 @@ products:
         price: 899.95
         image: images/xiaomi15-black.webp
       - id: 50975
-        color: " Gray"
+        color: "Gray"
         price: 899.95
         image: images/xiaomi15-gray.webp
       - color: Rose Gold
@@ -12889,7 +12889,7 @@ products:
           Durability: Rated IP64 for dust and splash resistance and features a side-mounted fingerprint sensor. 
     variants:
       - id: 50992
-        color: "Green "
+        color: "Green"
         price: 289.95
         image: images/remi02-green.webp
       - id: 50993
@@ -13004,7 +13004,7 @@ products:
 
     variants:
       - id: 501002
-        color: " Purple"
+        color: "Purple"
         price: 339.95
         image: images/xiapoco-blue.webp
       - id: 501003
@@ -14601,7 +14601,7 @@ products:
         price: 399.95
         image: images/fitbit12-white.webp
       - price: 399.95
-        color: " Gray"
+        color: "Gray"
         id: 501033
         image: images/fitbit11-gray.webp
       - id: 501034
@@ -15784,6 +15784,7 @@ products:
         color: White
         price: 19.95
         image: images/charger02.jpg
+
   - id: 379
     variants:
       - image: images/charger03.jpg
@@ -16273,7 +16274,7 @@ products:
         price: 309.95
         image: images/switch-blue.avif
       - id: 501072
-        color: " Gray"
+        color: "Gray"
         price: 309.95
         image: images/switch-gray.avif
       - id: 501073
@@ -16744,7 +16745,7 @@ products:
     id: 404
     variants:
       - id: 501097
-        color: " Gray"
+        color: "Gray"
         price: 1499.95
         image: images/dell02.webp
   - name: Dell Precision 3490 Core Ultra 7 165H ,5GHz , 512GB SSD 16GB Ram , New ,
@@ -17070,7 +17071,7 @@ products:
     category: Laptops & Accessories
     variants:
       - id: 501109
-        color: " Silver"
+        color: "Silver"
         price: 2569.95
         image: images/applepro-silver.webp
   - id: 412
@@ -17222,7 +17223,7 @@ products:
         price: 1499.95
         image: images/applepro-16-black.webp
       - id: 501115
-        color: " Silver"
+        color: "Silver"
         price: 1499.95
         image: images/applepro-silver.webp
       - id: 501116
@@ -18487,7 +18488,7 @@ products:
         id: 501150
         image: images/17promax-red.webp
       - id: 501151
-        color: Whjite
+        color: White
         price: 29.95
         image: images/17promax-white.webp
       - id: 501152
@@ -18901,7 +18902,7 @@ products:
           Software: Runs Android 16 with One UI 8, featuring advanced AI tools (Circle to Search, Note Assist) and Samsung DeX for a desktop-like multitasking experience. 
     variants:
       - id: 501202
-        color: " Gray"
+        color: "Gray"
         image: images/galtab04.webp
         price: 1199.95
       - id: 501203
@@ -19371,15 +19372,15 @@ products:
     id: 456
     variants:
       - id: 501208
-        color: Platinum Silver
+        color: Silver
         price: 1259.95
         image: images/galtab07.png
       - id: 501209
-        color: Moonstone Gray
+        color: Gray
         price: 1259.95
         image: images/galtabo6.webp
     description: >-
-      The Samsung Galaxy Tab S10+ Wi-Fi + Cellular 512GB (Model SM-X826)
+      Available colors - Platinum Silver and Moonstone Gray). The Samsung Galaxy Tab S10+ Wi-Fi + Cellular 512GB (Model SM-X826)
 
       is a top-tier, large-format tablet that merges flagship power with standalone 5G mobility. Below is the comprehensive technical breakdown for this specific 512GB Storage / 12GB RAM cellular configuration: 
 
@@ -19426,7 +19427,7 @@ products:
       Sealed
     category: Tablets
     description: >+
-      The Samsung Galaxy Tab S10+ Wi-Fi Only 256GB (Model SM-X820)
+      (Available colors - Platinum Silver and Moonstone Gray). The Samsung Galaxy Tab S10+ Wi-Fi Only 256GB (Model SM-X820)
 
       is a premium 12.4-inch Android tablet engineered for heavy multitasking, digital artwork, and media consumption. It features a flagship processor and a specialized glare-reducing screen coating. 
 
@@ -19471,11 +19472,11 @@ products:
 
     variants:
       - id: 501210
-        color: " Platinum Silver"
+        color: "Silver"
         image: images/galtab07.png
         price: 899.95
       - id: 501211
-        color: Moonstone Gray
+        color: Gray
         price: 899.95
         image: images/galtabo6.webp
   - name: Samsung Galaxy Tab S10 Plus , 512GB , 12.4-inch  , WiFi Only  , New ,
@@ -19528,11 +19529,11 @@ products:
     id: 458
     variants:
       - id: 501212
-        color: " Moonstone Gray"
+        color: "Gray"
         price: 1199.95
         image: images/galtabo6.webp
       - price: 1199.95
-        color: Platinum Silver
+        color: Silver
         image: images/galtab07.png
         id: 501213
     price: ""
@@ -19541,7 +19542,7 @@ products:
     id: 459
     category: Tablets
     description: >-
-      The Microsoft Surface Pro 9 (13-inch, Wi-Fi Only, 256GB SSD) is a premium
+      Available colors - Platinum Silver and Moonstone Gray). The Microsoft Surface Pro 9 (13-inch, Wi-Fi Only, 256GB SSD) is a premium
       Windows-based 2-in-1 detachable tablet designed to deliver full laptop
       performance in a highly mobile form factor.
 
@@ -19779,7 +19780,7 @@ products:
     id: 462
     variants:
       - id: 501217
-        color: "Green "
+        color: "Green"
         price: 479.95
         image: images/xiomitab04mi.webp.webp
       - id: 501218
@@ -19883,7 +19884,7 @@ products:
     category: Tablets
     variants:
       - id: 501223
-        color: " Gray"
+        color: "Gray"
         price: 309.95
         image: images/tablet03.webp
   - id: 466
@@ -20069,7 +20070,7 @@ products:
           Keyboards: Compatible with Magic Keyboard (floating cantilever design) and Smart Keyboard Folio.
     variants:
       - id: 501233
-        color: " Purple"
+        color: "Purple"
         price: 839.95
         image: images/ipad06.png
       - id: 501234
@@ -20137,7 +20138,7 @@ products:
         price: 999.95
         image: images/ipad08.png
       - id: 501238
-        color: " Purple"
+        color: "Purple"
         price: 999.95
         image: images/ipad06.png
       - id: 501239
@@ -20267,7 +20268,7 @@ products:
     id: 472
     variants:
       - id: 501245
-        color: " Gray"
+        color: "Gray"
         price: 1069.95
         image: images/ipad07.png
       - id: 501246
@@ -20346,7 +20347,7 @@ products:
         price: 1249.95
         image: images/ipad05.png
       - id: 501252
-        color: " Purple"
+        color: "Purple"
         price: 1249.95
         image: images/ipad06.png
   - description: >-
@@ -20531,7 +20532,7 @@ products:
 
     variants:
       - id: 501261
-        color: " Gray"
+        color: "Gray"
         price: 779.95
         image: images/ipad07.png
       - id: 501262
@@ -20804,7 +20805,7 @@ products:
         price: 1309.95
         image: images/ipad11.webp
       - id: 501278
-        color: " Silver"
+        color: "Silver"
         image: images/ipad10.webp
         price: 1309.95
   - name: Apple iPad Pro ,13 inch ,512GB  8GB Ram , WiFi Only (M4) New , Sealed
@@ -20923,7 +20924,7 @@ products:
         image: images/ipad11.webp
       - id: 501282
         price: 1949.95
-        color: " Silver"
+        color: "Silver"
         image: images/ipad10.webp
   - name: Apple iPad Pro ,13 inch , 2TB 16GB Ram , WiFi Only (M4) New , Sealed
     id: 483
@@ -21749,6 +21750,7 @@ products:
           No Entertainment Add-ons: Max (HBO Max with Ads) and cloud storage tiers are entirely excluded.   
     price: 40
     image: images/161-black.jpeg
+    id: 500
   - name: Cricket Wireless Smart Unlimited Plan
     category: Phone Plans
     description: |-
@@ -21761,7 +21763,6 @@ products:
       ? Usage in Mexico and Canada
       ? Unlimited calls and texts from the U.S. to Mexico and Canada
     price: 50
-    id: 500
     image: images/161-black.jpeg
   - id: 501
     name: "Cricket Wireless  Supreme  Unlimited Plan "
@@ -22092,12 +22093,12 @@ products:
         price: 229.95
         image: images/Beats Fit Pro 2021_09Volt Yellow.webp
       - id: 501307
-        color: " Purple"
+        color: "Purple"
         price: 229.95
         image: images/Beats Fit Pro 2021_09Stone Purple.webp
       - id: 501308
         price: 229.95
-        color: " Pink"
+        color: "Pink"
         image: images/Beats Fit Pro 2021_09Coral Pink.webp
       - id: 501309
         price: 229.95
@@ -22112,7 +22113,7 @@ products:
         id: 501311
         image: images/Beats Fit Pro 2021_09Beats White.webp
       - price: 229.95
-        color: " Gray"
+        color: "Gray"
         id: 501312
         image: images/Beats Fit Pro 2021_09Sage Gray.webp
   - id: 517
@@ -23114,7 +23115,7 @@ products:
         price: 509.95
         image: images/airpod07.webp
       - id: 501381
-        color: " Gray"
+        color: "Gray"
         price: 509.95
         image: images/airpod06.png
   - name: Beats Flex Wireless Earphones , New , Sealed
@@ -23166,7 +23167,7 @@ products:
         price: 99.95
         image: images/beatsflex01.jpeg
       - id: 501385
-        color: " Gray"
+        color: "Gray"
         price: 99.95
         image: images/beatsflex03.jpeg
   - name: Motorola Moto Buds 065 , New , Sealed
