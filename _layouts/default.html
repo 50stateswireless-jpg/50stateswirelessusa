@@ -707,14 +707,13 @@ let cartItemsHtml = app.cart.map(item => {
         <div class="mt-111 p-111 nrw-bg-white rounded-xl shadow-xl text-center text-green">
           <p class="text-lg font-light">Secure Checkout With PayPal, Debit Or Credit Card</p>
         </div>
-<div class="mt-4">
-  <div id="paypal-button-container"></div>
-<div class="mt-4 space-y-2">
+
+<div class="mt-4 space-y-4">
   <div id="paypal-button-container"></div>
   <div id="venmo-button-container"></div> <!-- New Venmo Container -->
   <div id="applepay-container"></div>      <!-- New Apple Pay Container -->
 </div>
-</div>
+
         </div>
         <div class="mt-8 p-4 nrw-bg-white rounded-xl shadow-xl text-center text-green">
           <p class="text-lg font-light">Free Shipping Nationwide And</p>
@@ -727,95 +726,85 @@ let cartItemsHtml = app.cart.map(item => {
   // Apply sticky positioning to the cart summary column
   app.applyCartSticky();
 
-  // PayPal initialization code (same as before)
+  // --- PAYPAL & VENMO INITIALIZATION CODE ---
   if (typeof paypal !== 'undefined') {
     const paypalContainer = document.getElementById('paypal-button-container');
-    if (paypalContainer) {
+    const venmoContainer = document.getElementById('venmo-button-container');
+    
+    // Only run if at least one container exists
+    if (paypalContainer || venmoContainer) {
+      
+      // 1. Calculate totals (Shared by both buttons)
       const subtotalRefresh = app.cart.reduce((sum, item) => {
           const product = findProductById(item.id);
           return sum + (product ? product.price * item.quantity : 0);
       }, 0);
       const taxRefresh = subtotalRefresh * 0.08875;
       const totalRefresh = subtotalRefresh + taxRefresh;
+      
       const items = app.cart.map(item => {
           const product = findProductById(item.id);
           if (!product) return null;
           return {
-          name: product.name,
-          unit_amount: { currency_code: 'USD', value: product.price.toFixed(2) },
-          quantity: item.quantity,
-          category: product.category === 'Digital' ? 'DIGITAL_GOODS' : 'PHYSICAL_GOODS'
+            name: product.name,
+            unit_amount: { currency_code: 'USD', value: product.price.toFixed(2) },
+            quantity: item.quantity,
+            category: product.category === 'Digital' ? 'DIGITAL_GOODS' : 'PHYSICAL_GOODS'
           };
       }).filter(item => item !== null);
-      paypal.Buttons({
+
+      // 2. Shared Order Creation Function
+      const createOrderFunction = function(data, actions) {
+        return actions.order.create({
+          intent: 'CAPTURE',
+          purchase_units: [{
+            description: "NewRock Wireless Order",
+            amount: {
+              currency_code: 'USD',
+              value: totalRefresh.toFixed(2),
+              breakdown: {
+                item_total: { currency_code: 'USD', value: subtotalRefresh.toFixed(2) },
+                tax_total: { currency_code: 'USD', value: taxRefresh.toFixed(2) }
+              }
+            },
+            items: items
+          }]
+        });
+      };
+
+      // 3. Shared Approval Function
+      const onApproveFunction = function(data, actions) {
+        return actions.order.capture().then(function(details) {
+          app.cart = [];
+          app.updateCartCount();
+          app.setView('home');
+          alert('Thank you for your purchase, ' + details.payer.name.given_name + '!');
+        });
+      };
+
+      // 4. Render Standard PayPal Button
+      if (paypalContainer) {
+        paypal.Buttons({
           style: { layout: 'vertical', color: 'blue', shape: 'rect', label: 'paypal', tagline: false },
-          createOrder: function(data, actions) {
-            return actions.order.create({
-              intent: 'CAPTURE',
-              purchase_units: [{
-                description: "NewRock Wireless Order",
-                amount: {
-                  currency_code: 'USD',
-                  value: totalRefresh.toFixed(2),
-                  breakdown: {
-                    item_total: { currency_code: 'USD', value: subtotalRefresh.toFixed(2) },
-                    tax_total: { currency_code: 'USD', value: taxRefresh.toFixed(2) }
-                  }
-                },
-                items: items
-              }]
-            });
-          },
-          onApprove: function(data, actions) {
-            return actions.order.capture().then(function(details) {
-              app.cart = [];
-              app.updateCartCount();
-              app.setView('home');
-              alert('Thank you for your purchase, ' + details.payer.name.given_name + '!');
-            });
-          },
+          createOrder: createOrderFunction,
+          onApprove: onApproveFunction,
           onCancel: function(data) { console.log('PayPal payment cancelled'); },
           onError: function(err) { console.error('PayPal error:', err); alert('An error occurred during PayPal processing.'); }
-      }).render('#paypal-button-container');
-      // --- VENMO BUTTON INTEGRATION ---
-      if (paypal.FUNDING && paypal.FUNDING.VENMO) {
-          paypal.Buttons({
-              fundingSource: paypal.FUNDING.VENMO,
-              style: { 
-                  color: 'blue', // <--- THIS forces the official Venmo blue background with white text
-                  shape: 'rect', 
-                  label: 'venmo',
-                  height: 40
-              },
-              createOrder: function(data, actions) {
-                  return actions.order.create({
-                      intent: 'CAPTURE',
-                      purchase_units: [{
-                          description: "NewRock Wireless Order",
-                          amount: {
-                              currency_code: 'USD',
-                              value: totalRefresh.toFixed(2),
-                              breakdown: {
-                                  item_total: { currency_code: 'USD', value: subtotalRefresh.toFixed(2) },
-                                  tax_total: { currency_code: 'USD', value: taxRefresh.toFixed(2) }
-                              }
-                          },
-                          items: items
-                      }]
-                  });
-              },
-              onApprove: function(data, actions) {
-                  return actions.order.capture().then(function(details) {
-                      app.cart = [];
-                      app.updateCartCount();
-                      app.setView('home');
-                      alert('Thank you for your Venmo purchase, ' + details.payer.name.given_name + '!');
-                  });
-              },
-              onCancel: function(data) { console.log('Venmo payment cancelled'); },
-              onError: function(err) { console.error('Venmo error:', err); alert('An error occurred during Venmo processing.'); }
-          }).render('#venmo-button-container');
+        }).render('#paypal-button-container');
       }
+
+      // 5. Render Venmo Button
+      if (venmoContainer && paypal.FUNDING) {
+        paypal.Buttons({
+          fundingSource: paypal.FUNDING.VENMO,
+          style: { layout: 'vertical', color: 'blue', shape: 'rect', label: 'venmo', height: 45 },
+          createOrder: createOrderFunction,
+          onApprove: onApproveFunction,
+          onCancel: function(data) { console.log('Venmo payment cancelled'); },
+          onError: function(err) { console.error('Venmo error:', err); }
+        }).render('#venmo-button-container');
+      }
+      
     }
   }
 },
