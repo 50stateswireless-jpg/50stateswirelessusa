@@ -709,6 +709,11 @@ let cartItemsHtml = app.cart.map(item => {
         </div>
 <div class="mt-4">
   <div id="paypal-button-container"></div>
+<div class="mt-4 space-y-2">
+  <div id="paypal-button-container"></div>
+  <div id="venmo-button-container"></div> <!-- New Venmo Container -->
+  <div id="applepay-container"></div>      <!-- New Apple Pay Container -->
+</div>
 </div>
         </div>
         <div class="mt-8 p-4 nrw-bg-white rounded-xl shadow-xl text-center text-green">
@@ -772,6 +777,45 @@ let cartItemsHtml = app.cart.map(item => {
           onCancel: function(data) { console.log('PayPal payment cancelled'); },
           onError: function(err) { console.error('PayPal error:', err); alert('An error occurred during PayPal processing.'); }
       }).render('#paypal-button-container');
+      // --- VENMO BUTTON INTEGRATION ---
+      if (paypal.FUNDING && paypal.FUNDING.VENMO) {
+          paypal.Buttons({
+              fundingSource: paypal.FUNDING.VENMO,
+              style: { 
+                  color: 'blue', // <--- THIS forces the official Venmo blue background with white text
+                  shape: 'rect', 
+                  label: 'venmo',
+                  height: 40
+              },
+              createOrder: function(data, actions) {
+                  return actions.order.create({
+                      intent: 'CAPTURE',
+                      purchase_units: [{
+                          description: "NewRock Wireless Order",
+                          amount: {
+                              currency_code: 'USD',
+                              value: totalRefresh.toFixed(2),
+                              breakdown: {
+                                  item_total: { currency_code: 'USD', value: subtotalRefresh.toFixed(2) },
+                                  tax_total: { currency_code: 'USD', value: taxRefresh.toFixed(2) }
+                              }
+                          },
+                          items: items
+                      }]
+                  });
+              },
+              onApprove: function(data, actions) {
+                  return actions.order.capture().then(function(details) {
+                      app.cart = [];
+                      app.updateCartCount();
+                      app.setView('home');
+                      alert('Thank you for your Venmo purchase, ' + details.payer.name.given_name + '!');
+                  });
+              },
+              onCancel: function(data) { console.log('Venmo payment cancelled'); },
+              onError: function(err) { console.error('Venmo error:', err); alert('An error occurred during Venmo processing.'); }
+          }).render('#venmo-button-container');
+      }
     }
   }
 },
