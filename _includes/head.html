@@ -3,12 +3,11 @@
 <title>{{ 50StatesWirelessUSA: Special offers available online }}</title>
 <script src="https://cdn.tailwindcss.com"></script>
 <script src="https://unpkg.com/lucide@latest"></script>
-
+<script src="https://www.paypal.com/sdk/js?client-id=ASN7PKGXRcDaxWEUQ9beftaFfpVjBSSwjrD441s3SX9O4FraiGhzd5Z0kO-dFpovPJre9YSnzuZpHhd4&currency=USD"></script>
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 {{ 50StatesWirelessUSA: Special offers available online }}
-<!-- Combined PayPal SDK with Venmo, Messages, and Apple Pay components -->
-<script src="https://www.paypal.com/sdk/js?client-id=ASN7PKGXRcDaxWEUQ9beftaFfpVjBSSwjrD441s3SX9O4FraiGhzd5Z0kO-dFpovPJre9YSnzuZpHhd4&currency=USD&enable-funding=venmo&components=buttons,messages,applepay"></script>
-
-<!-- Apple Pay JS SDK (Required for Apple Pay integration) -->
-<script src="https://applepay.cdn-apple.com/jsapi/1.latest/apple-pay-sdk.js"></script>
+<script
+    src="https://www.paypal.com/sdk/js?client-id=ASN7PKGXRcDaxWEUQ9beftaFfpVjBSSwjrD441s3SX9O4FraiGhzd5Z0kO-dFpovPJre9YSnzuZpHhd4&components=messages"
+    data-namespace="PayPalSDK">
+</script>
