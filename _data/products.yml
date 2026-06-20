@@ -862,7 +862,7 @@ products:
     image: ""
     variants:
       - id: 501357
-        color: " Purple"
+        color: "Purple"
         price: 109.95
         image: images/jbl_tune_670_nc_purple__42620.jpg
       - id: 501358
@@ -2005,7 +2005,7 @@ products:
         price: 939.95
         image: images/iphone-17-finish-select-202509-white_GEO_US.webp
       - id: 50325
-        color: Lavender
+        color: Lavender 
         price: 939.95
         image: images/iphone-17-finish-select-202509-lavender_GEO_US.webp
   - id: 71
@@ -8468,7 +8468,7 @@ products:
           Final Updates: It is scheduled to receive its last security and OS updates in October 2026.
     variants:
       - id: 50701
-        color: " Black"
+        color: "Black"
         price: 449.95
         image: images/google_pixel_6A_black__44154.jpg
   - id: 225
@@ -8759,7 +8759,7 @@ products:
         price: 1629.95
         image: images/iPhone-16-Pro-128GB-E-Sim-Pre-ownednatural-titanium-hero-zoom.webp
       - id: 50721
-        color: " Black"
+        color: "Black"
         price: 1629.95
         image: images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp
   - description: >+
@@ -10143,7 +10143,7 @@ products:
         price: 229.95
         image: images/galaxya15-blue.webp
       - id: 50836
-        color: " Black"
+        color: "Black"
         price: 229.95
         image: images/galaxya15black.webp
   - id: 268
@@ -11731,7 +11731,7 @@ products:
     category: Wireless Speakers
     variants:
       - id: 50930
-        color: " Black"
+        color: "Black"
         price: 239.95
         image: images/jbl103.webp
   - name: WGY-868 Portable Speakers , New , Sealed
@@ -12755,11 +12755,11 @@ products:
 
     variants:
       - id: 50974
-        color: " Black"
+        color: "Black"
         price: 899.95
         image: images/xiaomi15-black.webp
       - id: 50975
-        color: " Gray"
+        color: "Gray"
         price: 899.95
         image: images/xiaomi15-gray.webp
       - color: Rose Gold
@@ -12847,7 +12847,7 @@ products:
         image: images/xiaomi15-gray.webp
         price: 1189.95
       - id: 50982
-        color: " Black"
+        color: "Black"
         price: 1189.95
         image: images/xiaomi15-black.webp
   - name: " Xiaomi 15 , 5G , 512GB/12GB , GSM Unlocked , New , Sealed"
@@ -12965,7 +12965,7 @@ products:
           Durability: Rated IP64 for dust and splash resistance and features a side-mounted fingerprint sensor. 
     variants:
       - id: 50992
-        color: "Green "
+        color: "Green"
         price: 289.95
         image: images/remi02-green.webp
       - id: 50993
@@ -13080,7 +13080,7 @@ products:
 
     variants:
       - id: 501002
-        color: " Purple"
+        color: "Purple"
         price: 339.95
         image: images/xiapoco-blue.webp
       - id: 501003
@@ -13144,7 +13144,7 @@ products:
     variants:
       - id: 501008
         image: images/xiax8-whit.webp
-        color: " White"
+        color: "White"
         price: 609.95
       - price: 609.95
         color: Black
@@ -13247,7 +13247,7 @@ products:
         price: 549.95
         image: images/xiax8-whit.webp
       - price: 549.95
-        color: " Black"
+        color: "Black"
         id: 501015
         image: images/xiax8-black.webp
       - price: 549.95
@@ -14677,7 +14677,7 @@ products:
         price: 399.95
         image: images/fitbit12-white.webp
       - price: 399.95
-        color: " Gray"
+        color: "Gray"
         id: 501033
         image: images/fitbit11-gray.webp
       - id: 501034
@@ -16349,7 +16349,7 @@ products:
         price: 309.95
         image: images/switch-blue.avif
       - id: 501072
-        color: " Gray"
+        color: "Gray"
         price: 309.95
         image: images/switch-gray.avif
       - id: 501073
@@ -16521,7 +16521,7 @@ products:
 
     variants:
       - id: 501082
-        color: " Black"
+        color: "Black"
         price: 249.95
         image: images/powerbeats05.webp
       - color: Glacier Blue
@@ -16603,7 +16603,7 @@ products:
       Weather-resistant and designed for outdoor use, the aosu AI-Smart Security Camera connects via Wi-Fi and is fully controlled through the aosu mobile app, where you can view live footage, access event recordings, receive real-time alerts, and customize your settings. Whether you're looking to monitor your front door, driveway, backyard, or any other outdoor space, this smart security camera offers a reliable and easy-to-install solution with clear visuals and intelligent monitoring features.
     variants:
       - id: 501090
-        color: "White "
+        color: "White"
         price: 119.95
         image: images/aosu02.webp
   - id: 398
@@ -16646,7 +16646,7 @@ products:
       Whether you’re securing your home, business, or property, the AOSU 2K QHD Security Camera Kit offers high-quality, reliable monitoring with features like remote access, motion detection, and two-way audio. With its solar power, AI-driven features, and advanced video technology, it provides a complete surveillance system for modern security needs.
     variants:
       - id: 501092
-        color: "White "
+        color: "White"
         price: 319.95
         image: images/aosu01.webp
   - id: 400
@@ -16820,7 +16820,7 @@ products:
     id: 404
     variants:
       - id: 501097
-        color: " Gray"
+        color: "Gray"
         price: 1499.95
         image: images/dell02.webp
   - name: Dell Precision 3490 Core Ultra 7 165H ,5GHz , 512GB SSD 16GB Ram , New ,
@@ -17146,7 +17146,7 @@ products:
     category: Laptops & Accessories
     variants:
       - id: 501109
-        color: " Silver"
+        color: "Silver"
         price: 2569.95
         image: images/applepro-silver.webp
   - id: 412
@@ -17298,7 +17298,7 @@ products:
         price: 1499.95
         image: images/applepro-16-black.webp
       - id: 501115
-        color: " Silver"
+        color: "Silver"
         price: 1499.95
         image: images/applepro-silver.webp
       - id: 501116
@@ -18014,7 +18014,7 @@ products:
     category: Security Camera Systems
     variants:
       - id: 501138
-        color: " White"
+        color: "White"
         price: 69.95
         image: images/camera8.webp
   - name: ERA-DSDCR Professional Driveway Alarm System  , New , Sealed
@@ -18563,7 +18563,7 @@ products:
         id: 501150
         image: images/17promax-red.webp
       - id: 501151
-        color: Whjite
+        color: White
         price: 29.95
         image: images/17promax-white.webp
       - id: 501152
@@ -18857,7 +18857,7 @@ products:
     category: Smart Phones & Tablets Accessories
     variants:
       - id: 501188
-        color: " Blue"
+        color: "Blue"
         image: images/17promaxsleek-blue.webp
         price: 29.95
       - color: Red
@@ -18972,7 +18972,7 @@ products:
           Software: Runs Android 16 with One UI 8, featuring advanced AI tools (Circle to Search, Note Assist) and Samsung DeX for a desktop-like multitasking experience. 
     variants:
       - id: 501202
-        color: " Gray"
+        color: "Gray"
         image: images/galtab04.webp
         price: 1199.95
       - id: 501203
@@ -19850,7 +19850,7 @@ products:
     id: 462
     variants:
       - id: 501217
-        color: "Green "
+        color: Green
         price: 479.95
         image: images/xiomitab04mi.webp.webp
       - id: 501218
@@ -19954,7 +19954,7 @@ products:
     category: Tablets
     variants:
       - id: 501223
-        color: " Gray"
+        color: "Gray"
         price: 309.95
         image: images/tablet03.webp
   - id: 466
@@ -19984,7 +19984,7 @@ products:
     category: Tablets
     variants:
       - id: 501224
-        color: "Black "
+        color: "Black"
         price: 329.95
         image: images/tab06.webp
   - name: Apple iPad Mini , 8.3 inch , 128GB  8GB Ram  , WiFi Only  (7th Generation)
@@ -20140,7 +20140,7 @@ products:
           Keyboards: Compatible with Magic Keyboard (floating cantilever design) and Smart Keyboard Folio.
     variants:
       - id: 501233
-        color: " Purple"
+        color: "Purple"
         price: 839.95
         image: images/ipad06.png
       - id: 501234
@@ -20208,11 +20208,11 @@ products:
         price: 999.95
         image: images/ipad08.png
       - id: 501238
-        color: " Purple"
+        color: "Purple"
         price: 999.95
         image: images/ipad06.png
       - id: 501239
-        color: " Blue"
+        color: "Blue"
         price: 999.95
         image: images/ipad05.png
       - id: 501240
@@ -20272,7 +20272,7 @@ products:
     id: 471
     variants:
       - id: 501241
-        color: " Blue"
+        color: "Blue"
         price: 959.95
         image: images/ipad05.png
       - id: 501242
@@ -20338,7 +20338,7 @@ products:
     id: 472
     variants:
       - id: 501245
-        color: " Gray"
+        color: "Gray"
         price: 1069.95
         image: images/ipad07.png
       - id: 501246
@@ -20346,7 +20346,7 @@ products:
         price: 1069.95
         image: images/ipad08.png
       - id: 501247
-        color: " Blue"
+        color: "Blue"
         price: 1069.95
         image: images/ipad05.png
       - id: 501248
@@ -20417,7 +20417,7 @@ products:
         price: 1249.95
         image: images/ipad05.png
       - id: 501252
-        color: " Purple"
+        color: "Purple"
         price: 1249.95
         image: images/ipad06.png
   - description: >-
@@ -20602,7 +20602,7 @@ products:
 
     variants:
       - id: 501261
-        color: " Gray"
+        color: "Gray"
         price: 779.95
         image: images/ipad07.png
       - id: 501262
@@ -20804,7 +20804,7 @@ products:
           Keyboards: Compatible with the floating cantilever Magic Keyboard and Smart Keyboard Folio.
     variants:
       - id: 501273
-        color: " Blue"
+        color: "Blue"
         price: 939.95
         image: images/ipad05.png
       - id: 501274
@@ -20875,7 +20875,7 @@ products:
         price: 1309.95
         image: images/ipad11.webp
       - id: 501278
-        color: " Silver"
+        color: "Silver"
         image: images/ipad10.webp
         price: 1309.95
   - name: Apple iPad Pro ,13 inch ,512GB  8GB Ram , WiFi Only (M4) New , Sealed
@@ -20994,7 +20994,7 @@ products:
         image: images/ipad11.webp
       - id: 501282
         price: 1949.95
-        color: " Silver"
+        color: "Silver"
         image: images/ipad10.webp
   - name: Apple iPad Pro ,13 inch , 2TB 16GB Ram , WiFi Only (M4) New , Sealed
     id: 483
@@ -21204,7 +21204,7 @@ products:
           Keyboards: Compatible exclusively with the redesigned aluminum-palm-rest Magic Keyboard for iPad Pro (M4).
     variants:
       - id: 501289
-        color: " Black"
+        color: "Black"
         price: 2159.95
         image: images/ipad11.webp
       - id: 501290
@@ -21323,7 +21323,7 @@ products:
     id: 488
     variants:
       - id: 501293
-        color: " Black"
+        color: "Black"
         price: 1019.95
         image: images/ipad11.webp
       - id: 501294
@@ -21663,7 +21663,7 @@ products:
         price: 1799.95
         image: images/ipad10.webp
       - id: 501303
-        color: " Black"
+        color: "Black"
         price: 1799.95
         image: images/ipad11.webp
   - name: " Apple iPad Pro ,11 inch , 2TB 16GB Ram , WiFi + Cellular (M4) New ,
@@ -22163,12 +22163,12 @@ products:
         price: 229.95
         image: images/Beats Fit Pro 2021_09Volt Yellow.webp
       - id: 501307
-        color: " Purple"
+        color: "Purple"
         price: 229.95
         image: images/Beats Fit Pro 2021_09Stone Purple.webp
       - id: 501308
         price: 229.95
-        color: " Pink"
+        color: "Pink"
         image: images/Beats Fit Pro 2021_09Coral Pink.webp
       - id: 501309
         price: 229.95
@@ -22183,7 +22183,7 @@ products:
         id: 501311
         image: images/Beats Fit Pro 2021_09Beats White.webp
       - price: 229.95
-        color: " Gray"
+        color: "Gray"
         id: 501312
         image: images/Beats Fit Pro 2021_09Sage Gray.webp
   - id: 517
@@ -23185,7 +23185,7 @@ products:
         price: 509.95
         image: images/airpod07.webp
       - id: 501381
-        color: " Gray"
+        color: "Gray"
         price: 509.95
         image: images/airpod06.png
   - name: Beats Flex Wireless Earphones , New , Sealed
@@ -23237,7 +23237,7 @@ products:
         price: 99.95
         image: images/beatsflex01.jpeg
       - id: 501385
-        color: " Gray"
+        color: "Gray"
         price: 99.95
         image: images/beatsflex03.jpeg
   - name: Motorola Moto Buds 065 , New , Sealed
@@ -23846,14 +23846,14 @@ products:
       straight into Google search queries."
     category: Phones
     variants:
+      - id: 501452
+        color: Lavender
+        price: 599.95
+        image: images/galaxy37lav.webp
       - id: 501453
         color: Awesome Charcoal
         price: 599.95
         image: images/galaxy37gray.webp
-      - color: Lavender
-        id: 501452
-        price: 599.95
-        image: images/galaxy37lav.webp
   - id: 565
     name: Samsung Galaxy XCover 7 Pro , Rugged  Smartphone , 128GB 6GB Ram , USA
       Version , Unlocked , New , Sealed
