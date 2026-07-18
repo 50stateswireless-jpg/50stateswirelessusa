@@ -871,50 +871,64 @@ addToCart: (productId) => {
   } else {
     app.cart.push({ id: productId, quantity: 1 });
   }
-  const name = app.getProductDisplayName(productId); // ✅
+  const name = app.getProductDisplayName(productId);
   app.showTemporaryMessage(`Added 1x ${name} to cart!`);
   app.updateCartCount();
-  if (app.view === 'cart') app.render();
+  
+  // UPDATED: Navigate to cart page immediately after adding
+  app.setView('cart');
 },
 
-  addToCartFromBrowse: (productId) => {
-    // Find the base product
-    const baseProduct = app.rawProducts.find(p => p.id === productId);
-    if (!baseProduct) {
-      app.addToCart(productId);
-      return;
-    }
-
-    let variantToAdd;
-    if (baseProduct.variants && baseProduct.variants.length > 0) {
-      // Product has variants - get the currently selected one or default to first
-      const selectedVariantId = app.selectedBrowseVariants?.[productId];
-      if (selectedVariantId) {
-        variantToAdd = baseProduct.variants.find(v => v.id === selectedVariantId);
-      }
-      
-      // If no variant selected or selected variant not found, use first variant
-      if (!variantToAdd) {
-        variantToAdd = baseProduct.variants[0];
-      }
-    } else {
-      // No variants, use the base product
-      variantToAdd = { id: baseProduct.id, price: baseProduct.price };
-    }
-
-    // Add the selected variant to cart
-    const existingItem = app.cart.find(item => item.id === variantToAdd.id);
+addToCartFromBrowse: (productId) => {
+  // Find the base product
+  const baseProduct = app.rawProducts.find(p => p.id === productId);
+  if (!baseProduct) {
+    // Fallback if no base product found (single item)
+    const existingItem = app.cart.find(item => item.id === productId);
     if (existingItem) {
       existingItem.quantity += 1;
     } else {
-      app.cart.push({ id: variantToAdd.id, quantity: 1 });
+      app.cart.push({ id: productId, quantity: 1 });
+    }
+    app.showTemporaryMessage('Item added to cart!');
+    app.updateCartCount();
+    app.setView('cart'); // UPDATED: Navigate to cart
+    return;
+  }
+
+  let variantToAdd;
+  if (baseProduct.variants && baseProduct.variants.length > 0) {
+    // Product has variants - get the currently selected one or default to first
+    const selectedVariantId = app.selectedBrowseVariants?.[productId];
+    if (selectedVariantId) {
+      variantToAdd = baseProduct.variants.find(v => v.id === selectedVariantId);
     }
     
-    const name = app.getProductDisplayName(variantToAdd.id);
-    app.showTemporaryMessage(`Added 1x ${name} to cart!`);
-    app.updateCartCount();
-    if (app.view === 'cart') app.render();
-  },
+    // If no variant selected or selected variant not found, use first variant
+    if (!variantToAdd) {
+      variantToAdd = baseProduct.variants[0];
+    }
+  } else {
+    // No variants, use the base product
+    variantToAdd = { id: baseProduct.id, price: baseProduct.price };
+  }
+
+  // Add the selected variant to cart
+  const existingItem = app.cart.find(item => item.id === variantToAdd.id);
+  if (existingItem) {
+    existingItem.quantity += 1;
+  } else {
+    app.cart.push({ id: variantToAdd.id, quantity: 1 });
+  }
+  
+  const name = app.getProductDisplayName(variantToAdd.id);
+  app.showTemporaryMessage(`Added 1x ${name} to cart!`);
+  app.updateCartCount();
+  
+  // UPDATED: Navigate to cart page immediately
+  app.setView('cart');
+},
+
 
   updateCartQuantity: (productId, delta) => {
     const itemIndex = app.cart.findIndex(item => item.id === productId);
@@ -980,9 +994,15 @@ deleteFromCart: (productId) => {
     } else if (newView === 'home' && typeof param === 'string') {
       app.filterCategory = param;
     }
-    // Removed window.scrollTo(0,0) to avoid flicker and let render handle smooth positioning
+
+    // UPDATED: Force scroll to top for Cart and Details views to prevent bottom-scrolling
+    if (newView === 'cart' || newView === 'details') {
+      window.scrollTo(0, 0);
+    }
+
     app.render();
   },
+
 
   render: () => {
     app.updateCartCount();
