@@ -1,7 +1,7 @@
 bg_color: "#1e40af"
 bg_image:  # assets/images/2018-07-10-image-35.webp
 headline:
-  text: Wireless for Everyone: THE BIGGEST SALE OF THE SEASON!
+  text: Wireless for Everyone - THE BIGGEST SALE OF THE SEASON!
   color: "#ed0909"
   size_class: text-3xl md-text-5xl
   weight: font-extrabold
