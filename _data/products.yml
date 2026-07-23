@@ -55,12 +55,12 @@ products:
     variants:
       - id: 50818
         color: Gray
-        price: 249.95
+        price: 199.95
         image: images/Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB Cellular, New,
           Sealed.jpg
       - id: 50819
         color: Silver
-        price: 249.95
+        price: 199.95
         image: images/galaxytab11-siver.webp
   - id: 3
     name: Samsung Galaxy S25 Plus, 256GB 5G . Unlocked, Dual Sim , New , Sealed
@@ -90,7 +90,7 @@ products:
         image: images/150-gray.webp
   - id: 4
     name: XNET WIFI Data Plans 25GB
-    category: WiFi Plans
+    category: WiFi
     price: 65.95
     description: >-
       Data Plans Get reliable high-speed data wherever you need it — at
@@ -105,7 +105,7 @@ products:
     image: images/Xnet-Wifi.jpeg
   - id: 5
     name: XNET WIFI Xplorer Hotspot 50 GB X Data Plan
-    category: WiFi Plans
+    category: WiFi
     price: 75.95
     description: >-
       Xplorer Hotspot The Xplorer Hotspot is your pocket-sized
@@ -148,11 +148,16 @@ products:
             F0030488753CR3583000000001
     image: images/71M1Kxq7HHL.jpg
   - id: 7
-    name: Tecno Spark Go 1S , 64GB , Dual Sim , 6.67-inch , Unlocked , New , Sealed
+    name: Tecno Spark Go 1S , 64GB , Dual Sim , 6.67-inch , GSM Unlocked ,
+      International Version , New , Sealed
     category: Phones
     price: ""
     description: >-
-      Colors Black ,White  Processor: MediaTek Helio G50 octa-core
+      (This Smartphone has  poor Compatibility Only T-Mobile , Mint Mobile ,
+      Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) Tecno smartphones
+      are highly compatible with carriers in Africa, the Middle East, Asia, the
+      Caribbean, Latin America, UK and Europe.  Processor: MediaTek Helio G50
+      octa-core
             chipset RAM and storage: 3GB RAM and 64GB of internal storage. The storage
             is expandable via a microSDXC card. Display: A 6.67-inch IPS LCD with a
             90Hz refresh rate and a resolution of 720 x 1600 pixels. Cameras: 13MP
@@ -165,16 +170,16 @@ products:
     image: ""
     variants:
       - id: 50742
-        price: 219.95
+        price: 179.95
         color: Black
         image: images/tecno_spark_go_1s_black__76702.jpg
       - id: 50834
         color: White
-        price: 219.95
+        price: 179.95
         image: images/tecno1S-white.jpg
   - id: 8
     name: XNET WIFI Xplorer Hotspot 100GB X Data Plan
-    category: WiFi Plans
+    category: WiFi
     price: 85.95
     description: >-
       Xplorer Hotspot The Xplorer Hotspot is your pocket-sized
@@ -227,16 +232,20 @@ products:
           Network: Access to nationwide 5G coverage. 
     image: images/galaxy-a36-black-11321.jpg
   - id: 12
-    name: Tecno Spark 30C , 256GB , 4G , 6.67 inches , Unlocked ,New , Sealed
+    name: Tecno Spark 30C , 256GB , 4G , 6.67 inches , GSM Unlocked , International
+      Version  , New , Sealed
     category: Phones
     price: ""
     description: >-
-      Colors Black  Key features
-            Display: A 6.67-inch IPS LCD with a 720p HD+ resolution and a smooth 120Hz refresh rate. Some variants may have a 6.6-inch screen with a 90Hz refresh rate and a 720p resolution. Performance: Powered by a MediaTek Helio G81 chipset (or G70 for some variants) and comes with up to 8GB of RAM, depending on the model. Virtual RAM expansion is also a feature. Camera: It has a dual-camera system on the back with a 50MP main sensor and an auxiliary lens. The front camera is 8MP and can shoot video at 1080p@30fps. Battery and charging: The device is powered by a large 5,000mAh non-removable battery and supports 18W wired charging. A full charge may take around 2 hours. Storage: The Spark 30C is available with different storage options, including 128GB and 256GB of internal storage, which is expandable via a microSDXC card. Audio: Includes a 3.5mm headphone jack and stereo speakers. Operating system: It runs on Android 14 with Tecno's HiOS skin. Some variants are specified with Android 12 and HiOS 8.6. Other features: The phone has a side-mounted fingerprint sensor, an IR blaster for controlling appliances, and an IP54 rating for dust and splash resistance
+      (This Smartphone has  poor Compatibility Only T-Mobile , Mint Mobile ,
+      Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) Tecno smartphones
+      are highly compatible with carriers in Africa, the Middle East, Asia, the
+      Caribbean, Latin America, UK and Europe. 
+       Display: A 6.67-inch IPS LCD with a 720p HD+ resolution and a smooth 120Hz refresh rate. Some variants may have a 6.6-inch screen with a 90Hz refresh rate and a 720p resolution. Performance: Powered by a MediaTek Helio G81 chipset (or G70 for some variants) and comes with up to 8GB of RAM, depending on the model. Virtual RAM expansion is also a feature. Camera: It has a dual-camera system on the back with a 50MP main sensor and an auxiliary lens. The front camera is 8MP and can shoot video at 1080p@30fps. Battery and charging: The device is powered by a large 5,000mAh non-removable battery and supports 18W wired charging. A full charge may take around 2 hours. Storage: The Spark 30C is available with different storage options, including 128GB and 256GB of internal storage, which is expandable via a microSDXC card. Audio: Includes a 3.5mm headphone jack and stereo speakers. Operating system: It runs on Android 14 with Tecno's HiOS skin. Some variants are specified with Android 12 and HiOS 8.6. Other features: The phone has a side-mounted fingerprint sensor, an IR blaster for controlling appliances, and an IP54 rating for dust and splash resistance
     image: ""
     variants:
       - id: 50741
-        price: 279.95
+        price: 269.95
         color: Black
         image: images/tecno_spark_30c_black__28400.jpg
   - id: 13
@@ -251,25 +260,29 @@ products:
     variants:
       - id: 50739
         color: Black
-        price: 209.95
+        price: 169.95
         image: images/51m45B3Yy+L.jpg
       - id: 501447
         color: White
-        price: 209.95
+        price: 169.95
         image: images/Galaxy A03s White.png
       - id: 501448
         color: Blue
-        price: 209.95
+        price: 169.95
         image: images/Galaxy A03s Blue.png
   - id: 14
-    name: ZTE Nubia Focus 6.5inch , 5G LTE 4GB+256GB ,Dual Sim , New , Sealed
+    name: ZTE Nubia Focus 6.5inch , 5G LTE 4GB+256GB , Dual Sim , GSM Unlocked ,
+      International Version ,New , Sealed
     category: Phones
     price: ""
     description: >-
-      Colors Black   According to ZTE and GSMArena, the Nubia Focus 5G, released
-            in early 2024, has the following specifications:
+      (This Smartphone Is Compatible With Only T-Mobile , Mint Mobile , Metro by
+      T-Mobile, Tello Mobile, Ultra Mobile In The US Cities Only) ZTE
+      smartphones are highly compatible with carriers in Africa, the Middle
+      East, Asia, the Caribbean, Latin America, UK, Canada Cites Only and
+      Europe. 
 
-            Dimensions: 163.6 x 74.9 x 8.6 mm. Weight: 205.5 g. Display: 6.6-inch IPS LCD with a 120Hz refresh rate and 1612 x 720 HD+ resolution. Processor: Unisoc T760 (6nm). RAM: Up to 16GB dynamic RAM (6GB + 10GB extended). Storage: 256GB UFS 3.1. Rear Camera: Dual 108MP (wide) + 2MP (depth). Front Camera: 5MP (software-enhanced to 8MP). Battery: 5,000mAh with 22.5W fast charging. Operating System: Android 13 or 14, depending on the region. Connectivity: 5G, Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0, NFC. Ports: USB Type-C, 3.5mm audio jack. Other features: Side fingerprint sensor, Live Island interactive notification display.
+      Dimensions: 163.6 x 74.9 x 8.6 mm. Weight: 205.5 g. Display: 6.6-inch IPS LCD with a 120Hz refresh rate and 1612 x 720 HD+ resolution. Processor: Unisoc T760 (6nm). RAM: Up to 16GB dynamic RAM (6GB + 10GB extended). Storage: 256GB UFS 3.1. Rear Camera: Dual 108MP (wide) + 2MP (depth). Front Camera: 5MP (software-enhanced to 8MP). Battery: 5,000mAh with 22.5W fast charging. Operating System: Android 13 or 14, depending on the region. Connectivity: 5G, Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0, NFC. Ports: USB Type-C, 3.5mm audio jack. Other features: Side fingerprint sensor, Live Island interactive notification display.
     image: ""
     variants:
       - id: 50743
@@ -277,13 +290,17 @@ products:
         price: 289.95
         image: images/nabia_focus__55629.jpg
   - id: 15
-    name: ZTE Nubia Focus Pro, 6.7inch , 5G LTE ,256GB , Unlocked , New , Sealed
+    name: ZTE Nubia Focus Pro, 6.7inch , 5G LTE ,256GB ,GSM Unlocked , International
+      Version , New , Sealed
     category: Phones
     price: ""
     description: >-
-      Colors Black,Cream  Here is a detailed breakdown of the specifications for
-      the nubia Focus Pro 5G, according to ZTE's official website and sources
-      like GSMArena.
+      (This Smartphone Is Compatible With Only T-Mobile , Mint Mobile , Metro by
+      T-Mobile, Tello Mobile, Ultra Mobile In The US Cities Only) ZTE
+      smartphones are highly compatible with carriers in Africa, the Middle
+      East, Asia, the Caribbean, Latin America, UK, Canada Cites Only and Europe
+      . Here is a detailed breakdown of the specifications for the nubia Focus
+      Pro 5G, according to ZTE's official website
             Dimensions: 166 x 76.1 x 8.5 mm. Weight: 206 g. Display: 6.72-inch IPS LCD with a 120Hz refresh rate and 1080 x 2400 FHD+ resolution. Processor: Unisoc T760 (6nm). Memory and storage: 8GB of LPDDR4X RAM with up to 12GB of additional dynamic RAM, and 256GB of UFS 3.1 storage. Rear cameras: Main: 108MP with f/1.7 aperture, Phase Detection Autofocus (PDAF), and Optical Image Stabilization (OIS). Ultrawide: 5MP. Depth: 2MP. Front camera: 32MP. Battery: 5,000mAh non-removable. Charging: 33W wired fast charging. Operating system: Launched with Android 13 and MyOS 13. Connectivity: 5G, Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.2, and NFC. Ports: USB Type-C, but no 3.5mm headphone jack. Additional features: Camera controls: A physical sliding shortcut key for quick access to camera functions and a capacitive capture button. Live Island: Interactive notification area for important alerts. Biometrics: Side-mounted fingerprint sensor
     image: ""
     variants:
@@ -400,7 +417,7 @@ products:
         price: 89.95
         image: images/0-2.jpeg
   - id: 19
-    name: Apple Watch Ultra 3, 49MM, New , Sealed
+    name: Apple Watch Ultra 3, 49MM, GPS + Cellular  , New , Sealed
     category: Smart Watches
     price: ""
     description: >-
@@ -412,8 +429,8 @@ products:
     image: ""
     variants:
       - id: 501408
-        color: Black
-        price: 899.95
+        color: Titanium
+        price: 809.95
         image: images/Apple-Watch-Ultra-3-49mm.jpg
   - id: 20
     name: Maxwest Vice 4G Flip Phone , Unlocked , New , Sealed
@@ -451,7 +468,7 @@ products:
         price: 129.95
         image: images/maxwest_ranger_black__72703.jpg
   - id: 22
-    name: " Motorola Moto E15 , 64GB 2GB Ram , GSM Unlocked International Version
+    name: " Motorola Moto E15 , 64GB 2GB Ram , GSM Unlocked , International Version
       (XT2523) New , Sealed "
     category: Phones
     price: ""
@@ -597,7 +614,7 @@ products:
       - id: 50820
         color: Gray
         price: 499.95
-        image: images/ipad9-gray.png
+        image: images/apple4ipad.webp
   - id: 26
     name: Logic Z1L Flip Phone , 4G , Dual Sim , Unlocked , New , Sealed
     category: Phones
@@ -626,9 +643,9 @@ products:
   - id: 27
     name: Sky Elite Octax Tablet , 8.0 in ,WiFi Only, 32GB , New , Sealed
     category: Tablets
-    price: 179.95
-    description: >-
-      Black. Display: 8-inch HD IPS screen with a resolution of 1280 x
+    price: ""
+    description: >-2
+       Display: 8-inch HD IPS screen with a resolution of 1280 x
             800. Processor: 2.0 GHz Octa-Core CPU. Some models may have a 1.6 GHz
             processor. Memory and storage: 32GB of internal storage, paired with
             either 1GB or 3GB of RAM, depending on the specific model. Operating
@@ -641,7 +658,7 @@ products:
     variants:
       - id: 50821
         color: Black
-        price: 179.95
+        price: 149.95
         image: images/sky_elite_oxtax_tab_wtihout_case__97220.jpg
   - id: 28
     name: Samsung Galaxy Tab A9 , 8.7inch  ,64GB , WiFi Only , New, Sealed
@@ -669,14 +686,14 @@ products:
       it uses an aluminum alloy body for a more durable and premium feel. "
     image: ""
     variants:
-      - price: 249.95
+      - price: 199.95
         color: Gray
         id: 50822
         image: images/Samsung Galaxy Tab A9 (Sm-x115) 8.7inch 64GB Cellular, New,
           Sealed.jpg
       - id: 50823
         color: Silver
-        price: 249.95
+        price: 199.95
         image: images/galaxytab11-siver.webp
   - id: 29
     name: Motorola Moto Buds 085 , New , Sealed
@@ -862,7 +879,7 @@ products:
     image: ""
     variants:
       - id: 501357
-        color: "Purple"
+        color: " Purple"
         price: 109.95
         image: images/jbl_tune_670_nc_purple__42620.jpg
       - id: 501358
@@ -1423,19 +1440,19 @@ products:
     variants:
       - id: 501435
         color: Green
-        price: 759.95
+        price: 749.95
         image: images/151-Green.jpg
       - id: 501436
         color: Blue
-        price: 759.95
+        price: 749.95
         image: images/151-navyblue.webp
       - color: "Icyblue "
         id: 501437
-        price: 759.95
+        price: 749.95
         image: images/151-blue.jpeg
       - id: 501438
         color: Silver Shadow
-        price: 759.95
+        price: 749.95
         image: images/151-silver.webp
   - id: 52
     name: Samsung Galaxy S25 Ultra , 256GB , 5G,Dual Sim  ,   Unlocked , New
@@ -1462,10 +1479,10 @@ products:
     variants:
       - id: 501439
         color: Black
-        price: 1199.95
+        price: 1119.95
         image: images/150-black.jpg
       - id: 501440
-        price: 1199.95
+        price: 1119.95
         image: images/s25_ultra_green__47114.jpg
         color: " Jadegreen"
   - id: 53
@@ -1492,11 +1509,11 @@ products:
     variants:
       - id: 501441
         color: Black
-        price: 1299.95
+        price: 1219.95
         image: images/150-black.jpg
       - id: 501442
         color: "Jadegreen "
-        price: 1299.95
+        price: 1219.95
         image: images/s25_ultra_green__47114.jpg
   - id: 54
     name: " Samsung Galaxy Watch 8 ,  40MM , New , Sealed"
@@ -1747,7 +1764,7 @@ products:
     variants:
       - id: 501415
         color: Green
-        price: 249.95
+        price: 239.95
         image: images/galaxy_watch_7_green__98766.jpg
   - id: 61
     name: Samsung Galaxy Watch 4 Classic , 42MM , New , Sealed
@@ -1836,35 +1853,33 @@ products:
   - id: 64
     name: Samsung Galaxy Watch Ultra , 47MM , New, Sealed
     category: Smart Watches
-    description: "The baseline structural dimensions, physical mass, and acoustic
-      hardware profile remain unified across all three generations of the 49mm
-      Apple Watch Ultra layout.Case Dimensions & WeightHeight: 49.0 mm (top to
-      bottom of the titanium case)Width: 44.0 mm (side to side, excluding the
-      crown guard protection)Thickness: 14.4 mm (from the top of the sapphire
-      glass to the bottom ceramic sensor back)Weight: 61.4 grams (measured as
-      the bare titanium case weight without an attached strap)Audio & Sound
-      HardwareTriple-Microphone Array: Integrates three physical microphones
-      using adaptive beamforming and advanced wind-noise reduction algorithms to
-      isolate voice frequencies during loud outdoor activities.Dual Speakers:
-      Features dual physical speaker ports that punch out double the maximum
-      volume of standard Apple Watch models, maximizing readability
-      outdoors.Emergency Siren: Uses a specialized acoustic design to output an
-      86-decibel distress signal that loops continuous, high-pitch SOS patterns
-      audible up to 600 feet (180 meters) away.Internal Connectivity &
-      ChargingCellular Bandwidth: Features standalone LTE and UMTS hardware
-      compatible with international roaming bands across major network
-      operators.Wireless Protocols: Standardizes on Wi-Fi 4 (802.11n) alongside
-      power-efficient Bluetooth 5.3 for seamless peripheral pairing.Fast
-      Charging: Utilizes a magnetic USB-C fast-charging puck to replenish the
-      battery from 0% to 80% in roughly one hour."
+    description: 'The Samsung Galaxy Watch Ultra (47mm) is a premium, highly rugged
+      adventure smartwatch designed to deliver elite fitness metrics, excellent
+      durability, and deep Galaxy AI integration.Core SpecificationsCase Size:
+      47mm "squircle" housing a vivid 1.47-inch Super AMOLED screen.Materials:
+      Grade 4 Titanium casing paired with scratch-resistant Sapphire Crystal
+      glass.Processor & Space: Efficient 3nm Exynos W1000 chipset with 2GB RAM
+      and 64GB storage.Maximum Endurance: Water-resistant up to 10 ATM (100
+      meters) and operational up to 9,000 meters altitude.Battery Longevity:
+      Houses a 590mAh battery reaching up to 100 hours in low-power
+      modes.Connectivity: Automatically comes standard with embedded eSIM 4G LTE
+      cellular capabilities.Primary FeaturesGalaxy AI Metrics: Powers
+      personalized Energy Scores, dynamic heart rate filtering, and
+      context-based text reply hints.Advanced Medical Sensors: Captures
+      real-time ECG readings, tracks blood pressure trends, and screens for
+      moderate-to-severe sleep apnea symptoms.Actionable Quick Button: A
+      customizable hardware button mapped to seamlessly toggle workouts, pause
+      cycles, or blast an emergency siren.Dual-Frequency GPS: Uses precise
+      signal positioning for accurate route plotting, track turn alerts, and
+      safe return navigation.'
     variants:
       - id: 50316
         color: Titanium Gray
-        price: 499.95
+        price: 549.95
         image: images/Samsung_Galaxy_Watch_Ultra_47mm_titanium_gray.webp
       - id: 50317
         color: Titanium silver
-        price: 499.95
+        price: 549.95
         image: images/Samsung_Galaxy_Watch_Ultra_47mm_titanium_silver.webp
   - id: 65
     name: T900 Pro Max Smart Watch, New, Sealed Colors Black, white, Pink
@@ -1892,7 +1907,7 @@ products:
 
 
 
-            Product Specifications
+      Product Specifications
 
 
             Package Weight One Package Weight: 0.11kgs / 0.25lb One Package Size: 21cm * 6.5cm * 3.5cm / 8.27inch * 2.56inch * 1.38inch Qty per Carton: 100 Carton Weight: 9.80kgs / 21.61lb Carton Size: 33cm * 44cm * 33cm / 12.99inch * 17.32inch * 12.99inch Loading Container: 20GP: 556 cartons * 100 pcs = 55600 pcs, 40HQ: 1291 cartons * 100 pcs = 129100 pcs
@@ -1910,33 +1925,46 @@ products:
         price: 119.95
         image: images/t900-pro-max-171-inch-lcd-screen-smart-watch-support-bluetooth-call-multiple-sports-modes-pink-t900-pro-max-pink-plusbuyer.jpg
   - id: 67
-    name: ZTE Blade L8, Overseas, 32GB, GSM, New, Sealed
+    name: ZTE Blade L8, 32GB , GSM Unlocked , International Version , New , Sealed
     category: Phones
-    description: >-
-      ZTE Blade L8 for international use The ZTE Blade L8 is typically purchased
-            internationally through global online retailers such as Ubuy and Amazon,
-            or through regional retailers. It is not available for purchase on ZTE's
-            official U.S. website. When purchasing, keep the following points in mind:
+    description: "Compatibility carriers  across Africa, the Middle East, Asia, the
+      Caribbean, Latin America, and Europe.ZTE Blade L8 for international use
+      The ZTE Blade L8 is typically purchased
 
-            Carrier compatibility: The international model will work with GSM carriers such as AT&T and T-Mobile. It will not function with CDMA carriers like Verizon and Sprint. Manufacturer warranty: As an internationally shipped product, any manufacturer warranty from ZTE may not be valid in your country. Customs and import taxes: When purchasing from global online stores like Ubuy, you may be responsible for paying import taxes and fees upon the phone's arrival.
+      \      internationally through global online retailers\ 
 
-            Specifications According to GSMArena and other product specification sites, here are the key technical details for the ZTE Blade L8 :
+      \     Specifications HSDPA 850 / 900 / 1900 / 2100 MHz
 
-            Display: 5.0-inch TFT display with a 480 x 960 pixel resolution. Processor: Quad-core 1.3 GHz Unisoc SC7731E chipset. Memory: 1 GB of RAM and up to 32 GB of internal storage, expandable via a microSD card. Cameras: 8 MP main camera and a 5 MP selfie camera. OS: Android 9.0 Pie (Go edition), a lighter version of Android designed for entry-level devices. Battery: 2000 mAh removable battery. Network: Supports 2G and 3G GSM/HSPA networks. SIM: Dual SIM (Nano-SIM, dual stand-by)
+      \      Display: 5.0-inch TFT display with a 480 x 960 pixel
+      resolution. Processor: Quad-core 1.3 GHz Unisoc SC7731E chipset. Memory: 1
+      GB of RAM and up to 32 GB of internal storage, expandable via a microSD
+      card. Cameras: 8 MP main camera and a 5 MP selfie camera. OS: Android 9.0
+      Pie (Go edition), a lighter version of Android designed for entry-level
+      devices. Battery: 2000 mAh removable battery. Network: Supports 2G and 3G
+      GSM/HSPA networks. SIM: Dual SIM (Nano-SIM, dual stand-by)
+
+
+
+      \ "
     variants:
       - id: 50319
         color: Black
-        price: 159.95
+        price: 149.95
         image: images/ZTE Blade L8_Overseas_32GB_GSM_New_Sealed.JPG
   - id: 68
-    name: Xiaomi, Redmi A2 , 32GB , Unlocked  , New  ,   Sealed
+    name: Xiaomi, Redmi A2 , 32GB , GSM Unlocked , International Version ,
+      New  ,   Sealed
     category: Phones
     price: ""
-    description: "The Xiaomi Redmi A2 is an entry-level smartphone launched in May
-      2023. Built as a highly affordable option for essential daily tasks, it
-      features a 6.52-inch HD+ display, a MediaTek Helio G36 processor, and a
-      massive 5000 mAh battery.The technical breakdown reveals the following
-      details:📱 Design & DisplayScreen Size: 6.52 inches with a waterdrop
+    description: "(This Smartphone has  poor Compatibility Only T-Mobile , Mint
+      Mobile , Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) Xiaomi
+      Redmi smartphones are highly compatible with carriers in Africa, the
+      Middle East, Asia, the Caribbean, Latin America, UK and Europe. The Xiaomi
+      Redmi A2 is an entry-level smartphone launched in May 2023. Built as a
+      highly affordable option for essential daily tasks, it features a
+      6.52-inch HD+ display, a MediaTek Helio G36 processor, and a massive 5000
+      mAh battery.The technical breakdown reveals the following details:📱
+      Design & DisplayScreen Size: 6.52 inches with a waterdrop
       notch.Resolution: 1600 x 720 pixels (HD+) in a 20:9 aspect ratio.Build:
       Textured plastic back cover mimicking a leather feel, weighing 192
       grams.Colors: Available in Classic Black, Light Green, and Light Blue.⚙️
@@ -1950,14 +1978,14 @@ products:
       Micro-USB charging port and a 3.5mm headphone jack.Biometrics: No
       fingerprint scanner (Note: The upgraded Redmi A2+ sibling includes a
       rear-mounted fingerprint scanner)."
-    image: images/Xiaomi_Redmi_A2_32GB_Unlocked_New_Sealed.jpg
+    image: ""
     variants:
       - id: 501443
         color: Black
-        price: 199.95
+        price: 179.95
         image: images/Xiaomi_Redmi_A2_32GB_Unlocked_New_Sealed.jpg
   - id: 69
-    name: Motorola Moto Edge 60 Pro (XT2507) 5G , 512GB 12GB  Ram , GSM Unlocked
+    name: Motorola Moto Edge 60 Pro (XT2507) 5G , 512GB 12GB  Ram , GSM Unlocked ,
       International Version , New, Sealed
     category: Phones
     price: ""
@@ -1979,10 +2007,28 @@ products:
         price: 759.95
         image: images/moto8-purple.webp
   - id: 70
-    name: Apple iPhone 17,5G, 256GB , Unlocked , New , Sealed
+    name: Apple iPhone 17,5G, 256GB , GSM International Unlocked , New , Sealed
     category: Phones
     description: >-
-      Colors available lavender, white, black - Key Specs Screen Size 6.3
+      (Model: MG6N4HN/A Indian regional variant , T-Mobile: Flawless
+      plug-and-play network access. The device registers instantly on T-Mobile’s
+      4G LTE and standalone 5G networks, pulling high-speed data across low-band
+      and mid-band Ultra Capacity (5G UC) coverage grids.AT&T: Comprehensive
+      network certification. It syncs cleanly with AT&T’s core 4G LTE bands and
+      mid-band 5G+ frequencies (including C-Band n77) for seamless data routing.
+      Verizon: Seamless infrastructure pairing. It registers automatically on
+      Verizon’s Nationwide 5G and mid-band Ultra Wideband (5G UW) layers. Note:
+      Because it carries an international IMEI, you may need to contact customer
+      support to manually register the device on your account to provision
+      service smoothly.Technical Details to KnowPhysical SIM Tray Advantage:
+      Unlike the eSIM-only US-market variants, this Indian model features a
+      hybrid dual-SIM layout. It houses a real physical Nano-SIM slot alongside
+      a digital eSIM profile, allowing you to use a physical SIM card
+      directly.No mmWave 5G: This model lacks the high-frequency mmWave 5G bands
+      (n258, n260, n261) found strictly on US-market hardware. While you won't
+      pull ultra-high-speed mmWave data inside packed sports stadiums, the
+      device handles standard, high-speed Sub-6 GHz 5G and nationwide 4G LTE
+      flawlessly. Key Specs Screen Size 6.3
             inches Built-in Storage 256 gigabytes General Brand Apple Model Number
             MG474LL/A Product Name iPhone 17 256GB iPhone 17 Year of Release 2025
             Display Screen Size 6.3 inches Screen Resolution 2622 x 1206 Display Type
@@ -1998,61 +2044,148 @@ products:
     variants:
       - id: 50323
         color: Black
-        price: 939.95
+        price: 899.95
         image: images/iphone-17-finish-select-202509-black_GEO_US.webp
       - id: 50324
         color: White
-        price: 939.95
+        price: 899.95
         image: images/iphone-17-finish-select-202509-white_GEO_US.webp
       - id: 50325
-        color: Lavender 
-        price: 939.95
+        color: Lavender
+        price: 899.95
         image: images/iphone-17-finish-select-202509-lavender_GEO_US.webp
+      - image: images/999.png
+        price: 899.95
+        color: Sage
+        id: 501591
   - id: 71
-    name: Apple iPhone 17 Pro Max, 5G, 256GB, 6.9inch , Unlocked, New , Sealed
+    name: Apple iPhone 17 Pro Max, 5G, 256GB, 6.9inch , GSM International Unlocked ,
+      New , Sealed
     category: Phones
-    description: >-
-      Key features Design- The iPhone 17 Pro Max features a lightweight,
-            heat-forged aluminum unibody design with a two-tone finish and rounded
-            edges, making it more comfortable to hold. The camera bump has been
-            redesigned into a horizontal plateau that runs across the entire width of
-            the phone. Display- A larger 6.9-inch Super Retina XDR display offers a
-            brighter picture (up to 3000 nits peak outdoor brightness) and is
-            protected by Ceramic Shield 2, which covers both the front and back for
-            better scratch and crack resistance. The display also includes ProMotion
-            technology with a 120Hz refresh rate and improved anti-reflection
-            properties. Processor- It is equipped with the A19 Pro chip, which
-            provides significant performance improvements and is optimized for
-            advanced AI features through its Neural Accelerators. A new vapor chamber
-            cooling system helps the phone maintain higher performance for longer.
-            Cameras- The rear camera system features three *Fusion* cameras, all with
-            48MP sensors. The telephoto lens now offers 8x optical zoom, a substantial
-            improvement over previous models. The front-facing camera has also been
-            upgraded to an 18MP square sensor that supports Center Stage, allowing for
-            landscape selfies while holding the phone vertically. Battery- The new
-            internal design allows for a larger battery, providing the best-ever
-            battery life in an iPhone. It also supports faster wired charging,
-            reaching 50% in 20 minutes with a compatible 40W adapter. Connectivity- An
-            Apple-designed Wi-Fi 7 chip (N1) is included, promising better performance
-            and reliability for Wi-Fi and Bluetooth connectivity.
+    description: "(Model: MFY94VC/A) Canadian regional variant , Compatible with
+      T-Mobile: Flawless plug-and-play network access. The device registers
+      instantly on T-Mobile’s 4G LTE and standalone 5G networks, pulling
+      high-speed data across low-band and mid-band Ultra Capacity (5G UC)
+      coverage grids. AT&T: Comprehensive network certification. It syncs
+      cleanly with AT&T’s core 4G LTE bands and mid-band 5G+ frequencies
+      (including C-Band n77) for seamless data routing. Verizon: Seamless
+      infrastructure pairing. It registers automatically on Verizon’s Nationwide
+      5G and mid-band Ultra Wideband (5G UW) layers without requiring structural
+      workarounds or manual overrides.Technical Details to KnoweSIM-Only
+      Architecture: Just like the US retail variants, Apple designed the
+      Canadian iPhone 17 Pro Max to be entirely eSIM-only. It completely lacks a
+      physical plastic nano-SIM tray. You can download multiple digital network
+      profiles and run two lines actively at the same time.No mmWave 5G: This
+      variant lacks the high-frequency mmWave 5G bands (n258, n260, n261) found
+      strictly on US-market hardware. While you won't pull ultra-high-speed
+      mmWave data inside packed sports stadiums, the device handles standard,
+      high-speed Sub-6 GHz 5G and nationwide 4G LTE flawlessly. Key features
+      Design- The iPhone 17 Pro Max features a lightweight,
 
-            Color options
+      \      heat-forged aluminum unibody design with a two-tone finish
+      and rounded
 
-            Cosmic Orange- A vibrant new orange color option. Deep Blue- A dark blue finish.
+      \      edges, making it more comfortable to hold. The camera bump
+      has been
+
+      \      redesigned into a horizontal plateau that runs across the
+      entire width of
+
+      \      the phone. Display- A larger 6.9-inch Super Retina XDR
+      display offers a
+
+      \      brighter picture (up to 3000 nits peak outdoor brightness)
+      and is
+
+      \      protected by Ceramic Shield 2, which covers both the front
+      and back for
+
+      \      better scratch and crack resistance. The display also
+      includes ProMotion
+
+      \      technology with a 120Hz refresh rate and improved
+      anti-reflection
+
+      \      properties. Processor- It is equipped with the A19 Pro chip,
+      which
+
+      \      provides significant performance improvements and is
+      optimized for
+
+      \      advanced AI features through its Neural Accelerators. A new
+      vapor chamber
+
+      \      cooling system helps the phone maintain higher performance
+      for longer.
+
+      \      Cameras- The rear camera system features three *Fusion*
+      cameras, all with
+
+      \      48MP sensors. The telephoto lens now offers 8x optical zoom,
+      a substantial
+
+      \      improvement over previous models. The front-facing camera has
+      also been
+
+      \      upgraded to an 18MP square sensor that supports Center Stage,
+      allowing for
+
+      \      landscape selfies while holding the phone vertically.
+      Battery- The new
+
+      \      internal design allows for a larger battery, providing the
+      best-ever
+
+      \      battery life in an iPhone. It also supports faster wired
+      charging,
+
+      \      reaching 50% in 20 minutes with a compatible 40W adapter.
+      Connectivity- An
+
+      \      Apple-designed Wi-Fi 7 chip (N1) is included, promising
+      better performance
+
+      \      and reliability for Wi-Fi and Bluetooth connectivity.
+
+
+      \    "
     variants:
       - id: 50326
         color: Deep Blue
-        price: 1379.95
+        price: 1339.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp
       - id: 50327
         color: Cosmic Orange
-        price: 1379.95
+        price: 1339.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg
+      - image: images/apple-iphone-17-pro-max-1tb-nano-sim-and-esim.webp
+        price: 1339.95
+        id: 501590
+        color: Silver
   - id: 72
-    name: Apple iPhone 17 Pro Max, 5G, 512GB, 6.9inch , Unlocked, New , Sealed
+    name: Apple iPhone 17 Pro Max, 5G, 512GB, 6.9inch , GSM International Unlocked,
+      New , Sealed
     category: Phones
-    description: >-
-      Key features Design- The iPhone 17 Pro Max features a lightweight,
+    description: >
+      (Model: MFYC4VC/A) Canadian regional variant, Compatible with T-Mobile:
+      Flawless plug-and-play network access. The device automatically provisions
+      onto T-Mobile's standalone 5G networks, utilizing both low-band and
+      mid-band Ultra Capacity (5G UC) frequencies for rapid data delivery. AT&T:
+      Comprehensive network certification. It integrates perfectly with AT&T’s
+      primary 4G LTE grids and mid-band 5G+ layers (including C-Band n77),
+      passing network compatibility sweeps cleanly. Verizon: Seamless
+      infrastructure pairing. It registers automatically on Verizon’s Nationwide
+      5G and mid-band Ultra Wideband (5G UW) layers without requiring manual
+      IMEI overrides.Technical Details to KnoweSIM-Only Architecture: Just like
+      the US retail variants, this Canadian model relies strictly on digital
+      eSIM technology. It completely lacks a physical plastic nano-SIM tray. You
+      can download and store multiple digital network profiles and run two lines
+      actively at the same time.No mmWave 5G: This model lacks high-frequency
+      mmWave 5G bands (n258, n260, n261), which are built exclusively into
+      US-market hardware. While you won't pull ultra-high-speed mmWave data
+      inside densely packed sports stadiums, the device handles standard,
+      high-speed Sub-6 GHz 5G and 4G LTE nationwide without issue.     Key
+      features Design- The iPhone 17 Pro Max features a lightweight,
             heat-forged aluminum unibody design with a two-tone finish and rounded
             edges, making it more comfortable to hold. The camera bump has been
             redesigned into a horizontal plateau that runs across the entire width of
@@ -2075,64 +2208,131 @@ products:
             reaching 50% in 20 minutes with a compatible 40W adapter. Connectivity- An
             Apple-designed Wi-Fi 7 chip (N1) is included, promising better performance
             and reliability for Wi-Fi and Bluetooth connectivity.
-
-            Color options
-
-            Cosmic Orange- A vibrant new orange color option. Deep Blue- A dark blue finish.
     variants:
       - id: 50328
         color: Deep Blue
-        price: 1629.95
+        price: 1599.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp
       - id: 50329
         color: Cosmic Orange
-        price: 1629.95
+        price: 1599.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg
+      - image: images/apple-iphone-17-pro-max-1tb-nano-sim-and-esim.webp
+        id: 501592
+        color: Silver
+        price: 1599.95
   - id: 73
-    name: Apple iPhone 17 Pro Max, 5G, 1TB, 6.9inch , Unlocked, New , Sealed
+    name: Apple iPhone 17 Pro Max, 5G, 1TB, 6.9inch , GSM International Unlocked ,
+      New , Sealed
     category: Phones
-    description: >-
-      Key features Design- The iPhone 17 Pro Max features a lightweight,
-            heat-forged aluminum unibody design with a two-tone finish and rounded
-            edges, making it more comfortable to hold. The camera bump has been
-            redesigned into a horizontal plateau that runs across the entire width of
-            the phone. Display- A larger 6.9-inch Super Retina XDR display offers a
-            brighter picture (up to 3000 nits peak outdoor brightness) and is
-            protected by Ceramic Shield 2, which covers both the front and back for
-            better scratch and crack resistance. The display also includes ProMotion
-            technology with a 120Hz refresh rate and improved anti-reflection
-            properties. Processor- It is equipped with the A19 Pro chip, which
-            provides significant performance improvements and is optimized for
-            advanced AI features through its Neural Accelerators. A new vapor chamber
-            cooling system helps the phone maintain higher performance for longer.
-            Cameras- The rear camera system features three *Fusion* cameras, all with
-            48MP sensors. The telephoto lens now offers 8x optical zoom, a substantial
-            improvement over previous models. The front-facing camera has also been
-            upgraded to an 18MP square sensor that supports Center Stage, allowing for
-            landscape selfies while holding the phone vertically. Battery- The new
-            internal design allows for a larger battery, providing the best-ever
-            battery life in an iPhone. It also supports faster wired charging,
-            reaching 50% in 20 minutes with a compatible 40W adapter. Connectivity- An
-            Apple-designed Wi-Fi 7 chip (N1) is included, promising better performance
-            and reliability for Wi-Fi and Bluetooth connectivity.
+    description: "(Model: MFYV4ZD/A) European regional variant , Compatible with
+      T-Mobile: Flawless plug-and-play network access. The hardware registers
+      natively on T-Mobile’s 4G LTE and standalone 5G Sub-6 layers, pulling
+      rapid data speeds across both low-band and mid-band Ultra Capacity (5G UC)
+      coverage grids. AT&T: Comprehensive network certification. It matches
+      perfectly with AT&T’s primary 4G LTE bands and mid-band 5G+ configurations
+      (including C-Band n77). You may need to update the Access Point Name (APN)
+      settings to ensure high-definition voice over LTE (VoLTE) provisions
+      accurately.Verizon: Seamless infrastructure pairing. It provisions cleanly
+      on Verizon’s Nationwide 5G and mid-band Ultra Wideband (5G UW) layers.
+      Because it carries an international IMEI, automated onboarding may
+      occasionally flag it; a quick call to customer support manually
+      white-lists the device instantly.Hardware Differences to KnowPhysical SIM
+      Tray Included: Unlike the eSIM-only US-market variants, this European
+      model features a hybrid dual-SIM layout. It houses a real physical
+      Nano-SIM slot alongside a digital eSIM profile, allowing you to manage two
+      lines at once.No mmWave 5G: This model lacks high-frequency mmWave 5G
+      bands (n258, n260, n261), which remain exclusive to US retail hardware. It
+      will seamlessly fall back to standard, high-speed Sub-6 GHz 5G and 4G LTE
+      nationwide without any signal drops. Key features Design- The iPhone 17
+      Pro Max features a lightweight,
 
-            Color options
+      \      heat-forged aluminum unibody design with a two-tone finish
+      and rounded
 
-            Cosmic Orange- A vibrant new orange color option. Deep Blue- A dark blue finish.
+      \      edges, making it more comfortable to hold. The camera bump
+      has been
+
+      \      redesigned into a horizontal plateau that runs across the
+      entire width of
+
+      \      the phone. Display- A larger 6.9-inch Super Retina XDR
+      display offers a
+
+      \      brighter picture (up to 3000 nits peak outdoor brightness)
+      and is
+
+      \      protected by Ceramic Shield 2, which covers both the front
+      and back for
+
+      \      better scratch and crack resistance. The display also
+      includes ProMotion
+
+      \      technology with a 120Hz refresh rate and improved
+      anti-reflection
+
+      \      properties. Processor- It is equipped with the A19 Pro chip,
+      which
+
+      \      provides significant performance improvements and is
+      optimized for
+
+      \      advanced AI features through its Neural Accelerators. A new
+      vapor chamber
+
+      \      cooling system helps the phone maintain higher performance
+      for longer.
+
+      \      Cameras- The rear camera system features three *Fusion*
+      cameras, all with
+
+      \      48MP sensors. The telephoto lens now offers 8x optical zoom,
+      a substantial
+
+      \      improvement over previous models. The front-facing camera has
+      also been
+
+      \      upgraded to an 18MP square sensor that supports Center Stage,
+      allowing for
+
+      \      landscape selfies while holding the phone vertically.
+      Battery- The new
+
+      \      internal design allows for a larger battery, providing the
+      best-ever
+
+      \      battery life in an iPhone. It also supports faster wired
+      charging,
+
+      \      reaching 50% in 20 minutes with a compatible 40W adapter.
+      Connectivity- An
+
+      \      Apple-designed Wi-Fi 7 chip (N1) is included, promising
+      better performance
+
+      \      and reliability for Wi-Fi and Bluetooth connectivity.
+
+
+      \      "
     variants:
       - id: 50330
         color: Deep Blue
-        price: 1849.95
+        price: 1819.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-deepblue_AV1.webp
       - id: 50331
         color: Cosmic Orange
-        price: 1849.95
+        price: 1819.95
         image: images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg
+      - id: 501593
+        color: Silver
+        price: 1819.95
+        image: images/apple-iphone-17-pro-max-1tb-nano-sim-and-esim.webp
   - id: 74
-    name: "Apple iphone 16 , 128GB , E-Sim , A+ Grade,  Unlocked , Pre-owned "
+    name: "Apple iphone 16 , 128GB , E-Sim , A+ Grade,  Unlocked , Certified
+      Pre-owned "
     category: Pre-Owned Phones & Tablets
-    description: >-
-      6.1 inch 1179x2556 pixels 48MP 2160p 8GB RAM Apple A18 3561mAh
+    description: >-2
+       (90-Day Limited Warranty) 6.1 inch 1179x2556 pixels 48MP 2160p 8GB RAM Apple A18 3561mAh
             PD2.0 25W Network Technology \tGSM / CDMA / HSPA / EVDO / LTE / 5G 2G
             bands \tGSM 850 / 900 / 1800 / 1900 CDMA 800 / 1900 3G bands \tHSDPA 850 /
             900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO 4G bands \t1, 2, 3, 4, 5,
@@ -2194,10 +2394,11 @@ products:
         price: 799.95
         image: images/apple-iphone-16(teal-USED).jpg
   - id: 75
-    name: Apple iphone 15 , 128GB , E-Sim, Pre-owned, A+ Grade , Unlocked.
+    name: Apple iphone 15 , 128GB , E-Sim , A+ Grade , Unlocked ,
+      Certified  Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Finish Black
+      (90-Day Limited Warranty) Finish Black
 
             Blue
 
@@ -2370,10 +2571,12 @@ products:
         price: 709.95
         image: images/Apple-iphone-15-128GB-E-Sim(Blue).jpg
   - id: 76
-    name: Apple iPhone 16 Pro Max, 256GB, E-Sim , Pre-owned, A+ Grade , Unlocked
+    name: Apple iPhone 16 Pro Max , 256GB, E-Sim ,  A+ Grade , Unlocked
+      ,Certified  Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      iPhone 16 Pro Max - Tech Specs Year introduced: 2024 Identify your iPhone
+      (90-Day Limited Warranty) iPhone 16 Pro Max - Tech Specs Year introduced:
+      2024 Identify your iPhone
             model Finish
 
             Black Titanium
@@ -2681,10 +2884,11 @@ products:
         price: 1219.95
         image: images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp
   - id: 77
-    name: Apple iPhone 16 Pro , 128GB, E-Sim , Pre-owned, A+ Grade, Unlocked
+    name: Apple iPhone 16 Pro , 128GB, E-Sim ,  A+ Grade , Unlocked
+      ,Certified  Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      iPhone 16 Pro - Tech Specs Year introduced: 2024
+      (90-Day Limited Warranty) iPhone 16 Pro - Tech Specs Year introduced: 2024
 
             Identify your iPhone model Finish
 
@@ -3110,11 +3314,11 @@ products:
         price: 499.95
         image: images/jbl_boombox_3__86581.jpg
   - id: 84
-    name: Google Pixel 6A , 128GB, A+Grade, Unlocked
+    name: Google Pixel 6A , 128GB, A+Grade, Unlocked ,Certified  Pre-owned
     category: Pre-Owned Phones & Tablets
-    description: >-
-      Pre-Owned Phones & Tablets
-          description: The Google Pixel 6a is a popular budget-friendly smartphone
+    description: >-2
+      
+        (90-Day Limited Warranty) The Google Pixel 6a is a popular budget-friendly smartphone
             released in 2022, known for its compact 6.1-inch OLED display, powerful
             Google Tensor chip, excellent camera quality (12.2MP main), and solid
             software experience with long-term updates, offering great value for its
@@ -3128,10 +3332,10 @@ products:
         price: 269.95
         image: images/google_pixel_6A_black__44154.jpg
   - id: 85
-    name: Revvl 6X , 5G, 128GB, A+Grade,T-Mobile Unlocked
+    name: Revvl 6X , 5G, 128GB, A+Grade,T-Mobile Unlocked ,Certified  Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      REVVL 6X 5G
+      (90-Day Limited Warranty) REVVL 6X 5G
 
             128GB
 
@@ -3153,15 +3357,16 @@ products:
     variants:
       - id: 50351
         color: Gray
-        price: 209.95
+        price: 199.95
         image: images/revvl_6x__98742.jpg
   - id: 86
-    name: ZTE Verve Snap Flip, 2.8in , A+ Grade, Unlocked
+    name: ZTE Verve Snap Flip, 2.8in , A+ Grade, Unlocked ,Certified  Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      The ZTE Verve Snap is a specific model of flip phone. It is a basic 4G LTE
+      (90-Day Limited Warranty) The ZTE Verve Snap is a specific model of flip
+      phone. It is a basic 4G LTE
             device designed for calls and text messages, often offered by carriers
-            like Consumer Cellular. 
+            (This Smartphone Is Compatible With Only T-Mobile , Mint Mobile , Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) ZTE smartphones are highly compatible with carriers in , the Caribbean and Latin America . The Caribbean & Latin America: Good Partial Coverage. It will connect to regional networks (like Digicel, Flow, Claro, or Movistar) in major cities that utilize the B2 (1900 MHz)
 
             Key Features of the ZTE Verve Snap 
 
@@ -3177,10 +3382,12 @@ products:
         price: 119.95
         image: images/ZTE-Verve-Snap-Flip-2-8in.jpg
   - id: 87
-    name: ZTE Verve Connect, 32GB , A+ Grade, Unlocked, Pre-owned Open Box Sale
+    name: "ZTE Verve Connect, 32GB , A+ Grade, Unlocked , Certified  Pre-owned ,
+      Open Box "
     category: Pre-Owned Phones & Tablets
-    description: |-
-      ZTE Verve Connect
+    description: >-
+      (90-Day Limited Warranty)
+            (This Smartphone Is Compatible With Only T-Mobile , Mint Mobile , Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) ZTE smartphones are highly compatible with carriers in , the Caribbean and Latin America . The Caribbean & Latin America: Good Partial Coverage. It will connect to regional networks (like Digicel, Flow, Claro, or Movistar) in major cities that utilize the B2 (1900 MHz)  ZTE Verve Connect
             32GB
             Ram: 3GB
             6.1 inch
@@ -3200,10 +3407,11 @@ products:
         price: 129.95
         image: images/verve_connect__48949.jpg
   - id: 88
-    name: Motivate 3 , 32GB , 6.6in, A+ Grade , Unlocked , Pre-owned Open Box  Sale
+    name: "Motivate 3 , 32GB , 6.6in, A+ Grade , Unlocked , Certified Pre-owned ,
+      Open Box "
     category: Pre-Owned Phones & Tablets
     description: |-
-      Motivate 3 32GB
+      (90-Day Limited Warranty) Motivate 3 32GB
             Unlocked
             6.6 inches
             Main Camera: 13MP
@@ -3222,80 +3430,83 @@ products:
         price: 189.95
         image: images/motivate_3___71647.jpg
   - id: 89
-    name: Alcatel Glimpse, 16GB , A+ Grade, Unlocked, Pre-owned Sale
+    name: "Samsung Galaxy A26, 128GB, Latin Spec , A+ Grade, Unlocked , Certified
+      Pre-owned "
     category: Pre-Owned Phones & Tablets
-    description: >-
-      The Alcatel Glimpse is a budget-friendly Android Go smartphone featuring a
-            5.5-inch FW+ (480x960) display, MediaTek quad-core processor, 2GB RAM,
-            16GB storage (expandable via microSD), a 5MP rear camera, 5MP front
-            camera, and a 3000mAh battery, running Android 10 Go edition for essential
-            performance with familiar apps. 
-
-            Key Specifications
-
-            Display: 5.5-inch TFT-IPS, 18:9 aspect ratio, 480 x 960 resolution (FW+).
-
-            Processor: MediaTek MT6739WW (Quad-core up to 1.5 GHz).
-
-            Memory: 2GB RAM, 16GB internal storage.
-
-            Expandable Storage: microSD up to 128GB.     Available color Black
+    description: "(90-Day Limited Warranty)  The Samsung Galaxy A26 5G (2025) is a
+      mid-range device featuring a 6.7-inch 120Hz FHD+ Super AMOLED display,
+      powered by an Exynos 1380 chipset, up to 8GB of RAM, and 256GB of storage.
+      It boasts a 50MP OIS main camera, 13MP selfie camera, a 5,000mAh battery
+      with 25W charging, and IP67 water resistance, running Android 15 with 6
+      years of promised updates. Key Specifications: Display: 6.7-inch FHD+
+      Super AMOLED, 120Hz refresh rate (1080x2340 pixels), Processor: Exynos
+      1380 (5nm) octa-core chipset (some regions may feature the older Exynos
+      1280), Memory/Storage: 6GB/8GB RAM, 128GB/256GB storage, microSD support
+      up to 2TB, Cameras: Rear: 50MP Wide (f/1.8, OIS), 8MP Ultra Wide (f/2.2),
+      2MP Macro (f/2.4). Front: 13MP Selfie camera (f/2.2), Battery: 5,000mAh
+      with 25W fast charging support (charger typically included), TracFone.
+      OS/Updates: Android 15 with samsung.com One UI 7, 6 years of software
+      support promised. Connectivity/Security: 5G, Wi-Fi 5, Bluetooth 5.3, NFC,
+      Dual SIM, Fingerprint Sensor. Build/Features: IP67 dust/water resistance,
+      slim 7.7mm design, no headphone jack, TracFone. K "
     variants:
       - id: 50355
         color: Black
-        price: 169.95
-        image: images/alcatel_glimpse_1__95189.jpg
+        price: 299.95
+        image: images/174-black.jpg
   - id: 90
-    name: Samsung Galaxy A32 , 32GB , A+Grade , Unlocked , Pre-owned
+    name: "Samsung Galaxy A32 , 32GB , A+Grade , Unlocked , Certified Pre-owned "
     category: Pre-Owned Phones & Tablets
-    description: "The Samsung Galaxy A32 remains a highly popular budget phone,
-      known for offering great battery life and solid everyday utility. Features
-      a slightly larger 6.50-inch TFT LCD panel with an HD+ resolution (720 ×
-      1600 pixels) driving a lower 270 ppi density. The standard global version
-      operates at a default 60Hz, though specific regional carrier versions
-      (like the US variant) boast an upgraded 90Hz refresh rate capability.⚙️
-      Performance & System StorageSystem Processors: The 4G hardware relies on a
-      12nm MediaTek Helio G80 chipset with a Mali-G52 MC2 GPU. The 5G version
-      moves to a smaller, more power-efficient 7nm MediaTek Dimensity 720 5G
-      processor paired with a Mali-G57 MC3 graphics controller.RAM & Storage
-      Layout: Both configurations offer choices between 4GB, 6B, or 8GB of RAM
-      coupled with 64GB or 128GB of built-in storage. The 5G variant uses faster
-      UFS 2.1 flash storage technology, whereas the 4G tier uses standard eMMC
-      5.1.Expandable Slots: Both units support storage expansion using external
-      memory up to 1TB via microSDXC cards. The 4G variant provides a dedicated
-      slot, while the 5G model uses a shared hybrid SIM slot design.📸 Camera
-      Array & Media Capture4G Primary Module: Features a rear quad-camera setup
-      anchored by a high-resolution 64 MP main lens (f/1.8). This is
-      supplemented by an 8 MP ultra-wide lens (123° field of view), a 5 MP macro
-      shooter, and a 5 MP secondary depth framework. The selfie lens uses a 20
-      MP front camera (f/2.2).5G Primary Module: Houses a rear quad-camera
-      configuration running a lower-tier 48 MP main camera (f/1.8). It shares
-      the identical 8 MP ultra-wide and 5 MP macro units but features a reduced
-      2 MP portrait depth sensor. The selfie lens drops to a 13 MP front camera
-      (f/2.2).Video Frame Rates: The 5G main rear assembly can encode
-      high-definition 4K resolution video at 30fps, whereas the 4G rear setup is
-      capped at standard 1080p recording speeds.🔋 Battery, Biometrics, &
-      Structural DesignPower Supply: Both phones house an expansive 5,000 mAh
-      lithium-ion battery. They utilize a physical USB Type-C port to accept up
-      to 15W wired fast charging. Neither model supports wireless induction
-      charging loops.Security Sensors: The 4G version hides an under-display
-      optical fingerprint reader underneath the glass matrix. The 5G model uses
-      a traditional, clicky side-mounted fingerprint sensor integrated directly
-      into the physical power button.Body Form Factor: The 4G footprint measures
-      158.9 × 73.6 × 8.4 mm and scales in at a lightweight 184 grams. The 5G
-      variant uses an expanded shell measuring 164.2 × 76.1 × 9.1 mm, pushing
-      its net weight up to 205 grams. Both phones feature a 3.5mm headphone
-      jack"
+    description: "(90-Day Limited Warranty) The Samsung Galaxy A32 remains a highly
+      popular budget phone, known for offering great battery life and solid
+      everyday utility. Features a slightly larger 6.50-inch TFT LCD panel with
+      an HD+ resolution (720 × 1600 pixels) driving a lower 270 ppi density. The
+      standard global version operates at a default 60Hz, though specific
+      regional carrier versions (like the US variant) boast an upgraded 90Hz
+      refresh rate capability.⚙️ Performance & System StorageSystem Processors:
+      The 4G hardware relies on a 12nm MediaTek Helio G80 chipset with a
+      Mali-G52 MC2 GPU. The 5G version moves to a smaller, more power-efficient
+      7nm MediaTek Dimensity 720 5G processor paired with a Mali-G57 MC3
+      graphics controller.RAM & Storage Layout: Both configurations offer
+      choices between 4GB, 6B, or 8GB of RAM coupled with 64GB or 128GB of
+      built-in storage. The 5G variant uses faster UFS 2.1 flash storage
+      technology, whereas the 4G tier uses standard eMMC 5.1.Expandable Slots:
+      Both units support storage expansion using external memory up to 1TB via
+      microSDXC cards. The 4G variant provides a dedicated slot, while the 5G
+      model uses a shared hybrid SIM slot design.📸 Camera Array & Media
+      Capture4G Primary Module: Features a rear quad-camera setup anchored by a
+      high-resolution 64 MP main lens (f/1.8). This is supplemented by an 8 MP
+      ultra-wide lens (123° field of view), a 5 MP macro shooter, and a 5 MP
+      secondary depth framework. The selfie lens uses a 20 MP front camera
+      (f/2.2).5G Primary Module: Houses a rear quad-camera configuration running
+      a lower-tier 48 MP main camera (f/1.8). It shares the identical 8 MP
+      ultra-wide and 5 MP macro units but features a reduced 2 MP portrait depth
+      sensor. The selfie lens drops to a 13 MP front camera (f/2.2).Video Frame
+      Rates: The 5G main rear assembly can encode high-definition 4K resolution
+      video at 30fps, whereas the 4G rear setup is capped at standard 1080p
+      recording speeds.🔋 Battery, Biometrics, & Structural DesignPower Supply:
+      Both phones house an expansive 5,000 mAh lithium-ion battery. They utilize
+      a physical USB Type-C port to accept up to 15W wired fast charging.
+      Neither model supports wireless induction charging loops.Security Sensors:
+      The 4G version hides an under-display optical fingerprint reader
+      underneath the glass matrix. The 5G model uses a traditional, clicky
+      side-mounted fingerprint sensor integrated directly into the physical
+      power button.Body Form Factor: The 4G footprint measures 158.9 × 73.6 ×
+      8.4 mm and scales in at a lightweight 184 grams. The 5G variant uses an
+      expanded shell measuring 164.2 × 76.1 × 9.1 mm, pushing its net weight up
+      to 205 grams. Both phones feature a 3.5mm headphone jack"
     variants:
       - id: 50356
         color: Black
         price: 229.95
         image: images/samsung_a32_black__61300.jpg
   - id: 91
-    name: Motorola One Ace , 5G , 64GB , 6.7in , A+Grade, Unlocked, Pre-owned Sale
+    name: "Motorola One Ace , 5G , 64GB , 6.7in , A+Grade, Unlocked , Certified
+      Pre-owned "
     category: Pre-Owned Phones & Tablets
     description: >-
-      The Motorola One 5G Ace is a budget-friendly, reliable 5G smartphone known
+      (90-Day Limited Warranty) The Motorola One 5G Ace is a budget-friendly,
+      reliable 5G smartphone known
             for its large 6.7-inch FHD+ screen, long-lasting 5000mAh battery,
             dependable Snapdragon 750G processor, and triple rear camera setup (48MP
             main). Launched around late 2020/early 2021, it offers decent performance,
@@ -3314,10 +3525,10 @@ products:
         price: 209.95
         image: images/Moto_One_5G_Ace__94110.jpg
   - id: 92
-    name: Samsung Galaxy A23 , 64GB ,5G , A+Grade , Unlocked Pre-owned
+    name: "Samsung Galaxy A23 , 64GB ,5G , A+Grade , Unlocked , Certified Pre-owned "
     category: Pre-Owned Phones & Tablets
     description: >-
-      USB Interface: USB Type-C
+      (90-Day Limited Warranty) USB Interface: USB Type-C
 
 
             USB Version: USB 2.0
@@ -3363,10 +3574,11 @@ products:
         price: 219.95
         image: images/samsung_a23_black__87823.jpg
   - id: 93
-    name: "Samsung Galaxy A11 , 32GB , A+Grade , Unlocked , Pre-owned "
+    name: Samsung Galaxy A11 , 32GB , A+Grade , Unlocked , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      The Samsung Galaxy A11 is a budget-friendly smartphone featuring a 6.4"
+      (90-Day Limited Warranty) The Samsung Galaxy A11 is a budget-friendly
+      smartphone featuring a 6.4"
             HD+ Infinity-O display, Snapdragon 450 processor, 2-4GB RAM, 32/64GB
             storage (expandable via microSD), a 4000mAh battery with 15W fast
             charging, a versatile triple rear camera (13MP main, 5MP ultrawide, 2MP
@@ -3386,10 +3598,10 @@ products:
         price: 199.95
         image: images/galaxy_A11_Black__90211.jpg
   - id: 94
-    name: " Samsung Galaxy A13, 64GB , A+Grade , Unlocked , Pre-owned"
+    name: " Samsung Galaxy A13, 64GB , A+Grade , Unlocked , Certified Pre-owned"
     category: Pre-Owned Phones & Tablets
     description: >-
-      Details  
+      (90-Day Limited Warranty)
 
                 Octa-core processor with clock speeds of 2GHz and 1.8GHz for efficient performance.
                 Weighing 195g, this smartphone is lightweight and portable.
@@ -3407,10 +3619,11 @@ products:
         price: 199.95
         image: images/a13_black__66177.jpg
   - id: 95
-    name: "Samsung Galaxy A14 , 64GB , A+Grade , Unlocked , Pre-owned "
+    name: Samsung Galaxy A14 , 64GB , A+Grade , Unlocked , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      This phone is SIM-free and compatible with 4G networks. It supports dual
+      (90-Day Limited Warranty) This phone is SIM-free and compatible with 4G
+      networks. It supports dual
             SIM cards, both nano SIMs. The device features a 6.6-inch TFT LCD display
             with a sharp resolution of 2408 x 1080 (FHD+) pixels, offering a pixel
             density of 401 pixels per inch. It's a touch screen for easy navigation.
@@ -3434,10 +3647,15 @@ products:
         price: 199.95
         image: images/a14_black__08147 (1).jpg
   - id: 96
-    name: Xiaomi Redmi Note 12 Pro , 256GB, 6.7in, Dual SIM, Unlocked, New, Sealed
+    name: Xiaomi Redmi Note 12 Pro , 256GB, 6.7in, Dual SIM ,GSM Unlocked ,
+      International Version, New, Sealed
     category: Phones
     description: >-
-      The Xiaomi Redmi Note 12 Pro 5G is a popular mid-range smartphone
+      (This Smartphone Is partial Compatible  Only T-Mobile , Mint Mobile ,
+      Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US Cities & Suburbs)
+      Xiaomi Redmi smartphones are highly compatible with carriers in Africa,
+      the Middle East, Asia, the Caribbean, Latin America, Canada, UK and
+      Europe. The Xiaomi Redmi Note 12 Pro 5G is a popular mid-range smartphone
             known for delivering premium features at a great value, boasting a smooth
             120Hz AMOLED display, powerful MediaTek Dimensity 1080 chip, versatile
             Sony IMX766 camera with OIS, long-lasting 5000mAh battery with 67W fast
@@ -3450,10 +3668,15 @@ products:
         price: 379.95
         image: images/note-12-pro__64347.jpg
   - id: 97
-    name: Xiaomi Redmi 10, 128GB, 6.4in ,Dual SIM, Unlocked,New
+    name: Xiaomi Redmi 10, 128GB, 6.4in ,Dual SIM, GSM Unlocked , International
+      Version, New ,  Sealed
     category: Phones
     description: >-
-      The Redmi 10 5G is a budget-friendly Xiaomi smartphone featuring a
+      (This Smartphone has  poor Compatibility Only T-Mobile , Mint Mobile ,
+      Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) Xiaomi Redmi
+      smartphones are highly compatible with carriers in Africa, the Middle
+      East, Asia, the Caribbean, Latin America, UK and Europe.  The Redmi 10 5G
+      is a budget-friendly Xiaomi smartphone featuring a
             6.58-inch 90Hz FHD+ display, MediaTek Dimensity 700 chip, 50MP dual rear
             cameras, and a large 5000mAh battery with 18W charging, offering 5G
             connectivity for fast data, dual SIM support, and a 3.5mm headphone jack
@@ -3469,10 +3692,15 @@ products:
         price: 259.95
         image: images/redmi-note-10__07894.jpg
   - id: 98
-    name: Xiaomi Redmi 14C  , 256GB, 6.4in. Dual SIM Unlocked, New
+    name: Xiaomi Redmi 14C  , 256GB, 6.4in. Dual SIM ,GSM Unlocked , International
+      Version, New ,Sealed
     category: Phones
     description: >-
-      The Redmi 14C is an entry-level smartphone featuring a large
+      (This Smartphone has  poor Compatibility Only T-Mobile , Mint Mobile ,
+      Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) Xiaomi Redmi
+      smartphones are highly compatible with carriers in Africa, the Middle
+      East, Asia, the Caribbean, Latin America, UK and Europe.  The Redmi 14C is
+      an entry-level smartphone featuring a large
             6.88-inch 720p 120Hz display, MediaTek Helio G81-Ultra processor, up to
             8GB RAM, 50MP main camera, 13MP selfie camera, and a 5160mAh battery with
             18W charging, running Android 14 with HyperOS, offering good value for
@@ -3484,10 +3712,14 @@ products:
         price: 279.95
         image: images/redmi_14c_g__01228.jpg
   - id: 99
-    name: Xiaomi Redmi 13, 256GB, Unlocked, New, Sealed
+    name: Xiaomi Redmi 13, 256GB, GSM Unlocked , International Version, New, Sealed
     category: Phones
     description: >-
-      The Redmi 13 is a budget-friendly smartphone featuring a Helio
+      (This Smartphone has  poor Compatibility Only T-Mobile , Mint Mobile ,
+      Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) Xiaomi Redmi
+      smartphones are highly compatible with carriers in Africa, the Middle
+      East, Asia, the Caribbean, Latin America, UK and Europe. The Redmi 13 is a
+      budget-friendly smartphone featuring a Helio
             G91-Ultra processor, a large 6.79" 90Hz FHD+ display, a high-resolution
             108MP main camera, a 5030mAh battery with 33W charging, and runs Android
             14 with HyperOS, offering good value with specs like Gorilla Glass
@@ -3504,10 +3736,15 @@ products:
         price: 289.95
         image: images/redmi_13_blue__32847.jpg
   - id: 100
-    name: Xiaomi Redmi A5 , 128GB , Unlocked,  New, Sealed
+    name: Xiaomi Redmi A5 , 128GB , GSM Unlocked , International Version,  New,
+      Sealed
     category: Phones
     description: >-
-      The Redmi A5 is a budget 4G smartphone featuring a large 6.88" HD+
+      (This Smartphone has  poor Compatibility Only T-Mobile , Mint Mobile ,
+      Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) Xiaomi Redmi
+      smartphones are highly compatible with carriers in Africa, the Middle
+      East, Asia, the Caribbean, Latin America, UK and Europe.The Redmi A5 is a
+      budget 4G smartphone featuring a large 6.88" HD+
             120Hz LCD display, a Unisoc T7250 octa-core processor, a 32MP main camera,
             8MP selfie cam, a big 5200mAh battery with 15W charging, and runs Android
             15 (Go Edition), offering up to 8GB virtual RAM, expandable storage, a
@@ -3519,10 +3756,15 @@ products:
         price: 249.95
         image: images/redmi_a5__11503.jpg
   - id: 101
-    name: ZTE Blade V70 Max, 258GB, 6.9in ,14Ram, Unlocked, New, Sealed
+    name: ZTE Blade V70 Max, 258GB, 6.9in ,14 RAM , GSM Unlocked , International
+      Version , New, Sealed
     category: Phones
     description: >-
-      The ZTE Blade V70 Max is a budget-friendly 4G smartphone featuring
+      (This Smartphone has  poor Compatibility Only T-Mobile , Mint Mobile ,
+      Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) ZTE smartphones
+      are highly compatible with carriers in Africa, the Middle East, Asia, the
+      Caribbean, Latin America, UK and Europe. The ZTE Blade V70 Max is a
+      budget-friendly 4G smartphone featuring
             a large 6.9-inch HD+ 120Hz display, powered by a Unisoc T606/T7200
             processor, running Android 15, and boasting a big 6000mAh battery with
             22.5W charging, alongside a 50MP main rear camera, an 8MP front camera,
@@ -3535,10 +3777,15 @@ products:
         price: 269.95
         image: images/zte_blade_v70_max__41601.jpg
   - id: 102
-    name: ZTE Blade 35E, 64GB, 6.5in , Unlocked, New , Sealed
+    name: ZTE Blade 35E, 64GB, 6.5in , GSM Unlocked , International Version , New ,
+      Sealed
     category: Phones
     description: >-
-      The ZTE Blade A35e is an affordable, entry-level Android smartphone
+      (This Smartphone has  poor Compatibility Only T-Mobile , Mint Mobile ,
+      Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) ZTE smartphones
+      are highly compatible with carriers in Africa, the Middle East, Asia, the
+      Caribbean, Latin America, UK and Europe. The ZTE Blade A35e is an
+      affordable, entry-level Android smartphone
             designed for basic daily use, featuring a large 6.52-inch HD+ screen, a
             long-lasting 5000mAh battery, an 8MP rear camera, 5MP front camera, and
             expandable storage with a triple SIM slot for simultaneous use of two SIMs
@@ -3561,10 +3808,15 @@ products:
         price: 219.95
         image: images/zte_blade_a35e_gray__39574.jpg
   - id: 103
-    name: ZTE Blade 35, 64GB , 6.7, Dual SIM, Unlocked, New , Sealed
+    name: ZTE Blade 35, 64GB , 6.7, Dual SIM, GSM Unlocked , International Version ,
+      New , Sealed
     category: Phones
     description: >-
-      The ZTE Blade A35 is a budget-friendly Android smartphone
+      (This Smartphone has  poor Compatibility Only T-Mobile , Mint Mobile ,
+      Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) ZTE smartphones
+      are highly compatible with carriers in Africa, the Middle East, Asia, the
+      Caribbean, Latin America, UK and Europe . The ZTE Blade A35 is a
+      budget-friendly Android smartphone
             featuring a large 6.75-inch 90Hz display, a Unisoc octa-core chip, 4GB
             RAM, 64GB storage (expandable), and a big 5000mAh battery, running Android
             14 (Go Edition) for light daily use, social media, and basic tasks, making
@@ -3576,16 +3828,31 @@ products:
         price: 219.95
         image: images/zte_a35_c__53576.jpg
   - id: 104
-    name: ZTE Blade. V60 , 256GB , 4G, Dual SIM, Unlocked, New, Sealed
+    name: ZTE Blade. V60 , 256GB , 4G, Dual SIM , GSM Unlocked , International
+      Version , New, Sealed
     category: Phones
-    description: >-
-      The ZTE Blade V60 is an entry-level Android smartphone featuring a
-            large 6.6-inch HD+ screen with a 90Hz refresh rate, a powerful 5000mAh
-            battery with fast charging, a 50MP main camera, and often comes with
-            significant storage (like 256GB) and dynamic RAM (up to 16GB) for smooth
-            multitasking, running on Android 13 with ZTE's MyOS and a budget-friendly
-            Unisoc processor, offering features like a headphone jack and USB-C.
-            Colors Available  Violet, Blue, Gold 
+    description: "(This Smartphone has  poor Compatibility Only T-Mobile , Mint
+      Mobile , Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) ZTE
+      smartphones are highly compatible with carriers in Africa, the Middle
+      East, Asia, the Caribbean, Latin America, UK and Europe.  The ZTE Blade
+      V60 is an entry-level Android smartphone featuring a
+
+      \      large 6.6-inch HD+ screen with a 90Hz refresh rate, a
+      powerful 5000mAh
+
+      \      battery with fast charging, a 50MP main camera, and often
+      comes with
+
+      \      significant storage (like 256GB) and dynamic RAM (up to 16GB)
+      for smooth
+
+      \      multitasking, running on Android 13 with ZTE's MyOS and a
+      budget-friendly
+
+      \      Unisoc processor, offering features like a headphone jack and
+      USB-C.
+
+      \     "
     variants:
       - id: 50375
         color: Violet
@@ -3600,33 +3867,44 @@ products:
         price: 269.95
         image: images/zte_blade_v60_g__86680-1-.jpg
   - id: 105
-    name: "ZTE Blade V50, 256GB,  6.6in , 4G, , Unlocked, New, Sealed "
+    name: "ZTE Blade V50, 256GB ,  6.6in , 4G , GSM Unlocked , International Version
+      , New , Sealed "
     category: Phones
     description: >-
-      The ZTE Blade V50 with 4GB RAM and 256GB storage is a
+      (This Smartphone has  poor Compatibility Only T-Mobile , Mint Mobile ,
+      Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) ZTE smartphones
+      are highly compatible with carriers in Africa, the Middle East, Asia, the
+      Caribbean, Latin America, UK and Europe. You will get high-speed data and
+      voice service in US cities, but expect dropped signals or roaming issues
+      in rural areas in the US due to a lack of low-frequency bands.T he ZTE
+      Blade V50 with 4GB RAM and 256GB storage is a
             budget-friendly smartphone featuring a large 6.6-inch FHD+ display, a 50MP
             main camera, a powerful Unisoc T606 processor, a long-lasting 5000mAh
             battery with 22.5W fast charging, and Android OS, offering great value
             with ample storage for everyday use, social media, and light gaming,
-            including features like NFC and dual SIM support. Colors Available purple
+            including features like NFC and dual SIM support. 
     variants:
       - id: 50378
         color: Purple
         price: 259.95
         image: images/zte_blade_v50__73519-1-.jpg
   - id: 106
-    name: ZTE Blade A55, 128GB, 4G, 6.7in HD, Dual SIM, Unlocked, New, Sealed
+    name: ZTE Blade A55, 128GB, 4G, 6.7in HD, Dual SIM , GSM Unlocked ,
+      International Version , New , Sealed
     category: Phones
     description: >-
-      The ZTE Blade A55 is an affordable Android smartphone released in
+      (This Smartphone has  poor Compatibility Only T-Mobile , Mint Mobile ,
+      Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) ZTE smartphones
+      are highly compatible with carriers in Africa, the Middle East, Asia, the
+      Caribbean, Latin America, UK and Europe. The ZTE Blade A55 is an
+      affordable Android smartphone released in
             2024, featuring a large 6.75-inch 90Hz HD+ display, a 13MP dual rear
             camera, an 8MP selfie camera, a large 5000mAh battery with 10W charging,
             and Unisoc octa-core processor, running Android 14 (Go Edition) for basic
             tasks and everyday use, with dynamic RAM expansion technology and side
             fingerprint unlock. It's known for offering good value, especially for
             social media, light gaming, and general use, but may struggle with
-            intensive gaming or high-end camera performance.  Colors Available Orange,
-            Black Blue 
+            intensive gaming or high-end camera performance.  
     variants:
       - id: 50379
         color: Orange
@@ -3671,16 +3949,17 @@ products:
         price: 369.95
         image: images/google_pixel_7_white__62439.jpg
   - id: 108
-    name: Apple iPhone 13, 128GB, Physical SIM ,  Unlocked, A+ Grade , Pre-owned
+    name: Apple iPhone 13, 128GB, Physical SIM ,  Unlocked, A+ Grade , Certified
+      Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      The iPhone 13, released by Apple in 2021, features a 6.1-inch Super Retina
-      XDR display, the powerful A15 Bionic chip, a dual 12MP camera system (Wide
-      & Ultra Wide) with Cinematic Mode, 5G connectivity, and extended battery
-      life, supporting up to 19 hours of video playback. Key highlights include
-      its aerospace-grade aluminum design with Ceramic Shield, MagSafe
-      compatibility, and availability in colors like Midnight, Starlight, Pink,
-      Blue, and Green. 
+      (90-Day Limited Warranty) The iPhone 13, released by Apple in 2021,
+      features a 6.1-inch Super Retina XDR display, the powerful A15 Bionic
+      chip, a dual 12MP camera system (Wide & Ultra Wide) with Cinematic Mode,
+      5G connectivity, and extended battery life, supporting up to 19 hours of
+      video playback. Key highlights include its aerospace-grade aluminum design
+      with Ceramic Shield, MagSafe compatibility, and availability in colors
+      like Midnight, Starlight, Pink, Blue, and Green. 
 
       Key Features
 
@@ -3705,14 +3984,15 @@ products:
         price: 519.95
         image: images/61mxivwdp5l._ac_uf894-1000_ql80_fmwebp_.webp
   - id: 109
-    name: Apple iPhone 13, 256GB, Unlocked, Physical SIM, A+ Grade, Pre-owned
+    name: Apple iPhone 13, 256GB, Unlocked, Physical SIM, A+ Grade , Certified
+      Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Colors Black and white.    Details.  The iPhone 13, released by
-      Apple in 2021, features a 6.1-inch Super Retina XDR display, the powerful
-      A15 Bionic chip, a dual 12MP camera system (Wide & Ultra Wide) with
-      Cinematic Mode, 5G connectivity, and extended battery life, supporting up
-      to 19 hours of video playback. Key highlights include its aerospace-grade
+      (90-Day Limited Warranty)    Details.  The iPhone 13, released by Apple in
+      2021, features a 6.1-inch Super Retina XDR display, the powerful A15
+      Bionic chip, a dual 12MP camera system (Wide & Ultra Wide) with Cinematic
+      Mode, 5G connectivity, and extended battery life, supporting up to 19
+      hours of video playback. Key highlights include its aerospace-grade
       aluminum design with Ceramic Shield, MagSafe compatibility, and
       availability in colors like Midnight, Starlight, Pink, Blue, and Green. 
 
@@ -3739,14 +4019,14 @@ products:
         price: 619.95
         image: images/61MXivWDp5L._AC_UF894,1000_QL80_FMwebp_.webp
   - id: 110
-    name: Apple iPhone 13 Pro Max,128GB, Unlocked, A+ Grade, Pre-owned
+    name: Apple iPhone 13 Pro Max,128GB, Unlocked, A+ Grade, Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      The iPhone 13 Pro Max, released in 2021, is a large, high-end smartphone
-      featuring a 6.7-inch ProMotion display, the A15 Bionic chip, and an
-      advanced Pro camera system, known for its excellent battery life, durable
-      stainless steel frame, and IP68 water resistance, with models available
-      for purchase renewed or refurbished today. 
+      (90-Day Limited Warranty) The iPhone 13 Pro Max, released in 2021, is a
+      large, high-end smartphone featuring a 6.7-inch ProMotion display, the A15
+      Bionic chip, and an advanced Pro camera system, known for its excellent
+      battery life, durable stainless steel frame, and IP68 water resistance,
+      with models available for purchase renewed or refurbished today. 
 
       Key Features
 
@@ -3785,14 +4065,15 @@ products:
         price: 649.95
         image: images/untitled-design-60__86520.png
   - id: 111
-    name: Apple iPhone 13 Pro Max ,256GB, Unlocked, A+ Grade, Pre-owned
+    name: "Apple iPhone 13 Pro Max ,256GB, Unlocked , A+ Grade , Certified Pre-owned
+      "
     category: Pre-Owned Phones & Tablets
     description: >-
-      The iPhone 13 Pro Max, released in 2021, is a large, high-end smartphone
-      featuring a 6.7-inch ProMotion display, the A15 Bionic chip, and an
-      advanced Pro camera system, known for its excellent battery life, durable
-      stainless steel frame, and IP68 water resistance, with models available
-      for purchase renewed or refurbished today. 
+      (90-Day Limited Warranty) The iPhone 13 Pro Max, released in 2021, is a
+      large, high-end smartphone featuring a 6.7-inch ProMotion display, the A15
+      Bionic chip, and an advanced Pro camera system, known for its excellent
+      battery life, durable stainless steel frame, and IP68 water resistance,
+      with models available for purchase renewed or refurbished today. 
 
       Key Features
 
@@ -3831,17 +4112,10 @@ products:
         price: 679.95
         image: images/untitled-design-60__86520.png
   - id: 112
-    name: Apple iPhone 14, 128GB, Unlocked, E-SIM, A+ Grade, Pre-owned
+    name: Apple iPhone 14, 128GB, Unlocked, E-SIM, A+ Grade , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
-    description: >-
-      The iPhone 14 features a 6.1-inch Super Retina XDR (OLED) display, the A15
-      Bionic chip with 5-core GPU, dual 12MP (Wide & Ultra Wide) rear cameras,
-      12MP TrueDepth front camera, 6GB RAM, IP68 water resistance, and supports
-      5G, all powered by a 3279mAh battery for all-day life, running iOS
-      (originally 16). It comes with 128/256/512GB storage, a Lightning port
-      (last of its kind for standard models), and introduced features like
-      Cinematic Mode and Emergency SOS via Satellite.  
-
+    description: >-2
+       (90-Day Limited Warranty) The iPhone 14 features a 6.1-inch Super Retina XDR (OLED) display, the A15 Bionic chip with 5-core GPU, dual 12MP (Wide & Ultra Wide) rear cameras, 12MP TrueDepth front camera, 6GB RAM, IP68 water resistance, and supports 5G, all powered by a 3279mAh battery for all-day life, running iOS (originally 16). It comes with 128/256/512GB storage, a Lightning port (last of its kind for standard models), and introduced features like Cinematic Mode and Emergency SOS via Satellite.  
       Display & Design
 
               Screen: 6.1-inch Super Retina XDR (OLED).
@@ -3888,16 +4162,16 @@ products:
         price: 559.95
         image: images/refurb-iphone-14-starlight-202404.jpeg
   - id: 113
-    name: Apple iPhone 14 Plus, 128GB, E-SIM, Unlocked, A+ Grade , Pre-owned
+    name: Apple iPhone 14 Plus, 128GB, E-SIM, Unlocked, A+ Grade , Certified
+      Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Colors Black, Yellow, Purple, Blue  Details  The iPhone 14 Plus
-      features a large 6.7-inch Super Retina XDR (OLED) display, powered by the
-      A15 Bionic chip with a 5-core GPU, dual 12MP main and ultrawide cameras,
-      and 6GB of RAM with 128GB, 256GB, or 512GB storage options, all housed in
-      an aluminum body with Ceramic Shield front, offering excellent battery
-      life and MagSafe, but lacks the ProMotion display and telephoto lens of
-      the Pro models.  
+      (90-Day Limited Warranty) The iPhone 14 Plus features a large 6.7-inch
+      Super Retina XDR (OLED) display, powered by the A15 Bionic chip with a
+      5-core GPU, dual 12MP main and ultrawide cameras, and 6GB of RAM with
+      128GB, 256GB, or 512GB storage options, all housed in an aluminum body
+      with Ceramic Shield front, offering excellent battery life and MagSafe,
+      but lacks the ProMotion display and telephoto lens of the Pro models.  
 
       Here are the key specs: 
 
@@ -3934,15 +4208,16 @@ products:
         price: 599.95
         image: images/iphone-14-4.jpg
   - id: 114
-    name: Apple iPhone 14 Plus, 256GB, E-SIM, Unlocked, A+ Grade , Pre-owned
+    name: Apple iPhone 14 Plus, 256GB, E-SIM, Unlocked, A+ Grade , Certified
+      Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      The iPhone 14 Plus features a large 6.7-inch Super Retina XDR (OLED)
-      display, powered by the A15 Bionic chip with a 5-core GPU, dual 12MP main
-      and ultrawide cameras, and 6GB of RAM with 128GB, 256GB, or 512GB storage
-      options, all housed in an aluminum body with Ceramic Shield front,
-      offering excellent battery life and MagSafe, but lacks the ProMotion
-      display and telephoto lens of the Pro models.  
+      (90-Day Limited Warranty) The iPhone 14 Plus features a large 6.7-inch
+      Super Retina XDR (OLED) display, powered by the A15 Bionic chip }with a
+      5-core GPU, dual 12MP main and ultrawide cameras, and 6GB of RAM with
+      128GB, 256GB, or 512GB st orage options, all housed in an aluminum body
+      with Ceramic Shield front, offering excellent battery life and MagSafe,
+      but lacks the ProMotion display and telephoto lens of the Pro models.  
 
       Here are the key specs: 
 
@@ -3979,16 +4254,16 @@ products:
         price: 649.95
         image: images/refurb-iphone-14-starlight-202404.jpeg
   - id: 115
-    name: Apple iPhone 14 Pro Max, 128GB, E-SIM, Unlocked, A+Grade, Pre-owned
+    name: Apple iPhone 14 Pro Max, 128GB, E-SIM, Unlocked, A+Grade , Certified
+      Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Colors White, Gold, Purple.    Details  The iPhone 14 Pro Max
-      features a large 6.7-inch Super Retina XDR display with Dynamic Island,
-      Always-On, and ProMotion (120Hz). It's powered by the A16 Bionic chip,
-      boasts a Pro camera system with a 48MP main sensor, and offers robust
-      connectivity with 5G, Wi-Fi 6, and Bluetooth 5.3. Key features include
-      Face ID, IP68 water resistance, MagSafe, and durable stainless steel
-      design. 
+      (90-Day Limited Warranty)  Details  The iPhone 14 Pro Max features a large
+      6.7-inch Super Retina XDR display with Dynamic Island, Always-On, and
+      ProMotion (120Hz). It's powered by the A16 Bionic chip, boasts a Pro
+      camera system with a 48MP main sensor, and offers robust connectivity with
+      5G, Wi-Fi 6, and Bluetooth 5.3. Key features include Face ID, IP68 water
+      resistance, MagSafe, and durable stainless steel design. 
 
       Display
 
@@ -4058,16 +4333,16 @@ products:
         price: 649.95
         image: images/619f09kK7tL._AC_UF894,1000_QL80_FMwebp_.webp
   - id: 116
-    name: Apple iPhone 15 Pro Max, 256GB, E-SIM, Unlocked, A+ Grade, Pre-owned
+    name: Apple iPhone 15 Pro Max, 256GB, E-SIM, Unlocked, A+ Grade , Certified
+      Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Colors White , Blue, Natural.  Details  The iPhone 15 Pro Max
-      boasts a 6.7-inch ProMotion Super Retina XDR display (120Hz), A17 Pro
-      chip, titanium design, and a versatile camera system with advanced
-      features like ProRes video, all powered by iOS 17/18 and featuring USB-C
-      connectivity; key upgrades include the Action Button, brighter display,
-      and enhanced camera zoom, making it a premium powerhouse for demanding
-      users.  
+      (90-Day Limited Warranty).  Details  The iPhone 15 Pro Max boasts a
+      6.7-inch ProMotion Super Retina XDR display (120Hz), A17 Pro chip,
+      titanium design, and a versatile camera system with advanced features like
+      ProRes video, all powered by iOS 17/18 and featuring USB-C connectivity;
+      key upgrades include the Action Button, brighter display, and enhanced
+      camera zoom, making it a premium powerhouse for demanding users.  
 
       Key Specifications & Features:
 
@@ -4105,10 +4380,10 @@ products:
         price: 959.95
         image: images/616mzzm8-7l._ac_uf894-1000_ql80_fmwebp_.webp
   - id: 117
-    name: Apple iPhone 16E , 128GB, E-SIM , Unlocked, A+ Grade, Pre-owned
+    name: Apple iPhone 16E , 128GB, E-SIM , Unlocked, A+ Grade , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available white, Black.   Details  The iPhone 16e is Apple's
+      (90-Day Limited Warranty)   Details  The iPhone 16e is Apple's
       budget-friendly iPhone, featuring a 6.1-inch Super Retina XDR (OLED)
       display, the powerful A18 chip with Apple Intelligence, a 48MP main
       camera, USB-C, and durable design with Ceramic Shield, offering high
@@ -4149,15 +4424,16 @@ products:
         price: 629.95
         image: images/iphone_16e_black__55227.jpg
   - id: 118
-    name: Apple iPhone 15 Pro Max, 512GB, E-SIM, Unlocked, A+ Grade, Pre-owned
+    name: Apple iPhone 15 Pro Max, 512GB, E-SIM, Unlocked, A+ Grade, Certified
+      Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      The iPhone 15 Pro Max boasts a 6.7-inch ProMotion Super Retina XDR display
-      (120Hz), A17 Pro chip, titanium design, and a versatile camera system with
-      advanced features like ProRes video, all powered by iOS 17/18 and
-      featuring USB-C connectivity; key upgrades include the Action Button,
-      brighter display, and enhanced camera zoom, making it a premium powerhouse
-      for demanding users.  
+      (90-Day Limited Warranty) The iPhone 15 Pro Max boasts a 6.7-inch
+      ProMotion Super Retina XDR display (120Hz), A17 Pro chip, titanium design,
+      and a versatile camera system with advanced features like ProRes video,
+      all powered by iOS 17/18 and featuring USB-C connectivity; key upgrades
+      include the Action Button, brighter display, and enhanced camera zoom,
+      making it a premium powerhouse for demanding users.  
 
       Key Specifications & Features:
 
@@ -4195,13 +4471,14 @@ products:
         price: 969.95
         image: images/616mZZm8-7L._AC_UF894,1000_QL80_FMwebp_.webp
   - id: 119
-    name: Apple iPhone 8 Plus , 64GB, Unlocked, A- Grade, Physical SIM, Pre-owned
+    name: Apple iPhone 8 Plus , 64GB, Unlocked, A- Grade, Physical SIM , Certified
+      Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >+
-      Handset Only. Available Colors Red, Black, Silver.    The iPhone 8 Plus
-      features a 5.5-inch Retina HD display, Apple's A11 Bionic chip with Neural
-      Engine, dual 12MP wide & telephoto rear cameras with 2x optical zoom, and
-      a 7MP front camera, all housed in a glass-backed design with IP67 water
+      (90-Day Limited Warranty) Handset Only. The iPhone 8 Plus features a
+      5.5-inch Retina HD display, Apple's A11 Bionic chip with Neural Engine,
+      dual 12MP wide & telephoto rear cameras with 2x optical zoom, and a 7MP
+      front camera, all housed in a glass-backed design with IP67 water
       resistance, Touch ID, and wireless charging, running on iOS (upgradable to
       later versions) with 3GB RAM
 
@@ -4236,15 +4513,15 @@ products:
         price: 249.95
         image: images/8psvr_017819ac-8059-44d4-97e9-a303a61c5e4e.jpg
   - id: 120
-    name: Apple iPhone 8 , 64GB , Unlocked , Physical SIM , A- Grade , Pre-owned
+    name: Apple iPhone 8 , 64GB , Unlocked , Physical SIM , A- Grade , Certified
+      Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Handset Only, Available Colors Black and Silver. The iPhone 8 features a
-      4.7-inch Retina HD display, A11 Bionic chip, a single 12MP wide rear
-      camera with OIS, and a 7MP front camera, supporting 4K video and Qi
-      wireless charging, IP67 water resistance, Touch ID, and runs iOS. Key
-      specs include 2GB RAM, storage options up to 256GB, and a 1821mAh battery,
-      with no 5G support. 
+      (90-Day Limited Warranty) Handset Only. The iPhone 8 features a 4.7-inch
+      Retina HD display, A11 Bionic chip, a single 12MP wide rear camera with
+      OIS, and a 7MP front camera, supporting 4K video and Qi wireless charging,
+      IP67 water resistance, Touch ID, and runs iOS. Key specs include 2GB RAM,
+      storage options up to 256GB, and a 1821mAh battery, with no 5G support. 
 
       Display & Design
 
@@ -4286,17 +4563,17 @@ products:
         price: 199.95
         image: images/8psvr_017819ac-8059-44d4-97e9-a303a61c5e4e.jpg
   - id: 121
-    name: Apple iPhone SE 2020 ,128GB , Physical SIM , Unlocked , A- Grade ,
-      Pre-owned
+    name: Apple iPhone SE 2020 ,128GB , Physical SIM , Unlocked , A- Grade,
+      Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Handset Only, Available Colors Black and White.    The iPhone SE (2020)
-      packed flagship power into an iPhone 8 body, featuring the A13 Bionic
-      chip, a 4.7-inch Retina HD display, a 12MP Wide rear camera, and Touch ID
-      in the Home button, with storage options up to 256GB. It offered IP67
-      water resistance and wireless charging, running iOS. Key specs include 3GB
-      RAM, stereo speakers, and a 7MP front camera, with no headphone jack,
-      making it a compact device with powerful performance for its time
+      (90-Day Limited Warranty) Handset Only. The iPhone SE (2020) packed
+      flagship power into an iPhone 8 body, featuring the A13 Bionic chip, a
+      4.7-inch Retina HD display, a 12MP Wide rear camera, and Touch ID in the
+      Home button, with storage options up to 256GB. It offered IP67 water
+      resistance and wireless charging, running iOS. Key specs include 3GB RAM,
+      stereo speakers, and a 7MP front camera, with no headphone jack, making it
+      a compact device with powerful performance for its time
 
       .
        
@@ -4345,18 +4622,18 @@ products:
         price: 229.95
         image: images/apple-iphone-se-2-fully-unlockediphse2-64wh-ap60-740364.jpg
   - id: 122
-    name: " Apple iPhone XR , 64GB , Unlocked  Physical SIM , A-Grade , Pre-owned"
+    name: " Apple iPhone XR , 64GB , Unlocked  Physical SIM , A-Grade , Certified
+      Pre-owned"
     category: Pre-Owned Phones & Tablets
     description: >-
-      Handset Only, Available Colors Black, Blue, Coral, Yellow, Red,
-      White.    The iPhone XR, released in 2018, was a popular, more affordable
-      version of the iPhone X, featuring an all-screen design with a 6.1-inch
-      LCD (Liquid Retina) display, the A12 Bionic chip, Face ID, and a single
-      12MP wide rear camera, notable for its diverse color options and good
-      battery life. While lacking some features of the higher-end XS (like OLED
-      and a second camera lens), it offered solid performance and became a
-      bestseller, still receiving iOS updates in 2025 but with a design showing
-      its age compared to newer models.  
+      (90-Day Limited Warranty) Handset Only. The iPhone XR, released in 2018,
+      was a popular, more affordable version of the iPhone X, featuring an
+      all-screen design with a 6.1-inch LCD (Liquid Retina) display, the A12
+      Bionic chip, Face ID, and a single 12MP wide rear camera, notable for its
+      diverse color options and good battery life. While lacking some features
+      of the higher-end XS (like OLED and a second camera lens), it offered
+      solid performance and became a bestseller, still receiving iOS updates in
+      2025 but with a design showing its age compared to newer models.  
 
       Key Features:
 
@@ -4399,17 +4676,18 @@ products:
         price: 259.95
         image: images/WHI-image-0.jpeg
   - id: 123
-    name: Apple iPhone 11, 64GB , Physical SIM , Unlocked , A+ Grade , Pre-owned
+    name: Apple iPhone 11, 64GB , Physical SIM , Unlocked , A+ Grade, Certified
+      Pre-owned
     category: Pre-Owned Phones & Tablets
     price: ""
     description: >-
-      Available Colors Black, Red, White.   The iPhone 11 features a 6.1-inch
-      Liquid Retina HD display, the A13 Bionic chip, and a dual 12MP Wide/Ultra
-      Wide rear camera system with Night Mode, plus a 12MP front camera,
-      offering long battery life and water resistance with Face ID for security,
-      running iOS. It supports Gigabit-class LTE, Wi-Fi 6, and Bluetooth 5.0,
-      with storage options up to 256GB, and includes features like Spatial Audio
-      and Cinematic Mode for video. 
+      (90-Day Limited Warranty) The iPhone 11 features a 6.1-inch Liquid Retina
+      HD display, the A13 Bionic chip, and a dual 12MP Wide/Ultra Wide rear
+      camera system with Night Mode, plus a 12MP front camera, offering long
+      battery life and water resistance with Face ID for security, running iOS.
+      It supports Gigabit-class LTE, Wi-Fi 6, and Bluetooth 5.0, with storage
+      options up to 256GB, and includes features like Spatial Audio and
+      Cinematic Mode for video. 
 
       Display & Design
 
@@ -4457,15 +4735,16 @@ products:
         price: 359.95
         image: images/WHI-image-0.jpeg
   - id: 124
-    name: Apple 11 Pro Max , 256GB , Physical SIM , Unlocked , A- Grade , Pre-owned
+    name: Apple 11 Pro Max , 256GB , Physical SIM , Unlocked , A- Grade , Certified
+      Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Details Handset Only, Available Colors Space Gray , Midnight Green.  The
-      iPhone 11 Pro Max features a large 6.5-inch Super Retina XDR (OLED)
-      display, powered by the A13 Bionic chip, with a triple 12MP camera system
-      (Ultra Wide, Wide, Telephoto) and 4GB RAM, offering storage up to 512GB,
-      IP68 water resistance, Face ID, wireless charging, and support for Gigabit
-      LTE (no 5G), running iOS. 
+      (90-Day Limited Warranty) Details Handset Only. The iPhone 11 Pro Max
+      features a large 6.5-inch Super Retina XDR (OLED) display, powered by the
+      A13 Bionic chip, with a triple 12MP camera system (Ultra Wide, Wide,
+      Telephoto) and 4GB RAM, offering storage up to 512GB, IP68 water
+      resistance, Face ID, wireless charging, and support for Gigabit LTE (no
+      5G), running iOS. 
 
       Display:
 
@@ -4515,15 +4794,15 @@ products:
         price: 359.95
         image: images/1981ca84-370d-4ab8-a153-159cef2ffd52-1_400b4e8c-ac07-4fc6-8fee-42372441e83f.jpg
   - id: 125
-    name: Apple 11 Pro Max , 64GB, Physical SIM , Unlocked , A- Grade , Pre-owned
+    name: Apple 11 Pro Max , 64GB, Physical SIM , Unlocked , A- Grade , Certified
+      Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Handset Only, Available Colors Space Gray , Midnight Green.  The iPhone 11
-      Pro Max features a large 6.5-inch Super Retina XDR (OLED) display, powered
-      by the A13 Bionic chip, with a triple 12MP camera system (Ultra Wide,
-      Wide, Telephoto) and 4GB RAM, offering storage up to 512GB, IP68 water
-      resistance, Face ID, wireless charging, and support for Gigabit LTE (no
-      5G), running iOaS. 
+      (90-Day Limited Warranty) Handset Only.  The iPhone 11 Pro Max features a
+      large 6.5-inch Super Retina XDR (OLED) display, powered by the A13 Bionic
+      chip, with a triple 12MP camera system (Ultra Wide, Wide, Telephoto) and
+      4GB RAM, offering storage up to 512GB, IP68 water resistance, Face ID,
+      wireless charging, and support for Gigabit LTE (no 5G), running iOaS. 
 
       Display:
 
@@ -4573,18 +4852,18 @@ products:
         price: 319.95
         image: images/1981ca84-370d-4ab8-a153-159cef2ffd52-1_400b4e8c-ac07-4fc6-8fee-42372441e83f.jpg
   - id: 126
-    name: Apple iPhone 12 Pro Max, 256GB, Physical SIM, Unlocked, A- Grade, Pre-owned
+    name: Apple iPhone 12 Pro Max, 256GB, Physical SIM, Unlocked, A- Grade ,
+      Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     price: ""
     description: >-
-      Handset Only, Available Colors Pacific Blue, Graphite, Silver, Gold.   The
-      iPhone 12 Pro Max features a large 6.7-inch Super Retina XDR (OLED)
-      display, the A14 Bionic chip, a Pro 12MP Triple Camera System (Ultra Wide,
-      Wide, Telephoto) with LiDAR, and a durable stainless steel design with
-      Ceramic Shield. Key specs include 6GB RAM, 5G connectivity, MagSafe,
-      128/256/512GB storage, and support for up to iOS 26.2, offering strong
-      performance and camera capabilities for its time, though lacking a high
-      refresh rate.  
+      (90-Day Limited Warranty) Handset Only.  The iPhone 12 Pro Max features a
+      large 6.7-inch Super Retina XDR (OLED) display, the A14 Bionic chip, a Pro
+      12MP Triple Camera System (Ultra Wide, Wide, Telephoto) with LiDAR, and a
+      durable stainless steel design with Ceramic Shield. Key specs include 6GB
+      RAM, 5G connectivity, MagSafe, 128/256/512GB storage, and support for up
+      to iOS 26.2, offering strong performance and camera capabilities for its
+      time, though lacking a high refresh rate.  
 
       Display & Design
 
@@ -4636,17 +4915,16 @@ products:
         image: images/apple-iphone-12-pro-4595755.jpg
   - id: 127
     name: Apple iPhone 12 Pro Max , 128GB , Physical SIM , Unlocked , A- Grade ,
-      Pre-owned
+      Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Handset Only, Available Colors Pacific Blue, Graphite, Silver, Gold.   The
-      iPhone 12 Pro Max features a large 6.7-inch Super Retina XDR (OLED)
-      display, the A14 Bionic chip, a Pro 12MP Triple Camera System (Ultra Wide,
-      Wide, Telephoto) with LiDAR, and a durable stainless steel design with
-      Ceramic Shield. Key specs include 6GB RAM, 5G connectivity, MagSafe,
-      128/256/512GB storage, and support for up to iOS 26.2, offering strong
-      performance and camera capabilities for its time, though lacking a high
-      refresh rate.  
+      (90-Day Limited Warranty) Handset Only. The iPhone 12 Pro Max features a
+      large 6.7-inch Super Retina XDR (OLED) display, the A14 Bionic chip, a Pro
+      12MP Triple Camera System (Ultra Wide, Wide, Telephoto) with LiDAR, and a
+      durable stainless steel design with Ceramic Shield. Key specs include 6GB
+      RAM, 5G connectivity, MagSafe, 128/256/512GB storage, and support for up
+      to iOS 26.2, offering strong performance and camera capabilities for its
+      time, though lacking a high refresh rate.  
 
       Display & Design
 
@@ -4697,14 +4975,15 @@ products:
         price: 529.95
         image: images/apple-iphone-12-pro-4595755.jpg
   - id: 128
-    name: " Apple iPhone 12 Mini , 128GB , Physical SIM , Unlocked , A- Grade"
+    name: " Apple iPhone 12 Mini , 128GB , Physical SIM , Unlocked , A- Grade ,
+      Certified Pre-owned"
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Colors Black, Red , White. The iPhone 12 mini is a compact
-      5.4-inch 5G smartphone featuring an OLED Super Retina XDR display, A14
-      Bionic chip, and Ceramic Shield front cover. It has a 12MP dual-camera
-      system (wide/ultra-wide), 4GB RAM, and 64GB/128GB/256GB storage options.
-      Key specs include IP68 water resistance, Face ID, and a 2,227mAh battery. 
+      (90-Day Limited Warranty) The iPhone 12 mini is a compact 5.4-inch 5G
+      smartphone featuring an OLED Super Retina XDR display, A14 Bionic chip,
+      and Ceramic Shield front cover. It has a 12MP dual-camera system
+      (wide/ultra-wide), 4GB RAM, and 64GB/128GB/256GB storage options. Key
+      specs include IP68 water resistance, Face ID, and a 2,227mAh battery. 
 
       Key Technical Specifications 
 
@@ -4743,10 +5022,11 @@ products:
         price: 319.95
         image: images/128-white.jpeg
   - id: 129
-    name: Apple iPhone 12 , 64GB , Physical SIM , Unlocked , A- Grade
+    name: Apple iPhone 12 , 64GB , Physical SIM , Unlocked , A- Grade , Certified
+      Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Color Black. The Apple iPhone 12 features a 6.1-inch Super
+      (90-Day Limited Warranty) The Apple iPhone 12 features a 6.1-inch Super
       Retina XDR OLED display, A14 Bionic chip, 5G connectivity, and a Ceramic
       Shield front cover. It includes a dual 12MP camera system, MagSafe
       charging, IP68 water resistance, and 4GB of RAM with 64GB, 128GB, or 256GB
@@ -4785,10 +5065,11 @@ products:
         price: 319.95
         image: images/129-black.jpeg
   - id: 130
-    name: Apple iPhone 13 Mini , 256GB , Physical SIM , Unlocked , A- Grade
+    name: Apple iPhone 13 Mini , 256GB , Physical SIM , Unlocked , A-  Grade  ,
+      Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Color Black. The iPhone 13 mini (2021) is a compact flagship
+      (90-Day Limited Warranty) The iPhone 13 mini (2021) is a compact flagship
       featuring a 5.4-inch Super Retina XDR OLED display,
 
       A15 Bionic chip, and improved dual 12MP cameras (wide/ultra-wide) with Sensor-Shift OIS. Key specs include 4GB RAM, 128GB-512GB storage, Face ID, 5G connectivity, and a ~2438mAh battery with MagSafe. It measures
@@ -4820,10 +5101,11 @@ products:
         price: 359.95
         image: images/130-black.webp
   - id: 131
-    name: Apple iPhone XS , 64GB , Physical SIM , Unlocked , A- Grade
+    name: Apple iPhone XS , 64GB , Physical SIM , Unlocked , A- Grade , Certified
+      Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Color Black. Handset Only.  The iPhone XS (released 2018)
+      (90-Day Limited Warranty) Handset Only.  The iPhone XS (released 2018)
       features a 5.8-inch Super Retina OLED display (2436x1125), A12 Bionic
       chip, 4GB RAM, and a dual 12MP rear camera system (wide/telephoto) with 4K
       video. It includes Face ID, IP68 water resistance, and a 2,658mAh battery.
@@ -4849,10 +5131,11 @@ products:
         color: Black
         image: images/131-black.jpeg
   - id: 132
-    name: Apple iPhone XS Max , 256GB , Physical SIM , Unlocked , A- Grade
+    name: Apple iPhone XS Max , 256GB , Physical SIM , Unlocked , A- Grade ,
+      Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Color Black. Handset OnlyThe Apple iPhone XS Max features a
+      (90-Day Limited Warranty) Handset Only The Apple iPhone XS Max features a
       6.5-inch Super Retina OLED display (2688 x 1242), A12 Bionic chip, 4GB
       RAM, and a 3,174 mAh battery. Key specs include dual 12MP rear cameras
       (wide/telephoto), IP68 water resistance, Face ID, and storage options of
@@ -4880,14 +5163,15 @@ products:
         color: Black
         image: images/132-black.png
   - id: 133
-    name: Apple iPhone XS Max , 64GB , Physical SIM , Unlocked , A- Grade
+    name: Apple iPhone XS Max , 64GB , Physical SIM , Unlocked , A- Grade ,
+      Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Color Black. Details Handset OnlyThe Apple iPhone XS Max
-      features a 6.5-inch Super Retina OLED display (2688 x 1242), A12 Bionic
-      chip, 4GB RAM, and a 3,174 mAh battery. Key specs include dual 12MP rear
-      cameras (wide/telephoto), IP68 water resistance, Face ID, and storage
-      options of 64GB, 256GB, or 512GB. Released in 2018, it supports iOS 18. 
+      (90-Day Limited Warranty) Handset Only The Apple iPhone XS Max features a
+      6.5-inch Super Retina OLED display (2688 x 1242), A12 Bionic chip, 4GB
+      RAM, and a 3,174 mAh battery. Key specs include dual 12MP rear cameras
+      (wide/telephoto), IP68 water resistance, Face ID, and storage options of
+      64GB, 256GB, or 512GB. Released in 2018, it supports iOS 18. 
 
       Key Technical Specifications
 
@@ -4910,14 +5194,15 @@ products:
         color: Black
         image: images/133-black.png
   - id: 134
-    name: " Apple iPhone 7, 32GB , Physical SIM , Unlocked , A-Grade"
+    name: " Apple iPhone 7, 32GB , Physical SIM , Unlocked , A-Grade , Certified
+      Pre-owned"
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Colors Sliver & Black Details Handset Only  The iPhone 7 (2016)
-      features a 4.7-inch Retina HD display, Apple A10 Fusion chip, 2GB RAM, and
-      12MP rear camera with 4K video. It has an IP67 water-resistant rating,
-      Touch ID, and a 1,960mAh battery. It was released with iOS 10 and is
-      upgradable to iOS 15. 
+      (90-Day Limited Warranty) Handset Only  The iPhone 7 (2016) features a
+      4.7-inch Retina HD display, Apple A10 Fusion chip, 2GB RAM, and 12MP rear
+      camera with 4K video. It has an IP67 water-resistant rating, Touch ID, and
+      a 1,960mAh battery. It was released with iOS 10 and is upgradable to iOS
+      15. 
 
       Key Specifications: 
 
@@ -4957,11 +5242,10 @@ products:
         color: Black
         image: images/134-black.png
   - id: 135
-    name: Google 8 Pro 128GB, Unlocked , A-Grade
+    name: Google 8 Pro 128GB, Unlocked , A-Grade , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Colors , Black,white,  Mint (light green), Bay (light
-      blue).  The
+      (90-Day Limited Warranty) The
 
       Google Pixel 8 Pro features a 6.7-inch Super Actua LTPO OLED display (1-120Hz), the Google Tensor G3 chip, 12GB RAM, and a 5050mAh battery. It boasts a powerful triple rear camera system (50MP main, 48MP ultrawide, 48MP telephoto) with advanced AI photo/video tools like Video Boost and Best Take. 
 
@@ -5016,12 +5300,14 @@ products:
         image: images/135-green.png
         price: 539.95
   - id: 136
-    name: Google Pixel 8 Pro, 256GB, Unlocked, A-Grade
+    name: Google Pixel 8 Pro, 256GB, Unlocked, A-Grade , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Colors , Black,white, Mint (light green), Bay (light blue).  The
-
-      Google Pixel 8 Pro features a 6.7-inch Super Actua LTPO OLED display (1-120Hz), the Google Tensor G3 chip, 12GB RAM, and a 5050mAh battery. It boasts a powerful triple rear camera system (50MP main, 48MP ultrawide, 48MP telephoto) with advanced AI photo/video tools like Video Boost and Best Take. 
+      (90-Day Limited Warranty) TheGoogle Pixel 8 Pro features a 6.7-inch Super
+      Actua LTPO OLED display (1-120Hz), the Google Tensor G3 chip, 12GB RAM,
+      and a 5050mAh battery. It boasts a powerful triple rear camera system
+      (50MP main, 48MP ultrawide, 48MP telephoto) with advanced AI photo/video
+      tools like Video Boost and Best Take. 
 
       Key Specifications 
 
@@ -5072,15 +5358,15 @@ products:
         price: 589.95
         image: images/136-green.webp
   - id: 137
-    name: Google Pixel 8, 128GB, A-Grade, Unlocked, Pre-owned
+    name: "  Google Pixel 8, 128GB, A-Grade, Unlocked , Certified Pre-owned"
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Colors Mint (light green), Rose ,Black. Details  The Google
-      Pixel 8 is a compact 6.2-inch flagship smartphone featuring the Tensor G3
-      chip, 8GB RAM, a 120Hz Actua OLED display, and a 50MP main camera. Key
-      specs include a 4575mAh battery, 27W wired charging, and 7 years of
-      Android OS/security updates. It offers premium features like IP68 water
-      resistance, Face/Fingerprint Unlock, and AI-driven camera tools. 
+      (90-Day Limited Warranty)  The Google Pixel 8 is a compact 6.2-inch
+      flagship smartphone featuring the Tensor G3 chip, 8GB RAM, a 120Hz Actua
+      OLED display, and a 50MP main camera. Key specs include a 4575mAh battery,
+      27W wired charging, and 7 years of Android OS/security updates. It offers
+      premium features like IP68 water resistance, Face/Fingerprint Unlock, and
+      AI-driven camera tools. 
 
       Key Specifications
 
@@ -5107,14 +5393,13 @@ products:
         price: 469.95
         image: images/137-black.png
   - id: 138
-    name: Google Pixel 7A, 128GB, Unlocked , A-Grade, Pre-owned
+    name: " Google Pixel 7A, 128GB, Unlocked , A-Grade , Certified Pre-owned"
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Colors White, Coral , Charcoal   Details  The Google Pixel 7a
-      features a 6.1-inch FHD+ OLED 90Hz display, powered by the Google Tensor
-      G2 chip, with 8GB RAM and 128GB storage, a 64MP main camera, 13MP
-      ultrawide, 13MP selfie camera, and a 4385mAh battery with wireless
-      charging, all running Android.
+      (90-Day Limited Warranty) The Google Pixel 7a features a 6.1-inch FHD+
+      OLED 90Hz display, powered by the Google Tensor G2 chip, with 8GB RAM and
+      128GB storage, a 64MP main camera, 13MP ultrawide, 13MP selfie camera, and
+      a 4385mAh battery with wireless charging, all running Android.
 
       Display
 
@@ -5163,15 +5448,15 @@ products:
         price: 409.95
         image: images/138-charcoal.png
   - id: 139
-    name: Google Pixel 7,128GB, A-Grade, Unlocked, Pre-owned
+    name: Google Pixel 7,128GB, A-Grade, Unlocked , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Colors White & Black. Details   The Google Pixel 7 features a
-      6.3-inch OLED display (90Hz) with Corning Gorilla Glass Victus, powered by
-      the Google Tensor G2 processor, 8GB of RAM, and a 4355mAh battery. It
-      includes a 50MP main camera, a 12MP ultrawide camera, and 128GB or 256GB
-      of storage. It runs on Android 13, features an IP68 rating, and is known
-      for AI-powered camera features like Magic Eraser and Photo Unblur. 
+      (90-Day Limited Warranty)  The Google Pixel 7 features a 6.3-inch OLED
+      display (90Hz) with Corning Gorilla Glass Victus, powered by the Google
+      Tensor G2 processor, 8GB of RAM, and a 4355mAh battery. It includes a 50MP
+      main camera, a 12MP ultrawide camera, and 128GB or 256GB of storage. It
+      runs on Android 13, features an IP68 rating, and is known for AI-powered
+      camera features like Magic Eraser and Photo Unblur. 
 
       Key Specifications for Google Pixel 7:
 
@@ -5196,16 +5481,15 @@ products:
         price: 359.95
         image: images/139-black.png
   - id: 140
-    name: Google Pixel 7 Pro ,128GB, Unlocked, A-Grade, Pre-owned
+    name: Google Pixel 7 Pro ,128GB, Unlocked, A-Grade , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Colors Black,  Hazel, White. Details  The Google Pixel 7 Pro
-      features a 6.7-inch QHD+ LTPO OLED display (120Hz), the Google Tensor G2
-      chipset with 12GB RAM, and a 5,000mAh battery. Its triple rear camera
-      system includes a 50MP main, 48MP 5x telephoto, and 12MP ultrawide lens,
-      supporting up to 30x Super Res Zoom. It runs Android 13 (upgradable) and
-      features IP68 water resistance, Face/Fingerprint unlock, and
-      128GB/256GB/512GB storage options. 
+      (90-Day Limited Warranty) The Google Pixel 7 Pro features a 6.7-inch QHD+
+      LTPO OLED display (120Hz), the Google Tensor G2 chipset with 12GB RAM, and
+      a 5,000mAh battery. Its triple rear camera system includes a 50MP main,
+      48MP 5x telephoto, and 12MP ultrawide lens, supporting up to 30x Super Res
+      Zoom. It runs Android 13 (upgradable) and features IP68 water resistance,
+      Face/Fingerprint unlock, and 128GB/256GB/512GB storage options. 
 
       Key Specifications:
 
@@ -5241,16 +5525,15 @@ products:
         price: 399.95
         image: images/140-white.png
   - id: 141
-    name: Google Pixel 7 Pro ,256GB, Unlocked, A-Grade, Pre-owned
+    name: Google Pixel 7 Pro ,256GB, Unlocked, A-Grade , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Colors Black, Hazel, White. Details  The Google Pixel 7 Pro
-      features a 6.7-inch QHD+ LTPO OLED display (120Hz), the Google Tensor G2
-      chipset with 12GB RAM, and a 5,000mAh battery. Its triple rear camera
-      system includes a 50MP main, 48MP 5x telephoto, and 12MP ultrawide lens,
-      supporting up to 30x Super Res Zoom. It runs Android 13 (upgradable) and
-      features IP68 water resistance, Face/Fingerprint unlock, and
-      128GB/256GB/512GB storage options. 
+      (90-Day Limited Warranty)The Google Pixel 7 Pro features a 6.7-inch QHD+
+      LTPO OLED display (120Hz), the Google Tensor G2 chipset with 12GB RAM, and
+      a 5,000mAh battery. Its triple rear camera system includes a 50MP main,
+      48MP 5x telephoto, and 12MP ultrawide lens, supporting up to 30x Super Res
+      Zoom. It runs Android 13 (upgradable) and features IP68 water resistance,
+      Face/Fingerprint unlock, and 128GB/256GB/512GB storage options. 
 
       Key Specifications:
 
@@ -5286,16 +5569,15 @@ products:
         price: 449.95
         image: images/141-white.png
   - id: 142
-    name: Google Pixel 7 Pro 512GB, Unlocked, A-Grade, Pre-owned
+    name: Google Pixel 7 Pro 512GB, Unlocked, A-Grade , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Colors Black, Hazel, White,. Details  The Google Pixel 7 Pro
-      features a 6.7-inch QHD+ LTPO OLED display (120Hz), the Google Tensor G2
-      chipset with 12GB RAM, and a 5,000mAh battery. Its triple rear camera
-      system includes a 50MP main, 48MP 5x telephoto, and 12MP ultrawide lens,
-      supporting up to 30x Super Res Zoom. It runs Android 13 (upgradable) and
-      features IP68 water resistance, Face/Fingerprint unlock, and
-      128GB/256GB/512GB storage options. 
+      (90-Day Limited Warranty)  The Google Pixel 7 Pro features a 6.7-inch QHD+
+      LTPO OLED display (120Hz), the Google Tensor G2 chipset with 12GB RAM, and
+      a 5,000mAh battery. Its triple rear camera system includes a 50MP main,
+      48MP 5x telephoto, and 12MP ultrawide lens, supporting up to 30x Super Res
+      Zoom. It runs Android 13 (upgradable) and features IP68 water resistance,
+      Face/Fingerprint unlock, and 128GB/256GB/512GB storage options. 
 
       Key Specifications:
 
@@ -5331,15 +5613,15 @@ products:
         price: 499.95
         image: images/142-white.png
   - id: 143
-    name: Google Pixel 9 Pro, 128GB, Unlocked, A-2 Grade , Pre-owned
+    name: Google Pixel 9 Pro, 128GB, Unlocked, A-2 Grade , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Colors Black, Rose, Hazel, White. Details  The Google Pixel 9
-      Pro is a compact flagship, featuring a 6.3-inch Super Actua LTPO OLED
-      display (1-120Hz, up to 3000 nits peak), Tensor G4 processor, 16GB RAM,
-      and a 4700mAh battery. It boasts a triple-rear camera system (50MP wide,
-      48MP ultrawide, 48MP 5x telephoto) and a 42MP front camera. Key features
-      include 27W wired charging, Android 14, and 128GB to 1TB storage. 
+      (90-Day Limited Warranty) The Google Pixel 9 Pro is a compact flagship,
+      featuring a 6.3-inch Super Actua LTPO OLED display (1-120Hz, up to 3000
+      nits peak), Tensor G4 processor, 16GB RAM, and a 4700mAh battery. It
+      boasts a triple-rear camera system (50MP wide, 48MP ultrawide, 48MP 5x
+      telephoto) and a 42MP front camera. Key features include 27W wired
+      charging, Android 14, and 128GB to 1TB storage. 
 
       Key Specifications
 
@@ -5378,10 +5660,10 @@ products:
         price: 729.95
         image: images/143-white.png
   - id: 144
-    name: Samsung Galaxy A52 , 128GB ,Unlocked , A+Grade , Pre-owned
+    name: Samsung Galaxy A52 , 128GB ,Unlocked , A+Grade , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Color Black, Details    The Samsung Galaxy A52 (released 2021) is a
+      (90-Day Limited Warranty)   The Samsung Galaxy A52 (released 2021) is a
       mid-range smartphone featuring a 6.5-inch Super AMOLED 90Hz/120Hz display,
       Snapdragon 720G/750G processor, and a 64MP main camera with OIS. Known for
       its IP67 water resistance, 4,500mAh battery with 25W charging, and
@@ -5419,15 +5701,15 @@ products:
         price: 309.95
         image: images/144-black.jpeg
   - id: 145
-    name: Samsung Galaxy A54 , 128GB , Unlocked , A+ Grade , Pre-owned
+    name: Samsung Galaxy A54 , 128GB , Unlocked , A+ Grade , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     price: ""
     description: >-
-      Available Color.Black. Details  The Samsung Galaxy A54 5G features a
-      6.4-inch 120Hz FHD+ Super AMOLED display, Exynos 1380 processor, 50MP OIS
-      main camera, and a 5000mAh battery with 25W charging. Released in 2023, it
+      (90-Day Limited Warranty) The Samsung Galaxy A54 5G features a 6.4-inch
+      120Hz FHD+ Super AMOLED display, Exynos 1380 processr, 50MP OIS main
+      camera, and a 5000mAh battery with 25W charging. Released in 2023, it
       includes IP67 water resistance, 6GB/8GB RAM, and 128GB/256GB storage,
-      expandable up to 1TB via microSD. 
+      expandable up to 1TB via microSD.  
 
       Key Specifications
 
@@ -5449,12 +5731,11 @@ products:
         image: images/145-black.jpeg
   - id: 146
     description: >-
-      Available Color Black.          Details  The Samsung Galaxy S21 Ultra 5G
-      features a 6.8-inch Dynamic AMOLED 2X display with a 120Hz adaptive
-      refresh rate, powered by a Snapdragon 888 or Exynos 2100 processor. It
-      includes a 108MP quad-camera system with 100x Space Zoom, a 5000mAh
-      battery, and supports S Pen functionality, running on Android 11 up to 4
-      major upgrades. 
+      (90-Day Limited Warranty)  The Samsung Galaxy S21 Ultra 5G features a
+      6.8-inch Dynamic AMOLED 2X display with a 120Hz adaptive refresh rate,
+      powered by a Snapdragon 888 or Exynos 2100 processor. It includes a 108MP
+      quad-camera system with 100x Space Zoom, a 5000mAh battery, and supports S
+      Pen functionality, running on Android 11 up to 4 major upgrades. 
 
       This video provides a detailed overview of the Galaxy S21 Ultra's specifications: Core Specifications:
 
@@ -5481,7 +5762,7 @@ products:
       Design
 
       The device has a 6.8-inch display, with a 165.1 x 75.6 x 8.9 mm footprint.
-    name: Samsung Galaxy S21 Ultra,128GB, Unlocked, A+Grade, Pre-owned
+    name: Samsung Galaxy S21 Ultra,128GB, Unlocked, A+Grade , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     variants:
       - id: 50485
@@ -5489,14 +5770,14 @@ products:
         price: 399.95
         image: images/146-black.jpeg
   - id: 147
-    name: Samsung Galaxy S23 Ultra, 256GB, Unlocked, A+Grade, Pre-owned
+    name: Samsung Galaxy S23 Ultra, 256GB, Unlocked, A+Grade , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >
-      Available Colors Green, Gray.  Details  The Samsung Galaxy S23 Ultra is a
-      premium 5G smartphone featuring a 6.8-inch QHD+ Dynamic AMOLED 2X display
-      (1-120Hz), a 200MP main camera, and a built-in S Pen. Powered by the
-      Snapdragon 8 Gen 2 for Galaxy chipset, it includes a 5,000mAh battery with
-      45W fast charging, up to 12GB of RAM, and 1TB of storage. 
+      (90-Day Limited Warranty)  The Samsung Galaxy S23 Ultra is a premium 5G
+      smartphone featuring a 6.8-inch QHD+ Dynamic AMOLED 2X display (1-120Hz),
+      a 200MP main camera, and a built-in S Pen. Powered by the Snapdragon 8 Gen
+      2 for Galaxy chipset, it includes a 5,000mAh battery with 45W fast
+      charging, up to 12GB of RAM, and 1TB of storage. 
 
       This video provides a detailed review of the Samsung Galaxy S23 Ultra's features and performance. Key Specifications
 
@@ -5524,14 +5805,14 @@ products:
         price: 649.95
         image: images/147-gray.webp
   - id: 148
-    name: Samsung Galaxy Note 20, 128GB, Unlocked, A+Grade, Pre-owned
+    name: Samsung Galaxy Note 20, 128GB, Unlocked, A+Grade , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      Available Colors Black, Bronze, Gray. Details  The Samsung Galaxy Note 20
-      5G (2020) features a 6.7-inch Super AMOLED+ 60Hz display, Snapdragon 865+
-      or Exynos 990 processor, 8GB RAM, and a 4300mAh battery. It boasts a 12MP
-      wide, 64MP telephoto (3x optical/30x space zoom), and 12MP ultra-wide
-      triple camera system with 8K video recording. 
+      (90-Day Limited Warranty) The Samsung Galaxy Note 20 5G (2020) features a
+      6.7-inch Super AMOLED+ 60Hz display, Snapdragon 865+ or Exynos 990
+      processor, 8GB RAM, and a 4300mAh battery. It boasts a 12MP wide, 64MP
+      telephoto (3x optical/30x space zoom), and 12MP ultra-wide triple camera
+      system with 8K video recording. 
 
       Key Specifications:
 
@@ -5549,41 +5830,40 @@ products:
     variants:
       - id: 50488
         color: Black
-        price: 399.95
+        price: 409.95
         image: images/148-black.jpeg
       - id: 50489
         color: Bronze
-        price: 399.95
+        price: 409.95
         image: images/148-bronze.jpeg
       - id: 50490
         color: Gray
-        price: 399.95
+        price: 409.95
         image: images/148-gray.jpeg
   - id: 149
-    name: AT&T Radiant Max , 32GB ,4G , Unlocked , A+Grade , Pre-owned
+    name: AT&T Radiant Max , 32GB ,4G , Unlocked , A+Grade , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
-    description: "Available Color Blue. Details. The official hardware
-      specifications for the AT&T Radiant Max (4G LTE) and the upgraded AT&T
-      Radiant Max 5G detail the exact capabilities of each device. According to
-      the official AT&T Device Support Documentation, the standalone hardware
-      specifications are itemized below:AT&T Radiant Max (4G LTE Model)Display:
-      6.5-inch HD+ LCD (1560 x 720 resolution), protected by Corning Gorilla
-      Glass 5.Processor: 2.0 GHz Octa-Core MediaTek Helio P22.Storage: 32GB
-      internal storage, expandable up to 128GB via microSD card.RAM: 3GB
-      RAM.Rear Camera: Triple setup—13MP (main) + 5MP (ultra-wide) + 2MP (depth
-      sensor).Front Camera: 8MP front-facing selfie camera.Battery: 4,000 mAh
-      internal battery (Up to 2 days of battery life; fast-charging via
-      USB-C).Operating System: Android 10.Security & Features: Rear fingerprint
-      sensor, 3.5mm headphone jack, and DTS audio enhancement.AT&T Radiant Max
-      5G (Upgraded Model)Display: 6.82-inch HD+ LCD scratch-resistant
-      display.Processor: MediaTek Dimensity 700 Octa-Core chipset.Storage: 64GB
-      internal storage, expandable up to 512GB via microSD card.RAM: 4GB
-      RAM.Rear Camera: Quad AI setup—48MP (main) + 8MP (ultra-wide) + 2MP
-      (macro) + 2MP (portrait depth).Front Camera: 13MP front-facing selfie
-      camera.Battery: 4,750 mAh internal battery supporting both standard
-      fast-charging and wireless charging capabilities.Operating System: Android
-      11.Network: 5G Sub-6GHz capabilities alongside standard 4G LTE
-      bands.     "
+    description: "(90-Day Limited Warranty) The official hardware specifications for
+      the AT&T Radiant Max (4G LTE) and the upgraded AT&T Radiant Max 5G detail
+      the exact capabilities of each device. According to the official AT&T
+      Device Support Documentation, the standalone hardware specifications are
+      itemized below:AT&T Radiant Max (4G LTE Model)Display: 6.5-inch HD+ LCD
+      (1560 x 720 resolution), protected by Corning Gorilla Glass 5.Processor:
+      2.0 GHz Octa-Core MediaTek Helio P22.Storage: 32GB internal storage,
+      expandable up to 128GB via microSD card.RAM: 3GB RAM.Rear Camera: Triple
+      setup—13MP (main) + 5MP (ultra-wide) + 2MP (depth sensor).Front Camera:
+      8MP front-facing selfie camera.Battery: 4,000 mAh internal battery (Up to
+      2 days of battery life; fast-charging via USB-C).Operating System: Android
+      10.Security & Features: Rear fingerprint sensor, 3.5mm headphone jack, and
+      DTS audio enhancement.AT&T Radiant Max 5G (Upgraded Model)Display:
+      6.82-inch HD+ LCD scratch-resistant display.Processor: MediaTek Dimensity
+      700 Octa-Core chipset.Storage: 64GB internal storage, expandable up to
+      512GB via microSD card.RAM: 4GB RAM.Rear Camera: Quad AI setup—48MP (main)
+      + 8MP (ultra-wide) + 2MP (macro) + 2MP (portrait depth).Front Camera: 13MP
+      front-facing selfie camera.Battery: 4,750 mAh internal battery supporting
+      both standard fast-charging and wireless charging capabilities.Operating
+      System: Android 11.Network: 5G Sub-6GHz capabilities alongside standard 4G
+      LTE bands.     "
     variants:
       - id: 50491
         color: Blue
@@ -5592,19 +5872,19 @@ products:
   - variants:
       - id: 50492
         color: Black
-        price: 1399.95
+        price: 1329.95
         image: images/150-black.jpg
       - id: 50493
         color: "Jadegreen "
-        price: 1399.95
+        price: 1329.95
         image: images/s25_ultra_green__47114.jpg
       - id: 50494
         color: Gray
-        price: 1399.95
+        price: 1329.95
         image: images/150-gray.webp
       - id: 50495
         color: Silver
-        price: 1399.95
+        price: 1329.95
         image: images/150-silver.webp
     id: 150
     name: Samsung Galaxy S25 Ultra , 1TB , 5G , Dual Sim , Unlocked , New , Sealed
@@ -5755,19 +6035,19 @@ products:
     variants:
       - id: 50504
         color: Violet
-        price: 1799.95
+        price: 1609.95
         image: images/153-violet.jpg
       - id: 50505
         color: Black
-        price: 1799.95
+        price: 1609.95
         image: images/153-black.jpeg
       - id: 50506
         color: Blue
-        price: 1799.95
+        price: 1609.95
         image: images/153-blue.png
       - id: 50507
         color: White
-        price: 1799.95
+        price: 1609.95
         image: images/153-white.png
   - id: 154
     name: Samsung Galaxy S26 Plus , 512GB, Unlocked, New, Sealed
@@ -5902,19 +6182,19 @@ products:
     variants:
       - id: 50516
         color: Violet
-        price: 1499.95
+        price: 1309.95
         image: images/156-violet.jpg
       - id: 50517
         color: Black
-        price: 1499.95
+        price: 1309.95
         image: images/156-black.jpeg
       - id: 50518
         color: Blue
-        price: 1499.95
+        price: 1309.95
         image: images/156-blue.png
       - id: 50519
         color: White
-        price: 1499.95
+        price: 1309.95
         image: images/156-white.png
   - id: 157
     name: Samsung Galaxy S26 Ultra  256GB, Unlocked
@@ -5957,19 +6237,19 @@ products:
     variants:
       - id: 50520
         color: Blue
-        price: 1299.95
+        price: 1139.95
         image: images/157-blue.png
       - id: 50521
         color: Black
-        price: 1299.95
+        price: 1139.95
         image: images/157-black.jpeg
       - id: 50522
         color: White
-        price: 1299.95
+        price: 1139.95
         image: images/157-white.png
       - id: 50523
         color: Violet
-        price: 1299.95
+        price: 1139.95
         image: images/157-violet.jpg
   - id: 158
     name: Samsung Galaxy S26, 256GB, Unlocked, New , Sealed
@@ -6002,19 +6282,19 @@ products:
     variants:
       - id: 50524
         color: Black
-        price: 919.95
+        price: 929.95
         image: images/158-black.jpeg
       - id: 50525
         color: Blue
-        price: 919.95
+        price: 929.95
         image: images/158-blue.png
       - id: 50526
         color: Violet
-        price: 919.95
+        price: 929.95
         image: images/158-violet.jpg
       - id: 50527
         color: White
-        price: 919.95
+        price: 929.95
         image: images/158-white.png
   - id: 159
     name: Samsung Galaxy F17, 128GB, Latin Spec, Unlocked, New, Sealed
@@ -6042,7 +6322,7 @@ products:
     variants:
       - id: 50528
         color: Black
-        price: 289.95
+        price: 269.95
         image: images/159-black.jpeg
   - id: 160
     name: Samsung Galaxy A17, 8GB, 256GB, Latin Spec, Unlocked, New , Sealed
@@ -6861,11 +7141,11 @@ products:
     name: Samsung Galaxy M55, 256GB, Latin Spec, Unlocked , New, Sealed
     category: Phones
     description: >-
-      Available Colors Denim Black , Light Green.  The Samsung Galaxy M55 5G is
-      a slim (7.8mm) smartphone featuring a 6.7-inch FHD+ 120Hz Super AMOLED
-      Plus display, a Qualcomm Snapdragon 7 Gen 1 processor, and 8GB/12GB RAM.
-      It boasts a 50MP primary camera with OIS and a 50MP front camera, backed
-      by a 5,000mAh battery with 45W fast charging. 
+      The Samsung Galaxy M55 5G is a slim (7.8mm) smartphone featuring a
+      6.7-inch FHD+ 120Hz Super AMOLED Plus display, a Qualcomm Snapdragon 7 Gen
+      1 processor, and 8GB/12GB RAM. It boasts a 50MP primary camera with OIS
+      and a 50MP front camera, backed by a 5,000mAh battery with 45W fast
+      charging. 
 
       Key Specifications:
 
@@ -6881,14 +7161,14 @@ products:
     variants:
       - id: 50591
         color: Black
-        price: 419.95
+        price: 349.95
         image: images/181-black.jpeg
       - id: 50592
         color: Green
-        price: 419.95
+        price: 349.95
         image: images/181-green.jpg
   - id: 182
-    name: Samsung Galaxy S24 FE, 256GB, Unlocked , New , Sealed
+    name: Samsung Galaxy S24 FE, 256GB , Unlocked , New , Sealed
     category: Phones
     description: >-
       Available Colors Gay Graphite        The Samsung Galaxy S24 FE is a
@@ -6924,11 +7204,11 @@ products:
     variants:
       - id: 50593
         color: Graphite
-        price: 659.95
+        price: 639.95
         image: images/182-graphite.png
       - id: 50594
         color: Gray
-        price: 659.95
+        price: 639.95
         image: images/182-grey.png
   - id: 183
     name: Samsung Galaxy A54, 128GB,  Unlocked , New , Sealed
@@ -6964,14 +7244,14 @@ products:
     variants:
       - id: 50595
         color: Black
-        price: 399.95
+        price: 339.95
         image: images/183-black.jpeg
       - id: 50596
         color: Violet
-        price: 399.95
+        price: 339.95
         image: images/183-Violet.jpg
   - id: 185
-    name: Meizu Note 21, 256GB, Unlocked , New , Sealed
+    name: Meizu Note 21, 256GB,  GSM Unlocked , International Version, New , Sealed
     category: Phones
     description: >-
       Avaiable Colors Blue. The Meizu 21 Note (256GB storage) is a
@@ -6995,10 +7275,10 @@ products:
     variants:
       - id: 50599
         color: Blue
-        price: 299.95
+        price: 259.95
         image: images/185-blue.jpeg
   - id: 186
-    name: Honor X8A, 256GB, Latin Spec , Unlocked , New ,Sealed
+    name: Honor X8A, 256GB,  GSM Unlocked , International Version , New ,Sealed
     category: Phones
     description: >-
       Avaiable Colors Blue.  The Honor X8a is a 4G budget smartphone featuring a
@@ -7025,18 +7305,24 @@ products:
     variants:
       - id: 50600
         color: Blue
-        price: 299.95
+        price: 259.95
         image: images/186-blue.jpeg
   - id: 187
-    name: ZTE Nubia Music, 128GB, 4G, Unlocked, New, Sealed
+    name: ZTE Nubia Music, 128GB, 4G ,GSM Unlocked , International Version , New,
+      Sealed
     category: Phones
     description: >-
-      Avaiable Colors Pop Art , Orange   The Nubia Music is a budget-focused
-      smartphone (typically 4G/LTE, not 5G) designed for audio enthusiasts,
-      featuring a high-volume "vinyl-record" style speaker, dual 3.5mm headphone
-      jacks, and a 5000mAh battery. It offers 128GB storage, a 50MP camera, and
-      a 90Hz display, but provides modest performance using a Unisoc T606
-      processor. 
+      (This Smartphone Is Compatible With  Only T-Mobile , Mint Mobile , Metro
+      by T-Mobile, Tello Mobile, Ultra Mobile In The US) ZTE smartphones are
+      highly compatible with carriers in Africa, the Middle East, Asia, the
+      Caribbean, Latin America ,UK and Europe. You will get high-speed data and
+      voice service in US cities, but expect dropped signals or roaming issues
+      in rural areas in the US due to a lack of low-frequency bands .Avaiable
+      Colors Pop Art , Orange   The Nubia Music is a budget-focused smartphone
+      (typically 4G/LTE, not 5G) designed for audio enthusiasts, featuring a
+      high-volume "vinyl-record" style speaker, dual 3.5mm headphone jacks, and
+      a 5000mAh battery. It offers 128GB storage, a 50MP camera, and a 90Hz
+      display, but provides modest performance using a Unisoc T606 processor. 
 
       Key Features and Details
 
@@ -7090,29 +7376,35 @@ products:
     variants:
       - id: 50603
         color: Gray
-        price: 829.95
+        price: 799.95
         image: images/188-gray.png
       - id: 50604
         color: Black
-        price: 829.95
+        price: 799.95
         image: images/188-black.jpeg
       - id: 50605
         color: Orange
-        price: 829.95
+        price: 799.95
         image: images/188-orange.webp
       - id: 50606
-        price: 829.95
+        price: 799.95
         color: Yellow
         image: images/188-yellow.png
   - id: 189
-    name: ZTE Nubia Neo 2, 256GB , Unlocked, New , Sealed
+    name: ZTE Nubia Neo 2, 256GB ,GSM Unlocked , International Version , New , Sealed
     category: Phones
     description: >-
-      Available Colors Gray.  The ZTE Nubia Neo 2 5G is a budget gaming
-      smartphone featuring a 6.72-inch 120Hz FHD+ display, a Unisoc T820
-      processor, and dual gaming shoulder triggers. It packs a 6000mAh battery
-      with 33W fast charging, 8GB RAM (expandable), and 256GB storage, all
-      within a mecha-design body, often running Android 14. 
+      (This Smartphone Is Compatible With  Only T-Mobile , Mint Mobile , Metro
+      by T-Mobile, Tello Mobile, Ultra Mobile In The US) ZTE smartphones are
+      highly compatible with carriers in Africa, the Middle East, Asia, the
+      Caribbean, Latin America,UK and Europe. You will get high-speed data and
+      voice service in US cities, but expect dropped signals or roaming issues
+      in rural areas in the US due to a lack of low-frequency bands.  The ZTE
+      Nubia Neo 2 5G is a budget gaming smartphone featuring a 6.72-inch 120Hz
+      FHD+ display, a Unisoc T820 processor, and dual gaming shoulder triggers.
+      It packs a 6000mAh battery with 33W fast charging, 8GB RAM (expandable),
+      and 256GB storage, all within a mecha-design body, often running Android
+      14. 
 
       Key Specifications:
 
@@ -7133,15 +7425,20 @@ products:
         price: 359.95
         image: images/189-gray.jpeg
   - id: 190
-    name: Xiaomi Poco C75, 128GB, Unlocked. New , Sealed
+    name: Xiaomi Poco C75, 128GB , GSM Unlocked , International Version , New ,
+      Sealed
     category: Phones
     description: >-
-      Avaiable Colors Black And Green. The POCO C75 is an entry-level smartphone
-      featuring a large 6.88-inch 120Hz IPS LCD display, a 50MP rear camera, and
-      a 5,160mAh battery with 18W charging. It is powered by the MediaTek Helio
-      G81-Ultra processor with up to 8GB RAM, running Android 14 with HyperOS.
-      The device is designed for budget-conscious users, featuring a 13MP front
-      camera and a side-mounted fingerprint sensor. 
+      (This Smartphone Is Compatible With  Only T-Mobile , Mint Mobile , Metro
+      by T-Mobile, Tello Mobile, Ultra Mobile In The US) Xiaomi Poco C75
+      smartphones are highly compatible with carriers in Africa, the Middle
+      East, Asia, the Caribbean, Latin America , UK and Europe. The POCO C75 is
+      an entry-level smartphone featuring a large 6.88-inch 120Hz IPS LCD
+      display, a 50MP rear camera, and a 5,160mAh battery with 18W charging. It
+      is powered by the MediaTek Helio G81-Ultra processor with up to 8GB RAM,
+      running Android 14 with HyperOS. The device is designed for
+      budget-conscious users, featuring a 13MP front camera and a side-mounted
+      fingerprint sensor. 
 
       Key Specifications:
 
@@ -7193,14 +7490,18 @@ products:
         price: 259.95
         image: images/motousa03.webp
   - id: 192
-    name: " Xiaomi Poco M6 Pro, 256GB, Unlocked , New , Sealed"
+    name: " Xiaomi Poco M6 Pro, 256GB, GSM Unlocked , International Version , New ,
+      Sealed"
     category: Phones
     description: >-
-      Available Colors Black, Blue The Poco M6 Pro 5G is a budget-friendly 5G
-      smartphone featuring a 6.79-inch 90Hz FHD+ display, Snapdragon 4 Gen 2
-      chipset, and a 50MP main camera. It includes a 5,000mAh battery, 18W fast
-      charging, IP53 resistance, and a 3.5mm headphone jack. It is available
-      with up to 6GB RAM and 128GB storage. 
+      (This Smartphone Is Compatible With  Only T-Mobile , Mint Mobile , Metro
+      by T-Mobile, Tello Mobile, Ultra Mobile In The US)  Xiaomi Poco M6 Pro
+      smartphones are highly compatible with carriers in Africa, the Middle
+      East, Asia, the Caribbean, Latin America , UK and Europe. The Poco M6 Pro
+      5G is a budget-friendly 5G smartphone featuring a 6.79-inch 90Hz FHD+
+      display, Snapdragon 4 Gen 2 chipset, and a 50MP main camera. It includes a
+      5,000mAh battery, 18W fast charging, IP53 resistance, and a 3.5mm
+      headphone jack. It is available with up to 6GB RAM and 128GB storage. 
 
       Key Specifications:
 
@@ -7254,7 +7555,7 @@ products:
     variants:
       - id: 50613
         color: Silver
-        price: 249.95
+        price: 199.95
         image: images/193-silver.jpeg
   - id: 194
     name: Maxwest Neo Flip Plus , 32MB, Unlocked, New , Sealed
@@ -7327,20 +7628,20 @@ products:
           AI Integration: Deeply integrated AI tools for camera and daily tasks.
     variants:
       - id: 50618
-        color: Green
-        price: 989.95
-        image: images/195-green.jpeg
+        color: White
+        price: 939.95
+        image: images/199-white.webp
       - id: 50619
         color: Gray
-        price: 989.95
+        price: 939.95
         image: images/195-gray.jpeg
       - id: 50620
-        color: White
-        price: 989.95
-        image: images/195-white.webp
+        color: Green
+        price: 939.95
+        image: images/196-green.jpeg
       - id: 50621
         color: Black
-        price: 989.95
+        price: 939.95
         image: images/195-black.png
   - id: 196
     name: Google Pixel 10 Pro , 256GB, Unlocked , New , Sealed
@@ -7522,19 +7823,19 @@ products:
     variants:
       - id: 50634
         color: Black
-        price: 1189.95
+        price: 1099.95
         image: images/199-black.png
       - id: 50635
         color: Gray
-        price: 1189.95
+        price: 1099.95
         image: images/199-gray.jpeg
       - id: 50636
         color: White
-        price: 1189.95
+        price: 1099.95
         image: images/199-white.webp
       - id: 50637
         color: Green
-        price: 1189.95
+        price: 1099.95
         image: images/199-green.jpeg
   - id: 200
     name: Google Pixel 10 Pro XL, 512GB, Unlocked , New , Sealed
@@ -7648,19 +7949,19 @@ products:
     variants:
       - id: 50646
         color: Black
-        price: 839.95
+        price: 799.95
         image: images/202-black.webp
       - id: 50647
         color: White
-        price: 839.95
+        price: 799.95
         image: images/202-white.png
       - id: 50648
         color: Blue
-        price: 839.95
+        price: 799.95
         image: images/202-blue.png
       - id: 50649
         color: Yellow
-        price: 839.95
+        price: 799.95
         image: images/202-yellow.png
   - id: 203
     name: Google Pixel 10, 256GB, Unlocked , New, Sealed
@@ -7733,7 +8034,7 @@ products:
     variants:
       - id: 50654
         color: Black
-        price: 589.95
+        price: 549.95
         image: images/204-black.jpg
   - id: 205
     name: Google Pixel 9 ,128GB , Unlocked , New , Sealed
@@ -7761,7 +8062,7 @@ products:
     variants:
       - id: 50655
         color: Black
-        price: 789.95
+        price: 729.95
         image: images/205-black.jpg
   - id: 206
     name: Google Pixel 9 ,256GB , Unlocked , New , Sealed
@@ -7789,7 +8090,7 @@ products:
     variants:
       - id: 50656
         color: Black
-        price: 889.95
+        price: 829.95
         image: images/206-black.jpg
   - id: 207
     name: Google pixel 9 Pro Fold , 256GB, Unlocked ,New , Sealed
@@ -8365,10 +8666,14 @@ products:
         price: 599.95
         image: images/182-grey.png
   - id: 222
-    name: Xiaomi Redmi 14C , 128GB, 6.4in ,Dual SIM , Unlocked, New , Sealed
+    name: Xiaomi Redmi 14C , 128GB, 6.4in ,Dual SIM , GSM Unlocked , International
+      Version, New , Sealed
     category: Phones
     description: >-
-      The
+      (This Smartphone has  poor Compatibility Only T-Mobile , Mint Mobile ,
+      Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) Xiaomi Redmi
+      smartphones are highly compatible with carriers in Africa, the Middle
+      East, Asia, the Caribbean, Latin America, UK and Europe. The
 
       Xiaomi Redmi 14C
 
@@ -8468,7 +8773,7 @@ products:
           Final Updates: It is scheduled to receive its last security and OS updates in October 2026.
     variants:
       - id: 50701
-        color: "Black"
+        color: " Black"
         price: 449.95
         image: images/google_pixel_6A_black__44154.jpg
   - id: 225
@@ -8759,7 +9064,7 @@ products:
         price: 1629.95
         image: images/iPhone-16-Pro-128GB-E-Sim-Pre-ownednatural-titanium-hero-zoom.webp
       - id: 50721
-        color: "Black"
+        color: " Black"
         price: 1629.95
         image: images/Apple-iPhone-16-Pro-Max-256GB-E-Sim.webp
   - description: >+
@@ -9212,7 +9517,7 @@ products:
     variants:
       - id: 50768
         color: Gray
-        price: 269.95
+        price: 239.95
         image: images/244-gray.webp
   - id: 245
     name: Samsung Galaxy Tab A9 Plus, 64GB, 11inch , Unlocked , Cellular, New ,
@@ -9239,7 +9544,7 @@ products:
     variants:
       - id: 50769
         color: Gray
-        price: 319.95
+        price: 289.95
         image: images/244-gray.webp
   - id: 246
     name: Apple iPhone 14, 128GB,  E-SIM , Unlocked, New , Sealed
@@ -9582,13 +9887,15 @@ products:
         price: 319.95
         image: images/motousa01.webp
   - id: 256
-    name: Xiaomi Redmi 9A , 32GB, Unlocked , New , Sealed
+    name: Xiaomi Redmi 9A , 32GB, GSM Unlocked , International Version , New , Sealed
     category: Phones
     description: >
-      Primary colors: Carbon Gray (Midnight Black), Sky Blue (Sea Blue), and
-      Ocean Green (Nature Green) The Xiaomi Redmi 9A is an entry-level
-      smartphone designed for essential tasks. Below are its primary technical
-      specifications:
+      (This Smartphone has  poor Compatibility Only T-Mobile , Mint Mobile ,
+      Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) Xiaomi Redmi
+      smartphones are highly compatible with carriers in Africa, the Middle
+      East, Asia, the Caribbean, Latin America, UK and Europe. The Xiaomi Redmi
+      9A is an entry-level smartphone designed for essential tasks. Below are
+      its primary technical specifications:
 
       Core Specifications
 
@@ -9624,10 +9931,14 @@ products:
         price: 209.95
         image: images/redmi9a-gray.jpg
   - id: 257
-    name: Xiaomi Redmi 13C, 128GB, Unlocked, New, Sealed
+    name: Xiaomi Redmi 13C, 128GB , GSM Unlocked , International Version , New,
+      Sealed
     category: Phones
     description: >-
-      Specification:
+      (This Smartphone has  poor Compatibility Only T-Mobile , Mint Mobile ,
+      Metro by T-Mobile, Tello Mobile, Ultra Mobile In The US) Xiaomi Redmi
+      smartphones are highly compatible with carriers in Africa, the Middle
+      East, Asia, the Caribbean, Latin America, UK and Europe. Specification:
 
 
       Processor:
@@ -9754,11 +10065,11 @@ products:
     variants:
       - id: 50800
         color: Silver
-        price: 289.95
+        price: 239.95
         image: images/galaxytab11-siver.webp
       - id: 50801
         color: Gray
-        price: 289.95
+        price: 239.95
         image: images/galaxytab11-gray.webp
   - name: Samsung Galaxy Tab A11 , 8.7inch , 64GB , WiFi + Cellular , Unlocked ,
       New, Sealed
@@ -9786,11 +10097,11 @@ products:
     variants:
       - id: 50802
         color: Silver
-        price: 309.95
+        price: 269.95
         image: images/galaxytab11-siver.webp
       - id: 50803
         color: Gray
-        price: 309.95
+        price: 269.95
         image: images/galaxytab11-gray.webp
   - id: 260
     name: " Samsung Galaxy Tab A9 Plus, 64GB, 11inch , Unlocked , WiFi + Cellular ,
@@ -9817,7 +10128,7 @@ products:
     variants:
       - id: 50804
         color: Gray
-        price: 325.95
+        price: 299.95
         image: images/244-gray.webp
   - id: 261
     name: Amazon Fire Tab HD10 , 32GB , 10.1-inch , 13th Gen 2023 , WiFi Only , New
@@ -9955,15 +10266,15 @@ products:
     variants:
       - id: 50808
         color: Purple
-        price: 219.95
+        price: 209.95
         image: images/amazonfire10-purple.jpg
       - id: 50809
         color: Green
-        price: 219.95
+        price: 209.95
         image: images/amazonfire10-mint.jpg
       - id: 50810
         color: Blue
-        price: 219.95
+        price: 209.95
         image: images/amazonfire10-blue.jpg
   - id: 264
     name: Amazon Fire 7 Kids  Tab , 16GB , 7.0-inch , WiFi , New , Sealed
@@ -10057,15 +10368,15 @@ products:
     variants:
       - id: 50814
         color: Silver
-        price: 569.95
+        price: 509.95
         image: images/Apple-iPad-A16-11th-Gen-Silver.jpg
       - id: 50815
         color: Pink
-        price: 569.95
+        price: 509.95
         image: images/Apple-iPad-A16-11th-Gen-Pink.jpeg
       - id: 50816
         color: Blue
-        price: 569.95
+        price: 509.95
         image: images/Apple-iPad-A16-11th-Gen-Blue.jpg
   - description: >-
       The TCL Tab 8 LE is a budget-friendly 8-inch Android tablet (often sold
@@ -10100,14 +10411,15 @@ products:
     variants:
       - id: 50817
         color: Black
-        price: 179.95
+        price: 159.95
         image: images/tcltab-black.jpg
   - id: 267
-    name: Samsung Galaxy A15 , 64GB , A+Grade , Unlocked , Pre-owned
+    name: Samsung Galaxy A15 , 64GB , A+Grade , Unlocked , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >-
-      The Samsung Galaxy A15 comes in two versions (4G and 5G) that share the
-      same body and screen but use different internal processors. 
+      (90-Day Limited Warranty) The Samsung Galaxy A15 comes in two versions (4G
+      and 5G) that share the same body and screen but use different internal
+      processors. 
 
       Core Hardware & Display
 
@@ -10143,27 +10455,28 @@ products:
         price: 229.95
         image: images/galaxya15-blue.webp
       - id: 50836
-        color: "Black"
+        color: " Black"
         price: 229.95
         image: images/galaxya15black.webp
   - id: 268
-    name: Samsung Galaxy A15 , 128GB , A+Grade , Unlocked , Pre-owned
+    name: Samsung Galaxy A15 , 128GB , A+Grade , Unlocked , Certified Pre-owned
     category: Pre-Owned Phones & Tablets
     description: >
-      The Samsung Galaxy A15 comes in two versions (4G and 5G) that share the
-      same body and screen but use different internal processors. Core Hardware
-      & Display Display: 6.5-inch Super AMOLED, 90Hz refresh rate, 1080 x 2340
-      (FHD+) resolution. Processor (4G Model): MediaTek Helio G99. Processor (5G
-      Model): MediaTek Dimensity 6100+. Battery: 5,000 mAh with 25W fast
-      charging (wired). Audio: Includes a 3.5mm headphone jack. Camera System
-      Main: 50 MP (f/1.8) with autofocus. Ultra-Wide: 5 MP (f/2.2). Macro: 2 MP
-      (f/2.4). Selfie: 13 MP (f/2.0) front-facing camera. Video: Supports up to
-      1080p recording at 30fps. Memory & Storage RAM: 4GB, 6GB, or 8GB options.
-      Storage: 128GB or 256GB internal. Expandable: Dedicated microSD slot for
-      up to 1TB of extra space. Software & Connectivity OS: Android 14 with
-      Samsung One UI 6. Security: Side-mounted fingerprint sensor and Samsung
-      Knox Vault. Updates: 4 years of Android OS upgrades and 5 years of
-      security patches. Bluetooth: Version 5.3.
+      (90-Day Limited Warranty) The Samsung Galaxy A15 comes in two versions (4G
+      and 5G) that share the same body and screen but use different internal
+      processors. Core Hardware & Display Display: 6.5-inch Super AMOLED, 90Hz
+      refresh rate, 1080 x 2340 (FHD+) resolution. Processor (4G Model):
+      MediaTek Helio G99. Processor (5G Model): MediaTek Dimensity 6100+.
+      Battery: 5,000 mAh with 25W fast charging (wired). Audio: Includes a 3.5mm
+      headphone jack. Camera System Main: 50 MP (f/1.8) with autofocus.
+      Ultra-Wide: 5 MP (f/2.2). Macro: 2 MP (f/2.4). Selfie: 13 MP (f/2.0)
+      front-facing camera. Video: Supports up to 1080p recording at 30fps.
+      Memory & Storage RAM: 4GB, 6GB, or 8GB options. Storage: 128GB or 256GB
+      internal. Expandable: Dedicated microSD slot for up to 1TB of extra space.
+      Software & Connectivity OS: Android 14 with Samsung One UI 6. Security:
+      Side-mounted fingerprint sensor and Samsung Knox Vault. Updates: 4 years
+      of Android OS upgrades and 5 years of security patches. Bluetooth: Version
+      5.3.
     variants:
       - id: 50837
         color: Blue
@@ -10173,32 +10486,33 @@ products:
         color: Black
         price: 239.95
         image: images/galaxya15black.webp
-  - name: Samsung Galaxy A03S ,32GB , A+Grade , Unlocked , Pre-owned
+  - name: Samsung Galaxy A03S ,32GB , A+Grade , Unlocked , Certified Pre-owned
     id: 269
     category: Pre-Owned Phones & Tablets
-    description: "Colors Black According to Samsung's official website and other
-      sources, the Samsung Galaxy A03s has the following specifications:
-      Display: 6.5-inch HD+ PLS LCD (1600 x 720 resolution) with a standard 60Hz
-      refresh rate. Processor: MediaTek Helio P35 Octa-Core clocked at 2.3 GHz.
-      Memory and storage: 3GB or 4GB of RAM and 32GB or 64GB of internal
-      storage, expandable up to 1TB via a microSD card. Battery: 5,000mAh with
-      15W wired charging support. Rear cameras: Triple camera system with a 13MP
-      main lens, a 2MP macro lens, and a 2MP depth sensor. Front camera: 5MP
-      front-facing camera. Connectivity: 4G LTE, Wi-Fi 802.11 b/g/n, and
-      Bluetooth 5.0. It also includes a 3.5mm headphone jack. Operating system:
-      Launched with Android 11 and was upgradable to Android 13, but is no
-      longer receiving major OS updates. Security: Side-mounted fingerprint
-      sensor and facial recognition "
+    description: "(90-Day Limited Warranty) According to Samsung's official website
+      and other sources, the Samsung Galaxy A03s has the following
+      specifications: Display: 6.5-inch HD+ PLS LCD (1600 x 720 resolution) with
+      a standard 60Hz refresh rate. Processor: MediaTek Helio P35 Octa-Core
+      clocked at 2.3 GHz. Memory and storage: 3GB or 4GB of RAM and 32GB or 64GB
+      of internal storage, expandable up to 1TB via a microSD card. Battery:
+      5,000mAh with 15W wired charging support. Rear cameras: Triple camera
+      system with a 13MP main lens, a 2MP macro lens, and a 2MP depth sensor.
+      Front camera: 5MP front-facing camera. Connectivity: 4G LTE, Wi-Fi 802.11
+      b/g/n, and Bluetooth 5.0. It also includes a 3.5mm headphone jack.
+      Operating system: Launched with Android 11 and was upgradable to Android
+      13, but is no longer receiving major OS updates. Security: Side-mounted
+      fingerprint sensor and facial recognition "
     variants:
       - id: 50839
         color: Black
-        price: 179.95
+        price: 149.95
         image: images/51m45B3Yy+L.jpg
-  - name: "   Samsung Galaxy Z Flip 4 , 128GB , A+Grade , Unlocked , Pre-owned"
+  - name: "   Samsung Galaxy Z Flip 4 , 128GB , A+Grade , Unlocked , Certified
+      Pre-owned"
     id: 270
     category: Pre-Owned Phones & Tablets
     description: >-
-      The Samsung Galaxy Z Flip 4
+      (90-Day Limited Warranty) The Samsung Galaxy Z Flip 4
 
       features a 6.7-inch foldable Dynamic AMOLED 2X main display with a 120Hz refresh rate and a smaller 1.9-inch Super AMOLED cover display. It is powered by the Qualcomm Snapdragon 8+ Gen 1 chipset and includes a 3,700mAh battery that supports 25W fast charging. 
 
@@ -10231,12 +10545,12 @@ products:
         id: 50840
         price: 399.95
         image: images/samsungflip4-black.jpg
-  - name: Samsung Galaxy Z Fold 6 , 256GB ,6.7inch  ,  Unlocked , Latin Spec , A+
-      Grade Open Box , Pre-owned
+  - name: "Samsung Galaxy Z Fold 6 , 256GB ,6.7inch  ,  Unlocked , Latin Spec , A+
+      Grade , Certified Pre-owned  , Open Box "
     category: Pre-Owned Phones & Tablets
     id: 271
     description: >+
-      The Samsung Galaxy Z Fold 6
+      (90-Day Limited Warranty) The Samsung Galaxy Z Fold 6
 
       is characterized by a refined, squared-off design and a more usable 6.3-inch cover display. It runs on the high-performance Snapdragon 8 Gen 3 for Galaxy
 
@@ -10273,13 +10587,15 @@ products:
         color: Blue
         id: 50842
         image: images/samsungzfold6-navy.jpg
-  - name: Samsung Galaxy Z Fold 3 , 256GB , Unlocked , A+ Grade, Open Box , Pre-owned
+  - name: Samsung Galaxy Z Fold 3 , 256GB , Unlocked , A+ Grade, , Certified
+      Pre-owned ,Open Box
     id: 272
     category: Pre-Owned Phones & Tablets
     description: >-
-      The Samsung Galaxy Z Fold 3 was the first in the series to introduce S Pen
-      support and an IPX8 water resistance rating. It features a 7.6-inch
-      foldable display and is powered by the Snapdragon 888 chipset. 
+      (90-Day Limited Warranty) The Samsung Galaxy Z Fold 3 was the first in the
+      series to introduce S Pen support and an IPX8 water resistance rating. It
+      features a 7.6-inch foldable display and is powered by the Snapdragon 888
+      chipset. 
 
       Key Specifications
 
@@ -10306,11 +10622,12 @@ products:
         color: Black
         price: 709.95
         image: images/galaxyzford3-black.jpg
-  - name: Samsung Galaxy Z Fold 4 , 256GB , Unlocked , A+ Grade, Open Box , Pre-owned
+  - name: Samsung Galaxy Z Fold 4 , 256GB , Unlocked , A+ Grade, Open Box ,
+      Certified Pre-owned , Open Box
     id: 273
     category: Pre-Owned Phones & Tablets
     description: >-
-      The Samsung Galaxy Z Fold 4
+      (90-Day Limited Warranty) The Samsung Galaxy Z Fold 4
 
       features a 7.6-inch foldable Dynamic AMOLED 2X main display and a 6.2-inch cover display, both supporting a 120Hz adaptive refresh rate. It is powered by the Qualcomm Snapdragon 8+ Gen 1
 
@@ -10343,41 +10660,42 @@ products:
         color: Black
         price: 719.95
         image: images/samsungzfold4-black.jpg
-  - name: Samsung Galaxy Z Fold 4 , 512GB , Unlocked , A+ Grade, Open Box , Pre-owned
+  - name: Samsung Galaxy Z Fold 4 , 512GB , Unlocked , A+ Grade, , Certified
+      Pre-owned , Open Box
     category: Pre-Owned Phones & Tablets
-    description: "The Samsung Galaxy Z Fold 4 features a 7.6-inch foldable Dynamic
-      AMOLED 2X main display and a 6.2-inch cover display, both supporting a
-      120Hz adaptive refresh rate. It is powered by the Qualcomm Snapdragon 8+
-      Gen 1 chipset and includes a 4,400mAh battery. Key Specifications Display:
-      Main Display: 7.6-inch QXGA+ (2176 x 1812) Dynamic AMOLED 2X, 120Hz
-      adaptive refresh rate, HDR10+, and 1200 nits peak brightness. Cover
-      Display: 6.2-inch HD+ (2316 x 904) Dynamic AMOLED 2X, 120Hz, protected by
-      Corning Gorilla Glass Victus+. Performance & Storage: Processor: Qualcomm
-      Snapdragon 8+ Gen 1 (4nm Octa-core). RAM: 12GB LPDDR5. Storage: 256GB,
-      512GB, or 1TB UFS 3.1 (no microSD card slot). Camera System: Rear Cameras:
-      Triple setup with a 50MP Wide (f/1.8, OIS), 12MP Ultra-wide (f/2.2, 123°
-      FOV), and 10MP Telephoto (f/2.4, OIS) with 3x optical zoom and 30x Space
-      Zoom. Front Cameras: 10MP (f/2.2) on the cover display and a 4MP (f/1.8)
-      Under Display Camera (UDC) on the main screen. Battery & Charging:
-      Capacity: 4,400mAh dual-cell battery. Charging: 25W wired fast charging
-      (50% in ~30 mins), 15W wireless, and 4.5W reverse wireless charging
-      (Wireless PowerShare). Design & Durability: Dimensions: Unfolded: 155.1 x
-      130.1 x 6.3 mm; Folded: 155.1 x 67.1 x 14.2–15.8 mm. Weight: 263g. Build:
-      Armor Aluminum frame with Gorilla Glass Victus+ exterior. Water
-      Resistance: IPX8 rating (submersion up to 1.5m in freshwater for 30
-      minutes). Connectivity: Network: 5G, Wi-Fi 6E, Bluetooth 5.2, NFC, and
-      Ultra-Wideband (UWB) support. "
+    description: "(90-Day Limited Warranty) The Samsung Galaxy Z Fold 4 features a
+      7.6-inch foldable Dynamic AMOLED 2X main display and a 6.2-inch cover
+      display, both supporting a 120Hz adaptive refresh rate. It is powered by
+      the Qualcomm Snapdragon 8+ Gen 1 chipset and includes a 4,400mAh battery.
+      Key Specifications Display: Main Display: 7.6-inch QXGA+ (2176 x 1812)
+      Dynamic AMOLED 2X, 120Hz adaptive refresh rate, HDR10+, and 1200 nits peak
+      brightness. Cover Display: 6.2-inch HD+ (2316 x 904) Dynamic AMOLED 2X,
+      120Hz, protected by Corning Gorilla Glass Victus+. Performance & Storage:
+      Processor: Qualcomm Snapdragon 8+ Gen 1 (4nm Octa-core). RAM: 12GB LPDDR5.
+      Storage: 256GB, 512GB, or 1TB UFS 3.1 (no microSD card slot). Camera
+      System: Rear Cameras: Triple setup with a 50MP Wide (f/1.8, OIS), 12MP
+      Ultra-wide (f/2.2, 123° FOV), and 10MP Telephoto (f/2.4, OIS) with 3x
+      optical zoom and 30x Space Zoom. Front Cameras: 10MP (f/2.2) on the cover
+      display and a 4MP (f/1.8) Under Display Camera (UDC) on the main screen.
+      Battery & Charging: Capacity: 4,400mAh dual-cell battery. Charging: 25W
+      wired fast charging (50% in ~30 mins), 15W wireless, and 4.5W reverse
+      wireless charging (Wireless PowerShare). Design & Durability: Dimensions:
+      Unfolded: 155.1 x 130.1 x 6.3 mm; Folded: 155.1 x 67.1 x 14.2–15.8 mm.
+      Weight: 263g. Build: Armor Aluminum frame with Gorilla Glass Victus+
+      exterior. Water Resistance: IPX8 rating (submersion up to 1.5m in
+      freshwater for 30 minutes). Connectivity: Network: 5G, Wi-Fi 6E, Bluetooth
+      5.2, NFC, and Ultra-Wideband (UWB) support. "
     id: 274
     variants:
       - id: 50845
         color: Black
         price: 769.95
         image: images/samsungzfold4-black.jpg
-  - name: Moto G Play , 32GB , 6.5inch ,  A+Grade , Unlocked , Pre-owned
+  - name: Moto G Play , 32GB , 6.5inch ,  A+Grade , Unlocked, Certified Pre-owned
     id: 275
     category: Pre-Owned Phones & Tablets
     description: >
-      The Motorola Moto G Play (2023)
+      (90-Day Limited Warranty) The Motorola Moto G Play (2023)
 
       is a budget-focused 4G smartphone featuring a 6.5-inch 90Hz display, a triple camera system, and a 5,000mAh battery designed for multi-day use. 
 
@@ -10420,7 +10738,7 @@ products:
         price: 199.95
         image: images/motog-blue.jpg
   - description: >-
-      The Motorola Edge (2022)
+      (90-Day Limited Warranty) The Motorola Edge (2022)
 
       is a mid-range 5G smartphone that launched in August 2022. It stands out for its 144Hz OLED display and its long-lasting 5,000mAh battery. As of April 2026, it is supported by Motorola with security updates through August 2026. 
 
@@ -10449,7 +10767,8 @@ products:
               Software: Originally shipped with Android 12, it is upgradable to Android 14.
               Networking: Supports 5G (Sub-6 and mmWave), Wi-Fi 6E, Bluetooth 5.2, and NFC. 
     id: 276
-    name: Motorola Edge 2022, 256G , 6.6-inch , A+Grade , Unlocked , Pre-owned
+    name: Motorola Edge 2022, 256G , 6.6-inch , A+Grade , Unlocked, Certified
+      Pre-owned
     category: Pre-Owned Phones & Tablets
     variants:
       - id: 50847
@@ -10457,8 +10776,8 @@ products:
         price: 249.95
         image: images/motoegde-gray.jpg
   - description: >-
-      Coolpad offers several 4G LTE flip phones designed for simplicity, with
-      the Coolpad Snap
+      (90-Day Limited Warranty) Coolpad offers several 4G LTE flip phones
+      designed for simplicity, with the Coolpad Snap
 
       (models 3311A
 
@@ -10497,7 +10816,8 @@ products:
           Battery: 1500mAh removable battery.
           Connectivity: 4G LTE, Wi-Fi, Bluetooth 4.0, and GPS.
           Port: Uses a USB Type-C connector for charging. 
-    name: Coolpad Snap Flip  3312A ,  4GB , Unlocked , A+ Grade, Open Box , Pre-owned
+    name: Coolpad Snap Flip  3312A ,  4GB , Unlocked , A+ Grade , Certified
+      Pre-owned , Open Box
     id: 277
     category: Pre-Owned Phones & Tablets
     variants:
@@ -10760,7 +11080,7 @@ products:
         price: 309.95
         image: images/applewatchse3-black.webp
   - id: 286
-    name: Smart Watch i8 Pro Max , New , Sealed
+    name: " i8 Pro Max Smart Watch , New , Sealed"
     category: Smart Watches
     description: >-
       The i8 Pro Max
@@ -11731,7 +12051,7 @@ products:
     category: Wireless Speakers
     variants:
       - id: 50930
-        color: "Black"
+        color: " Black"
         price: 239.95
         image: images/jbl103.webp
   - name: WGY-868 Portable Speakers , New , Sealed
@@ -12143,11 +12463,11 @@ products:
         price: 99.95
         image: images/skull1001-black.webp
   - id: 323
-    name: Motorola Moto Razr XT2323-2 , 128GB ,  Unlocked , A+ Grade Open Box ,
-      Preowned
+    name: "Motorola Moto Razr XT2323-2 , 128GB ,  Unlocked , A+ Grade  , Certified
+      Pre-owned , Open Box "
     category: Pre-Owned Phones & Tablets
     description: >+
-      The Motorola razr (2023)
+      (90-Day Limited Warranty) The Motorola razr (2023)
 
       , model XT2323-2
 
@@ -12188,7 +12508,7 @@ products:
         image: images/motog-green.webp
   - id: 324
     description: >-
-      The L1BRE H100
+      (90-Day Limited Warranty) The L1BRE H100
 
       (v3) is a budget-focused 10.1-inch tablet primarily used for basic educational tasks and simple media consumption. 
 
@@ -12219,8 +12539,8 @@ products:
           Performance: With only 1GB of RAM, this tablet is significantly limited for modern multitasking and may experience lag with current versions of heavy apps like YouTube or Chrome.
           Target Audience: Its specs align with entry-level needs, such as a starter tablet for children or a dedicated station for a single lightweight application.
           Charging: The device typically uses a Micro-USB port for charging and data transfer. 
-    name: L1BRE H100  Tablet , 16GB ,  10.1-inch , WIFI Only  ,Handset Only
-      ,   Pre-Owned
+    name: "L1BRE H100  Tablet , 16GB ,  10.1-inch , WIFI Only  ,Handset Only ,
+      Certified Pre-owned "
     category: Pre-Owned Phones & Tablets
     variants:
       - id: 50945
@@ -12370,13 +12690,14 @@ products:
     variants:
       - id: 50949
         color: Black
-        price: 169.95
+        price: 129.95
         image: images/foxx-black.webp
   - id: 329
-    name: Google Pixel 5 , 128GB , Unlocked , Manufacturer Refurbished , Preowned
+    name: "Google Pixel 5 , 128GB , Unlocked , Manufacturer Refurbished  , Certified
+      Pre-owned "
     category: Pre-Owned Phones & Tablets
     description: >-
-      The Google Pixel 5
+      (90-Day Limited Warranty) The Google Pixel 5
 
       , released in late 2020, remains a favorite for users who prefer a compact, lightweight phone with a durable metal build. As of April 2026, it is no longer receiving official software or security updates from Google, which is a critical consideration if you plan to use it for banking or sensitive data. 
 
@@ -12735,10 +13056,15 @@ products:
         price: 659.95
         image: images/galaxy57-black.webp
   - id: 340
-    name: Xiaomi 15T  ,5G  ,  512GB/12GB ,  GSM Unlocked ,  New , Sealed
+    name: Xiaomi 15T  ,5G  ,  512GB/12GB ,  GSM Unlocked , International Version
+      ,  New , Sealed
     category: Phones
-    description: >+2
-       Works with most carriers. Does not work with the following carriers: Cricket Wireless, Spectrum Mobile, US Cellular, And Xfinity
+    description: >+
+      (This Smartphone  Is Compatible Only T-Mobile , Mint Mobile , Metro by
+      T-Mobile, Tello Mobile, Ultra Mobile In The US) Xiaomi smartphones are
+      highly compatible with carriers in Africa, the Middle East, Asia, the
+      Caribbean, Latin America, UK ,Canada and Europe.
+
 
       The Xiaomi 15T 5G (Global Version)
 
@@ -12755,11 +13081,11 @@ products:
 
     variants:
       - id: 50974
-        color: "Black"
+        color: " Black"
         price: 899.95
         image: images/xiaomi15-black.webp
       - id: 50975
-        color: "Gray"
+        color: " Gray"
         price: 899.95
         image: images/xiaomi15-gray.webp
       - color: Rose Gold
@@ -12767,12 +13093,14 @@ products:
         price: 899.95
         image: images/xiaomi15-gold.webp
   - id: 341
-    name: Xiaomi 15T Pro ,5G , 512GB/12GB , GSM Unlocked , New , Sealed
+    name: Xiaomi 15T Pro ,5G , 512GB/12GB , GSM Unlocked , International Version ,
+      New , Sealed
     category: Phones
     description: >-
-      Works with most carriers. Does not work with the following carriers:
-      Cricket Wireless, Spectrum Mobile, US Cellular, And Xfinity   .The Xiaomi
-      15T Pro 5G
+      (This Smartphone  Is Compatible Only T-Mobile , Mint Mobile , Metro by
+      T-Mobile, Tello Mobile, Ultra Mobile In The US) Xiaomi smartphones are
+      highly compatible with carriers in Africa, the Middle East, Asia, the
+      Caribbean, Latin America, UK ,Canada and Europe.   .The Xiaomi 15T Pro 5G
 
       is the premium flagship-killer in Xiaomi's 2025 "T" series, offering significant upgrades over the standard 15T, particularly in its processor, camera zoom capabilities, and charging speeds. It features a refined design with a high-strength aluminum alloy frame and a glass fiber back, providing a more premium feel compared to the standard model. 
 
@@ -12808,7 +13136,8 @@ products:
         color: Black
         price: 909.95
         image: images/xiaomi15-black.webp
-  - name: Xiaomi 15T Pro ,5G , 1TB/12GB  , GSM Unlocked , New , Sealed
+  - name: Xiaomi 15T Pro ,5G , 1TB/12GB  , GSM Unlocked , International Version ,
+      New , Sealed
     id: 342
     category: Phones
     description: >-
@@ -12847,10 +13176,11 @@ products:
         image: images/xiaomi15-gray.webp
         price: 1189.95
       - id: 50982
-        color: "Black"
+        color: " Black"
         price: 1189.95
         image: images/xiaomi15-black.webp
-  - name: " Xiaomi 15 , 5G , 512GB/12GB , GSM Unlocked , New , Sealed"
+  - name: " Xiaomi 15 , 5G , 512GB/12GB , GSM Unlocked , International Version , New
+      , Sealed"
     id: 343
     description: >-
       Works with most carriers. Does not work with the following carriers:
@@ -12891,7 +13221,8 @@ products:
         color: Black
         price: 1199.95
         image: images/xia14-black.webp
-  - name: Xiaomi Redmi 15C ,  4G , 128GB/4GB , GSM  Unlocked , New , Sealed
+  - name: Xiaomi Redmi 15C ,  4G , 128GB/4GB , GSM Unlocked , International Version
+      , New , Sealed
     id: 344
     category: Phones
     description: >-
@@ -12921,7 +13252,8 @@ products:
         color: Green
         price: 279.95
         image: images/remi104-green.webp
-  - name: Xiaomi Redmi 15C ,  4G , 256GB/4GB , GSM  Unlocked , New , Sealed
+  - name: Xiaomi Redmi 15C ,  4G , 256GB/4GB , GSM Unlocked , International Version
+      , New , Sealed
     id: 345
     category: Phones
     description: "The Xiaomi Redmi 15C is an entry-level smartphone launched in
@@ -12948,7 +13280,8 @@ products:
         price: 299.95
         image: images/remi105-blue.webp
   - id: 346
-    name: Xiaomi Redmi 15 , 5G ,  128GB/4GB ,  GSM Unlocked  , New , Sealed
+    name: Xiaomi Redmi 15 , 5G ,  128GB/4GB ,  GSM Unlocked , International
+      Version  , New , Sealed
     category: Phones
     description: >-
       The Xiaomi Redmi 15 5G (Global Version)
@@ -12965,7 +13298,7 @@ products:
           Durability: Rated IP64 for dust and splash resistance and features a side-mounted fingerprint sensor. 
     variants:
       - id: 50992
-        color: "Green"
+        color: "Green "
         price: 289.95
         image: images/remi02-green.webp
       - id: 50993
@@ -12977,7 +13310,8 @@ products:
         price: 289.95
         image: images/remi03-black.webp
   - id: 347
-    name: Xiaomi Redmi 15 , 5G , 256GB/8GB , GSM Unlocked , New , Sealed
+    name: Xiaomi Redmi 15 , 5G , 256GB/8GB , GSM Unlocked , International Version ,
+      New , Sealed
     category: Phones
     description: "The Xiaomi Redmi 15 5G (Global Version) is a budget-friendly
       smartphone released on August 1, 2025. As a factory-unlocked GSM device,
@@ -13007,7 +13341,8 @@ products:
         color: Gray
         price: 449.95
         image: images/remi01-tan.webp
-  - name: Xiaomi Redmi A7 Pro , 64GB/4GB  , GSM Unlocked , New , Sealed
+  - name: Xiaomi Redmi A7 Pro , 64GB/4GB  , GSM Unlocked , International Version ,
+      New , Sealed
     id: 348
     category: Phones
     description: >-
@@ -13033,7 +13368,8 @@ products:
         price: 279.95
         image: images/xiaomia7-green.webp
   - id: 349
-    name: Xiaomi Redmi A7 Pro , 128GB/4GB ,  GSM Unlocked , New , Sealed
+    name: Xiaomi Redmi A7 Pro , 128GB/4GB ,  GSM Unlocked , International Version ,
+      New , Sealed
     category: Phones
     description: 'The Xiaomi Redmi A7 Pro is an entry-level smartphone launched in
       early 2026, marking the first "Pro" model in the Redmi A series. It
@@ -13062,7 +13398,8 @@ products:
         price: 289.95
         image: images/xiaomia7-green.webp
   - id: 350
-    name: Xiaomi Poco C85 , 4G , 128GB/6GB  , GSM Unlocked , New , Sealed
+    name: Xiaomi Poco C85 , 4G , 128GB/6GB  , GSM Unlocked , International Version ,
+      New , Sealed
     category: Phones
     description: >+2
        Works with most carriers. Does not work with the following carriers. Cricket Wireless, Spectrum Mobile, US Cellular, And Xfinity .  The Xiaomi Poco C85
@@ -13080,7 +13417,7 @@ products:
 
     variants:
       - id: 501002
-        color: "Purple"
+        color: " Purple"
         price: 339.95
         image: images/xiapoco-blue.webp
       - id: 501003
@@ -13091,7 +13428,8 @@ products:
         color: Green
         price: 339.95
         image: images/xiapoco-green.webp
-  - name: Xiaomi Poco C85 , 4G , 256GB/8GB , GSM Unlocked , New , Sealed
+  - name: Xiaomi Poco C85 , 4G , 256GB/8GB , GSM Unlocked , International Version ,
+      New , Sealed
     id: 351
     category: Phones
     description: 'Works with most carriers. Does not work with the following
@@ -13125,7 +13463,8 @@ products:
         price: 379.95
         image: images/xiapoco-blue.webp
   - id: 353
-    name: Xiaomi Poco X8 Pro Max , 256GB/12GB , GSM Unlocked  , New , Sealed
+    name: Xiaomi Poco X8 Pro Max , 256GB/12GB , GSM Unlocked , International
+      Version  , New , Sealed
     category: Phones
     description: >-
       Works with most carriers. Does not work with the following carriers.
@@ -13144,13 +13483,14 @@ products:
     variants:
       - id: 501008
         image: images/xiax8-whit.webp
-        color: "White"
+        color: " White"
         price: 609.95
       - price: 609.95
         color: Black
         id: 501009
         image: images/xiax8-black.webp
-  - name: Xiaomi Poco X8 Pro Max , 512GB/12GB , GSM Unlocked , New , Sealed
+  - name: Xiaomi Poco X8 Pro Max , 512GB/12GB , GSM Unlocked , International Version
+      , New , Sealed
     id: 352
     category: Phones
     description: 'Works with most carriers. Does not work with the following
@@ -13184,7 +13524,8 @@ products:
         price: 649.95
         image: images/xiax8-black.webp
   - id: 354
-    name: Xiaomi Poco X8 Pro  , 256GB/12GB , GSM Unlocked , New , Sealed
+    name: Xiaomi Poco X8 Pro  , 256GB/12GB , GSM Unlocked , International Version ,
+      New , Sealed
     category: Phones
     description: >-
       
@@ -13218,7 +13559,8 @@ products:
         color: Green
         price: 469.95
         image: images/xiax8-green.webp
-  - name: Xiaomi Poco X8 Pro , 512GB/12GB , GSM Unlocked , New , Sealed
+  - name: Xiaomi Poco X8 Pro , 512GB/12GB , GSM Unlocked , International Version ,
+      New , Sealed
     id: 355
     description: "Works with most carriers. Does not work with the following
       carriers: Cricket Wireless, Spectrum Mobile, US Cellular, And Xfinity
@@ -13247,7 +13589,7 @@ products:
         price: 549.95
         image: images/xiax8-whit.webp
       - price: 549.95
-        color: "Black"
+        color: " Black"
         id: 501015
         image: images/xiax8-black.webp
       - price: 549.95
@@ -13722,7 +14064,7 @@ products:
     variants:
       - id: 501020
         color: Black
-        price: 189.95
+        price: 169.95
         image: images/withit01-black.webp
   - id: 360
     name: WITHit Giga Smartwatch  Amoled 2.04 , New ,  Sealed
@@ -14677,7 +15019,7 @@ products:
         price: 399.95
         image: images/fitbit12-white.webp
       - price: 399.95
-        color: "Gray"
+        color: " Gray"
         id: 501033
         image: images/fitbit11-gray.webp
       - id: 501034
@@ -15596,7 +15938,7 @@ products:
     variants:
       - id: 501044
         color: White
-        price: 909.95
+        price: 959.95
         image: images/ps5pr0-white.webp
   - name: Sony PlayStation 5 Slim , Digital Edition , 1TB  ,  New , Sealed
     category: Games & Gaming Accessories
@@ -16349,7 +16691,7 @@ products:
         price: 309.95
         image: images/switch-blue.avif
       - id: 501072
-        color: "Gray"
+        color: " Gray"
         price: 309.95
         image: images/switch-gray.avif
       - id: 501073
@@ -16521,7 +16863,7 @@ products:
 
     variants:
       - id: 501082
-        color: "Black"
+        color: " Black"
         price: 249.95
         image: images/powerbeats05.webp
       - color: Glacier Blue
@@ -16603,7 +16945,7 @@ products:
       Weather-resistant and designed for outdoor use, the aosu AI-Smart Security Camera connects via Wi-Fi and is fully controlled through the aosu mobile app, where you can view live footage, access event recordings, receive real-time alerts, and customize your settings. Whether you're looking to monitor your front door, driveway, backyard, or any other outdoor space, this smart security camera offers a reliable and easy-to-install solution with clear visuals and intelligent monitoring features.
     variants:
       - id: 501090
-        color: "White"
+        color: "White "
         price: 119.95
         image: images/aosu02.webp
   - id: 398
@@ -16646,7 +16988,7 @@ products:
       Whether you’re securing your home, business, or property, the AOSU 2K QHD Security Camera Kit offers high-quality, reliable monitoring with features like remote access, motion detection, and two-way audio. With its solar power, AI-driven features, and advanced video technology, it provides a complete surveillance system for modern security needs.
     variants:
       - id: 501092
-        color: "White"
+        color: "White "
         price: 319.95
         image: images/aosu01.webp
   - id: 400
@@ -16820,7 +17162,7 @@ products:
     id: 404
     variants:
       - id: 501097
-        color: "Gray"
+        color: " Gray"
         price: 1499.95
         image: images/dell02.webp
   - name: Dell Precision 3490 Core Ultra 7 165H ,5GHz , 512GB SSD 16GB Ram , New ,
@@ -17146,7 +17488,7 @@ products:
     category: Laptops & Accessories
     variants:
       - id: 501109
-        color: "Silver"
+        color: " Silver"
         price: 2569.95
         image: images/applepro-silver.webp
   - id: 412
@@ -17298,7 +17640,7 @@ products:
         price: 1499.95
         image: images/applepro-16-black.webp
       - id: 501115
-        color: "Silver"
+        color: " Silver"
         price: 1499.95
         image: images/applepro-silver.webp
       - id: 501116
@@ -17559,7 +17901,7 @@ products:
     variants:
       - id: 501125
         color: White
-        price: 1499.95
+        price: 1999.95
         image: images/len.webp
   - description: >-
       The Sony PlayStation VR2 (PS VR2) is built with high-end display and
@@ -18014,7 +18356,7 @@ products:
     category: Security Camera Systems
     variants:
       - id: 501138
-        color: "White"
+        color: " White"
         price: 69.95
         image: images/camera8.webp
   - name: ERA-DSDCR Professional Driveway Alarm System  , New , Sealed
@@ -18563,7 +18905,7 @@ products:
         id: 501150
         image: images/17promax-red.webp
       - id: 501151
-        color: White
+        color: Whjite
         price: 29.95
         image: images/17promax-white.webp
       - id: 501152
@@ -18857,7 +19199,7 @@ products:
     category: Smart Phones & Tablets Accessories
     variants:
       - id: 501188
-        color: "Blue"
+        color: " Blue"
         image: images/17promaxsleek-blue.webp
         price: 29.95
       - color: Red
@@ -18972,7 +19314,7 @@ products:
           Software: Runs Android 16 with One UI 8, featuring advanced AI tools (Circle to Search, Note Assist) and Samsung DeX for a desktop-like multitasking experience. 
     variants:
       - id: 501202
-        color: "Gray"
+        color: " Gray"
         image: images/galtab04.webp
         price: 1199.95
       - id: 501203
@@ -19850,7 +20192,7 @@ products:
     id: 462
     variants:
       - id: 501217
-        color: Green
+        color: "Green "
         price: 479.95
         image: images/xiomitab04mi.webp.webp
       - id: 501218
@@ -19954,7 +20296,7 @@ products:
     category: Tablets
     variants:
       - id: 501223
-        color: "Gray"
+        color: " Gray"
         price: 309.95
         image: images/tablet03.webp
   - id: 466
@@ -19984,7 +20326,7 @@ products:
     category: Tablets
     variants:
       - id: 501224
-        color: "Black"
+        color: "Black "
         price: 329.95
         image: images/tab06.webp
   - name: Apple iPad Mini , 8.3 inch , 128GB  8GB Ram  , WiFi Only  (7th Generation)
@@ -20140,7 +20482,7 @@ products:
           Keyboards: Compatible with Magic Keyboard (floating cantilever design) and Smart Keyboard Folio.
     variants:
       - id: 501233
-        color: "Purple"
+        color: " Purple"
         price: 839.95
         image: images/ipad06.png
       - id: 501234
@@ -20208,11 +20550,11 @@ products:
         price: 999.95
         image: images/ipad08.png
       - id: 501238
-        color: "Purple"
+        color: " Purple"
         price: 999.95
         image: images/ipad06.png
       - id: 501239
-        color: "Blue"
+        color: " Blue"
         price: 999.95
         image: images/ipad05.png
       - id: 501240
@@ -20272,7 +20614,7 @@ products:
     id: 471
     variants:
       - id: 501241
-        color: "Blue"
+        color: " Blue"
         price: 959.95
         image: images/ipad05.png
       - id: 501242
@@ -20338,7 +20680,7 @@ products:
     id: 472
     variants:
       - id: 501245
-        color: "Gray"
+        color: " Gray"
         price: 1069.95
         image: images/ipad07.png
       - id: 501246
@@ -20346,7 +20688,7 @@ products:
         price: 1069.95
         image: images/ipad08.png
       - id: 501247
-        color: "Blue"
+        color: " Blue"
         price: 1069.95
         image: images/ipad05.png
       - id: 501248
@@ -20417,7 +20759,7 @@ products:
         price: 1249.95
         image: images/ipad05.png
       - id: 501252
-        color: "Purple"
+        color: " Purple"
         price: 1249.95
         image: images/ipad06.png
   - description: >-
@@ -20602,7 +20944,7 @@ products:
 
     variants:
       - id: 501261
-        color: "Gray"
+        color: " Gray"
         price: 779.95
         image: images/ipad07.png
       - id: 501262
@@ -20804,7 +21146,7 @@ products:
           Keyboards: Compatible with the floating cantilever Magic Keyboard and Smart Keyboard Folio.
     variants:
       - id: 501273
-        color: "Blue"
+        color: " Blue"
         price: 939.95
         image: images/ipad05.png
       - id: 501274
@@ -20875,7 +21217,7 @@ products:
         price: 1309.95
         image: images/ipad11.webp
       - id: 501278
-        color: "Silver"
+        color: " Silver"
         image: images/ipad10.webp
         price: 1309.95
   - name: Apple iPad Pro ,13 inch ,512GB  8GB Ram , WiFi Only (M4) New , Sealed
@@ -20994,7 +21336,7 @@ products:
         image: images/ipad11.webp
       - id: 501282
         price: 1949.95
-        color: "Silver"
+        color: " Silver"
         image: images/ipad10.webp
   - name: Apple iPad Pro ,13 inch , 2TB 16GB Ram , WiFi Only (M4) New , Sealed
     id: 483
@@ -21204,7 +21546,7 @@ products:
           Keyboards: Compatible exclusively with the redesigned aluminum-palm-rest Magic Keyboard for iPad Pro (M4).
     variants:
       - id: 501289
-        color: "Black"
+        color: " Black"
         price: 2159.95
         image: images/ipad11.webp
       - id: 501290
@@ -21323,7 +21665,7 @@ products:
     id: 488
     variants:
       - id: 501293
-        color: "Black"
+        color: " Black"
         price: 1019.95
         image: images/ipad11.webp
       - id: 501294
@@ -21663,7 +22005,7 @@ products:
         price: 1799.95
         image: images/ipad10.webp
       - id: 501303
-        color: "Black"
+        color: " Black"
         price: 1799.95
         image: images/ipad11.webp
   - name: " Apple iPad Pro ,11 inch , 2TB 16GB Ram , WiFi + Cellular (M4) New ,
@@ -22163,12 +22505,12 @@ products:
         price: 229.95
         image: images/Beats Fit Pro 2021_09Volt Yellow.webp
       - id: 501307
-        color: "Purple"
+        color: " Purple"
         price: 229.95
         image: images/Beats Fit Pro 2021_09Stone Purple.webp
       - id: 501308
         price: 229.95
-        color: "Pink"
+        color: " Pink"
         image: images/Beats Fit Pro 2021_09Coral Pink.webp
       - id: 501309
         price: 229.95
@@ -22183,7 +22525,7 @@ products:
         id: 501311
         image: images/Beats Fit Pro 2021_09Beats White.webp
       - price: 229.95
-        color: "Gray"
+        color: " Gray"
         id: 501312
         image: images/Beats Fit Pro 2021_09Sage Gray.webp
   - id: 517
@@ -23185,7 +23527,7 @@ products:
         price: 509.95
         image: images/airpod07.webp
       - id: 501381
-        color: "Gray"
+        color: " Gray"
         price: 509.95
         image: images/airpod06.png
   - name: Beats Flex Wireless Earphones , New , Sealed
@@ -23237,7 +23579,7 @@ products:
         price: 99.95
         image: images/beatsflex01.jpeg
       - id: 501385
-        color: "Gray"
+        color: " Gray"
         price: 99.95
         image: images/beatsflex03.jpeg
   - name: Motorola Moto Buds 065 , New , Sealed
@@ -23846,14 +24188,14 @@ products:
       straight into Google search queries."
     category: Phones
     variants:
-      - id: 501452
-        color: Lavender
-        price: 599.95
-        image: images/galaxy37lav.webp
       - id: 501453
         color: Awesome Charcoal
         price: 599.95
         image: images/galaxy37gray.webp
+      - color: Lavender
+        id: 501452
+        price: 599.95
+        image: images/galaxy37lav.webp
   - id: 565
     name: Samsung Galaxy XCover 7 Pro , Rugged  Smartphone , 128GB 6GB Ram , USA
       Version , Unlocked , New , Sealed
@@ -24978,7 +25320,7 @@ products:
         price: 629.95
         image: images/sonyphone.webp
   - name: Blackview XPLORE 2 Projector, 5G AI Rugged Phone , 6.73-inch  , 256GB 12GB
-      Ram Unlocked , New , Sealed
+      Ram , GSM Unlocked , International Version , New , Sealed
     description: "The Blackview XPLORE 2 Projector 5G is fully compatible with
       T-Mobile and its sub-carriers. Unlike Verizon or AT&T (which heavily
       restrict or entirely block unlisted international unlocked devices),
@@ -25044,7 +25386,7 @@ products:
         price: 859.95
         image: images/XPLORE-2-Projector-Black_01.webp
   - name: Blackview XPLORE 2 Projector, 5G AI Rugged Phone , 6.73-inch , 1TB 16GB
-      Ram Unlocked , New , Sealed
+      Ram , GSM Unlocked , International Version , New , Sealed
     id: 588
     variants:
       - id: 501546
@@ -25110,7 +25452,7 @@ products:
       Dual Nano-SIM tray. "
     category: Phones
   - name: "Blackview XPLORE 2 Satellite , Rugged 5G AI Phone , 6.73-inch , 256GB
-      12GB Ram , Unlocked , New , Sealed "
+      12GB Ram , GSM Unlocked , International Version , New , Sealed "
     id: 589
     category: Phones
     description: "The Blackview XPLORE 2 Satellite functions exceptionally well on
@@ -25184,7 +25526,7 @@ products:
         image: images/XPLORE-2-Satellite-Black_01.webp
   - id: 590
     name: "Blackview XPLORE 2 Satellite , Rugged 5G AI Phone , 6.73-inch ,1TB 16GB
-      Ram Unlocked , New , Sealed "
+      Ram , GSM Unlocked , International Version , New , Sealed "
     category: Phones
     description: "The Blackview XPLORE 2 Satellite functions exceptionally well on
       the T-Mobile network, maintaining a seamless relationship with its open
@@ -25256,7 +25598,7 @@ products:
         price: 779.95
         image: images/XPLORE-2-Satellite-Black_01.webp
   - name: "Blackview Fort 5 Ultra-Slim , 4G Rugged Phone ,  256GB 12GB Ram
-      ,  6.78-inch Unlocked , New , Sealed "
+      ,  6.78-inch , GSM Unlocked , International Version, New , Sealed "
     id: 591
     category: Phones
     description: "The Blackview FORT 5 is highly compatible with T-Mobile Mint
@@ -25303,8 +25645,8 @@ products:
         color: Black
         price: 499.95
         image: images/blackview04.webp
-  - name: Blackview Active 8 Pro , 10.36-inch , Rugged Tablet PC , 256GB 8GB Ram ,
-      New , Sealed
+  - name: Blackview Active 8 Pro , 10.36-inch , Rugged Tablet PC , 256GB 8GB Ram
+      ,  GSM Unlocked , International Version      ,New , Sealed
     description: "The Blackview Active 8 Pro is a heavy-duty, military-grade rugged
       tablet built to handle extreme physical environments. Below is the
       complete technical breakdown of its core hardware and software
@@ -26353,3 +26695,29 @@ products:
         color: Blue
         price: 22.95
         image: images/5P_WALLET_BLUE.webp
+  - name: Apple iPad A16 11th Generation , 128GB , Wi-Fi + Cellular , New , Sealed
+    id: 611
+    category: Tablets
+    description: "11-INCH LIQUID RETINA DISPLAY—The gorgeous Liquid Retina display
+      is an amazing way to watch movies or draw your next masterpiece.¹ True
+      Tone adjusts the display to the color temperature of the room to make
+      viewing comfortable in any light. PERFORMANCE AND STORAGE—The superfast
+      A16 chip delivers a boost in performance for your favorite activities. And
+      with all-day battery life, iPad is perfect for playing immersive games and
+      editing photos and videos.² Storage starts at 128GB and goes up to 512GB.³
+      IPADOS + APPS—iPadOS makes iPad more productive, intuitive, and versatile.
+      With iPadOS, run multiple apps at once, use Apple Pencil to write in any
+      text field with Scribble, and edit and share photos. "
+    variants:
+      - id: 501587
+        color: Pink
+        price: 599.95
+        image: images/Apple-iPad-A16-11th-Gen-Pink.jpeg
+      - id: 501588
+        price: 599.95
+        color: Silver
+        image: images/Apple-iPad-A16-11th-Gen-Silver.jpg
+      - id: 501589
+        color: Blue
+        price: 599.95
+        image: images/Apple-iPad-A16-11th-Gen-Blue.jpg
