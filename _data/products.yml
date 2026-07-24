@@ -90,7 +90,7 @@ products:
         image: images/150-gray.webp
   - id: 4
     name: XNET WIFI Data Plans 25GB
-    category: WiFi
+    category: WiFi Plans
     price: 65.95
     description: >-
       Data Plans Get reliable high-speed data wherever you need it — at
@@ -105,7 +105,7 @@ products:
     image: images/Xnet-Wifi.jpeg
   - id: 5
     name: XNET WIFI Xplorer Hotspot 50 GB X Data Plan
-    category: WiFi
+    category: WiFi Plans
     price: 75.95
     description: >-
       Xplorer Hotspot The Xplorer Hotspot is your pocket-sized
@@ -179,7 +179,7 @@ products:
         image: images/tecno1S-white.jpg
   - id: 8
     name: XNET WIFI Xplorer Hotspot 100GB X Data Plan
-    category: WiFi
+    category: WiFi Plans
     price: 85.95
     description: >-
       Xplorer Hotspot The Xplorer Hotspot is your pocket-sized
@@ -614,7 +614,7 @@ products:
       - id: 50820
         color: Gray
         price: 499.95
-        image: images/apple4ipad.webp
+        image: images/ipad9-gray.png
   - id: 26
     name: Logic Z1L Flip Phone , 4G , Dual Sim , Unlocked , New , Sealed
     category: Phones
