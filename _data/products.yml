@@ -614,7 +614,7 @@ products:
       - id: 50820
         color: Gray
         price: 499.95
-        image: images/ipad9-gray.png
+        image: images/apple4ipad.webp
   - id: 26
     name: Logic Z1L Flip Phone , 4G , Dual Sim , Unlocked , New , Sealed
     category: Phones
