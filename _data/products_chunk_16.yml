@@ -1,0 +1,428 @@
+products:
+- id: 481
+  name: "Apple iPad Pro ,13 inch ,512GB  8GB Ram , WiFi Only (M4) New , Sealed"
+  category: "Tablets"
+  description: >-
+    >- The Apple iPad Pro 13-inch (M4, 2024) Wi-Fi 512GB features the following
+    detailed technical specifications: Performance & Memory
+
+- id: 482
+  name: "Apple iPad Pro ,13 inch , 1TB 16GB Ram , WiFi Only (M4) New , Sealed"
+  category: "Tablets"
+  description: >-
+    >- The Apple iPad Pro 13-inch (M4, 2024) Wi-Fi 1TB features the following
+    detailed technical specifications: Performance & Memory
+
+- id: 483
+  name: "Apple iPad Pro ,13 inch , 2TB 16GB Ram , WiFi Only (M4) New , Sealed"
+  category: "Tablets"
+  description: ""
+
+- id: 484
+  name: "Apple iPad Pro ,13 inch , 256GB 8GB Ram , WiFi + Cellular  (M4) New ,"
+  category: "Tablets"
+  description: >-
+    >- The Apple iPad Pro 13-inch (M4, 2024) Wi-Fi + Cellular 256GB features the
+    following detailed technical specifications: Performance & Memory
+
+- id: 485
+  name: "Apple iPad Pro ,13 inch ,  512GB 8GB Ram , WiFi + Cellular (M4) New ,"
+  category: "Tablets"
+  description: >-
+    > The Apple iPad Pro 13-inch (M4) Wi-Fi + Cellular 512GB features the following
+    detailed technical specifications: Performance & Memory
+
+- id: 486
+  name: "Apple iPad Pro ,13 inch , 1TB 16GB Ram , WiFi + Cellular (M4) New , Sealed"
+  category: "Tablets"
+  description: >-
+    >- The Apple iPad Pro 13-inch (M4, 2024) Wi-Fi + Cellular 1TB features the
+    following detailed technical specifications: Performance & Memory
+
+- id: 487
+  name: "Apple iPad Pro ,13 inch ,2TB 16GB Ram , WiFi + Cellular (M4) New , Sealed"
+  category: "Tablets"
+  description: >-
+    >- The Apple iPad Pro 13-inch (M4, 2024) Wi-Fi + Cellular 2TB features the
+    following detailed technical specifications: Performance & Memory
+
+- id: 488
+  name: "Apple iPad Pro ,11 inch , 256GB 8GB Ram , WiFi Only (M4) New , Sealed"
+  category: "Tablets"
+  description: >-
+    >- The Apple iPad Pro 11-inch M4 Generation (Wi-Fi Only, 256GB / 8GB RAM)
+    technical specifications from the official Apple Support Tech Specs include:
+    Processor & Memory
+
+- id: 489
+  name: "Apple iPad Pro ,11 inch , 512GB 8GB Ram , WiFi Only (M4) New , Sealed"
+  category: "Tablets"
+  description: >-
+    >- The Apple iPad Pro 11-inch M4 Generation (Wi-Fi Only, 256GB / 8GB RAM)
+    technical specifications from the official Apple Support Tech Specs include:
+    Processor & Memory
+
+- id: 490
+  name: "Apple iPad Pro ,11 inch , 1TB  16GB Ram , WiFi Only (M4) New , Sealed"
+  category: "Tablets"
+  description: ""
+
+- id: 491
+  name: "Apple iPad Pro ,11 inch , 256GB 8GB Ram ,  WiFi + Cellular  (M4) New ,"
+  category: "Tablets"
+  description: >-
+    >- The Apple iPad Pro 11-inch M4 Generation (Wi-Fi + Cellular, 256GB / 8GB RAM)
+    builds on the core Wi-Fi model by adding persistent 5G mobile data connectivity
+    and dedicated GPS hardware. The complete technical specifications from the
+    official Apple Support Tech Specs for this configuration include: Cellular &
+    Location Upgrades Cellular Networks: 5G connectivity (sub-6 GHz) with 4x4 MIMO;
+    Gigabit LTE with 4x4 MIMO and LAA. SIM Compatibility: eSIM only format. (Note:
+    This model does not have a physical nano-SIM slot; cellular service must be
+    activated digitally). Satellite & Maps GPS: Dedicated GPS/GNSS hardware chip for
+    accurate real-time navigation and mapping (exclusive to Cellular models).
+    Processor & Memory
+
+- id: 492
+  name: "Apple iPad Pro ,11 inch , 512GB  8GB Ram ,  WiFi + Cellular  (M4) New ,"
+  category: "Tablets"
+  description: >-
+    >- The Apple iPad Pro 11-inch M4 Generation (Wi-Fi + Cellular, 512GB Storage /
+    8GB RAM) features persistent 5G mobile connectivity and a dedicated hardware GPS
+    chip, combined with doubled built-in storage compared to the base model. The
+    complete technical specifications from the official Apple Support Tech Specs for
+    this configuration include: Cellular Connectivity & Location Cellular Networks:
+    5G connectivity (sub-6 GHz) with 4x4 MIMO; Gigabit LTE with 4x4 MIMO and LAA.
+    SIM Compatibility: eSIM only format [JJGCQ37HLR]. (This model does not feature a
+    physical nano-SIM tray; data plans must be activated digitally).
+
+- id: 493
+  name: "Apple iPad Pro ,11 inch , 1TB 16GB Ram , WiFi + Cellular (M4) New ,
+      Sealed"
+  category: "Tablets"
+  description: >-
+    >+ The exact technical specifications for the Apple iPad Pro 11-inch M4
+    Generation (Wi-Fi + Cellular, 1TB Storage / 16GB RAM) from the official Apple
+    documentation include: 1. Cellular Connectivity & Standalone GPS Mobile Network
+    Bandwidth: Built-in 5G connectivity (sub-6 GHz and mmWave) with 4x4 MIMO and
+    Gigabit LTE. SIM Architecture: Uses eSIM-only activation [JJGCQ37HLR]. There is
+    no physical nano-SIM card tray. Location Tracking: Dedicated, standalone
+    GPS/GNSS hardware chip for precise real-time offline mapping and navigation
+    (exclusive to Cellular models). 2. Compute Performance & Unified RAM Fully
+    Enabled Processor: Features the un-binned version of the Apple M4 chip (built on
+    a 3-nanometer process). CPU Layout: 10-core CPU containing 4 performance cores
+    and 6 efficiency cores (lower storage models are limited to a 9-core CPU). GPU
+    Layout: 10-core GPU featuring hardware-accelerated ray tracing, mesh shading,
+    and Dynamic Caching. System RAM: 16GB of Unified Memory with an expansive memory
+    bandwidth speed of 153GB/s (doubled from the 8GB RAM on smaller capacities).
+    Artificial Intelligence Engine: 16-core Neural Engine capable of 38 trillion
+    operations per second to drive local Apple Intelligence workflows. 3. Ultra
+    Retina XDR Display Display Panel: Ultra Retina XDR utilizing a groundbreaking
+    Tandem OLED dual-panel design. Spatial Resolution: 2420-by-1668-pixel resolution
+    at a dense 264 pixels per inch (ppi). Motion Dynamics: ProMotion technology
+    facilitating adaptive, battery-saving refresh rates from 10Hz to 120Hz.
+    Luminance Capabilities: 1000 nits maximum full-screen brightness across SDR and
+    XDR content; 1600 nits peak brightness for HDR formats. Contrast Performance:
+    True-to-life 2,000,000:1 contrast ratio with deep, pure ink blacks. Glass
+    Finishing Options: Available with standard reflection-reducing glass or
+    specialized Nano-texture display glass that scatters ambient glare. 4. Cameras,
+    Capture, and Audio Rear Array: 12MP Wide camera ( aperture) with an Adaptive
+    True Tone flash and an integrated LiDAR Scanner for spatial depth and AR. Front
+    Array: Landscape-oriented 12MP Ultra Wide camera ( aperture) with Center Stage
+    tracking and secure Face ID login. Video Codecs: Captures up to 4K at 60 fps;
+    supports hardware-accelerated ProRes video encoding up to 4K at 30 fps. Sound
+    Systems: Immersive four-speaker audio matched with a studio-grade
+    four-microphone array. 5. Mechanical Chassis & Power Delivery Form Factor:
+    Exceptionally slim profile measuring just 0.21 inch (5.3 mm). Hardware Weight:
+    Extremely light desktop substitute scaling in at 1.00 pound (452 grams). I/O
+    Routing: Universal Thunderbolt / USB 4 port driving power delivery, high-speed
+    storage, and external monitors up to 6K resolution. Battery Lifespan: Built-in
+    31.29-watt-hour battery. Offers up to 10 hours of web surfing on Wi-Fi or up to
+    9 hours of web surfing using a mobile cellular data network. 6. Accessory
+    Ecosystem Apple Pencil: Fully compatible with the haptic-enabled Apple Pencil
+    Pro and the standard Apple Pencil (USB-C). Keyboard Docking: Designed to mate
+    seamlessly with the aluminum palm-rest Magic Keyboard for iPad Pro (M4).
+
+- id: 494
+  name: "Apple iPad Pro ,11 inch , 2TB 16GB Ram , WiFi + Cellular (M4) New ,
+      Sealed"
+  category: "Tablets"
+  description: >-
+    >- The Apple iPad Pro 11-inch M4 Generation (Wi-Fi + Cellular, 2TB Storage /
+    16GB RAM) represents the absolute highest storage capacity option available in
+    the lineup. Selecting the 2TB capacity ensures you have massive space for
+    offline databases, raw media cache folders, and uncompromised multitasking
+    performance. The complete technical specifications from the official Apple
+    Support Tech Specs for this ultimate configuration include: 1. Cellular
+    Integration & Standalone GPS Mobile Network Bandwidth: Built-in 5G connectivity
+    (sub-6 GHz and mmWave) with 4x4 MIMO and Gigabit LTE. SIM Architecture: Uses
+    eSIM-only activation. There is no physical nano-SIM card tray. Location
+    Tracking: Dedicated, standalone GPS/GNSS hardware chip for precise real-time
+    offline mapping and navigation (exclusive to Cellular models). 2. Compute
+    Performance & Unified RAM Fully Enabled Processor: Features the un-binned
+    version of the Apple M4 chip (built on a 3-nanometer process). CPU Layout:
+    10-core CPU containing 4 performance cores and 6 efficiency cores (lower
+    256GB/512GB storage models are limited to a 9-core CPU layout). GPU Layout:
+    10-core GPU featuring hardware-accelerated ray tracing, mesh shading, and
+    Dynamic Caching. System RAM: 16GB of Unified Memory with an expansive memory
+    bandwidth speed of 153GB/s (doubled from the 8GB RAM on smaller capacities).
+    Artificial Intelligence Engine: 16-core Neural Engine capable of 38 trillion
+    operations per second to drive local Apple Intelligence workflows. 3. Ultra
+    Retina XDR Display Display Panel: Ultra Retina XDR utilizing a dual-panel Tandem
+    OLED system. Spatial Resolution: 2420-by-1668-pixel resolution at a dense 264
+    pixels per inch (ppi). Motion Dynamics: ProMotion technology facilitating
+    adaptive, battery-saving refresh rates from 10Hz up to 120Hz. Luminance
+    Capabilities: 1000 nits maximum full-screen brightness across SDR and XDR
+    content; 1600 nits peak brightness for HDR formats. Contrast Performance:
+    True-to-life 2,000,000:1 contrast ratio with deep, pure ink blacks. Glass
+    Finishing Options: Available with standard reflection-reducing glass or
+    specialized Nano-texture display glass that scatters ambient glare (exclusive to
+    1TB and 2TB tiers). 4. Cameras, Capture, and Audio Rear Array: 12MP Wide camera
+    ( aperture) with an Adaptive True Tone flash and an integrated LiDAR Scanner for
+    spatial depth and AR. Front Array: Landscape-oriented 12MP Ultra Wide camera (
+    aperture) with Center Stage tracking and secure Face ID login. Video Codecs:
+    Captures up to 4K at 60 fps; supports hardware-accelerated ProRes video encoding
+    up to 4K at 30 fps. Sound Systems: Immersive four-speaker audio matched with a
+    studio-grade four-microphone array. 5. Mechanical Chassis & Power Delivery Form
+    Factor: Exceptionally slim profile measuring just 0.21 inch (5.3 mm). Hardware
+    Weight: Extremely light desktop substitute scaling in at 1.00 pound (452 grams).
+    I/O Routing: Universal Thunderbolt / USB 4 port driving power delivery,
+    high-speed storage, and external monitors up to 6K resolution. Battery Lifespan:
+    Built-in 31.29-watt-hour battery. Offers up to 10 hours of web surfing on Wi-Fi
+    or up to 9 hours of web surfing using a mobile cellular data network. 6.
+    Accessory Ecosystem Apple Pencil: Fully compatible with the haptic-enabled Apple
+    Pencil Pro and the standard Apple Pencil (USB-C). Keyboard Docking: Designed to
+    mate seamlessly with the aluminum palm-rest Magic Keyboard for iPad Pro (M4).
+
+- id: 495
+  name: "MobileX  Unlimited10 Plan"
+  category: "Phone Plans"
+  description: >-
+    >- (Phone not Included) Talk & Text: Unlimited nationwide calling and texting.
+    High-Speed Data: 10 GB of high-speed 4G/5G data. Throttled Data: Unlimited data
+    after 10 GB, but speeds drop to 512 Kbps (fast enough for music streaming and
+    text apps).
+
+- id: 496
+  name: "MobileX Unlimited 30 Plan"
+  category: "Phone Plans"
+  description: >-
+    >-2 (Phone not Included) High-Speed Data: 30 GB of high-speed 4G/5G data.
+    Throttled Speeds: Truly unlimited data after your 30 GB cap, but speeds are
+    slowed to 512 Kbps (3G speeds). This is still fast enough for music streaming,
+    basic web browsing, and GPS navigation. Mobile Hotspot: 10 GB of dedicated
+    mobile hotspot data, which draws directly from your overall 30 GB pool. Talk &
+    Text: Unlimited nationwide minutes and text message. International Perks &
+    Features International Calling & Texting: Includes free unlimited international
+    talk and text from the United States to over 90 countries. North American
+    Roaming: Includes unlimited talk and text to Canada and Mexico. Global Roaming
+    Add-on: Optional international data roaming is available for $10 per day,
+    providing 1GB of high-speed data plus unlimited talk/text in supported
+    destination countries.
+
+- id: 497
+  name: "MobileX Unlimited 50 plan"
+  category: "Phone Plans"
+  description: >-
+    >- (Phone not Included) High-Speed Data: 50 GB of 5G and 4G LTE data. After
+    using the initial 50 GB, data remains unlimited but speeds are throttled down to
+    512 kbps for the rest of your billing cycle. Mobile Hotspot: 10 GB of your
+    high-speed allotment can be used for sharing data with other devices via a
+    mobile hotspot. Talk & Text: Unlimited calling and texting within the United
+    States. International Perks: Free unlimited talk and text from the U.S. to
+    Canada, Mexico, and over 90 other international destinations. Network Coverage:
+    Operates on Verizon's nationwide network infrastructure
+
+- id: 498
+  name: "Cricket Wireless Sensible 10GB Plan"
+  category: "Phone Plans"
+  description: >-
+    >+ (Phone not Included) The Cricket Wireless Sensible™ 10GB Plan costs $30 per
+    month with Auto Pay ($35 for your first month or if you pay manually). It
+    provides exactly 10GB of high-speed data on AT&T’s nationwide network. Key Plan
+    Details Data Refresh: You get 10GB of high-speed data per month. If you exceed
+    this cap, speeds are throttled to a slow 128 Kbps for the rest of your billing
+    cycle. Network & Quality: Runs on AT&T's 5G network. Video streaming is capped
+    at Standard Definition (480p). Line Consistency: If you have multiple lines, all
+    lines must be on the Sensible™ 10GB Plan tier; you cannot mix and match it with
+    unlimited family plans. Dropped Features & Restrictions No Hotspot: Mobile
+    hotspot capabilities are completely unavailable, and you cannot buy it as an
+    add-on for this plan. No International Use: This plan strips away Cricket's
+    usual international perks. It includes no roaming or calling/texting to or from
+    Mexico and Canada, and no international texting. No Premium Extras: Cloud
+    storage and Max (HBO Max) streaming are not included.
+
+- id: 499
+  name: "Cricket Wireless Select Unlimited Plan"
+  category: "Phone Plans"
+  description: >-
+    >-2 (Phone not Included) The Cricket Wireless Select Unlimited™ Plan provides
+    unlimited high-speed data, talk, and text utilizing AT&T's nationwide 5G
+    network. It is designed as an entry-level unlimited option that balances
+    essential network access with a lower price point by excluding premium add-ons.
+    Primary Plan Features Unlimited Data: Access to 5G network speeds, though
+    Cricket may temporarily slow down data speeds during heavy cellular network
+    congestion. Video Quality: Video streaming is restricted to Standard Definition
+    (SD) at roughly 480p. North American Calling: Includes unlimited voice calls and
+    text messages originating from the U.S. to destinations in Mexico and Canada.
+    Key Restrictions & Exclusions Availability Restriction: This plan is explicitly
+    reserved for new lines of service only (via a new number or port-in) and is
+    unavailable to existing customers trying to switch tiers. No Built-In Hotspot:
+    Mobile hotspot capabilities are omitted, though a 10GB hotspot add-on can be
+    manually attached for an extra $10 per month. No International Roaming: Cellular
+    data usage and roaming inside Mexico or Canada are completely blocked. No Global
+    Texting: International texting to countries outside of North America is
+    unavailable. No Entertainment Add-ons: Max (HBO Max with Ads) and cloud storage
+    tiers are entirely excluded.
+
+- id: 500
+  name: "Cricket Wireless Smart Unlimited Plan"
+  category: "Phone Plans"
+  description: >-
+    |- (Phone not Included) Unlimited Data ? Nationwide 5G ? 15 GB Hotspot Data ?
+    HBO Max Basic with Ads not included ☁️ 100 GB Cloud Storage ? Unlimited texts
+    from the U.S. to 200+ countries and territories ? Usage in Mexico and Canada ?
+    Unlimited calls and texts from the U.S. to Mexico and Canada
+
+- id: 501
+  name: "Cricket Wireless  Supreme  Unlimited Plan"
+  category: "Phone Plans"
+  description: >-
+    |- (Phone not Included) Unlimited high-speed data ? Nationwide 5G ? 50 GB
+    Hotspot Data ? HBO Max Basic with Ads ☁️ 150 GB Cloud Storage ? Unlimited texts
+    from the U.S. to 200+ countries and territories ? Usage in Mexico and Canada ?
+    Unlimited calls and texts from the U.S. to Mexico and Canada
+
+- id: 502
+  name: "AT&T 15GB Prepaid  Plan"
+  category: "Phone Plans"
+  description: >-
+    >- (Phone not Included) The AT&T $35 15GB high-speed data is primarily
+    structured as a Prepaid Data-Only Plan designed for tablets and mobile hotspots,
+    rather than standard smartphones. Plan Overview Data Allowance: You get 15GB of
+    5G high-speed data per month.
+
+- id: 503
+  name: "AT&T Unlimited Enhanced  Prepaid Plan"
+  category: "Phone Plans"
+  description: >-
+    > (Phone not Included) The AT&T Unlimited Enhanced plan (frequently grouped with
+    similar tiers or previously noted under \"Essentials Plus\") is a $45 per month
+    AT&T Prepaid plan providing full talk, text, and data with no forced data speed
+    caps. 5G speed 10GB mobile hotspot included Unlimited talk and text within and
+    between the U.S., Mexico & Canada and unlimited text from the U.S. to over 230
+    countries and territories (Limit 25GB/mo. in Canada)
+
+- id: 504
+  name: "AT&T 50GB  Prepaid Plan"
+  category: "Phone Plans"
+  description: >-
+    >- (Phone not Included) The AT&T 50GB Prepaid Plan is primarily offered as a
+    Prepaid Data-Only Plan priced at $55 per month for tablets, mobile hotspots, and
+    compatible routers, rather than standard cell phones. However, depending on what
+    type of device you have, AT&T structures its 50GB prepaid allotments across a
+    few different options: 1. Data-Only Plan (Tablets, Laptops, Hotspots)
+
+- id: 505
+  name: "AT&T  Unlimited Ultra Prepaid  Plan"
+  category: "Phone Plans"
+  description: >-
+    >- (Phone not Included) The AT&T Prepaid Unlimited Ultra plan (also distributed
+    through dealer/retail networks as Unlimited Ultra Select) is AT&T's premium
+    prepaid cell phone tier priced at $60 per month. Plan Core Features Data
+    Allowance: You get unlimited high-speed 5G / 4G LTE data. Unlike lower tiers,
+    this premium plan features truly unthrottled, un-capped speeds. Priority Network
+    Access: The data includes premium/priority data, meaning your speeds will not be
+    intentionally slowed down or de-prioritized ahead of others during peak traffic
+    congestion. Mobile Hotspot: Includes a generous 30GB of mobile hotspot data per
+    month to share with your other devices. Streaming Quality: Supports
+    high-definition video streaming, up to 4K Ultra HD quality. Cloud Storage:
+    Includes 100GB of AT&T Personal Cloud storage. International Perks North
+    American Roaming: Features unlimited talk, text, and data roaming in and between
+    the U.S., Mexico, and Canada. (Data usage in Canada caps at 25GB per month).
+    Global Texting: Unlimited text from the U.S. to over 230 countries.
+    International Calling: Includes 500 international calling minutes from the U.S.
+    to over 30 select countries , 5G speed 30GB mobile hotspot included Unlimited
+    talk and text within and between the U.S., Mexico & Canada and unlimited text
+    from the U.S. to over 230 countries and territories (Limit 25GB/mo. in Canada)
+
+- id: 506
+  name: "AT&T 100GB  Prepaid Plan"
+  category: "Phone Plans"
+  description: >-
+    >- (Phone not Included) The AT&T $90 100GB plan is an active, standalone Prepaid
+    Data-Only Plan engineered for high-consumption standalone internet devices like
+    mobile Wi-Fi hotspots, tablets, routers, and laptops. Plan Core Features, 100GB
+    high-speed data ? Best for heavy usage (streaming, work, travel) Monthly
+    Allotment: You receive 100GB of 5G / 4G LTE high-speed data per month. Flat
+    Price: The plan costs $90 per month flat. It does not support AutoPay discount
+    drops. Data Top-Offs: If you consume the full 100GB before your 30-day cycle
+    refreshes, you can buy an extra 5GB data add-on tier for $10. Network
+    Restrictions: International roaming capabilities are completely restricted on
+    this particular 100GB data-only tier.
+
+- id: 507
+  name: "AT&T $300  Annual Prepaid Plan"
+  category: "Phone Plans"
+  description: >-
+    > (Phone not Included) The AT&T $300 Annual Prepaid Plan breaks down to $25 per
+    month, paid as a single upfront payment of $300 for 12 months of service.
+    Depending on your device, AT&T structures this annual payment into two different
+    plan designs: 1. Smartphone Plan (16GB Multi-Month Plan) If you apply the
+    upfront payment to a standard cellular line, the plan functions as a
+    full-service phone tier: Data Bucket: You receive 16GB of 5G / 4G LTE high-speed
+    data each month. Data Rollover: Unused high-speed data from your 16GB bucket
+    rolls over for one month before expiring.
+
+- id: 508
+  name: "T-Mobile 15GB Starter Prepaid Plan"
+  category: "Phone Plans"
+  description: >-
+    >- (Phone not Included) The $45.00 Starter Monthly plan featuring 15GB of
+    premium data is a prominent tier in the T-Mobile Prepaid lineup. Plan Core
+    Features The Cost: It costs $45 for your first month. Setting up automatic
+    payments drops the price to $40 per month with AutoPay. Data Limits: You get
+    15GB of high-speed 5G / 4G LTE data each month. Network Priority: The 15GB
+    bucket consists of premium priority data. This means your speeds will not be
+    throttled during busy hours or crowded events ahead of other standard
+    subscribers. Mobile Hotspot: You are allowed to share your 15GB data pool
+    externally as a mobile hotspot for laptops or tablets. Talk & Text: Includes
+    unlimited domestic talk and text. Price Guarantee: Backed by T-Mobile's official
+    5-year prepaid price lock guarantee, ensuring your base rate will not increase.
+
+- id: 509
+  name: "T-Mobile Unlimited  Prepaid Plan"
+  category: "Phone Plans"
+  description: >-
+    > (Phone not Included)The T-Mobile Unlimited Monthly Prepaid Plan costs exactly
+    $50.00 for your first month (and subsequent months if you choose not to use
+    AutoPay). If you enroll in AutoPay, the price drops to $45.00 per month plus
+    taxes and fees. Unlimited 5G Data: You receive unlimited data on T-Mobile’s
+    nationwide network. Your first 50GB of data each month is premium data. Data
+    Prioritization: If you use more than 50GB in a single billing cycle, your speeds
+    may temporarily slow down during periods of heavy network congestion. Mobile
+    Hotspot: Includes unlimited mobile hotspot data, though hotspot speeds are
+    restricted to 3G speeds. Video Quality: Video streaming on this plan is
+    restricted to Standard Definition (SD) quality. Talk and text to Mexico & Canada
+    while in the U.S. included Unlimited talk and text Unlimited 5G data Up to 3GB
+    of domestic high-speed mobile hotspot data Texting to 215+ destinations while in
+    U.S., Mexico & Canada
+
+- id: 510
+  name: "T-Mobile Unlimited Plus Prepaid Plan"
+  category: "Phone Plans"
+  description: >-
+    >- (Phone not Included) The T-Mobile Unlimited Plus Prepaid Plan costs $65.00
+    per month before applying discounts. If you enroll in AutoPay, the price drops
+    by $5 to $60.00 per month plus taxes and fees. Premium 5G Data: Includes
+    unlimited on-device 5G / 4G LTE data. Your first 50GB of data each month is
+    premium priority data, after which your speeds may temporarily slow down only
+    during times of heavy network congestion. High-Speed Hotspot: Includes 5GB of
+    full-speed mobile hotspot data. Once you use that 5GB, your hotspot data remains
+    unlimited but slows down to 3G speeds. North American Roaming: Includes
+    unlimited talk and text plus up to 5GB of high-speed data when traveling in
+    Canada and Mexico. Video Quality: Video streaming is restricted to Standard
+    Definition (SD) quality. Get Unlimited Talk, Text & 5G data on your smartphone,
+    with no data overages or annual contracts. Includes 5GB of 5G high speed mobile
+    hotspot to share data with other devices. Canada & Mexico Included.
+    International Texting to over 215 countries included
+

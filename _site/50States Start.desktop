@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=50States START
+Comment=Start Jekyll + Decap CMS
+Exec=gnome-terminal -- bash -c "'/home/lm22cin64/50stateswirelessusa-main/50states-dev.sh'"
+Icon=web-github
+Terminal=true
+Type=Application
+Categories=Development;

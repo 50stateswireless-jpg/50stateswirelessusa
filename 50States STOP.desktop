@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=50States STOP
+Comment=Shutdown Jekyll + Decap CMS
+Exec="/home/lm22cin64/50stateswirelessusa-main/stop-50states.sh"
+Icon=process-stop
+Terminal=false
+Type=Application
+Categories=Development;

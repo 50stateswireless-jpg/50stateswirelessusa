@@ -1,0 +1,337 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Content Manager</title>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <style>
+    /* Custom Add Product button ( this file is /admin/index.html)*/
+    #custom-add-product-btn {
+      position: fixed;
+      top: 20px;
+      right: 250px;
+      z-index: 1000;
+      background: #3b82f6;
+      color: white;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-weight: 600;
+      cursor: pointer;
+      border: none;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      transition: all 0.2s;
+      display: none; /* Hidden by default */
+    }
+    
+    #custom-add-product-btn:hover {
+      background: #2563eb;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 8px rgba(0,0,0,0.15);
+    }
+
+    /* Mode toggle button */
+    #mode-toggle-btn {
+      position: fixed;
+      top: 20px;
+      right: 500px;
+      z-index: 1000;
+      padding: 8px 20px;
+      border-radius: 40px;
+      font-weight: bold;
+      cursor: pointer;
+      border: none;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      transition: all 0.2s ease;
+      font-family: system-ui, -apple-system, sans-serif;
+    }
+
+    #mode-toggle-btn.local {
+      background-color: #3b82f6;
+      color: white;
+    }
+
+    #mode-toggle-btn.github {
+      background-color: #2ea44f;
+      color: white;
+    }
+
+    #mode-toggle-btn:hover {
+      transform: translateY(-2px);
+      filter: brightness(1.05);
+    }
+  </style>
+  <!-- Disable Decap CMS auto‑initialization -->
+  <script>
+    window.CMS_MANUAL_INIT = true;
+  </script>
+  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+</head>
+<body>
+  <script>
+    (function() {
+      // ----- Mode management -----
+      const MODE_STORAGE_KEY = 'decap_cms_mode';
+      let currentMode = localStorage.getItem(MODE_STORAGE_KEY) || 'local'; // 'local' or 'github'
+
+      // Create toggle button
+      const toggleBtn = document.createElement('button');
+      toggleBtn.id = 'mode-toggle-btn';
+      toggleBtn.textContent = currentMode === 'local' ? '🌍 Local Mode' : '🐙 GitHub Mode';
+      toggleBtn.className = currentMode === 'local' ? 'local' : 'github';
+      document.body.appendChild(toggleBtn);
+
+      toggleBtn.addEventListener('click', () => {
+        const newMode = currentMode === 'local' ? 'github' : 'local';
+        localStorage.setItem(MODE_STORAGE_KEY, newMode);
+        window.location.reload();
+      });
+
+      // ----- Build CMS configuration based on mode -----
+      function getCMSConfig(mode) {
+        // Base configuration – identical to your original config.yml
+        const baseConfig = {
+          backend: {
+            name: 'git-gateway',
+            branch: 'main'
+          },
+          media_folder: 'images',
+          public_folder: 'images',
+          collections: [
+            {
+              name: 'settings',
+              label: 'Site Configuration',
+              files: [
+                {
+                  name: 'branding',
+                  label: 'Branding & Colors',
+                  file: '_data/branding.yml',
+                  fields: [
+                    { label: 'Name Part 1', name: 'name_part_one', widget: 'string' },
+                    { label: 'Name Part 2', name: 'name_part_two', widget: 'string' },
+                    { label: 'Text Size Class', name: 'text_size', widget: 'select', options: ['text-lg', 'text-xl', 'text-2xl'] },
+                    { label: 'Font Weight', name: 'font_weight', widget: 'select', options: ['font-normal', 'font-bold', 'font-extrabold'] },
+                    { label: 'Primary Color', name: 'color_one', widget: 'color' },
+                    { label: 'Secondary Color', name: 'color_two', widget: 'color' }
+                  ]
+                },
+                {
+                  name: 'footer',
+                  label: 'Footer Content',
+                  file: '_data/footer.yml',
+                  fields: [
+                    { label: 'Copyright Text', name: 'copyright_text', widget: 'string' },
+                    { label: 'Slogan', name: 'slogan_text', widget: 'string' },
+                    {
+                      label: 'Social Links',
+                      name: 'social_links',
+                      widget: 'list',
+                      fields: [
+                        { label: 'Platform Name', name: 'name', widget: 'string' },
+                        { label: 'URL', name: 'url', widget: 'string' },
+                        { label: 'SVG Icon Path', name: 'icon_path', widget: 'text' },
+                        { label: 'Hover Color Class', name: 'hover_color', widget: 'string' }
+                      ]
+                    },
+                    {
+                      label: 'Legal Links',
+                      name: 'legal_links',
+                      widget: 'list',
+                      fields: [
+                        { label: 'Link Text', name: 'text', widget: 'string' },
+                        { label: 'URL', name: 'url', widget: 'string' }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  name: 'navigation',
+                  label: 'Navigation Menu',
+                  file: '_data/navigation.yml',
+                  fields: [
+                    {
+                      label: 'Menu Links',
+                      name: 'menu_links',
+                      widget: 'list',
+                      fields: [
+                        { label: 'Link Text', name: 'text', widget: 'string' },
+                        { label: 'JS Function', name: 'function', widget: 'string', default: "app.setView('home')" }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  name: 'marketing',
+                  label: 'Marketing Buttons (CTA)',
+                  file: '_data/cta_buttons.yml',
+                  fields: [
+                    {
+                      label: 'Buttons',
+                      name: 'buttons',
+                      widget: 'list',
+                      fields: [
+                        { label: 'Button Text', name: 'text', widget: 'string' },
+                        { label: 'Function', name: 'function', widget: 'string', default: "app.setView('home','replace this with button text')"  },
+                        { label: 'Background Color', name: 'bg_color', widget: 'color' },
+                        { label: 'Hover Color', name: 'hover_color', widget: 'color' },
+                        { label: 'Shape Class', name: 'button_shape', widget: 'select', options: ['rounded-full', 'rounded-full', 'rounded-full'] },
+                        { label: 'Padding X', name: 'padding_x', widget: 'select', options: ['px-6', 'px-4', 'px-2'] },
+                        { label: 'Padding Y', name: 'padding_y', widget: 'select', options: ['py-3', 'py-5', 'py-7'] },
+                        { label: 'Text Size', name: 'text_size', widget: 'select', options: ['text-base', 'text-base', 'text-base'] }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  name: 'hero',
+                  label: 'Large Banner (Hero)',
+                  file: '_data/hero.yml',
+                  fields: [
+                    { label: 'Background Color', name: 'bg_color', widget: 'color' },
+                    {
+                      label: 'Headline Settings',
+                      name: 'headline',
+                      widget: 'object',
+                      fields: [
+                        { label: 'Headline Text', name: 'text', widget: 'string' },
+                        { label: 'Text Color', name: 'color', widget: 'color' },
+                        { label: 'Font Size', name: 'size', widget: 'select', options: ['text-3xl', 'text-4xl', 'text-5xl', 'text-6xl', 'text-7xl'] },
+                        { label: 'Font Weight', name: 'weight', widget: 'select', options: ['font-normal', 'font-semibold', 'font-bold', 'font-extrabold'] }
+                      ]
+                    },
+                    {
+                      label: 'Body Text Settings',
+                      name: 'subtext',
+                      widget: 'object',
+                      fields: [
+                        { label: 'Body Text', name: 'text', widget: 'text' },
+                        { label: 'Text Color', name: 'color', widget: 'color' },
+                        { label: 'Font Size', name: 'size', widget: 'select', options: ['text-sm', 'text-base', 'text-lg', 'text-xl', 'text-2xl'] }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              name: 'products',
+              label: 'Products',
+              files: [
+                {
+                  name: 'all_products',
+                  label: 'Product Inventory',
+                  file: '_data/products.yml',
+                  fields: [
+                    {
+                      label: 'Products List',
+                      name: 'products',
+                      widget: 'list',
+                      summary: '{{fields.name}} ({{fields.category}})',
+                      fields: [
+                        { label: 'ID', name: 'id', widget: 'number' },
+                        { label: 'Product Name', name: 'name', widget: 'string' },
+                        { label: 'Category', name: 'category', widget: 'select', options: ['Phone Plans', 'Internet Services', 'Tablets', 'Phones', 'WiFi Plans', 'Headsets & Earbuds', 'Smart Watches', 'Laptops & Accessories', 'Games & Gaming Accessories', 'Smart Phones & Tablets Accessories', 'Chargers', 'Pre-Owned Phones & Tablets', 'Wireless Speakers', 'Security Camera Systems'] },
+                        { label: 'Price', name: 'price', widget: 'number', value_type: 'float' },
+                        { label: 'Description', name: 'description', widget: 'text' },
+                        { label: 'Product Image', name: 'image', widget: 'image' },                        
+                        { label: 'Product Variants (Optional)',
+                          name: 'variants',
+                          widget: 'list',
+                          required: false,
+                          fields: [
+                            { label: 'Variant ID', name: 'id', widget: 'number' },
+                            { label: 'Color Name', name: 'color', widget: 'string' },
+                            { label: 'Price', name: 'price', widget: 'number', value_type: 'float' },
+                            { label: 'Variant Image', name: 'image', widget: 'image' }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        };
+
+        // Adjust local_backend based on mode
+        if (mode === 'local') {
+          baseConfig.local_backend = true;
+        } else {
+          // GitHub mode: remove local_backend (disables proxy)
+          delete baseConfig.local_backend;
+        }
+        return baseConfig;
+      }
+
+      // Wait for Decap CMS to load, then initialize manually
+      function initCMS() {
+        if (window.CMS && typeof window.CMS.init === 'function') {
+          const config = getCMSConfig(currentMode);
+          window.CMS.init({ config: config });
+        } else {
+          // If CMS not ready yet, try again shortly
+          setTimeout(initCMS, 100);
+        }
+      }
+
+      // Start CMS initialization after the page loads
+      window.addEventListener('load', initCMS);
+    })();
+  </script>
+
+  <!-- Your existing custom product button logic (unchanged) -->
+  <script>
+    window.addEventListener('load', function() {
+      // 1. Create the button once
+      const customBtn = document.createElement('button');
+      customBtn.id = 'custom-add-product-btn';
+      customBtn.innerHTML = '+ Add Product';
+      document.body.appendChild(customBtn);
+
+      // 2. Visibility Logic: Only show on the Product Inventory page
+      const handleVisibility = () => {
+        if (window.location.hash.includes('all_products')) {
+          customBtn.style.display = 'block';
+        } else {
+          customBtn.style.display = 'none';
+        }
+      };
+
+      window.addEventListener('hashchange', handleVisibility);
+      setInterval(handleVisibility, 500);
+
+      // 3. Robust Scroll Logic
+      const scrollToNewProduct = () => {
+        let attempts = 0;
+        const checkExist = setInterval(() => {
+          const labels = Array.from(document.querySelectorAll('label'));
+          const idLabels = labels.filter(el => el.textContent.trim() === 'ID');
+          
+          if (idLabels.length > 0) {
+            const newestIdField = idLabels[idLabels.length - 1];
+            newestIdField.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            setTimeout(() => window.scrollBy(0, -150), 300);
+            clearInterval(checkExist);
+          }
+
+          attempts++;
+          if (attempts > 20) clearInterval(checkExist);
+        }, 100);
+      };
+
+      customBtn.onclick = function() {
+        const buttons = Array.from(document.querySelectorAll('button'));
+        const addBtn = buttons.find(b => b.textContent.includes('Add products list'));
+
+        if (addBtn) {
+          addBtn.click();
+          scrollToNewProduct();
+        } else {
+          console.log("Original Add button not found on page.");
+        }
+      };
+    });
+  </script>
+</body>
+</html>

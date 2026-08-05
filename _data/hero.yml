@@ -1,0 +1,18 @@
+bg_color: "#1e40af"
+bg_image:  # assets/images/2018-07-10-image-35.webp
+headline:
+  text: Wireless for Everyone - THE BIGGEST SALE OF THE SEASON!
+  color: "#ed0909"
+  size_class: text-3xl md-text-5xl
+  weight: font-extrabold
+  size: text-3xl
+subtext:
+  text: Upgrade Your Phone Today, Shop Our Wide Selection Of Smartphones - Get
+    Amazing Deals On Samsung Galaxies, Apple iPhones, Google Pixels, Xiaomi,
+    OnePlus, Blackview, ZTE, Vivo, Motorola And Other Top-Brand Smartphones. Get
+    A New Samsung Galaxy S26 Ultra, 256GB Smartphone For $1099.95, New Apple
+    iPhone 17, 256GB Smartphone For $939.95, New Google Pixel 10 Pro, 128GB
+    Smartphone For $989.95. We Are Now Offering Financing options $0.00 down  24 Months Financing for qualified customers. Deal Of The Day New Motorola G Play 2024 , 64GB  For $199.95 
+  color: "#e2e8f0"
+  size_class: text-xl md-text-2xl
+  size: text-xl

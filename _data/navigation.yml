@@ -1,0 +1,18 @@
+#(_data/navigation.yml)
+menu_links:
+  - text: "Home"
+    function: "app.setView('home')"
+  - text: "Phone Plans"
+    function: "app.setView('home', 'Phone Plans')"
+  - text: "Internet Services"
+    function: "app.setView('home', 'Internet Services')"
+  - text: "Tablets"
+    function: "app.setView('home', 'Tablets')"
+  - text: "Phones"
+    function: "app.setView('home', 'Phones')"
+  - text: "WiFi Plans"
+    function: "app.setView('home', 'WiFi Plans')"
+  - text: "Headsets & Earbuds"
+    function: "app.setView('home', 'Headsets & Earbuds')"
+  - text: "Smart Watches"
+    function: "app.setView('home', 'Smart Watches')"
