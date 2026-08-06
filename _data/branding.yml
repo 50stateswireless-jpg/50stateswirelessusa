@@ -1,0 +1,7 @@
+#(_data/branding.yml)
+name_part_one: "50States"
+name_part_two: "WirelessUSA"
+text_size: "text-xl"
+font_weight: "font-bold"
+color_one: "#FB242B"
+color_two: "#ffffff"

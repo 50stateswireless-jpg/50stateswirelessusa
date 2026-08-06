@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+  <style>
+    .cta-button.auto-hover-effect {
+      transform: translateY(-2px) !important;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2) !important;
+      transition: all 0.2s ease !important;
+    }
+    
+    /* Cart Custom Scrollbar Styles */
+    .cart-items-scroll {
+      max-height: 520px;
+      overflow-y: auto;
+    }
+    .cart-items-scroll::-webkit-scrollbar {
+      width: 6px;
+    }
+    .cart-items-scroll::-webkit-scrollbar-thumb {
+      background-color: #cbd5e1;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col bg-gray-50">
+  {% include header.html %}
+
+  <main id="app-container" class="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <div id="loading-spinner" class="text-center py-20">
+      <div class="inline-block animate-spin rounded-full h-12 w-12 border-4 border-blue-600 border-t-transparent"></div>
+      <p class="mt-4 text-gray-600 font-medium">Loading catalog...</p>
+    </div>
+  </main>
+
+  <!-- 
+    ========================================================
+    ADDED: Affiliate Banners are now OUTSIDE the App Container
+    ========================================================
+  -->
+  <div id="affiliate-banner-area" class="max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 pb-10">
+    
+    <!-- Banner 1: XNET -->
+    <div class="bg-gradient-to-r from-amber-50 to-orange-100 border border-amber-200 rounded-xl p-2 text-center mb-4">
+      <p class="text-amber-800 font-medium">
+        🔥 <strong>Shop XNET WiFi</strong> 🔥 Get unlimited high-speed internet with our plug-and-play devices.
+        <a href="https://xnetwifi.com/shop/?woosa_affiliate=50stateswireless" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 block sm:inline-block mt-1 sm:mt-0 sm:ml-2">Shop Now →</a>
+      </p>
+    </div>
+
+    <!-- Banner 2: AirTalk -->
+        <div class="bg-gradient-to-r from-amber-50 to-orange-100 border border-amber-200 rounded-xl p-2 text-center">
+          <p class="text-amber-800 font-medium">
+            🔥 <strong>Choose AirTalk Wireless </strong> 🔥 * And Get Your Smartphones For FREE Now!
+
+* On Medicaid, SNAP, SSI & More. Free Shipping</code>
+      <a href="https://airtalkwireless.com/lifeline-enrollment" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 ml-2">
+        Shop Now →</a>
+          </p>
+        </div>
+
+    <!-- Banner 3: US Mobile -->
+    <div class="bg-gradient-to-r from-amber-50 to-orange-100 border border-amber-200 rounded-xl p-2 text-center mb-4">
+      <p class="text-amber-800 font-medium">
+        🔥 <strong>Join US Mobile </strong> 🔥 Get $25 thanks to referral.
+        Start with a 30 day free trial, then as low as $17.50 per month for Unlimited.
+        <a href="https://www.usmobile.com/referrals?referrer=E20D0097&name=null&utm_campaign=monster_referral" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 block sm:inline-block mt-1 sm:mt-0 sm:ml-2">Shop Now →</a>
+      </p>
+    </div>
+
+  </div>
+  <!-- ======================================================== -->
+
+  {% include footer.html %}
+
+<script>
+// Global Error Handler to prevent blank screens
+window.onerror = function(message, source, lineno, colno, error) {
+  console.error("Global Error:", message, "at line:", lineno);
+  const spinner = document.getElementById('loading-spinner');
+  if (spinner) {
+    spinner.innerHTML = `<div class="text-red-600 font-bold">Error loading application.</div><p class="text-sm text-gray-500 mt-2">${message}</p><p class="text-xs text-gray-400 mt-1">Check Console (F12) for details.</p>`;
+  }
+};
+
+// Inject CMS Configurations
+const ctaButtonsData = {{ site.data.cta_buttons.buttons | jsonify }} || [];
+const bannerData = {{ site.data.banner | jsonify }} || {}; 
+
+const app = {
+  view: 'home',
+  currentProductId: null,
+  filterCategory: null,
+  sortBy: 'id_asc',
+  currentPage: 1,
+  pageSize: 20,
+  searchQuery: '',
+  
+  // --- PERSISTENCE LOGIC START ---
+  getCartFromStorage: function() {
+    try {
+      const storedCart = localStorage.getItem('50states_wireless_cart');
+      if (storedCart) {
+        const parsed = JSON.parse(storedCart);
+        // Basic validation to ensure it's an array
+        return Array.isArray(parsed) ? parsed : [];
+      }
+    } catch (e) {
+      console.error("Error reading cart from localStorage", e);
+    }
+    return [];
+  },
+
+  saveCartToStorage: function() {
+    try {
+      localStorage.setItem('50states_wireless_cart', JSON.stringify(this.cart));
+    } catch (e) {
+      console.error("Error saving cart to localStorage", e);
+    }
+  },
+  // --- PERSISTENCE LOGIC END ---
+
+  // Initialize cart state immediately
+  cart: [], 
+
+  selectedVariantId: null,
+  selectedBrowseVariants: {},
+  rawProducts: [],
+  products: [],
+
+  subscriptionCategories: ['Phone Plans', 'Internet Services', 'WiFi Plans', 'Phone Plan', 'WiFi'],
+
+  isSubscription: function(category) {
+    return this.subscriptionCategories.includes(category);
+  },
+
+  init: async function() {
+    try {
+      // 1. Load Cart from Storage first
+      this.cart = this.getCartFromStorage();
+
+      // 2. Load Products
+      const cached = sessionStorage.getItem('cached_products_data');
+      if (cached) {
+        this.rawProducts = JSON.parse(cached);
+      } else {
+        // Note: Ensure your baseurl matches your local server config
+        const fetchUrl = '{{ site.baseurl }}/assets/js/products.json';
+        console.log("Attempting to fetch:", fetchUrl);
+        
+        const response = await fetch(fetchUrl);
+        
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
+        this.rawProducts = await response.json();
+        sessionStorage.setItem('cached_products_data', JSON.stringify(this.rawProducts));
+      }
+
+      // 3. Process and Render
+      if (this.rawProducts && Array.isArray(this.rawProducts)) {
+        this.processProducts();
+        this.render();
+      } else {
+        console.error("Products data is not an array or is undefined.");
+        this.showErrorMessage("Failed to load product catalog. Please check if _data/products.yml is valid.");
+      }
+
+    } catch (err) {
+      console.error("Critical Error in app.init:", err);
+      this.showErrorMessage("Failed to initialize catalog: " + err.message);
+    }
+  },
+
+  showErrorMessage: function(msg) {
+    const container = document.getElementById('app-container');
+    if (container) {
+      container.innerHTML = `
+        <div class="max-w-2xl mx-auto bg-red-50 border border-red-200 p-8 rounded-xl mt-10 text-center">
+          <h1 class="text-2xl font-bold text-red-700 mb-4">Application Error</h1>
+          <p class="text-red-600 mb-4">${msg}</p>
+          <p class="text-sm text-gray-500">Please check the browser console (F12) for stack traces.</p>
+          <button onclick="location.reload()" class="mt-4 bg-red-600 text-white px-4 py-2 rounded hover:bg-red-700">Retry</button>
+        </div>
+      `;
+    }
+  },
+
+  processProducts: function() {
+    const flattened = [];
+    // Safety check for rawProducts
+    if (!this.rawProducts) return;
+
+    this.rawProducts.forEach(product => {
+      // Handle potential null/undefined values in YAML
+      const safeName = product.name || "Unknown Product";
+      const safeCategory = product.category || "Uncategorized";
+      const safePrice = product.price || 0;
+      const safeDescription = product.description || "";
+      const safeImage = product.image || "";
+
+      if (product.variants && Array.isArray(product.variants) && product.variants.length > 0) {
+        const validPrices = product.variants.map(v => {
+          const p = typeof v.price === 'number' ? v.price : parseFloat(v.price);
+          return (isNaN(p) ? 0 : p);
+        });
+        
+        flattened.push({
+          id: product.id || Date.now() + Math.random(), // Ensure unique ID
+          name: safeName,
+          category: safeCategory,
+          price: Math.min(...validPrices),
+          description: safeDescription,
+          image: product.variants[0].image || safeImage,
+          hasVariants: true,
+          baseProduct: product
+        });
+      } else {
+        flattened.push({
+          id: product.id || Date.now() + Math.random(),
+          name: safeName,
+          category: safeCategory,
+          price: typeof safePrice === 'number' ? safePrice : parseFloat(safePrice) || 0,
+          description: safeDescription,
+          image: safeImage,
+          hasVariants: false,
+          baseProduct: product
+        });
+      }
+    });
+    this.products = flattened;
+  },
+
+  pluralizeCategory: (category) => {
+    const exceptions = {
+      'Watch': 'Watch',
+      'Smart Watches': 'Smart Watches',
+      'Phone Plan': 'Phone Plans',
+      'Phone': 'Phones',
+      'Tablet': 'Tablets',
+      'Computer': 'Computers',
+      'Charger': 'Chargers',
+      'Security Camera Systems': 'Security Camera Systems',
+      'WiFi': 'WiFi Plans',
+      'Headsets & Earbuds': 'Headsets & Earbuds',
+      'Smart Phones & Tablets Accessories': 'Smart Phones & Tablets Accessories',
+      'Laptops & Accessories': 'Laptops & Accessories',
+      'Pre-Owned Phones & Tablets': 'Pre-Owned Phones & Tablets',
+      'Games & Gaming Accessories': 'Games & Gaming Accessories',
+      'Wireless Speakers': 'Wireless Speakers'
+    };
+    return exceptions[category] || category;
+  },
+
+  toggleDescription: () => {
+    const description = document.getElementById('product-description');
+    const button = document.getElementById('toggle-description');
+
+    if (!description || !button) return;
+
+    const currentState = description.getAttribute('data-state') || 'truncated';
+    
+    if (currentState === 'truncated') {
+      description.style.display = 'block';
+      description.style.webkitLineClamp = 'unset';
+      description.style.webkitBoxOrient = 'unset';
+      description.style.overflow = 'visible';
+      description.style.height = 'auto';
+      description.setAttribute('data-state', 'expanded');
+      button.textContent = 'Less';
+    } else {
+      description.style.display = '-webkit-box';
+      description.style.webkitLineClamp = '3';
+      description.style.webkitBoxOrient = 'vertical';
+      description.style.overflow = 'hidden';
+      description.style.height = 'auto';
+      description.setAttribute('data-state', 'truncated');
+      button.textContent = 'More Details';
+    }
+  },
+
+  getProductVariantOrBase(productId) {
+    for (const product of this.rawProducts) {
+      if (product.id === productId) return { product, variant: null };
+      if (product.variants) {
+        const variant = product.variants.find(v => v.id === productId);
+        if (variant) return { product, variant };
+      }
+    }
+    return null;
+  },
+
+  formatCurrency: (amount) => {
+    return new Intl.NumberFormat('en-US', {
+      style: 'currency',
+      currency: 'USD'
+    }).format(amount || 0);
+  },
+
+  scrollToCategoryHeading: function() {
+    setTimeout(() => {
+      if (this.view === 'home' && this.filterCategory) {
+        const categoryHeading = document.querySelector('#app-container h2');
+        if (categoryHeading) {
+          const header = document.querySelector('header.sticky');
+          const headerHeight = header ? header.offsetHeight : 64;
+          const elementPosition = categoryHeading.getBoundingClientRect().top + window.pageYOffset;
+          const offsetPosition = elementPosition - headerHeight - 16;
+          window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
+          return;
+        }
+      }
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }, 100);
+  },
+
+  getProcessedProducts: function() {
+    let list = [...this.products];
+
+    if (this.filterCategory) {
+      list = list.filter(p => p.category === this.filterCategory);
+    }
+
+    if (this.searchQuery && this.searchQuery.trim() !== '') {
+      const q = this.searchQuery.toLowerCase();
+      list = list.filter(p => p.name.toLowerCase().includes(q) || (p.description && p.description.toLowerCase().includes(q)));
+    }
+
+    list.sort((a, b) => {
+      switch (this.sortBy) {
+        case 'id_asc': return a.id - b.id;
+        case 'id_desc': return b.id - a.id;
+        case 'name_asc': return a.name.localeCompare(b.name);
+        case 'name_desc': return b.name.localeCompare(a.name);
+        case 'price_asc': return a.price - b.price;
+        case 'price_desc': return b.price - a.price;
+        default: return a.id - b.id;
+      }
+    });
+
+    return list;
+  },
+
+  renderHome: () => {
+    if (!app.selectedBrowseVariants) app.selectedBrowseVariants = {};
+    
+    app.products.forEach(product => {
+      if (product.hasVariants && product.baseProduct.variants) {
+        if (!app.selectedBrowseVariants[product.id]) {
+          app.selectedBrowseVariants[product.id] = product.baseProduct.variants[0].id;
+        }
+      }
+    });
+    
+    const container = document.getElementById('app-container');
+    
+    const ctaButtonsHtml = ctaButtonsData && ctaButtonsData.length > 0 
+      ? ctaButtonsData.map(button => `
+          <button onclick="${button.function}" 
+                  class="cta-button inline-flex items-center justify-center ${button.padding_x} ${button.padding_y} border border-transparent ${button.text_size} font-medium ${button.button_shape} text-white transition duration-150 shadow-lg"
+                  style="background-color: ${button.bg_color};"
+                  onmouseover="this.style.backgroundColor='${button.hover_color}';"
+                  onmouseout="this.style.backgroundColor='${button.bg_color}';">
+            ${button.text}
+          </button>
+        `).join('')
+      : `
+        <button onclick="app.setView('home', 'WiFi Plans')" class="cta-button inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg">Shop WiFi Plans</button>
+      `;
+
+    const bgImage = '{{ site.data.hero.bg_image }}' || null;
+    const bgColor = '{{ site.data.hero.bg_color }}' || '#1e40af';
+
+    let bannerBgStyle = bgImage
+      ? `background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('${bgImage}'); background-size: cover; background-position: center;`
+      : `background-color: ${bgColor};`;
+
+    let html = `
+      <div class="rounded-xl shadow-2xl p-6 md:p-10 mb-10 border-4 border-white" style="${bannerBgStyle}">
+        <div class="flex flex-col md:flex-row items-center justify-between">
+          <div class="text-white space-y-4">
+            <h1 class="{{ site.data.hero.headline.size }} {{ site.data.hero.headline.weight }} mb-3" style="color: {{ site.data.hero.headline.color }};">
+              {{ site.data.hero.headline.text }}
+            </h1>
+            <p class="{{ site.data.hero.subtext.size }} mb-8" style="color: {{ site.data.hero.subtext.color }};">
+              {{ site.data.hero.subtext.text }}
+            </p>
+            <div class="flex flex-col sm:flex-row gap-3">
+              ${ctaButtonsHtml}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Affiliate Promo Banners -->
+
+        <div class="bg-gradient-to-r from-amber-50 to-orange-100 border border-amber-200 rounded-xl p-2 text-center">
+          <p class="text-amber-800 font-medium">
+            🔥 <strong>Shop XNET WiFi</strong> 🔥 Get unlimited high-speed internet with our plug-and-play devices.
+            <a href="https://xnetwifi.com/shop/?woosa_affiliate=50stateswireless" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 block sm:inline-block mt-1 sm:mt-0 sm:ml-2">Shop Now →</a>
+          </p>
+        </div>
+        <div class="bg-gradient-to-r from-amber-50 to-orange-100 border border-amber-200 rounded-xl p-2 text-center">
+          <p class="text-amber-800 font-medium">
+            🔥 <strong>Choose AirTalk Wireless </strong> 🔥 * And Get Your Smartphones For FREE Now!
+
+* On Medicaid, SNAP, SSI & More. Free Shipping</code>
+      <a href="https://airtalkwireless.com/lifeline-enrollment" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 ml-2">
+        Shop Now →</a>
+          </p>
+        </div>
+        <div class="bg-gradient-to-r from-amber-50 to-orange-100 border border-amber-200 rounded-xl p-2 text-center">
+          <p class="text-amber-800 font-medium">
+            🔥 <strong>Join US Mobile </strong> 🔥 Get $25 thanks to
+null.
+Start with a 30 day free trial, then as low as $17.50 per month for Unlimited.
+            <a href="https://www.usmobile.com/referrals?referrer=E20D0097&name=null&utm_campaign=monster_referral" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 block sm:inline-block mt-1 sm:mt-0 sm:ml-2">Shop Now →</a>
+          </p>
+        </div>
+      </div>
+    `;
+
+    const processed = app.getProcessedProducts();
+    const totalPages = Math.ceil(processed.length / app.pageSize) || 1;
+    if (app.currentPage > totalPages) app.currentPage = 1;
+    const startIndex = (app.currentPage - 1) * app.pageSize;
+    const pageProducts = processed.slice(startIndex, startIndex + app.pageSize);
+
+    html += `
+      <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-6 bg-white p-4 rounded-xl border border-gray-200 shadow-sm">
+        <div>
+          <h2 class="text-3xl font-bold text-gray-800">
+            ${app.filterCategory ? app.pluralizeCategory(app.filterCategory) : 'Featured Products'}
+          </h2>
+          <span class="text-sm text-gray-500">Showing ${processed.length} products</span>
+        </div>
+
+        <div class="flex flex-wrap items-center gap-3">
+          <input 
+            type="text" 
+            placeholder="Search products..." 
+            value="${app.searchQuery}" 
+            oninput="app.searchQuery = this.value; app.currentPage = 1; app.render();" 
+            class="px-4 py-2 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+          />
+          <select onchange="app.sortBy = this.value; app.render();" class="px-4 py-2 border border-gray-300 rounded-lg text-sm bg-white focus:outline-none focus:ring-2 focus:ring-blue-500">
+            <option value="id_asc" ${app.sortBy === 'id_asc' ? 'selected' : ''}>Sort by ID: Low to High</option>
+            <option value="id_desc" ${app.sortBy === 'id_desc' ? 'selected' : ''}>Sort by ID: High to Low</option>
+            <option value="name_asc" ${app.sortBy === 'name_asc' ? 'selected' : ''}>Sort by Name: A to Z</option>
+            <option value="name_desc" ${app.sortBy === 'name_desc' ? 'selected' : ''}>Sort by Name: Z to A</option>
+            <option value="price_asc" ${app.sortBy === 'price_asc' ? 'selected' : ''}>Sort by Price: Low to High</option>
+            <option value="price_desc" ${app.sortBy === 'price_desc' ? 'selected' : ''}>Sort by Price: High to Low</option>
+          </select>
+        </div>
+      </div>
+    `;
+
+    if (pageProducts.length === 0) {
+      html += `<p class="text-center text-gray-500 py-10">No products found matching your criteria.</p>`;
+    } else {
+      html += `<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">`;
+      pageProducts.forEach(product => {
+        const activeVariantId = app.selectedBrowseVariants[product.id] || (product.hasVariants ? product.baseProduct.variants[0].id : null);
+        const activeVariant = product.hasVariants ? product.baseProduct.variants.find(v => v.id === activeVariantId) : null;
+        
+        const displayImage = activeVariant ? activeVariant.image : product.image;
+        const displayPrice = activeVariant ? activeVariant.price : product.price;
+
+        html += `
+          <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition duration-300 overflow-hidden flex flex-col">
+            <div class="h-48 bg-gray-100 flex items-center justify-center p-4">
+              <img src="${displayImage}" id="product-img-${product.id}" onerror="this.onerror=null;this.src='https://placehold.co/400x300/E5E7EB/4B5563?text=NewRock';" alt="${product.name}" class="max-h-full max-w-full object-contain rounded-lg">
+            </div>
+            <div class="p-5 flex-grow flex flex-col">
+              <div class="flex justify-between items-center mb-1">
+                <span class="text-xs font-semibold uppercase text-gray-500">${product.category}</span>
+                <span class="text-xs text-gray-400 font-mono">ID: ${product.id}</span>
+              </div>
+              <h3 class="text-lg font-bold text-gray-900 mb-2 tooltip-trigger line-clamp-2" title="${product.name}">${product.name}</h3>
+              
+              <!-- Color Swatches on Store Grid -->
+              ${product.hasVariants ? `
+                <div class="flex items-center space-x-2 my-2">
+                  ${product.baseProduct.variants.map(v => `
+                    <button 
+                      onclick="app.selectProductVariant(${product.id}, ${v.id}, '${v.color}', '${v.image}', ${v.price})" 
+                      title="${v.color}"
+                      class="w-5 h-5 rounded-full border-2 transition duration-150 ${activeVariantId === v.id ? 'border-blue-600 scale-110 ring-2 ring-blue-300' : 'border-gray-300 hover:scale-105'}"
+                      style="background-color: ${v.color_hex || v.color.toLowerCase()};">
+                    </button>
+                  `).join('')}
+                </div>
+              ` : ''}
+
+              <div class="flex items-center justify-between mb-4 mt-auto">
+                <p id="product-price-${product.id}" class="text-xl font-extrabold text-red-600">
+                  ${app.formatCurrency(displayPrice)}${app.isSubscription(product.category) ? '<span class="text-sm text-gray-500 font-normal">/mo</span>' : ''}
+                </p>
+              </div>
+              <div class="flex space-x-2">
+                <button onclick="app.setView('details', ${product.id})" class="flex-1 px-4 py-2 border border-gray-300 text-sm font-medium rounded-lg text-gray-700 hover:bg-gray-100 transition duration-150">Details</button>
+                <button onclick="app.addToCartFromBrowse(${product.id})" class="flex-1 bg-blue-600 hover:bg-blue-700 text-white text-sm font-medium rounded-lg shadow-md hover:shadow-lg transition duration-150 flex items-center justify-center">Buy Now</button>
+              </div>
+            </div>
+          </div>
+        `;
+      });
+      html += `</div>`;
+
+      if (totalPages > 1) {
+        html += `
+          <div class="flex justify-center items-center space-x-2 mt-8">
+            <button onclick="app.currentPage--; app.render(); app.scrollToCategoryHeading();" ${app.currentPage === 1 ? 'disabled' : ''} class="px-4 py-2 border rounded-lg bg-white disabled:opacity-50">Prev</button>
+            <span class="text-sm text-gray-600 font-medium">Page ${app.currentPage} of ${totalPages}</span>
+            <button onclick="app.currentPage++; app.render(); app.scrollToCategoryHeading();" ${app.currentPage === totalPages ? 'disabled' : ''} class="px-4 py-2 border rounded-lg bg-white disabled:opacity-50">Next</button>
+          </div>
+
+        `;
+      }
+    }
+    container.innerHTML = html;
+  },
+
+  renderDetails: () => {
+    const container = document.getElementById('app-container');
+    const baseProduct = app.rawProducts.find(p => p.id === app.currentProductId);
+    if (!baseProduct) {
+      container.innerHTML = `<div class="p-10 text-center"><h1 class="text-4xl text-gray-800 font-bold">Product Not Found</h1><button onclick="app.setView('home')" class="mt-5 bg-blue-600 text-white px-5 py-2 rounded-lg">Back to Store</button></div>`;
+      return;
+    }
+
+    const hasVariants = baseProduct.variants && Array.isArray(baseProduct.variants) && baseProduct.variants.length > 0;
+    const variants = hasVariants ? baseProduct.variants : [{ id: baseProduct.id, price: baseProduct.price, image: baseProduct.image, color: 'Default' }];
+    
+    if (!app.selectedVariantId || !variants.some(v => v.id === app.selectedVariantId)) {
+      app.selectedVariantId = variants[0].id;
+    }
+    const selectedVariant = variants.find(v => v.id === app.selectedVariantId) || variants[0];
+
+    const priceSuffix = app.isSubscription(baseProduct.category) ? '/month' : '';
+
+    container.innerHTML = `
+      <div class="bg-white rounded-xl shadow-2xl p-6 md:p-10">
+        <div class="flex flex-col lg:flex-row gap-8">
+          <div class="lg:w-1/2 bg-gray-50 rounded-lg p-6 flex items-center justify-center">
+            <img id="detail-product-image" src="${selectedVariant.image}" onerror="this.onerror=null;this.src='https://placehold.co/600x450/E5E7EB/4B5563?text=NewRock+Product';" alt="${baseProduct.name}" class="w-full h-auto object-contain rounded-lg max-h-96">
+          </div>
+          <div class="lg:w-1/2">
+            <span class="text-sm font-semibold uppercase text-gray-500">${baseProduct.category}</span>
+            <h1 class="text-4xl font-extrabold text-gray-900 mt-2 mb-2">${baseProduct.name}</h1>
+            <p id="detail-product-price" class="text-3xl font-extrabold text-red-600 mb-4">
+              ${app.formatCurrency(selectedVariant.price)}<span class="text-lg font-semibold text-gray-600">${priceSuffix}</span>
+            </p>
+            
+            ${hasVariants ? `
+              <div class="mb-6">
+                <label class="block text-sm font-medium text-gray-700 mb-2">Color / Variant: <span id="selected-variant-label" class="font-bold">${selectedVariant.color}</span></label>
+                <div class="flex items-center space-x-3">
+                  ${variants.map(v => `
+                    <button 
+                      onclick="app.setDetailVariant(${v.id})" 
+                      title="${v.color}"
+                      class="w-8 h-8 rounded-full border-2 transition duration-150 ${app.selectedVariantId === v.id ? 'border-blue-600 scale-110 ring-2 ring-blue-300' : 'border-gray-300 hover:scale-105'}"
+                      style="background-color: ${v.color_hex || v.color.toLowerCase()};">
+                    </button>
+                  `).join('')}
+                </div>
+              </div>
+            ` : ''}
+
+            <div class="relative mb-6">
+              <p id="product-description" class="text-gray-600 leading-relaxed" data-state="truncated">${baseProduct.description}</p>
+              <button id="toggle-description" onclick="app.toggleDescription()" class="ml-auto text-sm font-medium text-red-600 hover:text-red-700 focus:outline-none">More Details</button>
+            </div>
+            <div class="mt-8 flex items-center space-x-4">
+              <button id="add-to-cart-btn" onclick="app.addToCart(${selectedVariant.id})" class="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 text-lg font-semibold rounded-xl shadow-md hover:shadow-lg transition duration-150">Add to Cart</button>
+              <button onclick="app.setView('home')" class="px-6 py-3 border border-gray-300 text-gray-700 text-lg font-semibold rounded-xl hover:bg-gray-100 transition duration-150">Back to Store</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    `;
+  },
+
+  setDetailVariant: (variantId) => {
+    app.selectedVariantId = variantId;
+    app.renderDetails();
+  },
+
+  renderCart: () => {
+    const container = document.getElementById('app-container');
+    const totalItemCount = app.cart.reduce((sum, i) => sum + i.quantity, 0);
+
+    if (app.cart.length === 0) {
+      container.innerHTML = `
+        <div class="max-w-3xl mx-auto bg-white p-8 rounded-xl shadow-2xl text-center my-10">
+          <h1 class="text-4xl font-bold text-gray-900 mb-4">Your Shopping Cart (0 Items)</h1>
+          <p class="text-xl font-semibold text-gray-500 mb-8">Your cart is currently empty.</p>
+          <button onclick="app.setView('home')" class="bg-blue-600 text-white px-8 py-3 rounded-lg font-semibold shadow-md hover:bg-blue-700 transition">Continue Shopping</button>
+        </div>
+      `;
+      return;
+    }
+
+    let subtotal = 0;
+    const cartItemsHtml = app.cart.map(item => {
+      const match = app.getProductVariantOrBase(item.id);
+      if (!match) return '';
+      const { product, variant } = match;
+      const title = variant ? `${product.name} (${variant.color})` : product.name;
+      const price = variant ? variant.price : product.price;
+      const image = variant ? variant.image : product.image;
+      const category = product.category;
+      const itemTotal = price * item.quantity;
+      subtotal += itemTotal;
+
+      const unitLabel = app.isSubscription(category) ? '/mo' : 'each';
+
+      return `
+        <div class="flex items-center justify-between py-6 border-b border-gray-200 gap-4">
+          <div class="flex items-center space-x-4">
+            <img src="${image}" alt="${title}" class="w-20 h-20 object-contain rounded-lg border border-gray-200 p-1 bg-white">
+            <div>
+              <h3 class="font-bold text-gray-900 text-base leading-snug max-w-sm">${title}</h3>
+              <p class="text-sm text-indigo-600 mt-0.5">${category} <span class="text-indigo-400 ml-1">${app.formatCurrency(price)} ${unitLabel}</span></p>
+            </div>
+          </div>
+
+          <div class="flex items-center space-x-6">
+            <div class="flex items-center space-x-3">
+              <button onclick="app.updateCartQuantity(${item.id}, ${item.quantity - 1})" class="w-7 h-7 rounded-full bg-red-100 text-red-600 hover:bg-red-200 font-bold flex items-center justify-center transition">-</button>
+              <span class="font-bold text-gray-800 text-sm">${item.quantity}</span>
+              <button onclick="app.updateCartQuantity(${item.id}, ${item.quantity + 1})" class="w-7 h-7 rounded-full bg-blue-100 text-blue-600 hover:bg-blue-200 font-bold flex items-center justify-center transition">+</button>
+            </div>
+            <p class="font-extrabold text-gray-900 text-base w-20 text-right">${app.formatCurrency(itemTotal)}</p>
+            <button onclick="app.removeFromCart(${item.id})" title="Remove Item" class="text-red-400 hover:text-red-600 text-lg transition">
+              <svg class="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M6 2a1 1 0 00-1 1v1H3a1 1 0 000 2h1v10a2 2 0 002 2h8a2 2 0 002-2V6h1a1 1 0 100-2h-2V3a1 1 0 00-1-1H6zm2 4a1 1 0 112 0v8a1 1 0 11-2 0V6zm4 0a1 1 0 112 0v8a1 1 0 11-2 0V6z"/></svg>
+            </button>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    const taxRate = 0.08875; // NYC 8.875% tax rate
+    const tax = subtotal * taxRate;
+    const orderTotal = subtotal + tax;
+
+    container.innerHTML = `
+      <div class="flex flex-col lg:flex-row gap-8 items-start my-4">
+        <!-- Left Product Column with Inner Scrollbar -->
+        <div class="lg:w-2/3 w-full bg-white rounded-2xl p-6 shadow-sm border border-gray-100">
+          <h1 class="text-3xl font-extrabold text-gray-900 pb-4 border-b border-gray-100">Your Shopping Cart (${totalItemCount} Items)</h1>
+          
+          <div class="cart-items-scroll pr-2 mt-2">
+            ${cartItemsHtml}
+          </div>
+
+          <div class="mt-8">
+            <button onclick="app.setView('home')" class="inline-flex items-center px-6 py-3 bg-blue-700 hover:bg-blue-800 text-white font-medium rounded-lg transition shadow-md">
+              ← Continue Shopping
+            </button>
+          </div>
+        </div>
+
+        <!-- Sticky Right Column: Order Summary Sidebar -->
+        <div class="lg:w-1/3 w-full lg:sticky lg:top-24">
+          <div class="bg-gray-50 border-t-4 border-red-500 rounded-2xl p-6 shadow-lg">
+            <h2 class="text-2xl font-bold text-gray-900 mb-6">Order Summary</h2>
+
+            <div class="space-y-3 border-b border-gray-200 pb-4 text-gray-700 font-medium">
+              <div class="flex justify-between">
+                <span>Subtotal:</span>
+                <span class="font-semibold text-gray-900">${app.formatCurrency(subtotal)}</span>
+              </div>
+              <div class="flex justify-between">
+                <span>Tax (8.875%):</span>
+                <span class="font-semibold text-gray-900">${app.formatCurrency(tax)}</span>
+              </div>
+            </div>
+
+            <div class="flex justify-between pt-4 border-t border-gray-300">
+              <span class="text-xl font-extrabold nrw-text-red">Order Total:</span>
+              <span class="text-xl font-extrabold nrw-text-red">${app.formatCurrency(orderTotal)}</span>
+            </div>
+
+<div id="paypal-paylater-message" class="paypal-messaging"></div>
+<div
+    data-pp-message
+    data-pp-style-layout="text"
+    data-pp-style-logo-type="inline"
+    data-pp-style-text-color="black"
+    data-pp-amount="${orderTotal.toFixed(2)}"
+    data-pp-language="">
+</div>
+
+          </div>
+        <div class="mt-111 p-111 nrw-bg-white rounded-xl shadow-xl text-center text-green">
+          <p class="text-lg font-light">Secure Checkout With PayPal, Debit Or Credit Card</p>
+        </div>
+            <!-- Automatically Populated PayPal SDK Containers -->
+            <div id="paypal-pay-in-4-container" class="mb-4"></div>
+            <div id="paypal-button-container" class="space-y-3"></div>
+
+            <!-- Free Shipping Notice Badge (Positioned directly under PayPal container) -->
+            <div class="mt-4 w-full bg-emerald-50 border border-emerald-200 text-emerald-800 rounded-xl p-3 text-center text-xs font-semibold flex items-center justify-center gap-2">
+              <span>🚚</span> Free Shipping Nationwide - International Shipping Available 
+Rates Starting At $85 USD
+            </div>
+          </div>
+        </div>
+      </div>
+    `;
+
+    app.renderPayPalSDK(orderTotal);
+  },
+
+  renderPayPalSDK: function(orderTotal) {
+    setTimeout(() => {
+      if (window.paypal && window.paypal.Buttons) {
+        document.getElementById('paypal-button-container').innerHTML = '';
+        window.paypal.Buttons({
+          createOrder: (data, actions) => {
+            return actions.order.create({
+              purchase_units: [{
+                amount: {
+                  value: orderTotal.toFixed(2)
+                }
+              }]
+            });
+          },
+          onApprove: (data, actions) => {
+            return actions.order.capture().then(details => {
+              alert('Transaction completed by ' + details.payer.name.given_name);
+              // Clear cart after successful checkout
+              app.cart = [];
+              app.saveCartToStorage();
+              app.setView('home');
+            });
+          }
+        }).render('#paypal-button-container');
+      } else if (window.PayPalSDK && window.PayPalSDK.Messages) {
+        document.getElementById('paypal-pay-in-4-container').innerHTML = '';
+        window.PayPalSDK.Messages({
+          amount: orderTotal.toFixed(2),
+          placement: 'payment'
+        }).render('#paypal-pay-in-4-container');
+      }
+    }, 100);
+  },
+
+  selectProductVariant: (productId, variantId, color, image, price) => {
+    if (!app.selectedBrowseVariants) app.selectedBrowseVariants = {};
+    app.selectedBrowseVariants[productId] = variantId;
+
+    const productImg = document.getElementById(`product-img-${productId}`);
+    if (productImg) productImg.src = image;
+
+    const priceEl = document.getElementById(`product-price-${productId}`);
+    if (priceEl) {
+      priceEl.innerHTML = `${app.formatCurrency(price)}`;
+    }
+    app.renderHome();
+  },
+
+  updateCartQuantity: (variantOrProductId, newQuantity) => {
+    if (newQuantity <= 0) {
+      app.removeFromCart(variantOrProductId);
+      return;
+    }
+    const item = app.cart.find(i => i.id === variantOrProductId);
+    if (item) item.quantity = newQuantity;
+    
+    // Save to storage after update
+    app.saveCartToStorage();
+    
+    app.updateCartCount();
+    app.renderCart();
+  },
+
+  removeFromCart: (variantOrProductId) => {
+    app.cart = app.cart.filter(i => i.id !== variantOrProductId);
+    
+    // Save to storage after removal
+    app.saveCartToStorage();
+    
+    app.updateCartCount();
+    app.renderCart();
+  },
+
+  addToCart: (productId) => {
+    const existingItem = app.cart.find(item => item.id === productId);
+    if (existingItem) existingItem.quantity += 1;
+    else app.cart.push({ id: productId, quantity: 1 });
+    
+    // Save to storage after adding
+    app.saveCartToStorage();
+    
+    app.updateCartCount();
+    app.setView('cart');
+  },
+
+  addToCartFromBrowse: (productId) => {
+    const baseProduct = app.rawProducts.find(p => p.id === productId);
+    let variantId = productId;
+    if (baseProduct && baseProduct.variants && baseProduct.variants.length > 0) {
+      variantId = app.selectedBrowseVariants?.[productId] || baseProduct.variants[0].id;
+    }
+    app.addToCart(variantId);
+  },
+
+  updateCartCount: () => {
+    const count = app.cart.reduce((sum, item) => sum + item.quantity, 0);
+    const cartEl = document.getElementById('cartCount');
+    if (cartEl) cartEl.textContent = count;
+  },
+
+  setView: (newView, param = null) => {
+    app.view = newView;
+    app.currentProductId = null;
+    app.filterCategory = null;
+
+    if (newView === 'details' && typeof param === 'number') {
+      app.currentProductId = param;
+    } else if (newView === 'home' && typeof param === 'string') {
+      app.filterCategory = param;
+    }
+
+    app.render();
+    app.scrollToCategoryHeading();
+  },
+
+  render: () => {
+    app.updateCartCount();
+    if (app.view === 'home') app.renderHome();
+    else if (app.view === 'cart') app.renderCart();
+    else if (app.view === 'details') app.renderDetails();
+  }
+};
+
+window.onload = () => app.init();
+</script>
+
+</body>
+</html>
