@@ -3,694 +3,685 @@
 <head>
   {% include head.html %}
   <style>
-    /* Additional auto-hover transition ensures smoothness */
     .cta-button.auto-hover-effect {
       transform: translateY(-2px) !important;
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2) !important;
       transition: all 0.2s ease !important;
     }
+    
+    /* Cart Custom Scrollbar Styles */
+    .cart-items-scroll {
+      max-height: 520px;
+      overflow-y: auto;
+    }
+    .cart-items-scroll::-webkit-scrollbar {
+      width: 6px;
+    }
+    .cart-items-scroll::-webkit-scrollbar-thumb {
+      background-color: #cbd5e1;
+      border-radius: 4px;
+    }
   </style>
 </head>
-<body class="min-h-screen">
+<body class="min-h-screen flex flex-col bg-gray-50">
   {% include header.html %}
 
-  <main id="app-container" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 min-h-[calc(100vh-64px)]">
-    {{ content }}
+  <main id="app-container" class="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <div id="loading-spinner" class="text-center py-20">
+      <div class="inline-block animate-spin rounded-full h-12 w-12 border-4 border-blue-600 border-t-transparent"></div>
+      <p class="mt-4 text-gray-600 font-medium">Loading catalog...</p>
+    </div>
   </main>
 
-<script>
-// Keep original product structure for detail view
-const rawProducts = {{ site.data.products.products | jsonify }};
+  <!-- 
+    ========================================================
+    ADDED: Affiliate Banners are now OUTSIDE the App Container
+    ========================================================
+  -->
+  <div id="affiliate-banner-area" class="max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 pb-10">
+    
+    <!-- Banner 1: XNET -->
+    <div class="bg-gradient-to-r from-amber-50 to-orange-100 border border-amber-200 rounded-xl p-2 text-center mb-4">
+      <p class="text-amber-800 font-medium">
+        🔥 <strong>Shop XNET WiFi</strong> 🔥 Get unlimited high-speed internet with our plug-and-play devices.
+        <a href="https://xnetwifi.com/shop/?woosa_affiliate=50stateswireless" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 block sm:inline-block mt-1 sm:mt-0 sm:ml-2">Shop Now →</a>
+      </p>
+    </div>
 
-// But also create a flat list for homepage browsing
-const flattenedProducts = [];
-rawProducts.forEach(product => {
-  if (product.variants && Array.isArray(product.variants)) {
-    // For homepage: show base product only (no duplicates)
-    flattenedProducts.push({
-      id: product.id,
-      name: product.name,
-      category: product.category,
-      price: Math.min(...product.variants.map(v => v.price)), // lowest price
-      description: product.description,
-      image: product.variants[0].image,
-      hasVariants: true,
-      baseProduct: product
-    });
-  } else {
-    flattenedProducts.push({ ...product, hasVariants: false });
-  }
-});
+    <!-- Banner 2: AirTalk -->
+        <div class="bg-gradient-to-r from-amber-50 to-orange-100 border border-amber-200 rounded-xl p-2 text-center">
+          <p class="text-amber-800 font-medium">
+            🔥 <strong>Choose AirTalk Wireless </strong> 🔥 * And Get Your Smartphones For FREE Now!
 
-// NEW: Inject CTA buttons data from Decap CMS
-const ctaButtonsData = {{ site.data.cta_buttons.buttons | jsonify }} || [];
+* On Medicaid, SNAP, SSI & More. Free Shipping</code>
+      <a href="https://airtalkwireless.com/lifeline-enrollment" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 ml-2">
+        Shop Now →</a>
+          </p>
+        </div>
 
-// NEW: Inject Banner content data from Decap CMS
-const bannerData = {{ site.data.banner | jsonify }} || {};
+    <!-- Banner 3: US Mobile -->
+    <div class="bg-gradient-to-r from-amber-50 to-orange-100 border border-amber-200 rounded-xl p-2 text-center mb-4">
+      <p class="text-amber-800 font-medium">
+        🔥 <strong>Join US Mobile </strong> 🔥 Get $25 thanks to referral.
+        Start with a 30 day free trial, then as low as $17.50 per month for Unlimited.
+        <a href="https://www.usmobile.com/referrals?referrer=E20D0097&name=null&utm_campaign=monster_referral" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 block sm:inline-block mt-1 sm:mt-0 sm:ml-2">Shop Now →</a>
+      </p>
+    </div>
 
-</script>
+  </div>
+  <!-- ======================================================== -->
 
   {% include footer.html %}
 
 <script>
+// Global Error Handler to prevent blank screens
+window.onerror = function(message, source, lineno, colno, error) {
+  console.error("Global Error:", message, "at line:", lineno);
+  const spinner = document.getElementById('loading-spinner');
+  if (spinner) {
+    spinner.innerHTML = `<div class="text-red-600 font-bold">Error loading application.</div><p class="text-sm text-gray-500 mt-2">${message}</p><p class="text-xs text-gray-400 mt-1">Check Console (F12) for details.</p>`;
+  }
+};
 
+// Inject CMS Configurations
+const ctaButtonsData = {{ site.data.cta_buttons.buttons | jsonify }} || [];
+const bannerData = {{ site.data.banner | jsonify }} || {}; 
 
 const app = {
-// Helper to get display name for toast messages
-// Inside your `app = { ... }` object:
-pluralizeCategory: (category) => {
-  // Customize categories that should NOT just add "s"
-  const exceptions = {
-    'Watch': 'Watch',      // ← Keep as singular
-    'Smart Watches': 'Smart Watches',  // in case you ever use this
-    'Phone Plan': 'Phone Plans',       // default behavior (just for clarity)
-    'Phone': 'Phones',
-    'Tablet': 'Tablets',
-    'Computer': 'Computers',
-    'Charger': 'Chargers',
-    'Security Camera Systems': 'Security Camera Systems',
-    'WiFi': 'WiFi Plans',          // or just "WiFi"
-    'Headsets & Earbuds': 'Headsets & Earbuds',
-    'Smart Phones & Tablets Accessories': 'Smart Phones & Tablets Accessories',
-    'Laptops & Accessories': 'Laptops & Accessories',
-    'Pre-Owned Phones & Tablets': 'Pre-Owned Phones & Tablets',
-    'Games & Gaming Accessories': 'Games & Gaming Accessories',
-    'Wireless Speakers': 'Wireless Speakers'
-    
-    // Add more as needed
-  };
-  return exceptions[category] || category + '';
-},
-toggleDescription: () => {
-  const description = document.getElementById('product-description');
-  const button = document.getElementById('toggle-description');
-
-  if (!description || !button) return;
-
-  // Check current state using data attribute
-  const currentState = description.getAttribute('data-state') || 'truncated';
-  
-  if (currentState === 'truncated') {
-    // Show full description
-    description.style.display = 'block';
-    description.style.webkitLineClamp = 'unset';
-    description.style.webkitBoxOrient = 'unset';
-    description.style.overflow = 'visible';
-    description.style.height = 'auto';
-    description.setAttribute('data-state', 'expanded');
-    button.textContent = 'Less';
-  } else {
-    // Show truncated description
-    description.style.display = '-webkit-box';
-    description.style.webkitLineClamp = '3';
-    description.style.webkitBoxOrient = 'vertical';
-    description.style.overflow = 'hidden';
-    description.style.height = 'auto';
-    description.setAttribute('data-state', 'truncated');
-    button.textContent = 'More Details';
-  }
-},
-getProductDisplayName(productId) {
-  for (const product of this.rawProducts) {
-    if (product.id === productId) return product.name;
-    if (product.variants) {
-      const variant = product.variants.find(v => v.id === productId);
-      if (variant) return `${product.name} (${variant.color})`;
-    }
-  }
-  return 'Item';
-},
   view: 'home',
   currentProductId: null,
   filterCategory: null,
-  cart: [],
-  selectedVariantId: null,
-  selectedBrowseVariants: {}, // Track selected variants for browse page products
+  sortBy: 'id_asc',
+  currentPage: 1,
+  pageSize: 20,
+  searchQuery: '',
+  
+  // --- PERSISTENCE LOGIC START ---
+  getCartFromStorage: function() {
+    try {
+      const storedCart = localStorage.getItem('50states_wireless_cart');
+      if (storedCart) {
+        const parsed = JSON.parse(storedCart);
+        // Basic validation to ensure it's an array
+        return Array.isArray(parsed) ? parsed : [];
+      }
+    } catch (e) {
+      console.error("Error reading cart from localStorage", e);
+    }
+    return [];
+  },
 
-  // Use flattenedProducts from earlier script block
-  products: flattenedProducts,
-  rawProducts: rawProducts,
+  saveCartToStorage: function() {
+    try {
+      localStorage.setItem('50states_wireless_cart', JSON.stringify(this.cart));
+    } catch (e) {
+      console.error("Error saving cart to localStorage", e);
+    }
+  },
+  // --- PERSISTENCE LOGIC END ---
+
+  // Initialize cart state immediately
+  cart: [], 
+
+  selectedVariantId: null,
+  selectedBrowseVariants: {},
+  rawProducts: [],
+  products: [],
+
+  subscriptionCategories: ['Phone Plans', 'Internet Services', 'WiFi Plans', 'Phone Plan', 'WiFi'],
+
+  isSubscription: function(category) {
+    return this.subscriptionCategories.includes(category);
+  },
+
+  init: async function() {
+    try {
+      // 1. Load Cart from Storage first
+      this.cart = this.getCartFromStorage();
+
+      // 2. Load Products
+      const cached = sessionStorage.getItem('cached_products_data');
+      if (cached) {
+        this.rawProducts = JSON.parse(cached);
+      } else {
+        // Note: Ensure your baseurl matches your local server config
+        const fetchUrl = '{{ site.baseurl }}/assets/js/products.json';
+        console.log("Attempting to fetch:", fetchUrl);
+        
+        const response = await fetch(fetchUrl);
+        
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
+        this.rawProducts = await response.json();
+        sessionStorage.setItem('cached_products_data', JSON.stringify(this.rawProducts));
+      }
+
+      // 3. Process and Render
+      if (this.rawProducts && Array.isArray(this.rawProducts)) {
+        this.processProducts();
+        this.render();
+      } else {
+        console.error("Products data is not an array or is undefined.");
+        this.showErrorMessage("Failed to load product catalog. Please check if _data/products.yml is valid.");
+      }
+
+    } catch (err) {
+      console.error("Critical Error in app.init:", err);
+      this.showErrorMessage("Failed to initialize catalog: " + err.message);
+    }
+  },
+
+  showErrorMessage: function(msg) {
+    const container = document.getElementById('app-container');
+    if (container) {
+      container.innerHTML = `
+        <div class="max-w-2xl mx-auto bg-red-50 border border-red-200 p-8 rounded-xl mt-10 text-center">
+          <h1 class="text-2xl font-bold text-red-700 mb-4">Application Error</h1>
+          <p class="text-red-600 mb-4">${msg}</p>
+          <p class="text-sm text-gray-500">Please check the browser console (F12) for stack traces.</p>
+          <button onclick="location.reload()" class="mt-4 bg-red-600 text-white px-4 py-2 rounded hover:bg-red-700">Retry</button>
+        </div>
+      `;
+    }
+  },
+
+  processProducts: function() {
+    const flattened = [];
+    // Safety check for rawProducts
+    if (!this.rawProducts) return;
+
+    this.rawProducts.forEach(product => {
+      // Handle potential null/undefined values in YAML
+      const safeName = product.name || "Unknown Product";
+      const safeCategory = product.category || "Uncategorized";
+      const safePrice = product.price || 0;
+      const safeDescription = product.description || "";
+      const safeImage = product.image || "";
+
+      if (product.variants && Array.isArray(product.variants) && product.variants.length > 0) {
+        const validPrices = product.variants.map(v => {
+          const p = typeof v.price === 'number' ? v.price : parseFloat(v.price);
+          return (isNaN(p) ? 0 : p);
+        });
+        
+        flattened.push({
+          id: product.id || Date.now() + Math.random(), // Ensure unique ID
+          name: safeName,
+          category: safeCategory,
+          price: Math.min(...validPrices),
+          description: safeDescription,
+          image: product.variants[0].image || safeImage,
+          hasVariants: true,
+          baseProduct: product
+        });
+      } else {
+        flattened.push({
+          id: product.id || Date.now() + Math.random(),
+          name: safeName,
+          category: safeCategory,
+          price: typeof safePrice === 'number' ? safePrice : parseFloat(safePrice) || 0,
+          description: safeDescription,
+          image: safeImage,
+          hasVariants: false,
+          baseProduct: product
+        });
+      }
+    });
+    this.products = flattened;
+  },
+
+  pluralizeCategory: (category) => {
+    const exceptions = {
+      'Watch': 'Watch',
+      'Smart Watches': 'Smart Watches',
+      'Phone Plan': 'Phone Plans',
+      'Phone': 'Phones',
+      'Tablet': 'Tablets',
+      'Computer': 'Computers',
+      'Charger': 'Chargers',
+      'Security Camera Systems': 'Security Camera Systems',
+      'WiFi': 'WiFi Plans',
+      'Headsets & Earbuds': 'Headsets & Earbuds',
+      'Smart Phones & Tablets Accessories': 'Smart Phones & Tablets Accessories',
+      'Laptops & Accessories': 'Laptops & Accessories',
+      'Pre-Owned Phones & Tablets': 'Pre-Owned Phones & Tablets',
+      'Games & Gaming Accessories': 'Games & Gaming Accessories',
+      'Wireless Speakers': 'Wireless Speakers'
+    };
+    return exceptions[category] || category;
+  },
+
+  toggleDescription: () => {
+    const description = document.getElementById('product-description');
+    const button = document.getElementById('toggle-description');
+
+    if (!description || !button) return;
+
+    const currentState = description.getAttribute('data-state') || 'truncated';
+    
+    if (currentState === 'truncated') {
+      description.style.display = 'block';
+      description.style.webkitLineClamp = 'unset';
+      description.style.webkitBoxOrient = 'unset';
+      description.style.overflow = 'visible';
+      description.style.height = 'auto';
+      description.setAttribute('data-state', 'expanded');
+      button.textContent = 'Less';
+    } else {
+      description.style.display = '-webkit-box';
+      description.style.webkitLineClamp = '3';
+      description.style.webkitBoxOrient = 'vertical';
+      description.style.overflow = 'hidden';
+      description.style.height = 'auto';
+      description.setAttribute('data-state', 'truncated');
+      button.textContent = 'More Details';
+    }
+  },
+
+  getProductVariantOrBase(productId) {
+    for (const product of this.rawProducts) {
+      if (product.id === productId) return { product, variant: null };
+      if (product.variants) {
+        const variant = product.variants.find(v => v.id === productId);
+        if (variant) return { product, variant };
+      }
+    }
+    return null;
+  },
 
   formatCurrency: (amount) => {
     return new Intl.NumberFormat('en-US', {
       style: 'currency',
       currency: 'USD'
-    }).format(amount);
+    }).format(amount || 0);
   },
 
-  // --- NEW: Scroll to category heading just below sticky header
   scrollToCategoryHeading: function() {
-    if (this.view !== 'home' || !this.filterCategory) return;
-    // Allow DOM to fully render images and layout
     setTimeout(() => {
-      const categoryHeading = document.querySelector('#app-container h2.text-3xl.font-bold.text-gray-800');
-      if (!categoryHeading) return;
-      
-      const header = document.querySelector('header.sticky');
-      const headerHeight = header ? header.offsetHeight : 64;
-      const elementPosition = categoryHeading.getBoundingClientRect().top + window.pageYOffset;
-      // scroll so heading sits directly below header + 8px breathing room
-      const offsetPosition = elementPosition - headerHeight - 8;
-      
-      window.scrollTo({ top: 280, behavior: 'smooth' });
-    }, 120); // small delay ensures content is stable
+      if (this.view === 'home' && this.filterCategory) {
+        const categoryHeading = document.querySelector('#app-container h2');
+        if (categoryHeading) {
+          const header = document.querySelector('header.sticky');
+          const headerHeight = header ? header.offsetHeight : 64;
+          const elementPosition = categoryHeading.getBoundingClientRect().top + window.pageYOffset;
+          const offsetPosition = elementPosition - headerHeight - 16;
+          window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
+          return;
+        }
+      }
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }, 100);
   },
 
-  // --- View Rendering Functions
-renderHome: () => {
-  // Initialize selectedBrowseVariants for all products
-  if (!app.selectedBrowseVariants) app.selectedBrowseVariants = {};
-  
-  app.products.forEach(product => {
-    if (product.hasVariants && product.baseProduct.variants) {
-      // Set default variant (first one) if not already set
-      if (!app.selectedBrowseVariants[product.id]) {
-        app.selectedBrowseVariants[product.id] = product.baseProduct.variants[0].id;
-      }
+  getProcessedProducts: function() {
+    let list = [...this.products];
+
+    if (this.filterCategory) {
+      list = list.filter(p => p.category === this.filterCategory);
     }
-  });
-  
-  const container = document.getElementById('app-container');
-  
-  // Generate CTA buttons HTML from Decap CMS data
-  const ctaButtonsHtml = ctaButtonsData && ctaButtonsData.length > 0 
-    ? ctaButtonsData.map(button => `
-        <button onclick="${button.function}" 
-                class="cta-button inline-flex items-center justify-center ${button.padding_x} ${button.padding_y} border border-transparent ${button.text_size} font-medium ${button.button_shape} text-white transition duration-150 shadow-lg"
-                data-bg-color="${button.bg_color}"
-                data-hover-color="${button.hover_color}"
-                style="background-color: ${button.bg_color};"
-                onmouseover="this.style.backgroundColor='${button.hover_color}';"
-                onmouseout="this.style.backgroundColor='${button.bg_color}';">
-          ${button.text}
-        </button>
-      `).join('')
-    : `
-      <!-- Fallback buttons if no CMS data -->
-      <button onclick="app.setView('home', 'WiFi Plans')" class="cta-button inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg" data-bg-color="#dc2626" data-hover-color="#b91c1c">
-        Shop WiFi Plans
-      </button>
-      <button onclick="app.setView('home', 'Headsets & Earbuds')" class="cta-button inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg" data-bg-color="#dc2626" data-hover-color="#b91c1c">
-        Shop Headsets & Earbuds
-      </button>
-      <button onclick="app.setView('home', 'Smart Watches')" class="cta-button inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg" data-bg-color="#dc2626" data-hover-color="#b91c1c">
-        Shop Smart Watches
-      </button>
-      <button onclick="app.setView('home', 'Charger')" class="cta-button inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg" data-bg-color="#dc2626" data-hover-color="#b91c1c">
-        Shop Chargers
-      </button>
-      <button onclick="app.setView('home', 'Pre-Owned Phones & Tablets')" class="cta-button inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg" data-bg-color="#dc2626" data-hover-color="#b91c1c">
-        Pre-Owned Phones & Tablets
-      </button>
-      <button onclick="app.setView('home', 'Wireless Speakers')" class="cta-button inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg" data-bg-color="#dc2626" data-hover-color="#b91c1c">
-        Wireless Speakers
-      </button>
-    `;
-  
-// NEW CODE (use this):
-// Get background image from hero.yml (or use a fallback solid color)
-const bgImage = '{{ site.data.hero.bg_image }}' || null;
-const bgColor = '{{ site.data.hero.bg_color }}' || '#1e40af';
 
-// Build inline style: background image if available, otherwise solid color
-let bannerBgStyle = bgImage
-  ? `background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('${bgImage}'); background-size: cover; background-position: center;`
-  : `background-color: ${bgColor};`;
+    if (this.searchQuery && this.searchQuery.trim() !== '') {
+      const q = this.searchQuery.toLowerCase();
+      list = list.filter(p => p.name.toLowerCase().includes(q) || (p.description && p.description.toLowerCase().includes(q)));
+    }
 
-const bannerHtml = `
-  <div class="rounded-xl shadow-2xl p-6 md:p-10 mb-10 border-4 border-white"
-       style="${bannerBgStyle}">
-    <div class="flex flex-col md:flex-row items-center justify-between">
-      <div class="text-white space-y-4">
-        <h1 
-          class="{{ site.data.hero.headline.size }} {{ site.data.hero.headline.weight }} mb-3" 
-          style="color: {{ site.data.hero.headline.color }};">
-          {{ site.data.hero.headline.text }}
-        </h1>
-        <p 
-          class="{{ site.data.hero.subtext.size }} mb-8" 
-          style="color: {{ site.data.hero.subtext.color }};">
-          {{ site.data.hero.subtext.text }}
-        </p>
-        <div class="flex flex-col sm:flex-row gap-3">
-          ${ctaButtonsHtml}
+    list.sort((a, b) => {
+      switch (this.sortBy) {
+        case 'id_asc': return a.id - b.id;
+        case 'id_desc': return b.id - a.id;
+        case 'name_asc': return a.name.localeCompare(b.name);
+        case 'name_desc': return b.name.localeCompare(a.name);
+        case 'price_asc': return a.price - b.price;
+        case 'price_desc': return b.price - a.price;
+        default: return a.id - b.id;
+      }
+    });
+
+    return list;
+  },
+
+  renderHome: () => {
+    if (!app.selectedBrowseVariants) app.selectedBrowseVariants = {};
+    
+    app.products.forEach(product => {
+      if (product.hasVariants && product.baseProduct.variants) {
+        if (!app.selectedBrowseVariants[product.id]) {
+          app.selectedBrowseVariants[product.id] = product.baseProduct.variants[0].id;
+        }
+      }
+    });
+    
+    const container = document.getElementById('app-container');
+    
+    const ctaButtonsHtml = ctaButtonsData && ctaButtonsData.length > 0 
+      ? ctaButtonsData.map(button => `
+          <button onclick="${button.function}" 
+                  class="cta-button inline-flex items-center justify-center ${button.padding_x} ${button.padding_y} border border-transparent ${button.text_size} font-medium ${button.button_shape} text-white transition duration-150 shadow-lg"
+                  style="background-color: ${button.bg_color};"
+                  onmouseover="this.style.backgroundColor='${button.hover_color}';"
+                  onmouseout="this.style.backgroundColor='${button.bg_color}';">
+            ${button.text}
+          </button>
+        `).join('')
+      : `
+        <button onclick="app.setView('home', 'WiFi Plans')" class="cta-button inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-red-600 hover:bg-red-700 transition duration-150 shadow-lg">Shop WiFi Plans</button>
+      `;
+
+    const bgImage = '{{ site.data.hero.bg_image }}' || null;
+    const bgColor = '{{ site.data.hero.bg_color }}' || '#1e40af';
+
+    let bannerBgStyle = bgImage
+      ? `background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('${bgImage}'); background-size: cover; background-position: center;`
+      : `background-color: ${bgColor};`;
+
+    let html = `
+      <div class="rounded-xl shadow-2xl p-6 md:p-10 mb-10 border-4 border-white" style="${bannerBgStyle}">
+        <div class="flex flex-col md:flex-row items-center justify-between">
+          <div class="text-white space-y-4">
+            <h1 class="{{ site.data.hero.headline.size }} {{ site.data.hero.headline.weight }} mb-3" style="color: {{ site.data.hero.headline.color }};">
+              {{ site.data.hero.headline.text }}
+            </h1>
+            <p class="{{ site.data.hero.subtext.size }} mb-8" style="color: {{ site.data.hero.subtext.color }};">
+              {{ site.data.hero.subtext.text }}
+            </p>
+            <div class="flex flex-col sm:flex-row gap-3">
+              ${ctaButtonsHtml}
+            </div>
+          </div>
         </div>
       </div>
 
-    </div>
-  </div>
-`;
+      <!-- Affiliate Promo Banners -->
 
-html = bannerHtml;
-  
-  // Works with Promotional or affiliate banner (below))
-  html += `
-
-    <div class="my-8 bg-gradient-to-r from-amber-50 to-orange-100 border border-amber-200 rounded-xl p-0 text-center">
-    <p class="text-amber-800 font-medium">
-      🔥 <strong>Shop XNET WiFi </strong> 🔥 Get unlimited high-speed internet with our plug-and-play devices. No contracts, cancel anytime.</code>
-      <a href="https://xnetwifi.com/shop/?woosa_affiliate=50stateswireless" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 ml-2">
-        Shop Now →
-      </a>
-    </p>
-  </div>
-    <div class="my-8 bg-gradient-to-r from-amber-50 to-orange-100 border border-amber-200 rounded-xl p-0 text-center">
-    <p class="text-amber-800 font-medium">
-      🔥 <strong>Choose AirTalk Wireless </strong> 🔥 * And Get Your Smartphones For FREE Now!
+        <div class="bg-gradient-to-r from-amber-50 to-orange-100 border border-amber-200 rounded-xl p-2 text-center">
+          <p class="text-amber-800 font-medium">
+            🔥 <strong>Shop XNET WiFi</strong> 🔥 Get unlimited high-speed internet with our plug-and-play devices.
+            <a href="https://xnetwifi.com/shop/?woosa_affiliate=50stateswireless" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 block sm:inline-block mt-1 sm:mt-0 sm:ml-2">Shop Now →</a>
+          </p>
+        </div>
+        <div class="bg-gradient-to-r from-amber-50 to-orange-100 border border-amber-200 rounded-xl p-2 text-center">
+          <p class="text-amber-800 font-medium">
+            🔥 <strong>Choose AirTalk Wireless </strong> 🔥 * And Get Your Smartphones For FREE Now!
 
 * On Medicaid, SNAP, SSI & More. Free Shipping</code>
       <a href="https://airtalkwireless.com/lifeline-enrollment" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 ml-2">
-        Shop Now →
-      </a>
-    </p>
-  </div>
-    <div class="my-8 bg-gradient-to-r from-amber-50 to-orange-100 border border-amber-200 rounded-xl p-0 text-center">
-    <p class="text-amber-800 font-medium">
-      🔥 <strong>Join US Mobile today </strong> 🔥 And get $25 thanks to
-null.
-Get started today with a 30 day free trial, then as low as $17.50 per month for Unlimited.</code>
-      <a href="https://www.usmobile.com/referrals?referrer=E20D0097&name=null&utm_campaign=monster_referral" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 ml-2">
-        Shop Now →
-      </a>
-    </p>
-  </div>
-
-  `;
-  // Works with Promotional or affiliate banner (above)
-  
-  const filteredProducts = app.filterCategory 
-    ? app.products.filter(p => p.category === app.filterCategory)
-    : app.products;
-
-  if (app.filterCategory) {
-    html += `<h2 class="text-3xl font-bold text-gray-800 mb-6">${app.pluralizeCategory(app.filterCategory)}</h2>`;
-  } else {
-    html += `<h2 class="text-3xl font-bold text-gray-800 mb-6">Featured Products</h2>`;
-  }
-  
-  if (filteredProducts.length === 0) {
-    html += `<p class="text-center text-gray-500 py-10">No products found in this category.</p>`;
-  } else {
-    html += `<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">`;
-    filteredProducts.forEach(product => {
-      // ... rest of your existing product rendering code ...
-      html += `
-        <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition duration-300 overflow-hidden flex flex-col">
-          <div class="h-48 bg-gray-100 flex items-center justify-center p-4">
-            <img src="${product.image}" id="product-img-${product.id}" onerror="this.onerror=null;this.src='https://placehold.co/400x300/E5E7EB/4B5563?text=NewRock ';" alt="${product.name}" class="max-h-full max-w-full object-contain rounded-lg">
-          </div>
-          <div class="p-5 flex-grow flex flex-col">
-            <span class="text-xs font-semibold uppercase text-gray-500 mb-1">${product.category}</span>
-            <h3 class="text-lg font-bold text-gray-900 mb-2 tooltip-trigger product-name-two-lines" title="${product.name}">${product.name}</h3>
-            <div class="flex items-center justify-between mb-4">
-              <p class="text-xl font-extrabold nrw-text-red">
-                ${(() => {
-                  if (product.hasVariants && product.baseProduct && product.baseProduct.variants) {
-                    const prices = product.baseProduct.variants.map(v => v.price);
-                    const min = Math.min(...prices);
-                    const max = Math.max(...prices);
-                    if (min === max) {
-                      const selectedVariantId = app.selectedBrowseVariants[product.id] || product.baseProduct.variants[0].id;
-                      const selectedVariant = product.baseProduct.variants.find(v => v.id === selectedVariantId) || product.baseProduct.variants[0];
-                      return app.formatCurrency(selectedVariant.price) + (['Phone Plans', 'Internet Services', 'WiFi Plans'].includes(product.category) ? '<span class="text-sm text-gray-500 font-normal">/mo</span>' : '');
-                    } else {
-                      return `${app.formatCurrency(min)} – ${app.formatCurrency(max)}`;
-                    }
-                  } else {
-                    return app.formatCurrency(product.price) + (['Phone Plans', 'Internet Services', 'WiFi Plans'].includes(product.category) ? '<span class="text-sm text-gray-500 font-normal">/mo</span>' : '');
-                  }
-                })()}
-              </p>
-              ${(() => {
-                if (product.hasVariants && product.baseProduct && product.baseProduct.variants) {
-                  const prices = product.baseProduct.variants.map(v => v.price);
-                  const min = Math.min(...prices);
-                  const max = Math.max(...prices);
-                  if (min === max) {
-                    // Color mapping function
-                    const getColorHex = (colorName) => {
-                      const colorMap = {
-                        'Blue': '#3B82F6',
-                        'Pink': '#EC4899',
-                        'Silver': '#D1D5DB',
-                        'Black': '#111827',
-                        'Purple': '#8B5CF6',
-                        'White': '#E0E0E0',
-                        'Gray': '#808080',
-                        'Green': '#10B981',
-                        'Red': '#EF4444',
-                        'Coral': '#FF8559',
-                        'Yellow': '#F7EE60',
-                        'Orange': '#F97316',
-                        'Ocean White': '#E7EFF5',
-                        'Graphite': '#3B4042',
-                        'Yellow Beige': '#ffc566',
-                        'Cosmic Orange': '#FFA500',
-                        'Deep Blue': '#00008B',
-                        'Lavender': '#E7D3FF',
-                        'Titanium Gray': '#8992AD',
-                        'Titanium silver': '#C5CCE6',
-                        'Titanium Green': '#0D7A18',
-                        'Violet': '#A42EFF',
-                        'Lime': '#d4f3c2',
-                        'Gold': '#FFBF00'
-                      };
-                      return colorMap[colorName] || '#6B7280'; // fallback to gray
-                    };
-                    
-                    // Same price - show colored circles on the same line
-                    return `
-                      <div class="flex space-x-1 ml-4">
-                        ${product.baseProduct.variants.map(variant => `
-                          <button
-                            class="w-4 h-4 rounded-full border border-gray-300 hover:scale-110 transition-transform"
-                            style="background-color: ${getColorHex(variant.color)}"
-                            onclick="app.selectProductVariant(${product.id}, ${variant.id}, '${variant.color}', '${variant.image}', ${variant.price})"
-                            title="${variant.color}"
-                          ></button>
-                        `).join('')}
-                      </div>
-                    `;
-                  }
-                }
-                return '';
-              })()}
-            </div>
-            <div class="mt-auto flex space-x-2">
-              <button onclick="app.setView('details', ${product.id})" class="flex-1 px-4 py-2 border border-gray-300 text-sm font-medium rounded-lg text-gray-700 hover:bg-gray-100 transition duration-150">Details</button>
-              <button onclick="app.addToCartFromBrowse(${product.id})" class="flex-1 nrw-btn-blue text-white text-sm font-medium rounded-lg shadow-md hover:shadow-lg transition duration-150 flex items-center justify-center">
-                <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l-1 12H6L5 9z"></path></svg>Buy Now
-              </button>
-            </div>
-          </div>
+        Shop Now →</a>
+          </p>
         </div>
-      `;
-    });
-    html += `</div>`;
-  }
-  container.innerHTML = html;
-  
-  // Start or restart the auto-hover cycle after new buttons are rendered
-  if (typeof startAutoHoverCycle === 'function') {
-    startAutoHoverCycle();
-  }
-},
+        <div class="bg-gradient-to-r from-amber-50 to-orange-100 border border-amber-200 rounded-xl p-2 text-center">
+          <p class="text-amber-800 font-medium">
+            🔥 <strong>Join US Mobile </strong> 🔥 Get $25 thanks to
+null.
+Start with a 30 day free trial, then as low as $17.50 per month for Unlimited.
+            <a href="https://www.usmobile.com/referrals?referrer=E20D0097&name=null&utm_campaign=monster_referral" target="_blank" rel="sponsored noopener" class="underline font-bold text-amber-900 hover:text-amber-700 block sm:inline-block mt-1 sm:mt-0 sm:ml-2">Shop Now →</a>
+          </p>
+        </div>
+      </div>
+    `;
+
+    const processed = app.getProcessedProducts();
+    const totalPages = Math.ceil(processed.length / app.pageSize) || 1;
+    if (app.currentPage > totalPages) app.currentPage = 1;
+    const startIndex = (app.currentPage - 1) * app.pageSize;
+    const pageProducts = processed.slice(startIndex, startIndex + app.pageSize);
+
+    html += `
+      <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-6 bg-white p-4 rounded-xl border border-gray-200 shadow-sm">
+        <div>
+          <h2 class="text-3xl font-bold text-gray-800">
+            ${app.filterCategory ? app.pluralizeCategory(app.filterCategory) : 'Featured Products'}
+          </h2>
+          <span class="text-sm text-gray-500">Showing ${processed.length} products</span>
+        </div>
+
+        <div class="flex flex-wrap items-center gap-3">
+          <input 
+            type="text" 
+            placeholder="Search products..." 
+            value="${app.searchQuery}" 
+            oninput="app.searchQuery = this.value; app.currentPage = 1; app.render();" 
+            class="px-4 py-2 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+          />
+          <select onchange="app.sortBy = this.value; app.render();" class="px-4 py-2 border border-gray-300 rounded-lg text-sm bg-white focus:outline-none focus:ring-2 focus:ring-blue-500">
+            <option value="id_asc" ${app.sortBy === 'id_asc' ? 'selected' : ''}>Sort by ID: Low to High</option>
+            <option value="id_desc" ${app.sortBy === 'id_desc' ? 'selected' : ''}>Sort by ID: High to Low</option>
+            <option value="name_asc" ${app.sortBy === 'name_asc' ? 'selected' : ''}>Sort by Name: A to Z</option>
+            <option value="name_desc" ${app.sortBy === 'name_desc' ? 'selected' : ''}>Sort by Name: Z to A</option>
+            <option value="price_asc" ${app.sortBy === 'price_asc' ? 'selected' : ''}>Sort by Price: Low to High</option>
+            <option value="price_desc" ${app.sortBy === 'price_desc' ? 'selected' : ''}>Sort by Price: High to Low</option>
+          </select>
+        </div>
+      </div>
+    `;
+
+    if (pageProducts.length === 0) {
+      html += `<p class="text-center text-gray-500 py-10">No products found matching your criteria.</p>`;
+    } else {
+      html += `<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">`;
+      pageProducts.forEach(product => {
+        const activeVariantId = app.selectedBrowseVariants[product.id] || (product.hasVariants ? product.baseProduct.variants[0].id : null);
+        const activeVariant = product.hasVariants ? product.baseProduct.variants.find(v => v.id === activeVariantId) : null;
+        
+        const displayImage = activeVariant ? activeVariant.image : product.image;
+        const displayPrice = activeVariant ? activeVariant.price : product.price;
+
+        html += `
+          <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition duration-300 overflow-hidden flex flex-col">
+            <div class="h-48 bg-gray-100 flex items-center justify-center p-4">
+              <img src="${displayImage}" id="product-img-${product.id}" onerror="this.onerror=null;this.src='https://placehold.co/400x300/E5E7EB/4B5563?text=NewRock';" alt="${product.name}" class="max-h-full max-w-full object-contain rounded-lg">
+            </div>
+            <div class="p-5 flex-grow flex flex-col">
+              <div class="flex justify-between items-center mb-1">
+                <span class="text-xs font-semibold uppercase text-gray-500">${product.category}</span>
+                <span class="text-xs text-gray-400 font-mono">ID: ${product.id}</span>
+              </div>
+              <h3 class="text-lg font-bold text-gray-900 mb-2 tooltip-trigger line-clamp-2" title="${product.name}">${product.name}</h3>
+              
+              <!-- Color Swatches on Store Grid -->
+              ${product.hasVariants ? `
+                <div class="flex items-center space-x-2 my-2">
+                  ${product.baseProduct.variants.map(v => `
+                    <button 
+                      onclick="app.selectProductVariant(${product.id}, ${v.id}, '${v.color}', '${v.image}', ${v.price})" 
+                      title="${v.color}"
+                      class="w-5 h-5 rounded-full border-2 transition duration-150 ${activeVariantId === v.id ? 'border-blue-600 scale-110 ring-2 ring-blue-300' : 'border-gray-300 hover:scale-105'}"
+                      style="background-color: ${v.color_hex || v.color.toLowerCase()};">
+                    </button>
+                  `).join('')}
+                </div>
+              ` : ''}
+
+              <div class="flex items-center justify-between mb-4 mt-auto">
+                <p id="product-price-${product.id}" class="text-xl font-extrabold text-red-600">
+                  ${app.formatCurrency(displayPrice)}${app.isSubscription(product.category) ? '<span class="text-sm text-gray-500 font-normal">/mo</span>' : ''}
+                </p>
+              </div>
+              <div class="flex space-x-2">
+                <button onclick="app.setView('details', ${product.id})" class="flex-1 px-4 py-2 border border-gray-300 text-sm font-medium rounded-lg text-gray-700 hover:bg-gray-100 transition duration-150">Details</button>
+                <button onclick="app.addToCartFromBrowse(${product.id})" class="flex-1 bg-blue-600 hover:bg-blue-700 text-white text-sm font-medium rounded-lg shadow-md hover:shadow-lg transition duration-150 flex items-center justify-center">Buy Now</button>
+              </div>
+            </div>
+          </div>
+        `;
+      });
+      html += `</div>`;
+
+      if (totalPages > 1) {
+        html += `
+          <div class="flex justify-center items-center space-x-2 mt-8">
+            <button onclick="app.currentPage--; app.render(); app.scrollToCategoryHeading();" ${app.currentPage === 1 ? 'disabled' : ''} class="px-4 py-2 border rounded-lg bg-white disabled:opacity-50">Prev</button>
+            <span class="text-sm text-gray-600 font-medium">Page ${app.currentPage} of ${totalPages}</span>
+            <button onclick="app.currentPage++; app.render(); app.scrollToCategoryHeading();" ${app.currentPage === totalPages ? 'disabled' : ''} class="px-4 py-2 border rounded-lg bg-white disabled:opacity-50">Next</button>
+          </div>
+
+        `;
+      }
+    }
+    container.innerHTML = html;
+  },
 
   renderDetails: () => {
     const container = document.getElementById('app-container');
     const baseProduct = app.rawProducts.find(p => p.id === app.currentProductId);
     if (!baseProduct) {
-      container.innerHTML = `<div class="p-10 text-center"><h1 class="text-4xl text-gray-800 font-bold">Product Not Found</h1><button onclick="app.setView('home')" class="mt-5 nrw-btn-blue text-white px-5 py-2 rounded-lg">Back to Store</button></div>`;
-html += `{% include affiliate-banner.html %}`;
+      container.innerHTML = `<div class="p-10 text-center"><h1 class="text-4xl text-gray-800 font-bold">Product Not Found</h1><button onclick="app.setView('home')" class="mt-5 bg-blue-600 text-white px-5 py-2 rounded-lg">Back to Store</button></div>`;
       return;
     }
 
-    const hasVariants = baseProduct.variants && Array.isArray(baseProduct.variants);
+    const hasVariants = baseProduct.variants && Array.isArray(baseProduct.variants) && baseProduct.variants.length > 0;
     const variants = hasVariants ? baseProduct.variants : [{ id: baseProduct.id, price: baseProduct.price, image: baseProduct.image, color: 'Default' }];
+    
     if (!app.selectedVariantId || !variants.some(v => v.id === app.selectedVariantId)) {
       app.selectedVariantId = variants[0].id;
     }
     const selectedVariant = variants.find(v => v.id === app.selectedVariantId) || variants[0];
 
-    let swatchesHtml = '';
-    if (hasVariants) {
-      swatchesHtml = `
-        <div class="mb-6">
-          <span class="text-sm font-medium text-gray-700">Color:</span>
-          <div class="flex space-x-2 mt-1">
-            ${variants.map(variant => `
-              <button
-                data-variant-id="${variant.id}"
-                class="variant-swatch w-8 h-8 rounded-full border-2 ${variant.id === app.selectedVariantId ? 'border-gray-800' : 'border-transparent'} hover:scale-110 transition-transform"
-                style="background-color: ${
-                  variant.color === 'Blue' ? '#3B82F6' :
-                  variant.color === 'Pink' ? '#D1A1CB' :
-                  variant.color === 'Silver' ? '#D9D2D9' :
-                  variant.color === 'Black' ? '#000000' :
-                  variant.color === 'Purple' ? '#8B5CF6' :
-                  variant.color === 'White' ? '#E0E0E0' :
-                  variant.color === 'Gray' ? '#808080' :
-                  variant.color === 'Green' ? '#10B981' :
-                  variant.color === 'Red' ? '#EF4444' :
-                  variant.color === 'Coral' ? '#FF8559' :
-                  variant.color === 'Yellow' ? '#F7EE60' :
-                  variant.color === 'Orange' ? '#FFA500' :
-                  variant.color === 'Ocean White' ? '#E7EFF5' :
-                  variant.color === 'Graphite' ? '#3B4042' :
-                  variant.color === 'Yellow Beige' ? '#ffc566' :
-                  variant.color === 'Cosmic Orange' ? '#FFA500' :
-                  variant.color === 'Deep Blue' ? '#00008B' :
-                  variant.color === 'Lavender' ? '#E7D3FF' :
-                  variant.color === 'Titanium Gray' ? '#8992AD' :
-                  variant.color === 'Titanium silver' ? '#C5CCE6' :
-                  variant.color === 'Titanium Green' ? '#0D7A18' :
-                  variant.color === 'Violet' ? '#A42EFF' :
-                  variant.color === 'Lime' ? '#d4f3c2' :
-                  variant.color === 'Gold' ? '#FFBF00' :
-                  '#cccccc'
-                }"
-                title="${variant.color}"
-                onclick="app.selectVariant(${variant.id})"
-              ></button>
-            `).join('')}
+    const priceSuffix = app.isSubscription(baseProduct.category) ? '/month' : '';
+
+    container.innerHTML = `
+      <div class="bg-white rounded-xl shadow-2xl p-6 md:p-10">
+        <div class="flex flex-col lg:flex-row gap-8">
+          <div class="lg:w-1/2 bg-gray-50 rounded-lg p-6 flex items-center justify-center">
+            <img id="detail-product-image" src="${selectedVariant.image}" onerror="this.onerror=null;this.src='https://placehold.co/600x450/E5E7EB/4B5563?text=NewRock+Product';" alt="${baseProduct.name}" class="w-full h-auto object-contain rounded-lg max-h-96">
+          </div>
+          <div class="lg:w-1/2">
+            <span class="text-sm font-semibold uppercase text-gray-500">${baseProduct.category}</span>
+            <h1 class="text-4xl font-extrabold text-gray-900 mt-2 mb-2">${baseProduct.name}</h1>
+            <p id="detail-product-price" class="text-3xl font-extrabold text-red-600 mb-4">
+              ${app.formatCurrency(selectedVariant.price)}<span class="text-lg font-semibold text-gray-600">${priceSuffix}</span>
+            </p>
+            
+            ${hasVariants ? `
+              <div class="mb-6">
+                <label class="block text-sm font-medium text-gray-700 mb-2">Color / Variant: <span id="selected-variant-label" class="font-bold">${selectedVariant.color}</span></label>
+                <div class="flex items-center space-x-3">
+                  ${variants.map(v => `
+                    <button 
+                      onclick="app.setDetailVariant(${v.id})" 
+                      title="${v.color}"
+                      class="w-8 h-8 rounded-full border-2 transition duration-150 ${app.selectedVariantId === v.id ? 'border-blue-600 scale-110 ring-2 ring-blue-300' : 'border-gray-300 hover:scale-105'}"
+                      style="background-color: ${v.color_hex || v.color.toLowerCase()};">
+                    </button>
+                  `).join('')}
+                </div>
+              </div>
+            ` : ''}
+
+            <div class="relative mb-6">
+              <p id="product-description" class="text-gray-600 leading-relaxed" data-state="truncated">${baseProduct.description}</p>
+              <button id="toggle-description" onclick="app.toggleDescription()" class="ml-auto text-sm font-medium text-red-600 hover:text-red-700 focus:outline-none">More Details</button>
+            </div>
+            <div class="mt-8 flex items-center space-x-4">
+              <button id="add-to-cart-btn" onclick="app.addToCart(${selectedVariant.id})" class="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 text-lg font-semibold rounded-xl shadow-md hover:shadow-lg transition duration-150">Add to Cart</button>
+              <button onclick="app.setView('home')" class="px-6 py-3 border border-gray-300 text-gray-700 text-lg font-semibold rounded-xl hover:bg-gray-100 transition duration-150">Back to Store</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    `;
+  },
+
+  setDetailVariant: (variantId) => {
+    app.selectedVariantId = variantId;
+    app.renderDetails();
+  },
+
+  renderCart: () => {
+    const container = document.getElementById('app-container');
+    const totalItemCount = app.cart.reduce((sum, i) => sum + i.quantity, 0);
+
+    if (app.cart.length === 0) {
+      container.innerHTML = `
+        <div class="max-w-3xl mx-auto bg-white p-8 rounded-xl shadow-2xl text-center my-10">
+          <h1 class="text-4xl font-bold text-gray-900 mb-4">Your Shopping Cart (0 Items)</h1>
+          <p class="text-xl font-semibold text-gray-500 mb-8">Your cart is currently empty.</p>
+          <button onclick="app.setView('home')" class="bg-blue-600 text-white px-8 py-3 rounded-lg font-semibold shadow-md hover:bg-blue-700 transition">Continue Shopping</button>
+        </div>
+      `;
+      return;
+    }
+
+    let subtotal = 0;
+    const cartItemsHtml = app.cart.map(item => {
+      const match = app.getProductVariantOrBase(item.id);
+      if (!match) return '';
+      const { product, variant } = match;
+      const title = variant ? `${product.name} (${variant.color})` : product.name;
+      const price = variant ? variant.price : product.price;
+      const image = variant ? variant.image : product.image;
+      const category = product.category;
+      const itemTotal = price * item.quantity;
+      subtotal += itemTotal;
+
+      const unitLabel = app.isSubscription(category) ? '/mo' : 'each';
+
+      return `
+        <div class="flex items-center justify-between py-6 border-b border-gray-200 gap-4">
+          <div class="flex items-center space-x-4">
+            <img src="${image}" alt="${title}" class="w-20 h-20 object-contain rounded-lg border border-gray-200 p-1 bg-white">
+            <div>
+              <h3 class="font-bold text-gray-900 text-base leading-snug max-w-sm">${title}</h3>
+              <p class="text-sm text-indigo-600 mt-0.5">${category} <span class="text-indigo-400 ml-1">${app.formatCurrency(price)} ${unitLabel}</span></p>
+            </div>
+          </div>
+
+          <div class="flex items-center space-x-6">
+            <div class="flex items-center space-x-3">
+              <button onclick="app.updateCartQuantity(${item.id}, ${item.quantity - 1})" class="w-7 h-7 rounded-full bg-red-100 text-red-600 hover:bg-red-200 font-bold flex items-center justify-center transition">-</button>
+              <span class="font-bold text-gray-800 text-sm">${item.quantity}</span>
+              <button onclick="app.updateCartQuantity(${item.id}, ${item.quantity + 1})" class="w-7 h-7 rounded-full bg-blue-100 text-blue-600 hover:bg-blue-200 font-bold flex items-center justify-center transition">+</button>
+            </div>
+            <p class="font-extrabold text-gray-900 text-base w-20 text-right">${app.formatCurrency(itemTotal)}</p>
+            <button onclick="app.removeFromCart(${item.id})" title="Remove Item" class="text-red-400 hover:text-red-600 text-lg transition">
+              <svg class="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M6 2a1 1 0 00-1 1v1H3a1 1 0 000 2h1v10a2 2 0 002 2h8a2 2 0 002-2V6h1a1 1 0 100-2h-2V3a1 1 0 00-1-1H6zm2 4a1 1 0 112 0v8a1 1 0 11-2 0V6zm4 0a1 1 0 112 0v8a1 1 0 11-2 0V6z"/></svg>
+            </button>
           </div>
         </div>
       `;
+    }).join('');
 
-    }
+    const taxRate = 0.08875; // NYC 8.875% tax rate
+    const tax = subtotal * taxRate;
+    const orderTotal = subtotal + tax;
 
-container.innerHTML = `
-  <div class="bg-white rounded-xl shadow-2xl p-6 md:p-10">
-    <div class="flex flex-col lg:flex-row gap-8">
-      <div class="lg:w-1/2 bg-gray-50 rounded-lg p-6 flex items-center justify-center">
-        <img 
-          id="product-image"
-          src="${selectedVariant.image}" 
-          onerror="this.onerror=null;this.src='https://placehold.co/600x450/E5E7EB/4B5563?text=NewRock+Product';" 
-          alt="${baseProduct.name}" 
-          class="w-full h-auto object-contain rounded-lg max-h-96">
-      </div>
+    container.innerHTML = `
+      <div class="flex flex-col lg:flex-row gap-8 items-start my-4">
+        <!-- Left Product Column with Inner Scrollbar -->
+        <div class="lg:w-2/3 w-full bg-white rounded-2xl p-6 shadow-sm border border-gray-100">
+          <h1 class="text-3xl font-extrabold text-gray-900 pb-4 border-b border-gray-100">Your Shopping Cart (${totalItemCount} Items)</h1>
+          
+          <div class="cart-items-scroll pr-2 mt-2">
+            ${cartItemsHtml}
+          </div>
 
-      <div class="lg:w-1/2">
-        <span class="text-sm font-semibold uppercase text-gray-500">${baseProduct.category}</span>
-        <h1 class="text-4xl font-extrabold text-gray-900 mt-2 mb-2">${baseProduct.name}</h1>
-        
-        <p id="product-price" class="text-3xl font-extrabold nrw-text-red mb-4">
-          ${app.formatCurrency(selectedVariant.price)}${['Phone Plans', 'Internet Services', 'WiFi Plans'].includes(baseProduct.category) ? '<span class="text-lg text-gray-500 font-normal">/month</span>' : ''}
-        </p>
-
-        ${swatchesHtml}
-
-        <div class="space-y-2">
-          <!-- Description with toggle functionality -->
-          <div class="relative">
-            <p id="product-description" class="text-gray-600 leading-relaxed" data-state="truncated">
-              ${baseProduct.description}
-              <br><br>The ${baseProduct.name}, like our other offerings comes with the consistent quality our customers have come to expect, another great product from 50stateswirelessusa.
-            </p>
-            
-            <!-- "More Details" Button -->
-            <button 
-              id="toggle-description" 
-              onclick="app.toggleDescription()"
-              class="ml-auto text-sm font-medium text-nrw-red hover:text-red-700 focus:outline-none">
-              More Details
+          <div class="mt-8">
+            <button onclick="app.setView('home')" class="inline-flex items-center px-6 py-3 bg-blue-700 hover:bg-blue-800 text-white font-medium rounded-lg transition shadow-md">
+              ← Continue Shopping
             </button>
           </div>
         </div>
 
-        <div class="mt-8 flex items-center space-x-4">
-          <button id="add-to-cart-btn" onclick="app.addToCart(${selectedVariant.id})" class="nrw-btn-blue text-white px-8 py-3 text-lg font-semibold rounded-xl shadow-md hover:shadow-lg transition duration-150 flex items-center">
-            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l-1 12H6L5 9z"></path></svg>
-            Add to Cart
-          </button>
-          <button onclick="app.setView('home')" class="px-6 py-3 border border-gray-300 text-gray-700 text-lg font-semibold rounded-xl hover:bg-gray-100 transition duration-150">
-            Back to Shopping
-          </button>
-        </div>
-      </div>
-    </div>
-  </div>
-`;
-  },
+        <!-- Sticky Right Column: Order Summary Sidebar -->
+        <div class="lg:w-1/3 w-full lg:sticky lg:top-24">
+          <div class="bg-gray-50 border-t-4 border-red-500 rounded-2xl p-6 shadow-lg">
+            <h2 class="text-2xl font-bold text-gray-900 mb-6">Order Summary</h2>
 
-  // Helper to apply sticky behavior to cart summary column
-  applyCartSticky: function() {
-    if (this.view !== 'cart') return;
-    const summaryColumn = document.querySelector('.cart-summary-column');
-    if (!summaryColumn) return;
-    
-    // Get header height to position sticky element right below it
-    const header = document.querySelector('header');
-    let headerHeight = 0;
-    if (header) {
-      const headerStyles = window.getComputedStyle(header);
-      headerHeight = header.offsetHeight;
-      // Account for any sticky header's potential margin/padding
-      if (headerStyles.position === 'sticky' || headerStyles.position === 'fixed') {
-        // Already sticky, use its offset height
-      }
-    }
-    // Fallback to a safe default (approx header height)
-    const topOffset = headerHeight > 0 ? headerHeight : 80;
-    
-    // Apply sticky positioning
-    summaryColumn.style.position = 'sticky';
-    summaryColumn.style.top = topOffset + 'px';
-    summaryColumn.style.zIndex = '20';
-    summaryColumn.style.alignSelf = 'start';
-    // Add a subtle background to avoid text bleed (already has bg-gray-50)
-    // Ensure it doesn't overflow or cause layout shifts
-    summaryColumn.style.maxHeight = `calc(100vh - ${topOffset + 16}px)`;
-    summaryColumn.style.overflowY = 'auto';
-  },
-
-  renderCart: () => {
-  const container = document.getElementById('app-container');
-  
-  if (app.cart.length === 0) {
-
-    container.innerHTML = `
-
-      <div class="max-w-3xl mx-auto bg-white p-8 rounded-xl shadow-2xl text-center">
-        <h1 class="text-4xl font-bold nrw-text-red mb-4">Your Shopping Cart</h1>
-        <div class="text-gray-500 mb-8">
-          <svg class="w-16 h-16 mx-auto text-gray-300 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z"></path>
-          </svg>
-          <p class="text-xl font-semibold">Your cart is currently empty.</p>
-          <p class="text-md">Time to grab some cutting-edge electronics!</p>
-        </div>
-        <button onclick="app.setView('home')" class="nrw-btn-blue text-white px-6 py-3 rounded-lg font-semibold shadow-md hover:shadow-xl transition duration-150">
-          Continue Shopping
-        </button>
-      </div>
-    `;
-    return;
-  }
-
-  // Helper: Find product info by ID (supports variants)
-  function findProductById(productId) {
-    for (const product of app.rawProducts) {
-      if (product.id === productId) {
-        // Base product (no variants)
-        return {
-          id: product.id,
-          name: product.name,
-          category: product.category,
-          price: product.price,
-          image: product.image
-        };
-      }
-      if (product.variants && Array.isArray(product.variants)) {
-        const variant = product.variants.find(v => v.id === productId);
-        if (variant) {
-          // Found a variant → build full name
-          return {
-            id: variant.id,
-            name: `${product.name} (${variant.color})`,
-            category: product.category,        // ← inherited!
-            price: variant.price,
-            image: variant.image
-          };
-        }
-      }
-    }
-    return null; // not found
-  }
-
-  // Calculate totals
-  const subtotal = app.cart.reduce((sum, item) => {
-    const product = findProductById(item.id);
-    return sum + (product ? product.price * item.quantity : 0);
-  }, 0);
-  const taxRate = 0.08875;
-  const tax = subtotal * taxRate;
-  const total = subtotal + tax;
-
-  // Render cart items
-let cartItemsHtml = app.cart.map(item => {
-  const product = findProductById(item.id);
-  if (!product) return ''; // Skip if product not found
-  const itemTotal = product.price * item.quantity;
-
-  // 1. Determine if it's a subscription product
-  const isSubscription = ['Phone Plans', 'WiFi Plans', 'Internet Services'].includes(product.category);
-  
-  // 2. Build the formatted unit price with the correct suffix
-  const formattedUnitPrice = `${app.formatCurrency(product.price)}${isSubscription ? '/mo' : ' each'}`;
-
-  return `
-    <div class="flex items-center py-4 border-b border-gray-200 last:border-b-0">
-      <div class="flex-shrink-0 w-16 h-16 mr-4">
-        <img
-          src="${product.image}"
-          onerror="this.onerror=null;this.src='https://placehold.co/64x64/E5E7EB/4B5563?text=Product';"
-          class="w-full h-full object-cover rounded-lg"
-          alt="${product.name}">
-      </div>
-      <div class="flex-grow">
-        <h3 class="text-lg font-semibold text-gray-900">${product.name}</h3>
-        <!-- 3. Updated to flex layout for inline category + price -->
-        <div class="flex flex-wrap items-baseline gap-x-3 gap-y-1 text-sm">
-          <span class="text-gray-500">${product.category}</span>
-          <span class="font-mono text-indigo-600 font-medium">${formattedUnitPrice}</span>
-        </div>
-      </div>
-      <div class="flex items-center space-x-2 mx-4">
-        <button
-          onclick="app.updateCartQuantity(${item.id}, -1)"
-          class="w-8 h-8 rounded-full bg-red-100 hover:bg-red-200 text-gray-700 transition duration-150">
-          <span class="text-lg font-bold">-</span>
-        </button>
-        <span class="text-lg font-medium w-6 text-center">${item.quantity}</span>
-        <button
-          onclick="app.updateCartQuantity(${item.id}, 1)"
-          class="w-8 h-8 rounded-full bg-blue-100 hover:bg-blue-200 text-gray-700 transition duration-150">
-          <span class="text-lg font-bold">+</span>
-        </button>
-      </div>
-      <div class="text-right ml-4 w-28">
-        <p class="text-lg font-bold text-gray-900">${app.formatCurrency(itemTotal)}</p>
-      </div>
-      <button
-        onclick="app.deleteFromCart(${item.id})"
-        class="ml-4 text-red-500 hover:text-red-700 p-1 rounded-full hover:bg-red-100 transition duration-150">
-        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path>
-        </svg>
-      </button>
-    </div>
-  `;
-}).join('');
-
-  container.innerHTML = `
-    <div class="flex flex-col lg:flex-row gap-8">
-      <div class="lg:w-2/3 bg-white p-6 rounded-xl shadow-2xl">
-        <h1 class="text-3xl font-bold text-gray-800 mb-6 border-b pb-4">Your Shopping Cart (${app.cart.length} Items)</h1>
-        <div class="divide-y divide-gray-100">
-          ${cartItemsHtml}
-        </div>
-        <button onclick="app.setView('home')" class="mt-6 nrw-btn-blue text-white px-5 py-2 rounded-lg font-medium shadow-md hover:shadow-xl transition duration-150">
-          &larr; Continue Shopping
-        </button>
-      </div>
-
-      <div class="lg:w-1/3 cart-summary-column">
-        <div class="bg-gray-50 p-6 rounded-xl shadow-2xl border-t-4 border-red-500">
-          <h2 class="text-2xl font-bold text-gray-800 mb-4">Order Summary</h2>
-          <div class="space-y-3">
-            <div class="flex justify-between text-gray-700">
-              <span>Subtotal:</span>
-              <span class="font-medium">${app.formatCurrency(subtotal)}</span>
+            <div class="space-y-3 border-b border-gray-200 pb-4 text-gray-700 font-medium">
+              <div class="flex justify-between">
+                <span>Subtotal:</span>
+                <span class="font-semibold text-gray-900">${app.formatCurrency(subtotal)}</span>
+              </div>
+              <div class="flex justify-between">
+                <span>Tax (8.875%):</span>
+                <span class="font-semibold text-gray-900">${app.formatCurrency(tax)}</span>
+              </div>
             </div>
-            <div class="flex justify-between text-gray-700">
-              <span>Tax (8.875%):</span>
-              <span class="font-medium">${app.formatCurrency(tax)}</span>
-            </div>
+
             <div class="flex justify-between pt-4 border-t border-gray-300">
               <span class="text-xl font-extrabold nrw-text-red">Order Total:</span>
-              <span class="text-xl font-extrabold nrw-text-red">${app.formatCurrency(total)}</span>
+              <span class="text-xl font-extrabold nrw-text-red">${app.formatCurrency(orderTotal)}</span>
             </div>
 
 <div id="paypal-paylater-message" class="paypal-messaging"></div>
@@ -699,7 +690,7 @@ let cartItemsHtml = app.cart.map(item => {
     data-pp-style-layout="text"
     data-pp-style-logo-type="inline"
     data-pp-style-text-color="black"
-    data-pp-amount="${total.toFixed(2)}"
+    data-pp-amount="${orderTotal.toFixed(2)}"
     data-pp-language="">
 </div>
 
@@ -707,287 +698,127 @@ let cartItemsHtml = app.cart.map(item => {
         <div class="mt-111 p-111 nrw-bg-white rounded-xl shadow-xl text-center text-green">
           <p class="text-lg font-light">Secure Checkout With PayPal, Debit Or Credit Card</p>
         </div>
+            <!-- Automatically Populated PayPal SDK Containers -->
+            <div id="paypal-pay-in-4-container" class="mb-4"></div>
+            <div id="paypal-button-container" class="space-y-3"></div>
 
-<div class="mt-4 space-y-4">
-  <div id="paypal-button-container"></div>
-  <div id="venmo-button-container"></div> <!-- New Venmo Container -->
-  <div id="applepay-container"></div>      <!-- New Apple Pay Container -->
-</div>
-
-        </div>
-        <div class="mt-8 p-4 nrw-bg-white rounded-xl shadow-xl text-center text-green">
-          <p class="text-lg font-light">Free Shipping Nationwide And</p>
-          <p class="text-sm font-light">International Shipping Is Available Rates Starting At $85 USD</p>
+            <!-- Free Shipping Notice Badge (Positioned directly under PayPal container) -->
+            <div class="mt-4 w-full bg-emerald-50 border border-emerald-200 text-emerald-800 rounded-xl p-3 text-center text-xs font-semibold flex items-center justify-center gap-2">
+              <span>🚚</span> Free Shipping Nationwide - International Shipping Available 
+Rates Starting At $85 USD
+            </div>
+          </div>
         </div>
       </div>
-    </div>
-  `;
+    `;
 
-  // Apply sticky positioning to the cart summary column
-  app.applyCartSticky();
+    app.renderPayPalSDK(orderTotal);
+  },
 
-  // --- PAYPAL & VENMO INITIALIZATION CODE ---
-  if (typeof paypal !== 'undefined') {
-    const paypalContainer = document.getElementById('paypal-button-container');
-    const venmoContainer = document.getElementById('venmo-button-container');
-    
-    // Only run if at least one container exists
-    if (paypalContainer || venmoContainer) {
-      
-      // 1. Calculate totals (Shared by both buttons)
-      const subtotalRefresh = app.cart.reduce((sum, item) => {
-          const product = findProductById(item.id);
-          return sum + (product ? product.price * item.quantity : 0);
-      }, 0);
-      const taxRefresh = subtotalRefresh * 0.08875;
-      const totalRefresh = subtotalRefresh + taxRefresh;
-      
-      const items = app.cart.map(item => {
-          const product = findProductById(item.id);
-          if (!product) return null;
-          return {
-            name: product.name,
-            unit_amount: { currency_code: 'USD', value: product.price.toFixed(2) },
-            quantity: item.quantity,
-            category: product.category === 'Digital' ? 'DIGITAL_GOODS' : 'PHYSICAL_GOODS'
-          };
-      }).filter(item => item !== null);
-
-      // 2. Shared Order Creation Function
-      const createOrderFunction = function(data, actions) {
-        return actions.order.create({
-          intent: 'CAPTURE',
-          purchase_units: [{
-            description: "NewRock Wireless Order",
-            amount: {
-              currency_code: 'USD',
-              value: totalRefresh.toFixed(2),
-              breakdown: {
-                item_total: { currency_code: 'USD', value: subtotalRefresh.toFixed(2) },
-                tax_total: { currency_code: 'USD', value: taxRefresh.toFixed(2) }
-              }
-            },
-            items: items
-          }]
-        });
-      };
-
-      // 3. Shared Approval Function
-      const onApproveFunction = function(data, actions) {
-        return actions.order.capture().then(function(details) {
-          app.cart = [];
-          app.updateCartCount();
-          app.setView('home');
-          alert('Thank you for your purchase, ' + details.payer.name.given_name + '!');
-        });
-      };
-
-      // 4. Render Standard PayPal Button
-      if (paypalContainer) {
-        paypal.Buttons({
-          style: { layout: 'vertical', color: 'blue', shape: 'rect', label: 'paypal', tagline: false },
-          createOrder: createOrderFunction,
-          onApprove: onApproveFunction,
-          onCancel: function(data) { console.log('PayPal payment cancelled'); },
-          onError: function(err) { console.error('PayPal error:', err); alert('An error occurred during PayPal processing.'); }
+  renderPayPalSDK: function(orderTotal) {
+    setTimeout(() => {
+      if (window.paypal && window.paypal.Buttons) {
+        document.getElementById('paypal-button-container').innerHTML = '';
+        window.paypal.Buttons({
+          createOrder: (data, actions) => {
+            return actions.order.create({
+              purchase_units: [{
+                amount: {
+                  value: orderTotal.toFixed(2)
+                }
+              }]
+            });
+          },
+          onApprove: (data, actions) => {
+            return actions.order.capture().then(details => {
+              alert('Transaction completed by ' + details.payer.name.given_name);
+              // Clear cart after successful checkout
+              app.cart = [];
+              app.saveCartToStorage();
+              app.setView('home');
+            });
+          }
         }).render('#paypal-button-container');
+      } else if (window.PayPalSDK && window.PayPalSDK.Messages) {
+        document.getElementById('paypal-pay-in-4-container').innerHTML = '';
+        window.PayPalSDK.Messages({
+          amount: orderTotal.toFixed(2),
+          placement: 'payment'
+        }).render('#paypal-pay-in-4-container');
       }
-
-      // 5. Render Venmo Button
-      if (venmoContainer && paypal.FUNDING) {
-        paypal.Buttons({
-          fundingSource: paypal.FUNDING.VENMO,
-          style: { layout: 'vertical', color: 'blue', shape: 'rect', label: 'venmo', height: 45 },
-          createOrder: createOrderFunction,
-          onApprove: onApproveFunction,
-          onCancel: function(data) { console.log('Venmo payment cancelled'); },
-          onError: function(err) { console.error('Venmo error:', err); }
-        }).render('#venmo-button-container');
-      }
-      
-    }
-  }
-},
-
-  // --- Variant Handling ---
-  selectVariant: (variantId) => {
-    app.selectedVariantId = variantId;
-    app.updateVariantUI();
+    }, 100);
   },
 
   selectProductVariant: (productId, variantId, color, image, price) => {
-    // Store the selected variant for this specific product
     if (!app.selectedBrowseVariants) app.selectedBrowseVariants = {};
     app.selectedBrowseVariants[productId] = variantId;
-    
-    // Set the global selected variant ID for Add to Cart functionality
-    app.selectedVariantId = variantId;
-    
+
     const productImg = document.getElementById(`product-img-${productId}`);
-    const productCard = productImg?.closest('.bg-white');
-    if (productCard) {
-      const priceElement = productCard.querySelector('.nrw-text-red');
-      if (priceElement && !priceElement.textContent.includes('–')) {
-        // Only update if it's not already showing a range
-        priceElement.innerHTML = app.formatCurrency(price) + 
-          (['Phone Plans', 'Internet Services', 'WiFi Plans'].includes(
-            app.rawProducts.find(p => p.id === productId)?.category
-          ) ? '<span class="text-sm text-gray-500 font-normal">/mo</span>' : '');
-      }
-      productImg.src = image;
-    }
-  },
+    if (productImg) productImg.src = image;
 
-  updateVariantUI: () => {
-    const baseProduct = app.rawProducts.find(p => p.id === app.currentProductId);
-    if (!baseProduct || !baseProduct.variants) return;
-    const variant = baseProduct.variants.find(v => v.id === app.selectedVariantId) || baseProduct.variants[0];
-    
-    const img = document.querySelector('#product-image');
-    if (img) img.src = variant.image;
-
-    const priceEl = document.querySelector('#product-price');
+    const priceEl = document.getElementById(`product-price-${productId}`);
     if (priceEl) {
-      priceEl.innerHTML = `${app.formatCurrency(variant.price)}${baseProduct.category === 'Phone Plans' ? '<span class="text-lg text-gray-500 font-normal">/month</span>' : ''}`;
+      priceEl.innerHTML = `${app.formatCurrency(price)}`;
     }
-
-    const addToCartBtn = document.querySelector('#add-to-cart-btn');
-    if (addToCartBtn) {
-      addToCartBtn.onclick = () => app.addToCart(variant.id);
-    }
-
-    document.querySelectorAll('.variant-swatch').forEach(btn => {
-      const vid = parseInt(btn.dataset.variantId);
-      btn.classList.toggle('border-gray-800', vid === variant.id);
-      btn.classList.toggle('border-transparent', vid !== variant.id);
-    });
+    app.renderHome();
   },
 
-  // --- Cart Functions ---
-addToCart: (productId) => {
-  const existingItem = app.cart.find(item => item.id === productId);
-  if (existingItem) {
-    existingItem.quantity += 1;
-  } else {
-    app.cart.push({ id: productId, quantity: 1 });
-  }
-  const name = app.getProductDisplayName(productId);
-  app.showTemporaryMessage(`Added 1x ${name} to cart!`);
-  app.updateCartCount();
-  
-  // UPDATED: Navigate to cart page immediately after adding
-  app.setView('cart');
-},
-
-addToCartFromBrowse: (productId) => {
-  // Find the base product
-  const baseProduct = app.rawProducts.find(p => p.id === productId);
-  if (!baseProduct) {
-    // Fallback if no base product found (single item)
-    const existingItem = app.cart.find(item => item.id === productId);
-    if (existingItem) {
-      existingItem.quantity += 1;
-    } else {
-      app.cart.push({ id: productId, quantity: 1 });
+  updateCartQuantity: (variantOrProductId, newQuantity) => {
+    if (newQuantity <= 0) {
+      app.removeFromCart(variantOrProductId);
+      return;
     }
-    app.showTemporaryMessage('Item added to cart!');
-    app.updateCartCount();
-    app.setView('cart'); // UPDATED: Navigate to cart
-    return;
-  }
-
-  let variantToAdd;
-  if (baseProduct.variants && baseProduct.variants.length > 0) {
-    // Product has variants - get the currently selected one or default to first
-    const selectedVariantId = app.selectedBrowseVariants?.[productId];
-    if (selectedVariantId) {
-      variantToAdd = baseProduct.variants.find(v => v.id === selectedVariantId);
-    }
+    const item = app.cart.find(i => i.id === variantOrProductId);
+    if (item) item.quantity = newQuantity;
     
-    // If no variant selected or selected variant not found, use first variant
-    if (!variantToAdd) {
-      variantToAdd = baseProduct.variants[0];
-    }
-  } else {
-    // No variants, use the base product
-    variantToAdd = { id: baseProduct.id, price: baseProduct.price };
-  }
-
-  // Add the selected variant to cart
-  const existingItem = app.cart.find(item => item.id === variantToAdd.id);
-  if (existingItem) {
-    existingItem.quantity += 1;
-  } else {
-    app.cart.push({ id: variantToAdd.id, quantity: 1 });
-  }
-  
-  const name = app.getProductDisplayName(variantToAdd.id);
-  app.showTemporaryMessage(`Added 1x ${name} to cart!`);
-  app.updateCartCount();
-  
-  // UPDATED: Navigate to cart page immediately
-  app.setView('cart');
-},
-
-
-  updateCartQuantity: (productId, delta) => {
-    const itemIndex = app.cart.findIndex(item => item.id === productId);
-    if (itemIndex > -1) {
-      const newQuantity = app.cart[itemIndex].quantity + delta;
-      if (newQuantity > 0) {
-        app.cart[itemIndex].quantity = newQuantity;
-      } else {
-        app.deleteFromCart(productId);
-      }
-    }
+    // Save to storage after update
+    app.saveCartToStorage();
+    
     app.updateCartCount();
-    app.render();
+    app.renderCart();
   },
 
-deleteFromCart: (productId) => {
-  const name = app.getProductDisplayName(productId); // ✅
-  app.cart = app.cart.filter(item => item.id !== productId);
-  app.showTemporaryMessage(`${name} removed from cart.`, 'bg-red-500');
-  app.updateCartCount();
-  app.render();
-},
+  removeFromCart: (variantOrProductId) => {
+    app.cart = app.cart.filter(i => i.id !== variantOrProductId);
+    
+    // Save to storage after removal
+    app.saveCartToStorage();
+    
+    app.updateCartCount();
+    app.renderCart();
+  },
+
+  addToCart: (productId) => {
+    const existingItem = app.cart.find(item => item.id === productId);
+    if (existingItem) existingItem.quantity += 1;
+    else app.cart.push({ id: productId, quantity: 1 });
+    
+    // Save to storage after adding
+    app.saveCartToStorage();
+    
+    app.updateCartCount();
+    app.setView('cart');
+  },
+
+  addToCartFromBrowse: (productId) => {
+    const baseProduct = app.rawProducts.find(p => p.id === productId);
+    let variantId = productId;
+    if (baseProduct && baseProduct.variants && baseProduct.variants.length > 0) {
+      variantId = app.selectedBrowseVariants?.[productId] || baseProduct.variants[0].id;
+    }
+    app.addToCart(variantId);
+  },
 
   updateCartCount: () => {
     const count = app.cart.reduce((sum, item) => sum + item.quantity, 0);
-    document.getElementById('cartCount').textContent = count;
+    const cartEl = document.getElementById('cartCount');
+    if (cartEl) cartEl.textContent = count;
   },
 
-  // --- Fixed Toast Message ---
-  showTemporaryMessage: (message, bgColor = 'bg-green-500') => {
-    const existing = document.getElementById('toast-message');
-    if (existing) existing.remove();
-
-    const msgEl = document.createElement('div');
-    msgEl.id = 'toast-message';
-    msgEl.className = `fixed bottom-5 left-1/2 transform -translate-x-1/2 p-4 rounded-lg text-white shadow-xl z-[100] ${bgColor}`;
-    msgEl.textContent = message;
-    document.body.appendChild(msgEl);
-
-    setTimeout(() => {
-      msgEl.classList.add('transition-opacity', 'duration-300', 'opacity-0');
-      setTimeout(() => {
-        if (msgEl.parentNode) msgEl.parentNode.removeChild(msgEl);
-      }, 300);
-    }, 2700);
-  },
-
-  // --- Navigation ---
   setView: (newView, param = null) => {
     app.view = newView;
     app.currentProductId = null;
     app.filterCategory = null;
-    app.selectedVariantId = null;
-    app.selectedBrowseVariants = {}; // Clear selected variants when changing views
-
-    // Stop auto-hover cycle when leaving home view
-    if (typeof stopAutoHoverCycle === 'function') {
-      stopAutoHoverCycle();
-    }
 
     if (newView === 'details' && typeof param === 'number') {
       app.currentProductId = param;
@@ -995,298 +826,20 @@ deleteFromCart: (productId) => {
       app.filterCategory = param;
     }
 
-    // UPDATED: Force scroll to top for Cart and Details views to prevent bottom-scrolling
-    if (newView === 'cart' || newView === 'details') {
-      window.scrollTo(0, 0);
-    }
-
     app.render();
+    app.scrollToCategoryHeading();
   },
-
 
   render: () => {
     app.updateCartCount();
     if (app.view === 'home') app.renderHome();
     else if (app.view === 'cart') app.renderCart();
     else if (app.view === 'details') app.renderDetails();
-
-    // Smart scroll: for category filter, scroll heading below header; otherwise top
-    requestAnimationFrame(() => {
-      requestAnimationFrame(() => {
-        if (app.view === 'home' && app.filterCategory) {
-          app.scrollToCategoryHeading();
-        } else if (app.view === 'details') {
-          window.scrollTo({ top: 0, behavior: 'smooth' });
-        } else {
-          window.scrollTo({ top: 0, behavior: 'smooth' });
-        }
-      });
-    });
   }
 };
 
-// ========== AUTO-HOVER SYSTEM FOR CTA BUTTONS ==========
-let autoHoverTimer = null;
-let autoHoverCurrentIndex = 0;
-let autoHoverPaused = false;
-let autoHoverResumeTimeout = null;
-let autoHoverStepTimeout = null;
-
-function stopAutoHoverCycle() {
-  // Clear main sequence timeout
-  if (autoHoverStepTimeout) {
-    clearTimeout(autoHoverStepTimeout);
-    autoHoverStepTimeout = null;
-  }
-  // Remove any active hover effects
-  const buttons = document.querySelectorAll('.cta-button');
-  buttons.forEach(btn => {
-    removeAutoHoverEffect(btn);
-  });
-  autoHoverCurrentIndex = 0;
-  autoHoverPaused = false;
-  if (autoHoverResumeTimeout) {
-    clearTimeout(autoHoverResumeTimeout);
-    autoHoverResumeTimeout = null;
-  }
-}
-
-function removeAutoHoverEffect(button) {
-  if (!button) return;
-  // Restore original background color from data attribute
-  const originalBg = button.getAttribute('data-bg-color');
-  if (originalBg) {
-    button.style.backgroundColor = originalBg;
-  }
-  button.classList.remove('auto-hover-effect');
-}
-
-function applyAutoHoverEffect(button) {
-  if (!button) return;
-  const hoverColor = button.getAttribute('data-hover-color');
-  if (hoverColor) {
-    button.style.backgroundColor = hoverColor;
-  }
-  button.classList.add('auto-hover-effect');
-}
-
-function attachManualHoverPause() {
-  const buttons = document.querySelectorAll('.cta-button');
-  buttons.forEach(btn => {
-    // Remove existing listeners to avoid duplicates
-    btn.removeEventListener('mouseenter', handleManualHoverStart);
-    btn.removeEventListener('mouseleave', handleManualHoverEnd);
-    btn.addEventListener('mouseenter', handleManualHoverStart);
-    btn.addEventListener('mouseleave', handleManualHoverEnd);
-  });
-}
-
-function handleManualHoverStart() {
-  if (autoHoverPaused) return;
-  // Pause the auto-hover cycle
-  autoHoverPaused = true;
-  if (autoHoverStepTimeout) {
-    clearTimeout(autoHoverStepTimeout);
-    autoHoverStepTimeout = null;
-  }
-  // Remove any current auto-hover effect
-  const buttons = document.querySelectorAll('.cta-button');
-  buttons.forEach(btn => {
-    if (btn.classList.contains('auto-hover-effect')) {
-      removeAutoHoverEffect(btn);
-    }
-  });
-}
-
-function handleManualHoverEnd() {
-  if (!autoHoverPaused) return;
-  // Set a timeout to resume auto-hover after 3 seconds of no hovering
-  if (autoHoverResumeTimeout) {
-    clearTimeout(autoHoverResumeTimeout);
-  }
-  autoHoverResumeTimeout = setTimeout(() => {
-    autoHoverPaused = false;
-    autoHoverResumeTimeout = null;
-    // Restart the sequence from the current index (or from beginning if index out of range)
-    const buttons = document.querySelectorAll('.cta-button');
-    if (buttons.length === 0) return;
-    if (autoHoverCurrentIndex >= buttons.length) {
-      autoHoverCurrentIndex = 0;
-    }
-    //  scheduleNextAutoHover();  // *****START / STOP CTA AUTO HOVER (line 1063 and 1082)*****
-  }, 300);
-}
-
-function scheduleNextAutoHover() {
-  if (autoHoverStepTimeout) {
-    clearTimeout(autoHoverStepTimeout);
-    autoHoverStepTimeout = null;
-  }
-  const buttons = document.querySelectorAll('.cta-button');
-  if (buttons.length === 0) return;
-  if (autoHoverPaused) return;
-  
-  // Remove effect from all buttons
-  buttons.forEach(btn => removeAutoHoverEffect(btn));
-  
-  // Apply effect to current button
-  const currentButton = buttons[autoHoverCurrentIndex];
-  if (currentButton) {
-    //  applyAutoHoverEffect(currentButton);  // *****START / STOP CTA AUTO HOVER (line 1063 and 1082)*****
-  }
-  
-  // Schedule removal and next button
-  autoHoverStepTimeout = setTimeout(() => {
-    if (autoHoverPaused) return;
-    // Remove effect from current
-    if (currentButton) removeAutoHoverEffect(currentButton);
-    // Move to next index
-    autoHoverCurrentIndex = (autoHoverCurrentIndex + 1) % buttons.length;
-    // Schedule next hover after a short pause (200ms for smooth transition)
-    autoHoverStepTimeout = setTimeout(() => {
-      if (!autoHoverPaused) {
-        scheduleNextAutoHover();
-      }
-    }, 100);
-  }, 200); // Each hover lasts 500ms
-}
-
-function startAutoHoverCycle() {
-  // Stop any existing cycle first
-  stopAutoHoverCycle();
-  
-  const buttons = document.querySelectorAll('.cta-button');
-  if (buttons.length === 0) return;
-  
-  // Reset index
-  autoHoverCurrentIndex = 0;
-  autoHoverPaused = false;
-  if (autoHoverResumeTimeout) {
-    clearTimeout(autoHoverResumeTimeout);
-    autoHoverResumeTimeout = null;
-  }
-  
-  // Attach manual hover listeners to pause functionality
-  attachManualHoverPause();
-  
-  // Start sequence
-  scheduleNextAutoHover();
-}
-
-  // Expose functions globally so they can be called from app.renderHome
-window.startAutoHoverCycle = startAutoHoverCycle;
-window.stopAutoHoverCycle = stopAutoHoverCycle;
-
-// Watch for window resize to reapply sticky positioning when cart is visible
-window.addEventListener('resize', function() {
-  if (app.view === 'cart') {
-    app.applyCartSticky();
-  }
-});
-
-  // Initial call after page load
-window.onload = () => {
-  app.render();
-  // Auto-hover will be triggered inside renderHome, but also try here in case already on home
-  if (app.view === 'home') {
-    startAutoHoverCycle();
-  }
-};
-
-// Also run when the DOM might be updated via other means (just safety)
-document.addEventListener('DOMContentLoaded', () => {
-  if (app.view === 'home') {
-    startAutoHoverCycle();
-  }
-});
-// ========== END AUTO-HOVER SYSTEM ==========
-
+window.onload = () => app.init();
 </script>
-<script>
-  // Dynamically update the price based on your cart total
-  // Adjust this selector to match your site's cart total element
-  function updatePayPalMessage() {
-    const cartTotal = document.querySelector('.cart-total-price'); // Replace with your actual price selector
-    if (cartTotal) {
-      const amount = parseFloat(cartTotal.textContent.replace(/[^0-9.]/g, ''));
-      const messageDiv = document.getElementById('paypal-messaging-container');
-      if (messageDiv && !isNaN(amount) && amount > 0) {
-        messageDiv.setAttribute('data-pp-amount', amount.toFixed(2));
-      }
-    }
-  }
 
-  // Run on load and listen for cart updates
-  document.addEventListener('DOMContentLoaded', updatePayPalMessage);
-  // If your cart updates via AJAX/JS without reload, call updatePayPalMessage() after price changes
-</script>
-<!-- Policy Modal / Inline Pages -->
-<div id="policy-overlay" class="fixed top-[70px] left-0 right-0 bottom-0 bg-white p-6 overflow-y-auto hidden z-50">
-  <button id="close-policy" class="text-blue-600 mb-4 font-medium">&larr; Back to Site</button>
-  <div id="policy-content"></div>
-    <!-- Content will be inserted here by JS -->
-  </div>
-</div>
-<!-- Embedded Policy Content (not visible until shown) -->
-<template id="privacy-policy-content">
-  <h1 class="text-2xl font-bold mb-4">Privacy Policy</h1>
-  <p>Last updated: October 2025</p>
-  <p>At NewRock Wireless, we respect your privacy. This Privacy Policy explains how we collect, use, and protect your information when you visit our website or make a purchase...</p>
-  <!-- Add your full policy here as HTML -->
-</template>
-
-<template id="terms-of-service-content">
-  <h1 class="text-2xl font-bold mb-4">Terms of Service</h1>
-  <p>By accessing or using NewRock Wireless, you agree to be bound by the following terms...</p>
-  <!-- Add your full ToS here -->
-</template>
-
-<template id="contact-us-content">
-  <h1 class="text-2xl font-bold mb-4">Contact Us</h1>
-  <p>Have questions? We're here to help!</p>
-  <ul class="list-disc pl-5 space-y-1">
-    <li><strong>Email</strong>: support@newrockwireless.com</li>
-    <li><strong>Phone</strong>: (555) 123-4567</li>
-    <li><strong>Hours</strong>: Mon–Fri, 9 AM – 6 PM EST</li>
-  </ul>
-  <p class="mt-4 italic">[You can also add a contact form later using Netlify Forms or a third-party service.]</p>
-</template>
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const overlay = document.getElementById('policy-overlay');
-    const content = document.getElementById('policy-content');
-    const closeBtn = document.getElementById('close-policy');
-    const links = document.querySelectorAll('[data-policy]');
-
-    links.forEach(link => {
-      link.addEventListener('click', function (e) {
-        e.preventDefault();
-        const policyId = this.getAttribute('data-policy');
-        const template = document.getElementById(policyId + '-content');
-        if (template) {
-          content.innerHTML = template.innerHTML;
-          overlay.classList.remove('hidden');
-          window.scrollTo(0, 0);
-        }
-      });
-    });
-
-    closeBtn.addEventListener('click', function () {
-      overlay.classList.add('hidden');
-    });
-  });
-</script>
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const overlay = document.getElementById('policy-overlay');
-    if (overlay) {
-      document.querySelector('header').addEventListener('click', function (e) {
-        if (e.target.tagName === 'BUTTON') {
-          overlay.classList.add('hidden');
-        }
-      });
-    }
-  });
-</script>
 </body>
 </html>

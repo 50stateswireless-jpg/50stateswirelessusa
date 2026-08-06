@@ -32,7 +32,7 @@ products:
 
       Based on official data from Samsung and technical listings from GSMArena, the A9
 
-      's core specs include:
+       core specs include
 
           Display: 8.7-inch TFT LCD with 800 x 1340 (WXGA+) resolution and a standard 60Hz refresh rate.
           Processor: MediaTek Helio G99 octa-core chipset (2.2GHz performance cores).
@@ -614,7 +614,7 @@ products:
       - id: 50820
         color: Gray
         price: 499.95
-        image: images/apple4ipad.webp
+        image: images/ipad9-gray.png
   - id: 26
     name: Logic Z1L Flip Phone , 4G , Dual Sim , Unlocked , New , Sealed
     category: Phones
@@ -26719,5 +26719,5 @@ products:
         image: images/Apple-iPad-A16-11th-Gen-Silver.jpg
       - id: 501589
         color: Blue
-        price: 599.95
+        price: 59
         image: images/Apple-iPad-A16-11th-Gen-Blue.jpg
